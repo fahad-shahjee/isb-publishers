@@ -46,7 +46,7 @@
                     <div class="col-xl-2 col-4">
                         <div class="logo">
                             <a class="logo-1" href="index.html"><img data-width="96" src="assets/img/logo/logo-white.png" alt="Logo"></a>
-                            <a class="logo-2 d-none" href="index.html"><img data-width="96" src="assets/img/logo/logo-grey-2.png" alt="Logo"></a>
+                            <a class="logo-2 d-none" href="index.html"><img data-width="96" src="assets/img/logo/logo-black.png" alt="Logo"></a>
                         </div>
                     </div>
                     <div class="col-xl-7 d-none d-xl-block">
