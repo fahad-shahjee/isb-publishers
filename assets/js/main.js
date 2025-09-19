@@ -618,16 +618,15 @@
 	=============================================*/
 	var td_contact_text_slide = new Swiper(".td-contact-7-slide-active", {
 		loop: true,
-		freemode: true,
+		loopAdditionalSlides: 10,
 		slidesPerView: 'auto',
-		slidesPerView: 1,
 		spaceBetween: 140,
-		centeredSlides: true,
+		centeredSlides: false,
 		allowTouchMove: false,
 		speed: 10000,
 		autoplay: {
-		  delay: 1,
-		  disableOnInteraction: true,
+		  delay: 0,
+		  disableOnInteraction: false,
 		},
 	});
 

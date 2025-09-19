@@ -6,38 +6,43 @@
                         <div class="col-lg-3 col-md-6 col-sm-6">
                             <div class="td-footer-logo mb-30">
                                 <a href="index.html">
-                                    <img src="assets/img/logo/logo-white.png" alt="">
+                                    <img src="assets/img/logo/logo-white.png" alt="" style="width:50%; height:auto;">
                                 </a>
+                                <div style="width:90%; margin-top:12px; color:#ffffff; opacity:0.9; line-height:1.5;">
+                                    <div>Empowering authors with world-class publishing services.</div>
+                                </div>
                             </div>
                         </div>
                         <div class="col-lg-2 col-md-6 col-sm-6">
                             <div class="td-footer-widget mb-30">
                                 <h3 class="td-footer-title mb-30">Quick Link</h3>
                                 <ul class="td-footer-widget-list">
-                                    <li><a href="#">About</a></li>
-                                    <li><a href="#">Team</a></li>
-                                    <li><a href="#">Project</a></li>
-                                    <li><a href="#">Fact</a></li>
-                                    <li><a href="#">Contact</a></li>
+                                    <li><a href="index.php">Home</a></li>
+                                    <li><a href="about.php">About</a></li>
+                                    <li><a href="service.php">Services</a></li>
+                                    <li><a href="faq.php">Faq's</a></li>
+                                    <li><a href="contact.php">Contact</a></li>
                                 </ul>
                             </div>
                         </div>
                         <div class="col-lg-3 col-md-6">
                             <div class="td-footer-widget ml-80 mb-30">
-                                <h3 class="td-footer-title mb-30">Others</h3>
+                                <h3 class="td-footer-title mb-30">Services</h3>
                                 <ul class="td-footer-widget-list">
-                                    <li><a href="#">License</a></li>
-                                    <li><a href="#"> Style Guide</a></li>
-                                    <li><a href="#">Change Log</a></li>
-                                    <li><a href="#">Error</a></li>
+                                    <li><a href="#">Expert Ghostwriting</a></li>
+                                    <li><a href="#">Formating & Proofreading</a></li>
+                                    <li><a href="#">Illustration & Layout</a></li>
+                                    <li><a href="#">Publishing Strategy</a></li>
+                                    <li><a href="#">Marketing Plan</a></li>
                                 </ul>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6">
                             <div class="td-footer-widget mr-30 mb-30">
                                 <h3 class="td-footer-title mb-30">Address</h3>
-                                <a class="td-footer-location mb-45 d-inline-block" href="#">XYZ Times Sq, New York, 10000<br>
-                                    United States</a>
+                                <a class="td-footer-location mb-45 d-inline-block" href="#">1322 N Pine Hills Road, Orlando, Fl, 32808</a>
+                                <a class="td-footer-location mb-45 d-inline-block" href="#">(786) 949-4620</a><br>
+                                <a class="td-footer-location mb-45 d-inline-block" href="#">info@isbpublisher.com</a>
                                 <div class="td-footer-form p-relative">
                                     <form action="#">
                                         <input type="text" placeholder="example@gmail.com">
@@ -56,7 +61,7 @@
                                 <div class="row align-items-center">
                                     <div class="col-lg-6 col-md-8">
                                         <div class="td-footer-copyright mb-20">
-                                            <p>© 2025 <a href="#">Parody.</a> All Rights Reserved.</p>
+                                            <p>© 2025 <a href="isbtechs.com">ISBtechs.</a> All Rights Reserved.</p>
                                         </div>
                                     </div>
                                     <div class="col-lg-6 col-md-4">
