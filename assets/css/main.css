@@ -89,8 +89,8 @@
   --td-grey-4: #787875;
   --td-grey-5: #555855;
   --td-grey-6: #756c63;
-  --td-theme-primary: #136BAC;
-  --td-theme-secondary: #136BAC;
+  --td-theme-primary: #136BAC !important;
+  --td-theme-secondary: #136BAC !important;
   --td-theme-1: #05341d;
   --td-theme-2: #ff9857;
   --td-theme-3: #063231;
@@ -7213,9 +7213,9 @@ textarea {
 }
 /* Address block spacing/line-height to match Services list */
 .td-footer-widget .td-footer-location {
-  display: block;
+  display: block !important;
   margin-bottom: 10px !important;
-  line-height: 26px;
+  line-height: 26px !important;
 }
 .td-footer-form input {
   font-family: var(--td-ff-body);
