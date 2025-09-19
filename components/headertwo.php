@@ -45,8 +45,8 @@
                 <div class="row align-items-center">
                     <div class="col-xl-2 col-4">
                         <div class="logo">
-                            <a class="logo-1" href="index.html"><img data-width="96" src="assets/img/logo/logo-white.png" alt="Logo"></a>
-                            <a class="logo-2 d-none" href="index.html"><img data-width="96" src="assets/img/logo/logo-grey-2.png" alt="Logo"></a>
+                            <a class="logo-1" href="index.php"><img data-width="96" src="assets/img/logo/logo-white.png" alt="Logo"></a>
+                            <a class="logo-2 d-none" href="index.php"><img data-width="96" src="assets/img/logo/logo-black.png" alt="Logo"></a>
                         </div>
                     </div>
                     <div class="col-xl-7 d-none d-xl-block">
@@ -56,37 +56,14 @@
                                     <ul class="navigation">
                                         <li class="active menu-item-has-children"><a href="index.php">Home</a>
                                         </li>
+                                        <li><a href="about.php">About</a></li>
                                         <li class="menu-item-has-children"><a href="service.php">Services</a>
-                                            <ul class="sub-menu">
-                                                <li><a href="about.html">About</a></li>
-                                                <li><a href="service.html">Service</a></li>
-                                                <li><a href="service-details.html">Service Details</a></li>
-                                                <li><a href="team.html">Team</a></li>
-                                                <li><a href="team-details.html">Team Details</a></li>
-                                                <li><a href="shop.html">Shop</a></li>
-                                                <li><a href="shop-details.html">Shop Details</a></li>
-                                                <li><a href="pricing.html">Pricing</a></li>
-                                                <li><a href="faq.html">Faq</a></li>
-                                                <li><a href="error.html">Error</a></li>
-                                            </ul>
                                         </li>
-                                        <li class="menu-item-has-children"><a href="portfolio-two-columns.html">Portfolio</a>
-                                            <ul class="sub-menu">
-                                                <li><a href="portfolio-two-columns.html">Two Columns</a></li>
-                                                <li><a href="portfolio-three-columns.html">three Columns</a></li>
-                                                <li><a href="portfolio-four-columns.html">four Columns</a></li>
-                                                <li><a href="portfolio-random.html">Portfolio Random</a></li>
-                                                <li><a href="portfolio-details.html">Portfolio Details</a></li>
-                                            </ul>
+                                        <li class="menu-item-has-children"><a href="portfolio.php">Portfolio</a>
                                         </li>
-                                        <li class="menu-item-has-children"><a href="blog.html">Blog</a>
-                                            <ul class="sub-menu">
-                                                <li><a href="blog.html">Blog</a></li>
-                                                <li><a href="blog-sidebar.html">Blog Sidebar</a></li>
-                                                <li><a href="blog-details.html">Blog Details</a></li>
-                                            </ul>
+                                        <li class="menu-item-has-children"><a href="blog.php">Blog</a>
                                         </li>
-                                        <li><a href="contact.html">Contact</a></li>
+                                        <li><a href="contact.php">Contact</a></li>
                                     </ul>
                                 </div>
                             </nav>

@@ -89,8 +89,8 @@
   --td-grey-4: #787875;
   --td-grey-5: #555855;
   --td-grey-6: #756c63;
-  --td-theme-primary: #beff01;
-  --td-theme-secondary: #ff481f;
+  --td-theme-primary: #136BAC;
+  --td-theme-secondary: #136BAC;
   --td-theme-1: #05341d;
   --td-theme-2: #ff9857;
   --td-theme-3: #063231;
@@ -131,6 +131,22 @@ button {
   -ms-transition: all 0.3s ease-out 0s;
   -o-transition: all 0.3s ease-out 0s;
   transition: all 0.3s ease-out 0s;
+}
+
+/* Force white text for all buttons and site button classes */
+button,
+button *,
+.td-btn,
+.td-btn *,
+.td-btn-2,
+.td-btn-2 *,
+.td-btn-lg,
+.td-btn-lg *,
+.td-header-2-btn,
+.td-header-2-btn *,
+.td-btn-menu-black,
+.td-btn-menu-black * {
+  color: #fff !important;
 }
 
 a:focus,
@@ -816,7 +832,7 @@ textarea {
 .td-btn-group-border:hover .td-btn-circle {
   border: 1px solid var(--td-theme-primary) !important;
   background: var(--td-theme-primary) !important;
-  color: var(--td-common-black) !important;
+  color: var(--td-common-white) !important;
 }
 .td-btn-group-border .td-btn-2 {
   border: 1px solid rgba(255, 255, 255, 0.25);
@@ -868,7 +884,7 @@ textarea {
   align-items: center;
   justify-content: center;
   background-color: var(--td-theme-primary);
-  color: var(--td-common-black);
+  color: var(--td-common-white);
 }
 .td-btn-group .td-btn-circle i {
   transform: rotate(-45deg);
@@ -7194,6 +7210,12 @@ textarea {
 }
 .td-footer-widget-list li a:hover {
   color: var(--td-theme-primary);
+}
+/* Address block spacing/line-height to match Services list */
+.td-footer-widget .td-footer-location {
+  display: block;
+  margin-bottom: 10px !important;
+  line-height: 26px;
 }
 .td-footer-form input {
   font-family: var(--td-ff-body);
