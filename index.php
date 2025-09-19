@@ -212,7 +212,7 @@
                                         <span> Global Bookshelf</span>
                                     </h2>
                                     <div class="td-hero-3-content pt-100 p-relative wow fadeInUp" data-wow-delay=".3s" data-wow-duration="1s">
-                                        <img class="td-hero-3-shape" src="assets/img/hero/hero-3/icon.png" alt="">
+                                        <!-- <img class="td-hero-3-shape" src="assets/img/hero/hero-3/icon.png" alt=""> -->
                                         <div class="row align-items-center">
                                             <div class="col-xxl-2 col-xl-2 col-lg-3">
                                                 <div class="p-relative mb-30 d-inline-block">
