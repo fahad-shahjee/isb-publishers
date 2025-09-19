@@ -247,6 +247,7 @@
             line-height: 93%;
             letter-spacing: -0.04em;
             color: var(--td-common-black-2);
+            color: white !important;
             @media #{$xl} {
                 font-size: 130px;
             }
@@ -303,7 +304,7 @@
             width: 572px;
             height: 1px;
             margin-left: -30px;
-            background: rgba(0, 0, 0, 0.35);
+            background: rgb(255 255 255 / 69%) !important;
             margin-right: 120px;
             @media #{$xl,$lg,$md,$sm,$xs} {
                 width: 100%;

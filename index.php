@@ -207,7 +207,7 @@
                         <div class="row">
                             <div class="col-lg-12">
                                 <div class="td-hero-3-title-wrap">
-                                    <h2 class="td-hero-3-title text-center td-split-text td-split-in-right">
+                                <h2 class="td-hero-3-title text-center td-split-text td-split-in-right" style="color:white;">
                                     From First Draft<br>to
                                         <span> Global Bookshelf</span>
                                     </h2>
@@ -225,7 +225,7 @@
                                             </div>
                                             <div class="col-xxl-4 col-xl-5 col-lg-5">
                                                 <div class="td-hero-3-content-para mb-30">
-                                                    <p>We are excited for our work and how it positively
+                                                    <p style="color:white;">We are excited for our work and how it positively
                                                         impacts clients. With  over 12 years of experience
                                                         we have been constantly providing solutions.
                                                         We are committed to delive</p>
@@ -1319,39 +1319,39 @@
     <!--<< bootstrap.min.Js >>-->
     <script src="assets/js/bootstrap.min.js"></script>
     <!--<< gsap.Js >>-->
-    <script src="assets/js/jsap/gsap.js"></script>
+    <script src="assets/js/jsap/gsap.js" defer></script>
     <!--<< gsap-scroll-smoother.Js >>-->
-    <script src="assets/js/jsap/gsap-scroll-smoother.js"></script>
+    <script src="assets/js/jsap/gsap-scroll-smoother.js" defer></script>
     <!--<< gsap-scroll-trigger.Js >>-->
-    <script src="assets/js/jsap/gsap-scroll-trigger.js"></script>
+    <script src="assets/js/jsap/gsap-scroll-trigger.js" defer></script>
     <!--<< gsap-scroll-to-plugin.Js >>-->
-    <script src="assets/js/jsap/gsap-scroll-to-plugin.js"></script>
+    <script src="assets/js/jsap/gsap-scroll-to-plugin.js" defer></script>
     <!--<< gsap-split-text.Js >>-->
-    <script src="assets/js/jsap/gsap-split-text.js"></script>
+    <script src="assets/js/jsap/gsap-split-text.js" defer></script>
     <!--<< isotope.pkgd.min.Js >>-->
-    <script src="assets/js/isotope.pkgd.min.js"></script>
+    <script src="assets/js/isotope.pkgd.min.js" defer></script>
     <!--<< ion.rangeSlider.min.Js >>-->
-    <script src="assets/js/ion.rangeSlider.min.js"></script>
+    <script src="assets/js/ion.rangeSlider.min.js" defer></script>
     <!--<< effect-slicer.Js >>-->
-    <script src="assets/js/effect-slicer.js"></script>
+    <script src="assets/js/effect-slicer.js" defer></script>
     <!--<< imagesloaded.pkgd.min.Js >>-->
-    <script src="assets/js/imagesloaded.pkgd.min.js"></script>
+    <script src="assets/js/imagesloaded.pkgd.min.js" defer></script>
     <!--<< jquery.magnific-popup.min.Js >>-->
-    <script src="assets/js/jquery.magnific-popup.min.js"></script>
+    <script src="assets/js/jquery.magnific-popup.min.js" defer></script>
     <!--<< jquery.odometer.min.Js >>-->
-    <script src="assets/js/jquery.odometer.min.js"></script>
+    <script src="assets/js/jquery.odometer.min.js" defer></script>
     <!--<< jquery-appear.Js >>-->
-    <script src="assets/js/jquery-appear.js"></script>
+    <script src="assets/js/jquery-appear.js" defer></script>
     <!--<< swiper-bundle.min.Js >>-->
-    <script src="assets/js/swiper-bundle.min.js"></script>
+    <script src="assets/js/swiper-bundle.min.js" defer></script>
     <!--<< jquery.nice-select.min.Js >>-->
-    <script src="assets/js/nice-select.js"></script>
+    <script src="assets/js/nice-select.js" defer></script>
     <!--<< wow.Js >>-->
-    <script src="assets/js/wow.js"></script>
+    <script src="assets/js/wow.js" defer></script>
     <!--<< ajax-form.Js >>-->
-    <script src="assets/js/ajax-form.js"></script>
+    <script src="assets/js/ajax-form.js" defer></script>
     <!--<< main.Js >>-->
-    <script src="assets/js/main.js"></script>
+    <script src="assets/js/main.js" defer></script>
 </body>
 
 </html>
