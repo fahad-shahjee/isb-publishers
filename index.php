@@ -254,7 +254,7 @@
                             </div>
                             <div class="col-lg-8">
                                 <div class="td-about-content mb-30">
-                                    <h2 class="td-about-title mb-30 td-text-invert" style="font-size: 40px">Start your journey with ISB Publishers — where expert guidance and creative support lead to publishing success.</h2>
+                                    <h2 class="td-about-title mb-30 td-text-invert" style="font-size: 45px">Start your journey with ISB Publishers — where expert guidance and creative support lead to publishing success.</h2>
                                     <p class="mb-45">Whether you’re starting fresh, polishing a draft, illustrating a children’s book, self-publishing on Amazon, or building a marketing plan — ISB Publishers provides expert book writing and publishing services to support you at every step. Turn your vision into a bestseller with our dedicated team.</p>
                                     <div class="td-btn-group mb-35">
                                         <a class="td-btn-circle" href="about.html">
