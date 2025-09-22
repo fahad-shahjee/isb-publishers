@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>ISB Publishers</title>
-    <meta name="description" content="Parody - Digital Agency Portfolio Html Template">
+    <title>ISB Ghostwriters</title>
+    <meta name="description" content="From First Draft to Global Bookshelf">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="shortcut icon" type="image/x-icon" href="assets/img/logo/favicon.png">
@@ -42,24 +42,21 @@
             <div class="spinner">
             </div>
             <div class="txt-loading">
-                <span data-text-preloader="P" class="letters-loading">
-                    P
-                </span>
-                <span data-text-preloader="A" class="letters-loading">
-                    A
-                </span>
-                <span data-text-preloader="R" class="letters-loading">
-                    R
-                </span>
-                <span data-text-preloader="O" class="letters-loading">
-                    O
-                </span>
-                <span data-text-preloader="D" class="letters-loading">
-                    D
-                </span>
-                <span data-text-preloader="Y" class="letters-loading">
-                    Y
-                </span>
+                <span data-text-preloader="I" class="letters-loading">I</span>
+                <span data-text-preloader="S" class="letters-loading">S</span>
+                <span data-text-preloader="B" class="letters-loading">B</span>
+                <span data-text-preloader="G" class="letters-loading">G</span>
+                <span data-text-preloader="H" class="letters-loading">H</span>
+                <span data-text-preloader="O" class="letters-loading">O</span>
+                <span data-text-preloader="S" class="letters-loading">S</span>
+                <span data-text-preloader="T" class="letters-loading">T</span>
+                <span data-text-preloader="W" class="letters-loading">W</span>
+                <span data-text-preloader="R" class="letters-loading">R</span>
+                <span data-text-preloader="I" class="letters-loading">I</span>
+                <span data-text-preloader="T" class="letters-loading">T</span>
+                <span data-text-preloader="E" class="letters-loading">E</span>
+                <span data-text-preloader="R" class="letters-loading">R</span>
+                <span data-text-preloader="S" class="letters-loading">S</span>
             </div>
             <p class="text-center">Loading</p>
         </div>
@@ -279,52 +276,84 @@
                     </div>
                 </div>
                 <!-- td-about-area-end -->
-
-                <!-- td-counter-area-start -->
-                <div class="td-counter-area td-counter-2-wrap pt-10 pb-160">
-                    <div class="container">
-                        <div class="row gx-0">
-                            <div class="col-xl-3 col-lg-6 col-md-6">
-                                <div class="td-counter-4-item p-relative">
-                                    <h2 class="title mb-135"><span class="odometer" data-count="400">0</span>+</h2>
-                                    <div class="d-flex align-items-center justify-content-between">
-                                        <h5 class="position">01</h5>
-                                        <span class="para">Authors<br> Trust Us</span>
-                                    </div>
+                 <!-- td-contact-area-start -->
+                <div class="td-contact-area td-contact-2-wrap pt-85 fix pb-50">
+                    <div class="td-contact-7-text-slider">
+                        <div class="td-contact-7-text-btn text-center pt-30">
+                            <a href="contact.html">
+                                <img class="td-live-anim-spin" src="assets/img/contact/text.png" alt="">
+                                <span class="icon">
+                                    <svg width="29" height="30" viewBox="0 0 29 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <path d="M7.07031 22.0708L21.2124 7.92867" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                                        <path d="M21.2124 22.0713V7.9292H7.07031" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                                    </svg>
+                                </span>
+                            </a>
+                        </div>
+                        <div class="swiper-container td-contact-7-slide-active">
+                            <div class="swiper-wrapper slide-transtion">
+                                <div class="swiper-slide">
+                                    <h2 class="td-contact-7-slide-text">Work</h2>
                                 </div>
-                            </div>
-                            <div class="col-xl-3 col-lg-6 col-md-6">
-                                <div class="td-counter-4-item p-relative">
-                                    <h2 class="title mb-135"><span class="odometer" data-count="86">0</span>%</h2>
-                                    <div class="d-flex align-items-center justify-content-between">
-                                        <h5 class="position">02</h5>
-                                        <span class="para">Customer of <br> Recurrence</span>
-                                    </div>
+                                <div class="swiper-slide">
+                                    <h2 class="td-contact-7-slide-text yellows">TOGETHER</h2>
                                 </div>
-                            </div>
-                            <div class="col-xl-3 col-lg-6 col-md-6">
-                                <div class="td-counter-4-item p-relative">
-                                    <h2 class="title mb-135"><span class="odometer" data-count="3000">0</span></h2>
-                                    <div class="d-flex align-items-center justify-content-between">
-                                        <h5 class="position">03</h5>
-                                        <span class="para">Editors <br> and writers</span>
-                                    </div>
+                                <div class="swiper-slide">
+                                    <h2 class="td-contact-7-slide-text">Work</h2>
                                 </div>
-                            </div>
-                            <div class="col-xl-3 col-lg-6 col-md-6">
-                                <div class="td-counter-4-item p-relative">
-                                    <h2 class="title mb-135"><span class="odometer" data-count="100">0</span>%</h2>
-                                    <div class="d-flex align-items-center justify-content-between">
-                                        <h5 class="position">04</h5>
-                                        <span class="para">Client <br> Satisfaction</span>
-                                    </div>
+                                <div class="swiper-slide">
+                                    <h2 class="td-contact-7-slide-text yellows">TOGETHER</h2>
+                                </div>
+                                <div class="swiper-slide">
+                                    <h2 class="td-contact-7-slide-text">Work</h2>
+                                </div>
+                                <div class="swiper-slide">
+                                    <h2 class="td-contact-7-slide-text yellows">TOGETHER</h2>
+                                </div>
+                                <div class="swiper-slide">
+                                    <h2 class="td-contact-7-slide-text">Work</h2>
+                                </div>
+                                <div class="swiper-slide">
+                                    <h2 class="td-contact-7-slide-text yellows">TOGETHER</h2>
+                                </div>
+                                <div class="swiper-slide">
+                                    <h2 class="td-contact-7-slide-text">Work</h2>
+                                </div>
+                                <div class="swiper-slide">
+                                    <h2 class="td-contact-7-slide-text yellows">TOGETHER</h2>
+                                </div>
+                                <div class="swiper-slide">
+                                    <h2 class="td-contact-7-slide-text">Work</h2>
+                                </div>
+                                <div class="swiper-slide">
+                                    <h2 class="td-contact-7-slide-text yellows">TOGETHER</h2>
+                                </div>
+                                <div class="swiper-slide">
+                                    <h2 class="td-contact-7-slide-text yellows">TOGETHER</h2>
+                                </div>
+                                <div class="swiper-slide">
+                                    <h2 class="td-contact-7-slide-text">Work</h2>
+                                </div>
+                                <div class="swiper-slide">
+                                    <h2 class="td-contact-7-slide-text yellows">TOGETHER</h2>
+                                </div>
+                                <div class="swiper-slide">
+                                    <h2 class="td-contact-7-slide-text">Work</h2>
+                                </div>
+                                <div class="swiper-slide">
+                                    <h2 class="td-contact-7-slide-text yellows">TOGETHER</h2>
+                                </div>
+                                <div class="swiper-slide">
+                                    <h2 class="td-contact-7-slide-text">Work</h2>
+                                </div>
+                                <div class="swiper-slide">
+                                    <h2 class="td-contact-7-slide-text yellows">TOGETHER</h2>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-                <!-- td-counter-area-end -->
-
+                <!-- td-contact-area-end -->
 
                 <!-- td-service-area-start -->
                 <div class="td-service-area hover-section td-btn-trigger">
@@ -457,227 +486,50 @@
                 </div>
                 <!-- td-service-area-end -->
 
-                <!-- td-feature-area-start -->
-                <div class="td-feature-area fix">
-
-                    <div class="td-feature-slide-wrap td-feature-2-spacing">
-                        <div class="swiper-container td-feature-2-slider">
-                            <div class="swiper-wrapper slide-transtion">
-                                <div class="swiper-slide">
-                                    <div class="td-feature-2-item">
-                                        <span><svg width="17" height="18" viewBox="0 0 17 18" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M8.59856 1C6.19234 1 4.63215 2.61519 2.78697 3.20392C2.03671 3.4433 1.66158 3.56299 1.50976 3.73172C1.35794 3.90044 1.31349 4.147 1.22458 4.64011C0.273147 9.9168 2.35272 14.7952 7.31223 16.694C7.84511 16.898 8.11154 17 8.60119 17C9.09083 17 9.35725 16.898 9.89009 16.694C14.8493 14.7952 16.9269 9.91678 15.9752 4.6401C15.8862 4.14691 15.8417 3.90032 15.6899 3.73159C15.5381 3.56286 15.1629 3.44324 14.4127 3.20399C12.5668 2.61532 11.0049 1 8.59856 1Z" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                                                <path d="M8.60107 5L8.60107 6.6" stroke="white" stroke-width="1.5" stroke-linecap="round" />
-                                            </svg>
-                                        </span>
-                                        <span> Lifetime Membership</span>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="td-feature-2-item">
-                                        <span><svg width="17" height="18" viewBox="0 0 17 18" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M8.59856 1C6.19234 1 4.63215 2.61519 2.78697 3.20392C2.03671 3.4433 1.66158 3.56299 1.50976 3.73172C1.35794 3.90044 1.31349 4.147 1.22458 4.64011C0.273147 9.9168 2.35272 14.7952 7.31223 16.694C7.84511 16.898 8.11154 17 8.60119 17C9.09083 17 9.35725 16.898 9.89009 16.694C14.8493 14.7952 16.9269 9.91678 15.9752 4.6401C15.8862 4.14691 15.8417 3.90032 15.6899 3.73159C15.5381 3.56286 15.1629 3.44324 14.4127 3.20399C12.5668 2.61532 11.0049 1 8.59856 1Z" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                                                <path d="M8.60107 5L8.60107 6.6" stroke="white" stroke-width="1.5" stroke-linecap="round" />
-                                            </svg>
-                                        </span>
-                                        <span> Premium Customer Support</span>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="td-feature-2-item">
-                                        <span><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M2.24434 7.95965C1.58072 6.80251 1.26029 5.85764 1.06709 4.89985C0.781336 3.4833 1.43527 2.09956 2.51857 1.21663C2.97641 0.843468 3.50126 0.970963 3.772 1.45668L4.38323 2.55324C4.8677 3.4224 5.10994 3.85698 5.06189 4.31771C5.01385 4.77845 4.68716 5.1537 4.03378 5.9042L2.24434 7.95965ZM2.24434 7.95965C3.58755 10.3018 5.69549 12.4109 8.04035 13.7557M8.04035 13.7557C9.19749 14.4193 10.1424 14.7397 11.1002 14.9329C12.5167 15.2187 13.9004 14.5647 14.7834 13.4814C15.1565 13.0236 15.029 12.4987 14.5433 12.228L13.4468 11.6168C12.5776 11.1323 12.143 10.8901 11.6823 10.9381C11.2215 10.9862 10.8463 11.3128 10.0958 11.9662L8.04035 13.7557Z" stroke="white" stroke-width="1.5" stroke-linejoin="round" />
-                                                <path d="M9.40002 4.3823C10.3963 4.80537 11.1947 5.60374 11.6178 6.6M9.85784 1C12.3339 1.71453 14.2854 3.66597 15 6.14194" stroke="white" stroke-width="1.5" stroke-linecap="round" />
-                                            </svg>
-                                        </span>
-                                        <span> Free 30 Minute call</span>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="td-feature-2-item">
-                                        <span>
-                                            <svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M10.3821 2.15534L11.79 4.9943C11.9819 5.3895 12.4939 5.76856 12.9258 5.84115L15.4775 6.2686C17.1094 6.54282 17.4933 7.73647 16.3175 8.914L14.3337 10.9142C13.9977 11.2529 13.8137 11.9062 13.9177 12.374L14.4857 14.85C14.9336 16.8098 13.9017 17.568 12.1819 16.5437L9.79018 15.1162C9.35822 14.8581 8.6463 14.8581 8.20635 15.1162L5.81461 16.5437C4.1028 17.568 3.06292 16.8018 3.51087 14.85L4.07881 12.374C4.18279 11.9062 3.99881 11.2529 3.66285 10.9142L1.67907 8.914C0.5112 7.73647 0.887159 6.54282 2.51898 6.2686L5.0707 5.84115C5.49465 5.76856 6.00659 5.3895 6.19857 4.9943L7.60642 2.15534C8.37433 0.614886 9.62219 0.614886 10.3821 2.15534Z" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                                            </svg>
-                                        </span>
-                                        <span> Strategic Roadmapping</span>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="td-feature-2-item">
-                                        <span>
-                                            <svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M17 9C17 4.58172 13.4183 1 9 1C4.58172 1 1 4.58172 1 9C1 13.4183 4.58172 17 9 17C13.4183 17 17 13.4183 17 9Z" stroke="white" stroke-width="1.5" />
-                                                <path d="M5.80054 9.60054C5.80054 9.60054 7.08054 10.3306 7.72054 11.4005C7.72054 11.4005 9.64054 7.20054 12.2005 5.80054" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                                            </svg>
-                                        </span>
-                                        <span> Collaborative Ideation</span>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="td-feature-2-item">
-                                        <span><svg width="17" height="18" viewBox="0 0 17 18" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M8.59856 1C6.19234 1 4.63215 2.61519 2.78697 3.20392C2.03671 3.4433 1.66158 3.56299 1.50976 3.73172C1.35794 3.90044 1.31349 4.147 1.22458 4.64011C0.273147 9.9168 2.35272 14.7952 7.31223 16.694C7.84511 16.898 8.11154 17 8.60119 17C9.09083 17 9.35725 16.898 9.89009 16.694C14.8493 14.7952 16.9269 9.91678 15.9752 4.6401C15.8862 4.14691 15.8417 3.90032 15.6899 3.73159C15.5381 3.56286 15.1629 3.44324 14.4127 3.20399C12.5668 2.61532 11.0049 1 8.59856 1Z" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                                                <path d="M8.60107 5L8.60107 6.6" stroke="white" stroke-width="1.5" stroke-linecap="round" />
-                                            </svg>
-                                        </span>
-                                        <span> Premium Customer Support</span>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="td-feature-2-item">
-                                        <span>
-                                            <svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M17 9C17 4.58172 13.4183 1 9 1C4.58172 1 1 4.58172 1 9C1 13.4183 4.58172 17 9 17C13.4183 17 17 13.4183 17 9Z" stroke="white" stroke-width="1.5" />
-                                                <path d="M5.80054 9.60054C5.80054 9.60054 7.08054 10.3306 7.72054 11.4005C7.72054 11.4005 9.64054 7.20054 12.2005 5.80054" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                                            </svg>
-                                        </span>
-                                        <span> Collaborative Ideation</span>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="td-feature-2-item">
-                                        <span><svg width="17" height="18" viewBox="0 0 17 18" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M8.59856 1C6.19234 1 4.63215 2.61519 2.78697 3.20392C2.03671 3.4433 1.66158 3.56299 1.50976 3.73172C1.35794 3.90044 1.31349 4.147 1.22458 4.64011C0.273147 9.9168 2.35272 14.7952 7.31223 16.694C7.84511 16.898 8.11154 17 8.60119 17C9.09083 17 9.35725 16.898 9.89009 16.694C14.8493 14.7952 16.9269 9.91678 15.9752 4.6401C15.8862 4.14691 15.8417 3.90032 15.6899 3.73159C15.5381 3.56286 15.1629 3.44324 14.4127 3.20399C12.5668 2.61532 11.0049 1 8.59856 1Z" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                                                <path d="M8.60107 5L8.60107 6.6" stroke="white" stroke-width="1.5" stroke-linecap="round" />
-                                            </svg>
-                                        </span>
-                                        <span> Premium Customer Support</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- td-feature-area-end -->
-
-                <!-- td-brands-area-start -->
-                <div class="td-brands-area pt-115">
+                <!-- td-counter-area-start -->
+                <div class="td-counter-area td-counter-2-wrap pt-10 pb-160">
                     <div class="container">
-                        <div class="row">
-                            <div class="col-12">
-                                <div class="td-brand-wrap">
-                                    <div class="swiper-container td-brand-slide-active">
-                                        <div class="swiper-wrapper slide-transtion">
-                                            <div class="swiper-slide">
-                                                <div class="td-brand-item">
-                                                    <img src="assets/img/brand/logo-1.png" alt="">
-                                                </div>
-                                            </div>
-                                            <div class="swiper-slide">
-                                                <div class="td-brand-item">
-                                                    <img src="assets/img/brand/logo-2.png" alt="">
-                                                </div>
-                                            </div>
-                                            <div class="swiper-slide">
-                                                <div class="td-brand-item">
-                                                    <img src="assets/img/brand/logo-3.png" alt="">
-                                                </div>
-                                            </div>
-                                            <div class="swiper-slide">
-                                                <div class="td-brand-item">
-                                                    <img src="assets/img/brand/logo-4.png" alt="">
-                                                </div>
-                                            </div>
-                                            <div class="swiper-slide">
-                                                <div class="td-brand-item">
-                                                    <img src="assets/img/brand/logo-5.png" alt="">
-                                                </div>
-                                            </div>
-                                            <div class="swiper-slide">
-                                                <div class="td-brand-item">
-                                                    <img src="assets/img/brand/logo-3.png" alt="">
-                                                </div>
-                                            </div>
-                                        </div>
+                        <div class="row gx-0">
+                            <div class="col-xl-3 col-lg-6 col-md-6">
+                                <div class="td-counter-4-item p-relative">
+                                    <h2 class="title mb-135"><span class="odometer" data-count="400">0</span>+</h2>
+                                    <div class="d-flex align-items-center justify-content-between">
+                                        <h5 class="position">01</h5>
+                                        <span class="para">Authors<br> Trust Us</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-3 col-lg-6 col-md-6">
+                                <div class="td-counter-4-item p-relative">
+                                    <h2 class="title mb-135"><span class="odometer" data-count="86">0</span>%</h2>
+                                    <div class="d-flex align-items-center justify-content-between">
+                                        <h5 class="position">02</h5>
+                                        <span class="para">Customer of <br> Recurrence</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-3 col-lg-6 col-md-6">
+                                <div class="td-counter-4-item p-relative">
+                                    <h2 class="title mb-135"><span class="odometer" data-count="3000">0</span></h2>
+                                    <div class="d-flex align-items-center justify-content-between">
+                                        <h5 class="position">03</h5>
+                                        <span class="para">Editors <br> and writers</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-3 col-lg-6 col-md-6">
+                                <div class="td-counter-4-item p-relative">
+                                    <h2 class="title mb-135"><span class="odometer" data-count="100">0</span>%</h2>
+                                    <div class="d-flex align-items-center justify-content-between">
+                                        <h5 class="position">04</h5>
+                                        <span class="para">Client <br> Satisfaction</span>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-                <!-- td-brands-area-end -->
-
-
-                <!-- td-contact-area-start -->
-                <div class="td-contact-area td-contact-2-wrap pt-85 fix pb-50">
-                    <div class="td-contact-7-text-slider">
-                        <div class="td-contact-7-text-btn text-center pt-30">
-                            <a href="contact.html">
-                                <img class="td-live-anim-spin" src="assets/img/contact/text.png" alt="">
-                                <span class="icon">
-                                    <svg width="29" height="30" viewBox="0 0 29 30" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M7.07031 22.0708L21.2124 7.92867" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                                        <path d="M21.2124 22.0713V7.9292H7.07031" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                                    </svg>
-                                </span>
-                            </a>
-                        </div>
-                        <div class="swiper-container td-contact-7-slide-active">
-                            <div class="swiper-wrapper slide-transtion">
-                                <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text">Work</h2>
-                                </div>
-                                <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text yellows">TOGETHER</h2>
-                                </div>
-                                <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text">Work</h2>
-                                </div>
-                                <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text yellows">TOGETHER</h2>
-                                </div>
-                                <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text">Work</h2>
-                                </div>
-                                <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text yellows">TOGETHER</h2>
-                                </div>
-                                <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text">Work</h2>
-                                </div>
-                                <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text yellows">TOGETHER</h2>
-                                </div>
-                                <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text">Work</h2>
-                                </div>
-                                <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text yellows">TOGETHER</h2>
-                                </div>
-                                <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text">Work</h2>
-                                </div>
-                                <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text yellows">TOGETHER</h2>
-                                </div>
-                                <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text yellows">TOGETHER</h2>
-                                </div>
-                                <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text">Work</h2>
-                                </div>
-                                <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text yellows">TOGETHER</h2>
-                                </div>
-                                <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text">Work</h2>
-                                </div>
-                                <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text yellows">TOGETHER</h2>
-                                </div>
-                                <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text">Work</h2>
-                                </div>
-                                <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text yellows">TOGETHER</h2>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- td-contact-area-end -->
-
+                <!-- td-counter-area-end -->
 
                 <!-- td-portfolio-area-start -->
                 <div class="td-portfolio-area pt-125">
@@ -936,33 +788,146 @@
                     </div>
                 </div>
                 <!-- td-portfolio-area-end -->
+<!-- td-feature-area-start -->
+                <div class="td-feature-area fix">
 
-                <!-- td-video-area-start -->
-                <div class="td-video-area pt-20">
-                    <div class="container">
-                        <div class="row justify-content-center">
-                            <div class="col-lg-8">
-                                <div class="td-video-5-title-wrap mb-45 p-relative">
-                                    <img class="td-video-5-shape d-none d-lg-block" src="assets/img/video/video-5/shape.png" alt="">
-                                    <h2 class="td-section-5-bigtitle td-title-anim"> INNOVATION <span class="ml-200">CULTURE</span></h2>
+                    <div class="td-feature-slide-wrap td-feature-2-spacing">
+                        <div class="swiper-container td-feature-2-slider">
+                            <div class="swiper-wrapper slide-transtion">
+                                <div class="swiper-slide">
+                                    <div class="td-feature-2-item">
+                                        <span><svg width="17" height="18" viewBox="0 0 17 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                <path d="M8.59856 1C6.19234 1 4.63215 2.61519 2.78697 3.20392C2.03671 3.4433 1.66158 3.56299 1.50976 3.73172C1.35794 3.90044 1.31349 4.147 1.22458 4.64011C0.273147 9.9168 2.35272 14.7952 7.31223 16.694C7.84511 16.898 8.11154 17 8.60119 17C9.09083 17 9.35725 16.898 9.89009 16.694C14.8493 14.7952 16.9269 9.91678 15.9752 4.6401C15.8862 4.14691 15.8417 3.90032 15.6899 3.73159C15.5381 3.56286 15.1629 3.44324 14.4127 3.20399C12.5668 2.61532 11.0049 1 8.59856 1Z" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                                                <path d="M8.60107 5L8.60107 6.6" stroke="white" stroke-width="1.5" stroke-linecap="round" />
+                                            </svg>
+                                        </span>
+                                        <span> Lifetime Membership</span>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="td-feature-2-item">
+                                        <span><svg width="17" height="18" viewBox="0 0 17 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                <path d="M8.59856 1C6.19234 1 4.63215 2.61519 2.78697 3.20392C2.03671 3.4433 1.66158 3.56299 1.50976 3.73172C1.35794 3.90044 1.31349 4.147 1.22458 4.64011C0.273147 9.9168 2.35272 14.7952 7.31223 16.694C7.84511 16.898 8.11154 17 8.60119 17C9.09083 17 9.35725 16.898 9.89009 16.694C14.8493 14.7952 16.9269 9.91678 15.9752 4.6401C15.8862 4.14691 15.8417 3.90032 15.6899 3.73159C15.5381 3.56286 15.1629 3.44324 14.4127 3.20399C12.5668 2.61532 11.0049 1 8.59856 1Z" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                                                <path d="M8.60107 5L8.60107 6.6" stroke="white" stroke-width="1.5" stroke-linecap="round" />
+                                            </svg>
+                                        </span>
+                                        <span> Premium Customer Support</span>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="td-feature-2-item">
+                                        <span><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                <path d="M2.24434 7.95965C1.58072 6.80251 1.26029 5.85764 1.06709 4.89985C0.781336 3.4833 1.43527 2.09956 2.51857 1.21663C2.97641 0.843468 3.50126 0.970963 3.772 1.45668L4.38323 2.55324C4.8677 3.4224 5.10994 3.85698 5.06189 4.31771C5.01385 4.77845 4.68716 5.1537 4.03378 5.9042L2.24434 7.95965ZM2.24434 7.95965C3.58755 10.3018 5.69549 12.4109 8.04035 13.7557M8.04035 13.7557C9.19749 14.4193 10.1424 14.7397 11.1002 14.9329C12.5167 15.2187 13.9004 14.5647 14.7834 13.4814C15.1565 13.0236 15.029 12.4987 14.5433 12.228L13.4468 11.6168C12.5776 11.1323 12.143 10.8901 11.6823 10.9381C11.2215 10.9862 10.8463 11.3128 10.0958 11.9662L8.04035 13.7557Z" stroke="white" stroke-width="1.5" stroke-linejoin="round" />
+                                                <path d="M9.40002 4.3823C10.3963 4.80537 11.1947 5.60374 11.6178 6.6M9.85784 1C12.3339 1.71453 14.2854 3.66597 15 6.14194" stroke="white" stroke-width="1.5" stroke-linecap="round" />
+                                            </svg>
+                                        </span>
+                                        <span> Free 30 Minute call</span>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="td-feature-2-item">
+                                        <span>
+                                            <svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                <path d="M10.3821 2.15534L11.79 4.9943C11.9819 5.3895 12.4939 5.76856 12.9258 5.84115L15.4775 6.2686C17.1094 6.54282 17.4933 7.73647 16.3175 8.914L14.3337 10.9142C13.9977 11.2529 13.8137 11.9062 13.9177 12.374L14.4857 14.85C14.9336 16.8098 13.9017 17.568 12.1819 16.5437L9.79018 15.1162C9.35822 14.8581 8.6463 14.8581 8.20635 15.1162L5.81461 16.5437C4.1028 17.568 3.06292 16.8018 3.51087 14.85L4.07881 12.374C4.18279 11.9062 3.99881 11.2529 3.66285 10.9142L1.67907 8.914C0.5112 7.73647 0.887159 6.54282 2.51898 6.2686L5.0707 5.84115C5.49465 5.76856 6.00659 5.3895 6.19857 4.9943L7.60642 2.15534C8.37433 0.614886 9.62219 0.614886 10.3821 2.15534Z" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                                            </svg>
+                                        </span>
+                                        <span> Strategic Roadmapping</span>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="td-feature-2-item">
+                                        <span>
+                                            <svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                <path d="M17 9C17 4.58172 13.4183 1 9 1C4.58172 1 1 4.58172 1 9C1 13.4183 4.58172 17 9 17C13.4183 17 17 13.4183 17 9Z" stroke="white" stroke-width="1.5" />
+                                                <path d="M5.80054 9.60054C5.80054 9.60054 7.08054 10.3306 7.72054 11.4005C7.72054 11.4005 9.64054 7.20054 12.2005 5.80054" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                                            </svg>
+                                        </span>
+                                        <span> Collaborative Ideation</span>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="td-feature-2-item">
+                                        <span><svg width="17" height="18" viewBox="0 0 17 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                <path d="M8.59856 1C6.19234 1 4.63215 2.61519 2.78697 3.20392C2.03671 3.4433 1.66158 3.56299 1.50976 3.73172C1.35794 3.90044 1.31349 4.147 1.22458 4.64011C0.273147 9.9168 2.35272 14.7952 7.31223 16.694C7.84511 16.898 8.11154 17 8.60119 17C9.09083 17 9.35725 16.898 9.89009 16.694C14.8493 14.7952 16.9269 9.91678 15.9752 4.6401C15.8862 4.14691 15.8417 3.90032 15.6899 3.73159C15.5381 3.56286 15.1629 3.44324 14.4127 3.20399C12.5668 2.61532 11.0049 1 8.59856 1Z" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                                                <path d="M8.60107 5L8.60107 6.6" stroke="white" stroke-width="1.5" stroke-linecap="round" />
+                                            </svg>
+                                        </span>
+                                        <span> Premium Customer Support</span>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="td-feature-2-item">
+                                        <span>
+                                            <svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                <path d="M17 9C17 4.58172 13.4183 1 9 1C4.58172 1 1 4.58172 1 9C1 13.4183 4.58172 17 9 17C13.4183 17 17 13.4183 17 9Z" stroke="white" stroke-width="1.5" />
+                                                <path d="M5.80054 9.60054C5.80054 9.60054 7.08054 10.3306 7.72054 11.4005C7.72054 11.4005 9.64054 7.20054 12.2005 5.80054" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                                            </svg>
+                                        </span>
+                                        <span> Collaborative Ideation</span>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="td-feature-2-item">
+                                        <span><svg width="17" height="18" viewBox="0 0 17 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                <path d="M8.59856 1C6.19234 1 4.63215 2.61519 2.78697 3.20392C2.03671 3.4433 1.66158 3.56299 1.50976 3.73172C1.35794 3.90044 1.31349 4.147 1.22458 4.64011C0.273147 9.9168 2.35272 14.7952 7.31223 16.694C7.84511 16.898 8.11154 17 8.60119 17C9.09083 17 9.35725 16.898 9.89009 16.694C14.8493 14.7952 16.9269 9.91678 15.9752 4.6401C15.8862 4.14691 15.8417 3.90032 15.6899 3.73159C15.5381 3.56286 15.1629 3.44324 14.4127 3.20399C12.5668 2.61532 11.0049 1 8.59856 1Z" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                                                <path d="M8.60107 5L8.60107 6.6" stroke="white" stroke-width="1.5" stroke-linecap="round" />
+                                            </svg>
+                                        </span>
+                                        <span> Premium Customer Support</span>
+                                    </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="td-video-5-wrap p-relative">
-                        <video loop="" muted="" autoplay="" playsinline="">
-                            <source src="https://themedox.com/videos/parody-video.mp4" type="video/mp4">
-                        </video>
-                        <div class="td-video-4-wrap td-video-5-content d-flex align-items-center">
-                            <img class="mr-40" src="assets/img/video/video-5/shape-2.png" alt="">
-                            <p class="mb-0">Welcome to our world, where every<br>
-                                shot is a piece of art, and every<br>
-                                client’s story is uniquely</p>
+                </div>
+                <!-- td-feature-area-end -->
+
+                <!-- td-brands-area-start -->
+                <div class="td-brands-area pt-115">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-12">
+                                <div class="td-brand-wrap">
+                                    <div class="swiper-container td-brand-slide-active">
+                                        <div class="swiper-wrapper slide-transtion">
+                                            <div class="swiper-slide">
+                                                <div class="td-brand-item">
+                                                    <img src="assets/img/brand/logo-1.png" alt="">
+                                                </div>
+                                            </div>
+                                            <div class="swiper-slide">
+                                                <div class="td-brand-item">
+                                                    <img src="assets/img/brand/logo-2.png" alt="">
+                                                </div>
+                                            </div>
+                                            <div class="swiper-slide">
+                                                <div class="td-brand-item">
+                                                    <img src="assets/img/brand/logo-3.png" alt="">
+                                                </div>
+                                            </div>
+                                            <div class="swiper-slide">
+                                                <div class="td-brand-item">
+                                                    <img src="assets/img/brand/logo-4.png" alt="">
+                                                </div>
+                                            </div>
+                                            <div class="swiper-slide">
+                                                <div class="td-brand-item">
+                                                    <img src="assets/img/brand/logo-5.png" alt="">
+                                                </div>
+                                            </div>
+                                            <div class="swiper-slide">
+                                                <div class="td-brand-item">
+                                                    <img src="assets/img/brand/logo-3.png" alt="">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
-                <!-- td-video-area-end -->
-
+                <!-- td-brands-area-end -->
                 <!-- td-process-area-start -->
                 <div class="td-process-area pt-130 pb-160">
                     <div class="container">
@@ -1074,6 +1039,32 @@
                     </div>
                 </div>
                 <!-- td-process-area-end -->
+
+                <!-- td-video-area-start -->
+                <div class="td-video-area pt-20">
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-8">
+                                <div class="td-video-5-title-wrap mb-45 p-relative">
+                                    <img class="td-video-5-shape d-none d-lg-block" src="assets/img/video/video-5/shape.png" alt="">
+                                    <h2 class="td-section-5-bigtitle td-title-anim"> INNOVATION <span class="ml-200">CULTURE</span></h2>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="td-video-5-wrap p-relative">
+                        <video loop="" muted="" autoplay="" playsinline="">
+                            <source src="https://themedox.com/videos/parody-video.mp4" type="video/mp4">
+                        </video>
+                        <div class="td-video-4-wrap td-video-5-content d-flex align-items-center">
+                            <img class="mr-40" src="assets/img/video/video-5/shape-2.png" alt="">
+                            <p class="mb-0">Welcome to our world, where every<br>
+                                shot is a piece of art, and every<br>
+                                client’s story is uniquely</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- td-video-area-end -->
 
                 <!-- td-testimonial-area-start -->
                 <div class="td-testimonial-area grey-bg-2 pt-155 pb-120">
@@ -1292,7 +1283,7 @@
                                 <img class="td-cta-shape d-none d-xl-block" src="assets/img/cta/cta.png" alt="">
                                 <h2 class="title p-relative d-inline-block">
                                     <img class="td-cta-shape-2 d-none d-md-block" src="assets/img/cta/cta-2.png" alt="">
-                                    <a class="td-text-invert" href="contact.html">
+                                    <a class="td-text-invert" href="contact.php">
                                         HAVE A<br>
                                         PROJECTS<br>
                                         IN MINDS

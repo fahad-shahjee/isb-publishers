@@ -1803,8 +1803,10 @@ textarea {
   color: transparent;
   background-clip: text;
   -webkit-background-clip: text;
-  background-image: linear-gradient(to right, rgb(28, 29, 31) 50%, rgb(168, 169, 169) 50%);
+  background-image: linear-gradient(to right, rgb(28, 29, 31) 50%, rgb(215 214 214) 50%);
 }
+
+/* background-image: linear-gradient(to right, rgb(255 255 255) 50%, rgb(0, 0, 0) 50%); */
 
 .td-text-opacity {
   line-height: 0.94;
@@ -7237,7 +7239,7 @@ textarea {
 }
 .td-footer-form button {
   border-radius: 40px;
-  background: #beff01;
+  background: #156cac;
   width: 54px;
   height: 54px;
   position: absolute;
