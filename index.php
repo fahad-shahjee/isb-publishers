@@ -199,7 +199,7 @@
                     </div>
                 </div> -->
                 <!-- td-hero-area-end -->
-                 
+
 
                 <!-- td-hero-area-start -->
                 <div class="td-hero-area td-hero-3-spacing fix include-bg" data-background="assets/img/hero/hero-3/bg.png">
@@ -207,8 +207,8 @@
                         <div class="row">
                             <div class="col-lg-12">
                                 <div class="td-hero-3-title-wrap">
-                                <h2 class="td-hero-3-title text-center td-split-text td-split-in-right" style="color:white;">
-                                    From First Draft<br>to
+                                    <h2 class="td-hero-3-title text-center td-split-text td-split-in-right" style="color:white;">
+                                        From First Draft<br>to
                                         <span> Global Bookshelf</span>
                                     </h2>
                                     <div class="td-hero-3-content pt-100 p-relative wow fadeInUp" data-wow-delay=".3s" data-wow-duration="1s">
@@ -226,7 +226,7 @@
                                             <div class="col-xxl-4 col-xl-5 col-lg-5">
                                                 <div class="td-hero-3-content-para mb-30">
                                                     <p style="color:white;">We are excited for our work and how it positively
-                                                        impacts clients. With  over 12 years of experience
+                                                        impacts clients. With over 12 years of experience
                                                         we have been constantly providing solutions.
                                                         We are committed to delive</p>
                                                 </div>
@@ -455,20 +455,20 @@
                         </div>
                     </div>
                 </div>
-        <!-- td-service-area-end -->
+                <!-- td-service-area-end -->
 
-        <!-- td-feature-area-start -->
-        <div class="td-feature-area fix">
-                    
+                <!-- td-feature-area-start -->
+                <div class="td-feature-area fix">
+
                     <div class="td-feature-slide-wrap td-feature-2-spacing">
                         <div class="swiper-container td-feature-2-slider">
                             <div class="swiper-wrapper slide-transtion">
                                 <div class="swiper-slide">
                                     <div class="td-feature-2-item">
                                         <span><svg width="17" height="18" viewBox="0 0 17 18" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                            <path d="M8.59856 1C6.19234 1 4.63215 2.61519 2.78697 3.20392C2.03671 3.4433 1.66158 3.56299 1.50976 3.73172C1.35794 3.90044 1.31349 4.147 1.22458 4.64011C0.273147 9.9168 2.35272 14.7952 7.31223 16.694C7.84511 16.898 8.11154 17 8.60119 17C9.09083 17 9.35725 16.898 9.89009 16.694C14.8493 14.7952 16.9269 9.91678 15.9752 4.6401C15.8862 4.14691 15.8417 3.90032 15.6899 3.73159C15.5381 3.56286 15.1629 3.44324 14.4127 3.20399C12.5668 2.61532 11.0049 1 8.59856 1Z" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                                            <path d="M8.60107 5L8.60107 6.6" stroke="white" stroke-width="1.5" stroke-linecap="round" />
-                                          </svg>
+                                                <path d="M8.59856 1C6.19234 1 4.63215 2.61519 2.78697 3.20392C2.03671 3.4433 1.66158 3.56299 1.50976 3.73172C1.35794 3.90044 1.31349 4.147 1.22458 4.64011C0.273147 9.9168 2.35272 14.7952 7.31223 16.694C7.84511 16.898 8.11154 17 8.60119 17C9.09083 17 9.35725 16.898 9.89009 16.694C14.8493 14.7952 16.9269 9.91678 15.9752 4.6401C15.8862 4.14691 15.8417 3.90032 15.6899 3.73159C15.5381 3.56286 15.1629 3.44324 14.4127 3.20399C12.5668 2.61532 11.0049 1 8.59856 1Z" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                                                <path d="M8.60107 5L8.60107 6.6" stroke="white" stroke-width="1.5" stroke-linecap="round" />
+                                            </svg>
                                         </span>
                                         <span> Lifetime Membership</span>
                                     </div>
@@ -476,9 +476,9 @@
                                 <div class="swiper-slide">
                                     <div class="td-feature-2-item">
                                         <span><svg width="17" height="18" viewBox="0 0 17 18" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                            <path d="M8.59856 1C6.19234 1 4.63215 2.61519 2.78697 3.20392C2.03671 3.4433 1.66158 3.56299 1.50976 3.73172C1.35794 3.90044 1.31349 4.147 1.22458 4.64011C0.273147 9.9168 2.35272 14.7952 7.31223 16.694C7.84511 16.898 8.11154 17 8.60119 17C9.09083 17 9.35725 16.898 9.89009 16.694C14.8493 14.7952 16.9269 9.91678 15.9752 4.6401C15.8862 4.14691 15.8417 3.90032 15.6899 3.73159C15.5381 3.56286 15.1629 3.44324 14.4127 3.20399C12.5668 2.61532 11.0049 1 8.59856 1Z" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                                            <path d="M8.60107 5L8.60107 6.6" stroke="white" stroke-width="1.5" stroke-linecap="round" />
-                                          </svg>
+                                                <path d="M8.59856 1C6.19234 1 4.63215 2.61519 2.78697 3.20392C2.03671 3.4433 1.66158 3.56299 1.50976 3.73172C1.35794 3.90044 1.31349 4.147 1.22458 4.64011C0.273147 9.9168 2.35272 14.7952 7.31223 16.694C7.84511 16.898 8.11154 17 8.60119 17C9.09083 17 9.35725 16.898 9.89009 16.694C14.8493 14.7952 16.9269 9.91678 15.9752 4.6401C15.8862 4.14691 15.8417 3.90032 15.6899 3.73159C15.5381 3.56286 15.1629 3.44324 14.4127 3.20399C12.5668 2.61532 11.0049 1 8.59856 1Z" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                                                <path d="M8.60107 5L8.60107 6.6" stroke="white" stroke-width="1.5" stroke-linecap="round" />
+                                            </svg>
                                         </span>
                                         <span> Premium Customer Support</span>
                                     </div>
@@ -486,9 +486,9 @@
                                 <div class="swiper-slide">
                                     <div class="td-feature-2-item">
                                         <span><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                            <path d="M2.24434 7.95965C1.58072 6.80251 1.26029 5.85764 1.06709 4.89985C0.781336 3.4833 1.43527 2.09956 2.51857 1.21663C2.97641 0.843468 3.50126 0.970963 3.772 1.45668L4.38323 2.55324C4.8677 3.4224 5.10994 3.85698 5.06189 4.31771C5.01385 4.77845 4.68716 5.1537 4.03378 5.9042L2.24434 7.95965ZM2.24434 7.95965C3.58755 10.3018 5.69549 12.4109 8.04035 13.7557M8.04035 13.7557C9.19749 14.4193 10.1424 14.7397 11.1002 14.9329C12.5167 15.2187 13.9004 14.5647 14.7834 13.4814C15.1565 13.0236 15.029 12.4987 14.5433 12.228L13.4468 11.6168C12.5776 11.1323 12.143 10.8901 11.6823 10.9381C11.2215 10.9862 10.8463 11.3128 10.0958 11.9662L8.04035 13.7557Z" stroke="white" stroke-width="1.5" stroke-linejoin="round" />
-                                            <path d="M9.40002 4.3823C10.3963 4.80537 11.1947 5.60374 11.6178 6.6M9.85784 1C12.3339 1.71453 14.2854 3.66597 15 6.14194" stroke="white" stroke-width="1.5" stroke-linecap="round" />
-                                          </svg>
+                                                <path d="M2.24434 7.95965C1.58072 6.80251 1.26029 5.85764 1.06709 4.89985C0.781336 3.4833 1.43527 2.09956 2.51857 1.21663C2.97641 0.843468 3.50126 0.970963 3.772 1.45668L4.38323 2.55324C4.8677 3.4224 5.10994 3.85698 5.06189 4.31771C5.01385 4.77845 4.68716 5.1537 4.03378 5.9042L2.24434 7.95965ZM2.24434 7.95965C3.58755 10.3018 5.69549 12.4109 8.04035 13.7557M8.04035 13.7557C9.19749 14.4193 10.1424 14.7397 11.1002 14.9329C12.5167 15.2187 13.9004 14.5647 14.7834 13.4814C15.1565 13.0236 15.029 12.4987 14.5433 12.228L13.4468 11.6168C12.5776 11.1323 12.143 10.8901 11.6823 10.9381C11.2215 10.9862 10.8463 11.3128 10.0958 11.9662L8.04035 13.7557Z" stroke="white" stroke-width="1.5" stroke-linejoin="round" />
+                                                <path d="M9.40002 4.3823C10.3963 4.80537 11.1947 5.60374 11.6178 6.6M9.85784 1C12.3339 1.71453 14.2854 3.66597 15 6.14194" stroke="white" stroke-width="1.5" stroke-linecap="round" />
+                                            </svg>
                                         </span>
                                         <span> Free 30 Minute call</span>
                                     </div>
@@ -517,9 +517,9 @@
                                 <div class="swiper-slide">
                                     <div class="td-feature-2-item">
                                         <span><svg width="17" height="18" viewBox="0 0 17 18" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                            <path d="M8.59856 1C6.19234 1 4.63215 2.61519 2.78697 3.20392C2.03671 3.4433 1.66158 3.56299 1.50976 3.73172C1.35794 3.90044 1.31349 4.147 1.22458 4.64011C0.273147 9.9168 2.35272 14.7952 7.31223 16.694C7.84511 16.898 8.11154 17 8.60119 17C9.09083 17 9.35725 16.898 9.89009 16.694C14.8493 14.7952 16.9269 9.91678 15.9752 4.6401C15.8862 4.14691 15.8417 3.90032 15.6899 3.73159C15.5381 3.56286 15.1629 3.44324 14.4127 3.20399C12.5668 2.61532 11.0049 1 8.59856 1Z" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                                            <path d="M8.60107 5L8.60107 6.6" stroke="white" stroke-width="1.5" stroke-linecap="round" />
-                                          </svg>
+                                                <path d="M8.59856 1C6.19234 1 4.63215 2.61519 2.78697 3.20392C2.03671 3.4433 1.66158 3.56299 1.50976 3.73172C1.35794 3.90044 1.31349 4.147 1.22458 4.64011C0.273147 9.9168 2.35272 14.7952 7.31223 16.694C7.84511 16.898 8.11154 17 8.60119 17C9.09083 17 9.35725 16.898 9.89009 16.694C14.8493 14.7952 16.9269 9.91678 15.9752 4.6401C15.8862 4.14691 15.8417 3.90032 15.6899 3.73159C15.5381 3.56286 15.1629 3.44324 14.4127 3.20399C12.5668 2.61532 11.0049 1 8.59856 1Z" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                                                <path d="M8.60107 5L8.60107 6.6" stroke="white" stroke-width="1.5" stroke-linecap="round" />
+                                            </svg>
                                         </span>
                                         <span> Premium Customer Support</span>
                                     </div>
@@ -538,9 +538,9 @@
                                 <div class="swiper-slide">
                                     <div class="td-feature-2-item">
                                         <span><svg width="17" height="18" viewBox="0 0 17 18" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                            <path d="M8.59856 1C6.19234 1 4.63215 2.61519 2.78697 3.20392C2.03671 3.4433 1.66158 3.56299 1.50976 3.73172C1.35794 3.90044 1.31349 4.147 1.22458 4.64011C0.273147 9.9168 2.35272 14.7952 7.31223 16.694C7.84511 16.898 8.11154 17 8.60119 17C9.09083 17 9.35725 16.898 9.89009 16.694C14.8493 14.7952 16.9269 9.91678 15.9752 4.6401C15.8862 4.14691 15.8417 3.90032 15.6899 3.73159C15.5381 3.56286 15.1629 3.44324 14.4127 3.20399C12.5668 2.61532 11.0049 1 8.59856 1Z" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                                            <path d="M8.60107 5L8.60107 6.6" stroke="white" stroke-width="1.5" stroke-linecap="round" />
-                                          </svg>
+                                                <path d="M8.59856 1C6.19234 1 4.63215 2.61519 2.78697 3.20392C2.03671 3.4433 1.66158 3.56299 1.50976 3.73172C1.35794 3.90044 1.31349 4.147 1.22458 4.64011C0.273147 9.9168 2.35272 14.7952 7.31223 16.694C7.84511 16.898 8.11154 17 8.60119 17C9.09083 17 9.35725 16.898 9.89009 16.694C14.8493 14.7952 16.9269 9.91678 15.9752 4.6401C15.8862 4.14691 15.8417 3.90032 15.6899 3.73159C15.5381 3.56286 15.1629 3.44324 14.4127 3.20399C12.5668 2.61532 11.0049 1 8.59856 1Z" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                                                <path d="M8.60107 5L8.60107 6.6" stroke="white" stroke-width="1.5" stroke-linecap="round" />
+                                            </svg>
                                         </span>
                                         <span> Premium Customer Support</span>
                                     </div>
@@ -679,8 +679,8 @@
                 <!-- td-contact-area-end -->
 
 
-        <!-- td-portfolio-area-start -->
-        <div class="td-portfolio-area pt-125">
+                <!-- td-portfolio-area-start -->
+                <div class="td-portfolio-area pt-125">
                     <h2 class="td-portfolio-2-bigtitle td-split-text td-split-in-right">Work</h2>
                     <div class="td-portfolio-2-slider-wrap mb-10">
                         <div class="swiper-container td-portfolio-2-slider">
@@ -699,7 +699,7 @@
                                             <a class="title" href="portfolio-details.html">Colyfate tent</a>
                                         </div>
                                     </div>
-                                </div> 
+                                </div>
                                 <div class="swiper-slide">
                                     <div class="td-portfolio-2-item p-relative">
                                         <div class="td-portfolio-2-thumb fix">
@@ -714,7 +714,7 @@
                                             <a class="title" href="portfolio-details.html">Colyfate tent</a>
                                         </div>
                                     </div>
-                                </div> 
+                                </div>
                                 <div class="swiper-slide">
                                     <div class="td-portfolio-2-item p-relative">
                                         <div class="td-portfolio-2-thumb fix">
@@ -729,7 +729,7 @@
                                             <a class="title" href="portfolio-details.html">Colyfate tent</a>
                                         </div>
                                     </div>
-                                </div> 
+                                </div>
                                 <div class="swiper-slide">
                                     <div class="td-portfolio-2-item p-relative">
                                         <div class="td-portfolio-2-thumb fix">
@@ -744,7 +744,7 @@
                                             <a class="title" href="portfolio-details.html">Colyfate tent</a>
                                         </div>
                                     </div>
-                                </div> 
+                                </div>
                                 <div class="swiper-slide">
                                     <div class="td-portfolio-2-item p-relative">
                                         <div class="td-portfolio-2-thumb fix">
@@ -759,7 +759,7 @@
                                             <a class="title" href="portfolio-details.html">Colyfate tent</a>
                                         </div>
                                     </div>
-                                </div>  
+                                </div>
                                 <div class="swiper-slide">
                                     <div class="td-portfolio-2-item p-relative">
                                         <div class="td-portfolio-2-thumb fix">
@@ -774,7 +774,7 @@
                                             <a class="title" href="portfolio-details.html">Colyfate tent</a>
                                         </div>
                                     </div>
-                                </div> 
+                                </div>
                                 <div class="swiper-slide">
                                     <div class="td-portfolio-2-item p-relative">
                                         <div class="td-portfolio-2-thumb fix">
@@ -789,7 +789,7 @@
                                             <a class="title" href="portfolio-details.html">Colyfate tent</a>
                                         </div>
                                     </div>
-                                </div> 
+                                </div>
                                 <div class="swiper-slide">
                                     <div class="td-portfolio-2-item p-relative">
                                         <div class="td-portfolio-2-thumb fix">
@@ -804,7 +804,7 @@
                                             <a class="title" href="portfolio-details.html">Colyfate tent</a>
                                         </div>
                                     </div>
-                                </div>      
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -825,7 +825,7 @@
                                             <a class="title" href="portfolio-details.html">Colyfate tent</a>
                                         </div>
                                     </div>
-                                </div> 
+                                </div>
                                 <div class="swiper-slide">
                                     <div class="td-portfolio-2-item p-relative">
                                         <div class="td-portfolio-2-thumb fix">
@@ -840,7 +840,7 @@
                                             <a class="title" href="portfolio-details.html">Colyfate tent</a>
                                         </div>
                                     </div>
-                                </div> 
+                                </div>
                                 <div class="swiper-slide">
                                     <div class="td-portfolio-2-item p-relative">
                                         <div class="td-portfolio-2-thumb fix">
@@ -855,7 +855,7 @@
                                             <a class="title" href="portfolio-details.html">Colyfate tent</a>
                                         </div>
                                     </div>
-                                </div> 
+                                </div>
                                 <div class="swiper-slide">
                                     <div class="td-portfolio-2-item p-relative">
                                         <div class="td-portfolio-2-thumb fix">
@@ -870,7 +870,7 @@
                                             <a class="title" href="portfolio-details.html">Colyfate tent</a>
                                         </div>
                                     </div>
-                                </div> 
+                                </div>
                                 <div class="swiper-slide">
                                     <div class="td-portfolio-2-item p-relative">
                                         <div class="td-portfolio-2-thumb fix">
@@ -885,7 +885,7 @@
                                             <a class="title" href="portfolio-details.html">Colyfate tent</a>
                                         </div>
                                     </div>
-                                </div> 
+                                </div>
                                 <div class="swiper-slide">
                                     <div class="td-portfolio-2-item p-relative">
                                         <div class="td-portfolio-2-thumb fix">
@@ -900,7 +900,7 @@
                                             <a class="title" href="portfolio-details.html">Colyfate tent</a>
                                         </div>
                                     </div>
-                                </div> 
+                                </div>
                                 <div class="swiper-slide">
                                     <div class="td-portfolio-2-item p-relative">
                                         <div class="td-portfolio-2-thumb fix">
@@ -915,7 +915,7 @@
                                             <a class="title" href="portfolio-details.html">Colyfate tent</a>
                                         </div>
                                     </div>
-                                </div>  
+                                </div>
                                 <div class="swiper-slide">
                                     <div class="td-portfolio-2-item p-relative">
                                         <div class="td-portfolio-2-thumb fix">
@@ -930,7 +930,7 @@
                                             <a class="title" href="portfolio-details.html">Colyfate tent</a>
                                         </div>
                                     </div>
-                                </div>      
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -944,7 +944,7 @@
                             <div class="col-lg-8">
                                 <div class="td-video-5-title-wrap mb-45 p-relative">
                                     <img class="td-video-5-shape d-none d-lg-block" src="assets/img/video/video-5/shape.png" alt="">
-                                    <h2 class="td-section-5-bigtitle td-title-anim">  INNOVATION <span class="ml-200">CULTURE</span></h2>
+                                    <h2 class="td-section-5-bigtitle td-title-anim"> INNOVATION <span class="ml-200">CULTURE</span></h2>
                                 </div>
                             </div>
                         </div>
@@ -955,7 +955,7 @@
                         </video>
                         <div class="td-video-4-wrap td-video-5-content d-flex align-items-center">
                             <img class="mr-40" src="assets/img/video/video-5/shape-2.png" alt="">
-                             <p class="mb-0">Welcome to our world, where every<br>
+                            <p class="mb-0">Welcome to our world, where every<br>
                                 shot is a piece of art, and every<br>
                                 client’s story is uniquely</p>
                         </div>
@@ -963,228 +963,230 @@
                 </div>
                 <!-- td-video-area-end -->
 
-        <!-- td-process-area-start -->
-        <div class="td-process-area pt-130 pb-160">
-            <div class="container">
-                <div class="row">
-                    <div class="col-12">
-                        <div class="td-service-title-wrap pb-10">
-                            <h2 class="td-section-title mb-0 td-text-invert">Working</h2>
-                            <h3 class="td-section-title-capi td-text-invert">Process</h3>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="container">
-                <div class="td-process-border td-fixed-thumb-wrap">
-                    <div class="row">
-                        <div class="col-lg-3">
-                            <div class="td-process-thumb pt-80 pb-80 td-fixed-thumb">
-                                <img src="assets/img/process/thumb.jpg" alt="">
-                            </div>
-                        </div>
-                        <div class="col-lg-9">
-                            <div class="row">
-                                <div class="col-lg-2 col-md-3 col-3">
-                                    <div class="td-process-count">
-                                        <span>01</span>
-                                    </div>
-                                </div>
-                                <div class="col-lg-6 col-md-4 col-9">
-                                    <div class="td-process-title">
-                                        <h3 class="mb-0">Research & <br> <span>Planning</span></h3>
-                                    </div>
-                                </div>
-                                <div class="col-lg-4 col-md-5">
-                                    <div class="td-process-list">
-                                        <ul>
-                                            <li>Target audience research</li>
-                                            <li>Site map creation</li>
-                                            <li>Content strategy</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-lg-2 col-md-3 col-3">
-                                    <div class="td-process-count">
-                                        <span>02</span>
-                                    </div>
-                                </div>
-                                <div class="col-lg-6 col-md-4 col-9">
-                                    <div class="td-process-title">
-                                        <h3 class="mb-0">Design & <br> <span>Development</span></h3>
-                                    </div>
-                                </div>
-                                <div class="col-lg-4 col-md-5">
-                                    <div class="td-process-list">
-                                        <ul>
-                                            <li>Target audience research</li>
-                                            <li>Site map creation</li>
-                                            <li>Content strategy</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-lg-2 col-md-3 col-3">
-                                    <div class="td-process-count">
-                                        <span>03</span>
-                                    </div>
-                                </div>
-                                <div class="col-lg-6 col-md-4 col-9">
-                                    <div class="td-process-title">
-                                        <h3 class="mb-0">Testing & <br> <span>Quality Assurance</span></h3>
-                                    </div>
-                                </div>
-                                <div class="col-lg-4 col-md-5">
-                                    <div class="td-process-list">
-                                        <ul>
-                                            <li>Target audience research</li>
-                                            <li>Site map creation</li>
-                                            <li>Content strategy</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-lg-2 col-md-3 col-3">
-                                    <div class="td-process-count no-border">
-                                        <span>04</span>
-                                    </div>
-                                </div>
-                                <div class="col-lg-6 col-md-4 col-9">
-                                    <div class="td-process-title no-border">
-                                        <h3 class="mb-0">Project & <br> <span>Launch</span></h3>
-                                    </div>
-                                </div>
-                                <div class="col-lg-4 col-md-5">
-                                    <div class="td-process-list no-border">
-                                        <ul>
-                                            <li>Target audience research</li>
-                                            <li>Site map creation</li>
-                                            <li>Content strategy</li>
-                                        </ul>
-                                    </div>
+                <!-- td-process-area-start -->
+                <div class="td-process-area pt-130 pb-160">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-12">
+                                <div class="td-service-title-wrap pb-10">
+                                    <h2 class="td-section-title mb-0 td-text-invert">Working</h2>
+                                    <h3 class="td-section-title-capi td-text-invert">Process</h3>
                                 </div>
                             </div>
                         </div>
                     </div>
+                    <div class="container">
+                        <div class="td-process-border td-fixed-thumb-wrap">
+                            <div class="row">
+                                <div class="col-lg-3">
+                                    <div class="td-process-thumb pt-80 pb-80 td-fixed-thumb">
+                                        <img src="assets/img/process/thumb.jpg" alt="">
+                                    </div>
+                                </div>
+                                <div class="col-lg-9">
+                                    <div class="row">
+                                        <div class="col-lg-2 col-md-3 col-3">
+                                            <div class="td-process-count">
+                                                <span>01</span>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-6 col-md-4 col-9">
+                                            <div class="td-process-title">
+                                                <h3 class="mb-0">Research & <br> <span>Planning</span></h3>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-4 col-md-5">
+                                            <div class="td-process-list">
+                                                <ul>
+                                                    <li>Target audience research</li>
+                                                    <li>Site map creation</li>
+                                                    <li>Content strategy</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-lg-2 col-md-3 col-3">
+                                            <div class="td-process-count">
+                                                <span>02</span>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-6 col-md-4 col-9">
+                                            <div class="td-process-title">
+                                                <h3 class="mb-0">Design & <br> <span>Development</span></h3>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-4 col-md-5">
+                                            <div class="td-process-list">
+                                                <ul>
+                                                    <li>Target audience research</li>
+                                                    <li>Site map creation</li>
+                                                    <li>Content strategy</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-lg-2 col-md-3 col-3">
+                                            <div class="td-process-count">
+                                                <span>03</span>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-6 col-md-4 col-9">
+                                            <div class="td-process-title">
+                                                <h3 class="mb-0">Testing & <br> <span>Quality Assurance</span></h3>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-4 col-md-5">
+                                            <div class="td-process-list">
+                                                <ul>
+                                                    <li>Target audience research</li>
+                                                    <li>Site map creation</li>
+                                                    <li>Content strategy</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-lg-2 col-md-3 col-3">
+                                            <div class="td-process-count no-border">
+                                                <span>04</span>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-6 col-md-4 col-9">
+                                            <div class="td-process-title no-border">
+                                                <h3 class="mb-0">Project & <br> <span>Launch</span></h3>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-4 col-md-5">
+                                            <div class="td-process-list no-border">
+                                                <ul>
+                                                    <li>Target audience research</li>
+                                                    <li>Site map creation</li>
+                                                    <li>Content strategy</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
-            </div>
-        </div>
-        <!-- td-process-area-end -->
+                <!-- td-process-area-end -->
 
-        <!-- td-testimonial-area-start -->
-        <div class="td-testimonial-area grey-bg-2 pt-155 pb-120">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-3 col-md-4">
-                        <div class="td-testimonial-left mb-40 wow fadeInLeft" data-wow-delay=".3s" data-wow-duration="1s">
-                            <span class="td-section-subtitle mb-185 d-inline-block">CLIENTS FEEDBACK</span>
-                            <img class="mb-20" src="assets/img/testimonial/user.png" alt="">
-                            <p>More than 25k clients all<br>
-                                over the world</p>
-                        </div>
-                    </div>
-                    <div class="col-lg-9 col-md-8">
-                        <div class="td-testimonial-content ml-80 mb-50 wow fadeInRight" data-wow-delay=".3s" data-wow-duration="1s">
-                            <h2 class="td-testimonial-title mb-65 td-text-invert">What Our Clients<br> <span>Say About Us</span></h2>
-                            <div class="row">
-                                <div class="col-lg-4">
-                                    <div class="td-testimonial-thumb mb-40">
-                                        <img class="w-100 td-rounded-10" src="assets/img/testimonial/thumb.jpg" alt="">
-                                    </div>
+                <!-- td-testimonial-area-start -->
+                <div class="td-testimonial-area grey-bg-2 pt-155 pb-120">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-3 col-md-4">
+                                <div class="td-testimonial-left mb-40 wow fadeInLeft" data-wow-delay=".3s" data-wow-duration="1s">
+                                    <span class="td-section-subtitle mb-185 d-inline-block">CLIENTS FEEDBACK</span>
+                                    <img class="mb-20" src="assets/img/testimonial/user.png" alt="">
+                                    <p>More than 25k clients all<br>
+                                        over the world</p>
                                 </div>
-                                <div class="col-lg-8">
-                                    <div class="td-testimonial-slide-content ml-25 mb-40">
-                                        <div class="swiper-container td-testimonial-slider mb-120">
-                                            <div class="swiper-wrapper">
-                                                <div class="swiper-slide">
-                                                    <div class="td-testimonial-slide-content">
-                                                        <p class="mb-40">We are excited for our work and how it positively impacts clients.
-                                                            With over 12 years of experience we have been constantly
-                                                            providing solutions. We are committed to deliver unique
-                                                            digital media solutions from web design</p>
-                                                        <h6>David Backhum</h6>
-                                                        <span>Designer</span>
+                            </div>
+                            <div class="col-lg-9 col-md-8">
+                                <div class="td-testimonial-content ml-80 mb-50 wow fadeInRight" data-wow-delay=".3s" data-wow-duration="1s">
+                                    <h2 class="td-testimonial-title mb-65 td-text-invert">What Our Clients<br> <span>Say About Us</span></h2>
+                                    <div class="row">
+                                        <div class="col-lg-4">
+                                            <div class="td-testimonial-thumb mb-40">
+                                                <img class="w-100 td-rounded-10" src="assets/img/testimonial/thumb.jpg" alt="">
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-8">
+                                            <div class="td-testimonial-slide-content ml-25 mb-40">
+                                                <div class="swiper-container td-testimonial-slider mb-120">
+                                                    <div class="swiper-wrapper">
+                                                        <div class="swiper-slide">
+                                                            <div class="td-testimonial-slide-content">
+                                                                <p class="mb-40">We are excited for our work and how it positively impacts clients.
+                                                                    With over 12 years of experience we have been constantly
+                                                                    providing solutions. We are committed to deliver unique
+                                                                    digital media solutions from web design</p>
+                                                                <h6>David Backhum</h6>
+                                                                <span>Designer</span>
+                                                            </div>
+                                                        </div>
+                                                        <div class="swiper-slide">
+                                                            <div class="td-testimonial-slide-content">
+                                                                <p class="mb-40">We are excited for our work and how it positively impacts clients.
+                                                                    With over 12 years of experience we have been constantly
+                                                                    providing solutions. We are committed to deliver unique
+                                                                    digital media solutions from web design</p>
+                                                                <h6>David Backhum</h6>
+                                                                <span>Designer</span>
+                                                            </div>
+                                                        </div>
+                                                        <div class="swiper-slide">
+                                                            <div class="td-testimonial-slide-content">
+                                                                <p class="mb-40">We are excited for our work and how it positively impacts clients.
+                                                                    With over 12 years of experience we have been constantly
+                                                                    providing solutions. We are committed to deliver unique
+                                                                    digital media solutions from web design</p>
+                                                                <h6>David Backhum</h6>
+                                                                <span>Designer</span>
+                                                            </div>
+                                                        </div>
                                                     </div>
                                                 </div>
-                                                <div class="swiper-slide">
-                                                    <div class="td-testimonial-slide-content">
-                                                        <p class="mb-40">We are excited for our work and how it positively impacts clients.
-                                                            With over 12 years of experience we have been constantly
-                                                            providing solutions. We are committed to deliver unique
-                                                            digital media solutions from web design</p>
-                                                        <h6>David Backhum</h6>
-                                                        <span>Designer</span>
-                                                    </div>
-                                                </div>
-                                                <div class="swiper-slide">
-                                                    <div class="td-testimonial-slide-content">
-                                                        <p class="mb-40">We are excited for our work and how it positively impacts clients.
-                                                            With over 12 years of experience we have been constantly
-                                                            providing solutions. We are committed to deliver unique
-                                                            digital media solutions from web design</p>
-                                                        <h6>David Backhum</h6>
-                                                        <span>Designer</span>
-                                                    </div>
+                                                <div class="td-testimonial-navigation mb-30">
+                                                    <span class="td-testimonial-prev d-inline-block">
+                                                        <svg width="31" height="24" viewBox="0 0 31 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                            <path d="M30.8699 12.2679L0.014612 12.4214" stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10" />
+                                                            <path d="M11.5445 0C11.5445 6.63283 6.38111 12 2.56383e-05 12" stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10" />
+                                                            <path d="M4.08971e-05 12C6.38112 12 11.5446 17.3671 11.5446 24" stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10" />
+                                                        </svg>
+                                                    </span>
+                                                    <span class="td-testimonial-next ml-15 d-inline-block">
+                                                        <svg width="31" height="24" viewBox="0 0 31 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                            <path d="M-0.000234102 12.2679L30.855 12.4214" stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10" />
+                                                            <path d="M19.3251 0C19.3251 6.63283 24.4886 12 30.8696 12" stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10" />
+                                                            <path d="M30.8696 12C24.4885 12 19.3251 17.3671 19.3251 24" stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10" />
+                                                        </svg>
+                                                    </span>
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="td-testimonial-navigation mb-30">
-                                            <span class="td-testimonial-prev d-inline-block">
-                                                <svg width="31" height="24" viewBox="0 0 31 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                    <path d="M30.8699 12.2679L0.014612 12.4214" stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10" />
-                                                    <path d="M11.5445 0C11.5445 6.63283 6.38111 12 2.56383e-05 12" stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10" />
-                                                    <path d="M4.08971e-05 12C6.38112 12 11.5446 17.3671 11.5446 24" stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10" />
-                                                </svg>
-                                            </span>
-                                            <span class="td-testimonial-next ml-15 d-inline-block">
-                                                <svg width="31" height="24" viewBox="0 0 31 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                    <path d="M-0.000234102 12.2679L30.855 12.4214" stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10" />
-                                                    <path d="M19.3251 0C19.3251 6.63283 24.4886 12 30.8696 12" stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10" />
-                                                    <path d="M30.8696 12C24.4885 12 19.3251 17.3671 19.3251 24" stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10" />
-                                                </svg>
-                                            </span>
-                                        </div>
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                    </div>
-                    <div class="col-12">
-                        <div class="td-brand-wrap">
-                            <div class="swiper-container td-brand-slide-active">
-                                <div class="swiper-wrapper slide-transtion">
-                                    <div class="swiper-slide">
-                                        <div class="td-brand-item">
-                                            <img src="assets/img/brand/logo-1.png" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <div class="td-brand-item">
-                                            <img src="assets/img/brand/logo-2.png" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <div class="td-brand-item">
-                                            <img src="assets/img/brand/logo-3.png" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <div class="td-brand-item">
-                                            <img src="assets/img/brand/logo-4.png" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <div class="td-brand-item">
-                                            <img src="assets/img/brand/logo-5.png" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <div class="td-brand-item">
-                                            <img src="assets/img/brand/logo-3.png" alt="">
+                            <div class="col-12">
+                                <div class="td-brand-wrap">
+                                    <div class="swiper-container td-brand-slide-active">
+                                        <div class="swiper-wrapper slide-transtion">
+                                            <div class="swiper-slide">
+                                                <div class="td-brand-item">
+                                                    <img src="assets/img/brand/logo-1.png" alt="">
+                                                </div>
+                                            </div>
+                                            <div class="swiper-slide">
+                                                <div class="td-brand-item">
+                                                    <img src="assets/img/brand/logo-2.png" alt="">
+                                                </div>
+                                            </div>
+                                            <div class="swiper-slide">
+                                                <div class="td-brand-item">
+                                                    <img src="assets/img/brand/logo-3.png" alt="">
+                                                </div>
+                                            </div>
+                                            <div class="swiper-slide">
+                                                <div class="td-brand-item">
+                                                    <img src="assets/img/brand/logo-4.png" alt="">
+                                                </div>
+                                            </div>
+                                            <div class="swiper-slide">
+                                                <div class="td-brand-item">
+                                                    <img src="assets/img/brand/logo-5.png" alt="">
+                                                </div>
+                                            </div>
+                                            <div class="swiper-slide">
+                                                <div class="td-brand-item">
+                                                    <img src="assets/img/brand/logo-3.png" alt="">
+                                                </div>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
@@ -1192,123 +1194,122 @@
                         </div>
                     </div>
                 </div>
-            </div>
-        </div>
-        <!-- td-testimonial-area-end -->
+                <!-- td-testimonial-area-end -->
 
-        <!-- td-blog-area-start -->
-        <div class="td-blog-area pt-155 pb-130">
-            <div class="container">
-                <div class="row mb-50">
-                    <div class="col-lg-3">
-                        <div class="mb-20">
-                            <span class="td-section-subtitle">OUR LATEST BLOG</span>
+                <!-- td-blog-area-start -->
+                <div class="td-blog-area pt-155 pb-130">
+                    <div class="container">
+                        <div class="row mb-50">
+                            <div class="col-lg-3">
+                                <div class="mb-20">
+                                    <span class="td-section-subtitle">OUR LATEST BLOG</span>
+                                </div>
+                            </div>
+                            <div class="col-lg-5">
+                                <div>
+                                    <h2 class="td-testimonial-title mb-30 td-text-invert">News from <br> <span>Parody</span></h2>
+                                </div>
+                            </div>
+                            <div class="col-lg-4">
+                                <div class="mb-30">
+                                    <p class="mb-35">We are excited for our work and how it positively
+                                        mpacts clients. With over 12 years of experience
+                                        we have been constantly</p>
+                                    <div class="td-btn-group">
+                                        <a class="td-btn-circle" href="blog.html">
+                                            <i class="fa-solid fa-arrow-right"></i>
+                                        </a>
+                                        <a class="td-btn-2 td-btn-primary" href="blog.html">view ALL POST</a>
+                                        <a class="td-btn-circle" href="blog.html">
+                                            <i class="fa-solid fa-arrow-right"></i>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
-                    </div>
-                    <div class="col-lg-5">
-                        <div>
-                            <h2 class="td-testimonial-title mb-30 td-text-invert">News from <br> <span>Parody</span></h2>
-                        </div>
-                    </div>
-                    <div class="col-lg-4">
-                        <div class="mb-30">
-                            <p class="mb-35">We are excited for our work and how it positively
-                                mpacts clients. With over 12 years of experience
-                                we have been constantly</p>
-                            <div class="td-btn-group">
-                                <a class="td-btn-circle" href="blog.html">
-                                    <i class="fa-solid fa-arrow-right"></i>
-                                </a>
-                                <a class="td-btn-2 td-btn-primary" href="blog.html">view ALL POST</a>
-                                <a class="td-btn-circle" href="blog.html">
-                                    <i class="fa-solid fa-arrow-right"></i>
-                                </a>
+                        <div class="row">
+                            <div class="col-xl-4 col-lg-6 col-md-6">
+                                <div class="td-blog-wrap mb-30 wow fadeInLeft" data-wow-delay=".3s" data-wow-duration="1s">
+                                    <div class="td-blog-thumb fix mb-25">
+                                        <img class="w-100" src="assets/img/blog/thumb.jpg" alt="">
+                                    </div>
+                                    <div class="td-blog-content">
+                                        <h3 class="td-blog-title mb-30"><a href="blog-details.html">Our strategic planning ensures
+                                                your brand's vision aligns with
+                                                market opportunities</a></h3>
+                                        <div class="td-blog-cetagory d-flex align-items-center">
+                                            <span class="cetagory">Development</span>
+                                            <span class="td-border ml-20 mr-15 d-inline-block"></span>
+                                            <span class="dates">August 12, 2024</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-4 col-lg-6 col-md-6">
+                                <div class="td-blog-wrap mb-30 wow fadeInUp" data-wow-delay=".3s" data-wow-duration="1s">
+                                    <div class="td-blog-thumb fix mb-25">
+                                        <img class="w-100" src="assets/img/blog/thumb-2.jpg" alt="">
+                                    </div>
+                                    <div class="td-blog-content">
+                                        <h3 class="td-blog-title mb-30"><a href="blog-details.html">The complex but awesome CSS
+                                                border-image proper for web
+                                                design company</a></h3>
+                                        <div class="td-blog-cetagory d-flex align-items-center">
+                                            <span class="cetagory">Development</span>
+                                            <span class="td-border ml-20 mr-15 d-inline-block"></span>
+                                            <span class="dates">August 12, 2024</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-4 col-lg-6 col-md-6">
+                                <div class="td-blog-wrap mb-30 wow fadeInRight" data-wow-delay=".3s" data-wow-duration="1s">
+                                    <div class="td-blog-thumb fix mb-25">
+                                        <img class="w-100" src="assets/img/blog/thumb-3.jpg" alt="">
+                                    </div>
+                                    <div class="td-blog-content">
+                                        <h3 class="td-blog-title mb-30"><a href="blog-details.html">Our strategic planning ensures
+                                                your brand's vision aligns with
+                                                market opportunities</a></h3>
+                                        <div class="td-blog-cetagory d-flex align-items-center">
+                                            <span class="cetagory">Development</span>
+                                            <span class="td-border ml-20 mr-15 d-inline-block"></span>
+                                            <span class="dates">August 12, 2024</span>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="row">
-                    <div class="col-xl-4 col-lg-6 col-md-6">
-                        <div class="td-blog-wrap mb-30 wow fadeInLeft" data-wow-delay=".3s" data-wow-duration="1s">
-                            <div class="td-blog-thumb fix mb-25">
-                                <img class="w-100" src="assets/img/blog/thumb.jpg" alt="">
-                            </div>
-                            <div class="td-blog-content">
-                                <h3 class="td-blog-title mb-30"><a href="blog-details.html">Our strategic planning ensures
-                                        your brand's vision aligns with
-                                        market opportunities</a></h3>
-                                <div class="td-blog-cetagory d-flex align-items-center">
-                                    <span class="cetagory">Development</span>
-                                    <span class="td-border ml-20 mr-15 d-inline-block"></span>
-                                    <span class="dates">August 12, 2024</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-lg-6 col-md-6">
-                        <div class="td-blog-wrap mb-30 wow fadeInUp" data-wow-delay=".3s" data-wow-duration="1s">
-                            <div class="td-blog-thumb fix mb-25">
-                                <img class="w-100" src="assets/img/blog/thumb-2.jpg" alt="">
-                            </div>
-                            <div class="td-blog-content">
-                                <h3 class="td-blog-title mb-30"><a href="blog-details.html">The complex but awesome CSS
-                                        border-image proper for web
-                                        design company</a></h3>
-                                <div class="td-blog-cetagory d-flex align-items-center">
-                                    <span class="cetagory">Development</span>
-                                    <span class="td-border ml-20 mr-15 d-inline-block"></span>
-                                    <span class="dates">August 12, 2024</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-lg-6 col-md-6">
-                        <div class="td-blog-wrap mb-30 wow fadeInRight" data-wow-delay=".3s" data-wow-duration="1s">
-                            <div class="td-blog-thumb fix mb-25">
-                                <img class="w-100" src="assets/img/blog/thumb-3.jpg" alt="">
-                            </div>
-                            <div class="td-blog-content">
-                                <h3 class="td-blog-title mb-30"><a href="blog-details.html">Our strategic planning ensures
-                                        your brand's vision aligns with
-                                        market opportunities</a></h3>
-                                <div class="td-blog-cetagory d-flex align-items-center">
-                                    <span class="cetagory">Development</span>
-                                    <span class="td-border ml-20 mr-15 d-inline-block"></span>
-                                    <span class="dates">August 12, 2024</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- td-blog-area-end -->
+                <!-- td-blog-area-end -->
 
-        <!-- td-cta-area-start -->
-        <div class="td-cta-area">
-            <div class="container">
-                <div class="col-lg-12">
-                    <div class="td-cta-wrap p-relative z-index-1 text-center pt-135 pb-135 include-bg" data-background="assets/img/cta/bg.jpg">
-                        <img class="td-cta-shape d-none d-xl-block" src="assets/img/cta/cta.png" alt="">
-                        <h2 class="title p-relative d-inline-block">
-                            <img class="td-cta-shape-2 d-none d-md-block" src="assets/img/cta/cta-2.png" alt="">
-                            <a class="td-text-invert" href="contact.html">
-                                HAVE A<br>
-                                PROJECTS<br>
-                                IN MINDS
-                            </a>
-                        </h2>
+                <!-- td-cta-area-start -->
+                <div class="td-cta-area">
+                    <div class="container">
+                        <div class="col-lg-12">
+                            <div class="td-cta-wrap p-relative z-index-1 text-center pt-135 pb-135 include-bg" data-background="assets/img/cta/bg.jpg">
+                                <img class="td-cta-shape d-none d-xl-block" src="assets/img/cta/cta.png" alt="">
+                                <h2 class="title p-relative d-inline-block">
+                                    <img class="td-cta-shape-2 d-none d-md-block" src="assets/img/cta/cta-2.png" alt="">
+                                    <a class="td-text-invert" href="contact.html">
+                                        HAVE A<br>
+                                        PROJECTS<br>
+                                        IN MINDS
+                                    </a>
+                                </h2>
+                            </div>
+                        </div>
                     </div>
                 </div>
-            </div>
-        </div>
-        <!-- td-cta-area-end -->
-        </main>
-        <!-- main-area-end -->
+                <!-- td-cta-area-end -->
+            </main>
+            <!-- main-area-end -->
 
-          <!-- footer Include-->
-    <?php include 'components/footer.php'; ?>        
-    </div>
+            <!-- footer Include-->
+            <?php include 'components/footer.php'; ?>
+            <!-- footer Include ended-->
+        </div>
     </div>
 
 
