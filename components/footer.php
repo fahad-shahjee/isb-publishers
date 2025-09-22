@@ -41,7 +41,7 @@
                             <div class="td-footer-widget mr-30 mb-30">
                                 <h3 class="td-footer-title mb-30">Address</h3>
                                 <a class="td-footer-location mb-45 d-inline-block" href="#">1322 N Pine Hills Road, Orlando, Fl, 32808</a>
-                                <a class="td-footer-location mb-45 d-inline-block" href="#">(786) 949-4620</a><br>
+                                <a class="td-footer-location mb-45 d-inline-block" href="#">(786) 949-4620</a>
                                 <a class="td-footer-location mb-45 d-inline-block" href="#">info@isbpublisher.com</a>
                                 <div class="td-footer-form p-relative">
                                     <form action="#">
