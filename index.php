@@ -35,49 +35,7 @@
 </head>
 
 <body>
-
-    <!-- Preloader Start -->
-    <div id="preloader" class="preloader">
-        <div class="animation-preloader">
-            <div class="spinner">
-            </div>
-            <div class="txt-loading">
-                <span data-text-preloader="I" class="letters-loading">I</span>
-                <span data-text-preloader="S" class="letters-loading">S</span>
-                <span data-text-preloader="B" class="letters-loading">B</span>
-                <span data-text-preloader="G" class="letters-loading">G</span>
-                <span data-text-preloader="H" class="letters-loading">H</span>
-                <span data-text-preloader="O" class="letters-loading">O</span>
-                <span data-text-preloader="S" class="letters-loading">S</span>
-                <span data-text-preloader="T" class="letters-loading">T</span>
-                <span data-text-preloader="W" class="letters-loading">W</span>
-                <span data-text-preloader="R" class="letters-loading">R</span>
-                <span data-text-preloader="I" class="letters-loading">I</span>
-                <span data-text-preloader="T" class="letters-loading">T</span>
-                <span data-text-preloader="E" class="letters-loading">E</span>
-                <span data-text-preloader="R" class="letters-loading">R</span>
-                <span data-text-preloader="S" class="letters-loading">S</span>
-            </div>
-            <p class="text-center">Loading</p>
-        </div>
-        <div class="loader">
-            <div class="row">
-                <div class="col-3 loader-section section-left">
-                    <div class="bg"></div>
-                </div>
-                <div class="col-3 loader-section section-left">
-                    <div class="bg"></div>
-                </div>
-                <div class="col-3 loader-section section-right">
-                    <div class="bg"></div>
-                </div>
-                <div class="col-3 loader-section section-right">
-                    <div class="bg"></div>
-                </div>
-            </div>
-        </div>
-    </div>
-
+    
     <!-- Start Cursor Pointer -->
     <div class="mouse-follower">
         <span class="cursor-outline"></span>
@@ -276,6 +234,52 @@
                     </div>
                 </div>
                 <!-- td-about-area-end -->
+
+                <!-- td-counter-area-start -->
+                <div class="td-counter-area td-counter-2-wrap pt-10 pb-160" style="padding-bottom: 40px;">
+                    <div class="container">
+                        <div class="row gx-0">
+                            <div class="col-xl-3 col-lg-6 col-md-6">
+                                <div class="td-counter-4-item p-relative">
+                                    <h2 class="title mb-135"><span class="odometer" data-count="400">0</span>+</h2>
+                                    <div class="d-flex align-items-center justify-content-between">
+                                        <h5 class="position">01</h5>
+                                        <span class="para">Authors<br> Trust Us</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-3 col-lg-6 col-md-6">
+                                <div class="td-counter-4-item p-relative">
+                                    <h2 class="title mb-135"><span class="odometer" data-count="86">0</span>%</h2>
+                                    <div class="d-flex align-items-center justify-content-between">
+                                        <h5 class="position">02</h5>
+                                        <span class="para">Customer of <br> Recurrence</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-3 col-lg-6 col-md-6">
+                                <div class="td-counter-4-item p-relative">
+                                    <h2 class="title mb-135"><span class="odometer" data-count="3000">0</span></h2>
+                                    <div class="d-flex align-items-center justify-content-between">
+                                        <h5 class="position">03</h5>
+                                        <span class="para">Editors <br> and writers</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-3 col-lg-6 col-md-6">
+                                <div class="td-counter-4-item p-relative">
+                                    <h2 class="title mb-135"><span class="odometer" data-count="100">0</span>%</h2>
+                                    <div class="d-flex align-items-center justify-content-between">
+                                        <h5 class="position">04</h5>
+                                        <span class="para">Client <br> Satisfaction</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- td-counter-area-end -->
+
                  <!-- td-contact-area-start -->
                 <div class="td-contact-area td-contact-2-wrap pt-85 fix pb-50">
                     <div class="td-contact-7-text-slider">
@@ -485,51 +489,6 @@
                     </div>
                 </div>
                 <!-- td-service-area-end -->
-
-                <!-- td-counter-area-start -->
-                <div class="td-counter-area td-counter-2-wrap pt-10 pb-160">
-                    <div class="container">
-                        <div class="row gx-0">
-                            <div class="col-xl-3 col-lg-6 col-md-6">
-                                <div class="td-counter-4-item p-relative">
-                                    <h2 class="title mb-135"><span class="odometer" data-count="400">0</span>+</h2>
-                                    <div class="d-flex align-items-center justify-content-between">
-                                        <h5 class="position">01</h5>
-                                        <span class="para">Authors<br> Trust Us</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-xl-3 col-lg-6 col-md-6">
-                                <div class="td-counter-4-item p-relative">
-                                    <h2 class="title mb-135"><span class="odometer" data-count="86">0</span>%</h2>
-                                    <div class="d-flex align-items-center justify-content-between">
-                                        <h5 class="position">02</h5>
-                                        <span class="para">Customer of <br> Recurrence</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-xl-3 col-lg-6 col-md-6">
-                                <div class="td-counter-4-item p-relative">
-                                    <h2 class="title mb-135"><span class="odometer" data-count="3000">0</span></h2>
-                                    <div class="d-flex align-items-center justify-content-between">
-                                        <h5 class="position">03</h5>
-                                        <span class="para">Editors <br> and writers</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-xl-3 col-lg-6 col-md-6">
-                                <div class="td-counter-4-item p-relative">
-                                    <h2 class="title mb-135"><span class="odometer" data-count="100">0</span>%</h2>
-                                    <div class="d-flex align-items-center justify-content-between">
-                                        <h5 class="position">04</h5>
-                                        <span class="para">Client <br> Satisfaction</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- td-counter-area-end -->
 
                 <!-- td-portfolio-area-start -->
                 <div class="td-portfolio-area pt-125">
@@ -1067,7 +1026,7 @@
                 <!-- td-video-area-end -->
 
                 <!-- td-testimonial-area-start -->
-                <div class="td-testimonial-area grey-bg-2 pt-155 pb-120">
+                <div class="td-testimonial-area grey-bg-2 pt-155 pb-120" style="padding-bottom: 50px; margin-top: -7px;">
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-3 col-md-4">
@@ -1144,44 +1103,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-12">
-                                <div class="td-brand-wrap">
-                                    <div class="swiper-container td-brand-slide-active">
-                                        <div class="swiper-wrapper slide-transtion">
-                                            <div class="swiper-slide">
-                                                <div class="td-brand-item">
-                                                    <img src="assets/img/brand/logo-1.png" alt="">
-                                                </div>
-                                            </div>
-                                            <div class="swiper-slide">
-                                                <div class="td-brand-item">
-                                                    <img src="assets/img/brand/logo-2.png" alt="">
-                                                </div>
-                                            </div>
-                                            <div class="swiper-slide">
-                                                <div class="td-brand-item">
-                                                    <img src="assets/img/brand/logo-3.png" alt="">
-                                                </div>
-                                            </div>
-                                            <div class="swiper-slide">
-                                                <div class="td-brand-item">
-                                                    <img src="assets/img/brand/logo-4.png" alt="">
-                                                </div>
-                                            </div>
-                                            <div class="swiper-slide">
-                                                <div class="td-brand-item">
-                                                    <img src="assets/img/brand/logo-5.png" alt="">
-                                                </div>
-                                            </div>
-                                            <div class="swiper-slide">
-                                                <div class="td-brand-item">
-                                                    <img src="assets/img/brand/logo-3.png" alt="">
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                            
                         </div>
                     </div>
                 </div>

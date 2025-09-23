@@ -23,7 +23,15 @@ $isActive = function ($files) use ($currentPage) {
                                 <li class="menu-item-has-children<?php if ($isActive('index.php')) echo ' active'; ?>"><a href="index.php">Home</a>
                                 </li>
                                 <li<?php echo $isActive('about.php') ? ' class="active"' : ''; ?>><a href="about.php">About</a></li>
-                                <li<?php echo $isActive('service.php') ? ' class="active"' : ''; ?>><a href="service.php">Service</a></li>
+                                <li<?php echo $isActive('service.php') ? ' class="active"' : ''; ?>><a href="service.php">Service</a>
+                                <ul class="sub-menu">
+                                    <li><a href="/services-pages/ghostwriting.php">Ghostwriting</a></li>
+                                    <li><a href="/services-pages/editing-proofreading.php">Editing & Proofreading</a></li>
+                                    <li><a href="/services-pages/illustration.php">Illustration</a></li>
+                                    <li><a href="/services-pages/publishing-strategy.php">Publishing Strategy</a></li>
+                                    <li><a href="/services-pages/marketing-plan.php">Marketing Plan</a></li>
+                                </ul>
+                                </li>
                                 <li<?php echo $isActive('portfolio.php') ? ' class="active"' : ''; ?>><a href="portfolio.php">Portfolio</a></li>
                                 <li class="menu-item-has-children<?php if ($isActive('blog.php')) echo ' active'; ?>"><a href="blog.php">Blog</a>
                                 <li<?php echo $isActive('contact.php') ? ' class="active"' : ''; ?>><a href="contact.php">Contact</a></li>
@@ -34,7 +42,7 @@ $isActive = function ($files) use ($currentPage) {
             </div>
             <div class="col-xxl-2 col-xl-3 col-8">
                 <div class="td-header-right text-end">
-                    <a class="td-btn-12" href="contact.html">Let’s Talk</a>
+                    <a class="td-btn-12" href="contact.php">Let’s Talk</a>
                      <div class="d-inline-block ml-10">
                          <div class="tdmenu-offcanvas-open-btn mobile-nav-toggler">
                             <div class="tdmenu-offcanvas-open-bar d-inline-block">
@@ -69,21 +77,19 @@ $isActive = function ($files) use ($currentPage) {
         <div class="offCanvas__side-info mb-30 d-none ml-25 mr-25 d-xl-block">
             <div class="contact-list mb-30">
                 <h4>Office Address</h4>
-                <p>123/A, Miranda City Likaoli <br> Prikano, Dope</p>
+                <p>1322 N Pine Hills Road, Orlando, Fl, 32808</p>
             </div>
             <div class="contact-list mb-30">
                 <h4>Phone Number</h4>
-                <p>+0989 7876 9865 9</p>
-                <p>+(090) 8765 86543 85</p>
+                <p>(786) 949-4620</p>
             </div>
             <div class="contact-list mb-30">
                 <h4>Email Address</h4>
-                <p>info@example.com</p>
-                <p>example.mail@hum.com</p>
+                <p>info@isbpublisher.com</p>
             </div>
         </div>
         <div class="mt-30 ml-25 mr-25">
-            <a href="contact.html" class="td-btn td-btn-menu-black w-100 d-inline-block td-btn-switch-animation ml-10">
+            <a href="contact.php" class="td-btn td-btn-menu-black w-100 d-inline-block td-btn-switch-animation ml-10">
                 <span class="d-flex align-items-center justify-content-center">
                    <span class="btn-text"> Contact Us </span>
                    <span class="btn-icon"><i class="fa-sharp fa-solid fa-angle-right"></i></span>
