@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Parody - Digital Agency Portfolio Html Template</title>
-    <meta name="description" content="Parody - Digital Agency Portfolio Html Template">
+    <title>Services - ISB Ghostwriters</title>
+    <meta name="description" content="Showcasing the services offered by ISB Ghostwriters.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="shortcut icon" type="image/x-icon" href="assets/img/logo/favicon.png">
@@ -148,9 +148,9 @@
                                     <div class="td-service-pin-content-inner pt-40 pb-40 ml-100">
                                         <div class="td-service-pin-subtitle mb-15">
                                             <span class="number">01</span>
-                                            <span> Design Studio</span>
+                                            
                                         </div>
-                                        <h2 class="td-service-pin-title mb-30">Logos and branding</h2>
+                                        <h2 class="td-service-pin-title mb-30">Ghostwriting</h2>
                                         <div class="td-service-pin-content  ml-50">
                                             <p class="mb-40">We create your graphic designs according to your<br> budget and your needs. Reveal your brand image<br> and capture your audience.</p>
                                             <ul>
@@ -184,9 +184,8 @@
                                     <div class="td-service-pin-content-inner pt-40 pb-40 ml-100">
                                         <div class="td-service-pin-subtitle mb-15">
                                             <span class="number">02</span>
-                                            <span> Product designing</span>
                                         </div>
-                                        <h2 class="td-service-pin-title mb-30">Product designing</h2>
+                                        <h2 class="td-service-pin-title mb-30">Editing & Proofreading</h2>
                                         <div class="td-service-pin-content  ml-50">
                                             <p class="mb-40">We create your graphic designs according to your<br> budget and your needs. Reveal your brand image<br> and capture your audience.</p>
                                             <ul>
@@ -220,9 +219,8 @@
                                     <div class="td-service-pin-content-inner pt-40 pb-40 ml-100">
                                         <div class="td-service-pin-subtitle mb-15">
                                             <span class="number">03</span>
-                                            <span> Design Studio</span>
                                         </div>
-                                        <h2 class="td-service-pin-title mb-30">Apps development</h2>
+                                        <h2 class="td-service-pin-title mb-30">Illustration</h2>
                                         <div class="td-service-pin-content  ml-50">
                                             <p class="mb-40">We create your graphic designs according to your<br> budget and your needs. Reveal your brand image<br> and capture your audience.</p>
                                             <ul>
@@ -256,9 +254,43 @@
                                     <div class="td-service-pin-content-inner pt-40 pb-40 ml-100">
                                         <div class="td-service-pin-subtitle mb-15">
                                             <span class="number">04</span>
-                                            <span> Design Studio</span>
                                         </div>
-                                        <h2 class="td-service-pin-title mb-30">Digital marketing</h2>
+                                        <h2 class="td-service-pin-title mb-30">Publishing Strategy</h2>
+                                        <div class="td-service-pin-content  ml-50">
+                                            <p class="mb-40">We create your graphic designs according to your<br> budget and your needs. Reveal your brand image<br> and capture your audience.</p>
+                                            <ul>
+                                                <li>Logo Design</li>
+                                                <li>Graphic identity </li>
+                                                <li>Business communication</li>
+                                                <li>Web design</li>
+                                            </ul>
+                                            <div class="td-btn-group td-btn-group-border pt-50">
+                                                <a class="td-btn-circle" href="service-details.html">
+                                                    <i class="fa-solid fa-arrow-right"></i>
+                                                </a>
+                                                <a class="td-btn-2 td-btn-primary" href="service-details.html">VIEW DETAILS</a>
+                                                <a class="td-btn-circle" href="service-details.html">
+                                                    <i class="fa-solid fa-arrow-right"></i>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="black-bg td-service-pin-item-panel">
+                            <div class="row align-items-center">
+                                <div class="col-lg-6">
+                                    <div class="td-service-pin-thumb">
+                                        <img class="w-100" src="assets/img/service/details/thumb-4.jpg" alt="">
+                                    </div>
+                                </div>
+                                <div class="col-lg-6">
+                                    <div class="td-service-pin-content-inner pt-40 pb-40 ml-100">
+                                        <div class="td-service-pin-subtitle mb-15">
+                                            <span class="number">05</span>
+                                        </div>
+                                        <h2 class="td-service-pin-title mb-30">Marketing Plan</h2>
                                         <div class="td-service-pin-content  ml-50">
                                             <p class="mb-40">We create your graphic designs according to your<br> budget and your needs. Reveal your brand image<br> and capture your audience.</p>
                                             <ul>

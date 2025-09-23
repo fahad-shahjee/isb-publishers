@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Parody - Digital Agency Portfolio Html Template</title>
-    <meta name="description" content="Parody - Digital Agency Portfolio Html Template">
+    <title>Portfolio - ISB Ghostwriters</title>
+    <meta name="description" content="Showcasing the work of ISB Ghostwriters.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="shortcut icon" type="image/x-icon" href="assets/img/logo/favicon.png">
