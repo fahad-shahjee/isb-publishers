@@ -59,7 +59,7 @@
                                         <li><a href="about.php">About</a></li>
                                         <li class="menu-item-has-children"><a href="service.php">Services</a>
                                         <ul class="sub-menu">
-                                                <li><a href="/services-pages/ghostwriting.php">Ghostwriting</a></li>
+                                                <li><a href="<?= $BASE_URL ?>services-pages/ghostwriting.php"">Ghostwriting</a></li>
                                                 <li><a href="/services-pages/editing-proofreading.php">Editing & Proofreading</a></li>
                                                 <li><a href="/services-pages/illustration.php">Illustration</a></li>
                                                 <li><a href="/services-pages/publishing-strategy.php">Publishing Strategy</a></li>
