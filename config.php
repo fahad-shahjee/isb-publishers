@@ -5,6 +5,6 @@ if ($_SERVER['HTTP_HOST'] === 'localhost') {
     $BASE_URL = 'http://localhost/isbpublishers/';
 } else {
     // Change this to your live domain when you upload
-    $BASE_URL = 'https://www.yourdomain.com/'; 
+    $BASE_URL = 'https://ivory-shark-915148.hostingersite.com/'; 
 }
 ?>
