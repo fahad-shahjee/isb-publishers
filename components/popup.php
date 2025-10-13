@@ -2,7 +2,7 @@
 <div id="servicePopupOverlay" class="popup-overlay">
   <div class="popup-box">
     <span id="servicePopupClose" class="popup-close">&times;</span>
-    <h2 class="popup-heading">Book a Quick Call & Let’s Get Started.</h2>
+    <h2 class="popup-heading">Book a Quick Call & Let's Get Started.</h2>
 
     <form class="popup-form">
       <div class="popup-row">
@@ -50,7 +50,7 @@
 .popup-box {
   width: 690px;
   height: 540px;
-  background: url('../assets/img/popup/popup.jpg') center/cover no-repeat;
+  background: url('./assets/img/popup/popup.jpg') center/cover no-repeat;
   border: 1px solid #2967aa;
   border-radius: 12px;
   color: #fff;
@@ -135,3 +135,40 @@
   font-weight: bold;
 }
 </style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  // Get the popup elements
+  const popup = document.getElementById('servicePopupOverlay');
+  const closeBtn = document.getElementById('servicePopupClose');
+  const openBtn = document.getElementById('openServicePopup');
+  
+  // Function to open popup
+  function openPopup() {
+    popup.style.display = 'flex';
+    document.body.style.overflow = 'hidden'; // Prevent scrolling when popup is open
+  }
+  
+  // Function to close popup
+  function closePopup() {
+    popup.style.display = 'none';
+    document.body.style.overflow = ''; // Restore scrolling
+  }
+  
+  // Event listeners
+  if (openBtn) {
+    openBtn.addEventListener('click', openPopup);
+  }
+  
+  if (closeBtn) {
+    closeBtn.addEventListener('click', closePopup);
+  }
+  
+  // Close popup when clicking outside the popup box
+  popup.addEventListener('click', function(e) {
+    if (e.target === popup) {
+      closePopup();
+    }
+  });
+});
+</script>

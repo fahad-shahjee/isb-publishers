@@ -75,7 +75,7 @@ $servicePages = [
 
             <div class="col-xxl-2 col-xl-3 col-8">
                 <div class="td-header-right text-end">
-                    <a class="td-btn-12" href="<?= $BASE_URL ?>contact.php">Let’s Talk</a>
+                    <a class="td-btn-12" href="javascript:void(0);" id="openServicePopup">Let's Talk</a>
                     <div class="d-inline-block ml-10">
                         <div class="tdmenu-offcanvas-open-btn mobile-nav-toggler">
                             <div class="tdmenu-offcanvas-open-bar d-inline-block">
@@ -154,6 +154,39 @@ $servicePages = [
 <!-- End Mobile Menu -->
 
 </header>
+
+<!--<< Popup >>-->
+<?php include 'components/popup.php'; ?>
+
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    const popupOverlay = document.getElementById("servicePopupOverlay");
+    const popupClose = document.getElementById("servicePopupClose");
+    const talkButton = document.querySelector(".td-header-2-btn");
+
+    // Open popup
+    talkButton.addEventListener("click", function(e) {
+        e.preventDefault();
+        popupOverlay.style.display = "flex";
+        document.body.style.overflow = "hidden";
+    });
+
+    // Close popup
+    popupClose.addEventListener("click", function() {
+        popupOverlay.style.display = "none";
+        document.body.style.overflow = "auto";
+    });
+
+    // Close popup on outside click
+    popupOverlay.addEventListener("click", function(e) {
+        if (e.target === popupOverlay) {
+            popupOverlay.style.display = "none";
+            document.body.style.overflow = "auto";
+        }
+    });
+});
+</script>
 
 
 
