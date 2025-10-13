@@ -35,7 +35,7 @@
 </head>
 
 <body>
-    
+
     <!-- Start Cursor Pointer -->
     <div class="mouse-follower">
         <span class="cursor-outline"></span>
@@ -58,104 +58,6 @@
 
             <!-- main-area -->
             <main>
-                <!-- td-hero-area-start
-                <div class="td-hero-area td-hero-spacing p-relative fix z-index-1">
-                    <img class="td-hero-shape p-absolute" src="assets/img/hero/shape.png" alt="">
-                    <div class="container">
-                        <div class="row justify-content-center">
-                            <div class="col-lg-10">
-                                <div class="td-hero-content">
-                                    <div class="td-hero-title text-center  wow fadeInUp" data-wow-delay=".5s" data-wow-duration="1s">
-                                        <h2 class="title">From First</h2>
-                                        <h2 class="title mb-0 d-flex align-items-center justify-content-center">
-                                            <img class="mr-30 d-none d-sm-block" src="assets/img/hero/thumb.jpg" alt="">
-                                            Draft to
-                                            <img class="ml-35 d-none d-sm-block" src="assets/img/hero/thumb-2.jpg" alt="">
-                                        </h2>
-                                        <h2 class="title">Global Bookshelf</h2>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="td-hero-text-slide  wow fadeInUp" data-wow-delay=".7s" data-wow-duration="1s">
-                        <div class="container-fluid">
-                            <div class="row">
-                                <div class="swiper-container td-hero-text-slide-active">
-                                    <div class="swiper-wrapper slide-transtion">
-                                        <div class="swiper-slide">
-                                            <div>
-                                                <h2 class="td-hero-bigtext">Creative </h2>
-                                            </div>
-                                        </div>
-                                        <div class="swiper-slide">
-                                            <div>
-                                                <h2 class="td-hero-bigtext ">Journeys</h2>
-                                            </div>
-                                        </div>
-                                        <div class="swiper-slide">
-                                            <div>
-                                                <h2 class="td-hero-bigtext">Creative </h2>
-                                            </div>
-                                        </div>
-                                        <div class="swiper-slide">
-                                            <div>
-                                                <h2 class="td-hero-bigtext ">Journeys </h2>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="pb-60">
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-12">
-                                    <div class="td-hero-feature">
-                                        <ul>
-                                            <li>
-                                                <span>
-                                                    <svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                        <path d="M24.1129 11.043C21.8064 11.043 19.2903 12.7204 13.2097 12.8952C17.4731 8.59678 20.5833 8.14248 22.2607 6.46506C22.6452 6.08065 22.8199 5.62635 22.8199 5.24194C22.8199 4.19355 21.8064 3.21506 20.828 3.21506C20.3737 3.21506 19.8495 3.38979 19.465 3.7742C17.8575 5.41667 17.2285 8.35215 13.1048 12.7903C13.0699 6.70968 14.957 4.12366 14.957 1.85215C14.957 0.594087 14.0134 0 13 0C12.0564 0 11.043 0.594087 11.043 1.8871C11.043 4.12366 12.7204 6.70968 12.8952 12.7903C8.7715 8.42205 8.21236 5.41667 6.56989 3.7742C6.15054 3.38979 5.69624 3.18011 5.24193 3.18011C4.12366 3.18011 3.18011 4.19355 3.18011 5.24194C3.18011 5.62635 3.35484 6.08065 3.73925 6.46506C5.41667 8.21237 8.52688 8.59678 12.7903 12.8952C6.74462 12.7204 4.22849 11.043 1.95699 11.043C0.663978 11.043 0 12.0565 0 13.0699C0 14.0134 0.594086 14.957 1.85215 14.957C4.22849 14.957 6.74462 13.0699 12.8253 13.0699C8.35215 17.2285 5.41667 17.8575 3.77419 19.4651C3.38978 19.8495 3.18011 20.3737 3.18011 20.828C3.18011 21.8763 4.19355 22.8199 5.24193 22.8199C5.62634 22.8199 6.08064 22.6452 6.46505 22.2608C8.14247 20.5833 8.59677 17.4731 12.8952 13.2097C12.7204 19.2903 11.043 21.8065 11.043 24.1129C11.043 25.4059 12.0564 26 13 26C14.0134 26 14.957 25.4059 14.957 24.1479C14.957 21.8065 13.0699 19.2903 13.1048 13.2097C17.4032 17.4731 17.8575 20.5833 19.5349 22.2608C19.9194 22.6452 20.3737 22.8199 20.7581 22.8199C21.8064 22.8199 22.7849 21.8065 22.7849 20.828C22.7849 20.3737 22.6102 19.8495 22.2258 19.4651C20.5833 17.8575 17.6478 17.2285 13.1747 13.0699C19.2903 13.0699 21.8064 14.957 24.1478 14.957C25.4059 14.957 26 14.0134 26 13C26 12.0565 25.4059 11.043 24.1129 11.043Z" fill="#1C1D1F" />
-                                                    </svg>
-                                                </span>FULL-SERVICE PUBLISHING HOUSE
-                                            </li>
-                                            <li class="td-border"></li>
-                                            <li>
-                                                <span>
-                                                    <svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                        <path d="M24.1129 11.043C21.8064 11.043 19.2903 12.7204 13.2097 12.8952C17.4731 8.59678 20.5833 8.14248 22.2607 6.46506C22.6452 6.08065 22.8199 5.62635 22.8199 5.24194C22.8199 4.19355 21.8064 3.21506 20.828 3.21506C20.3737 3.21506 19.8495 3.38979 19.465 3.7742C17.8575 5.41667 17.2285 8.35215 13.1048 12.7903C13.0699 6.70968 14.957 4.12366 14.957 1.85215C14.957 0.594087 14.0134 0 13 0C12.0564 0 11.043 0.594087 11.043 1.8871C11.043 4.12366 12.7204 6.70968 12.8952 12.7903C8.7715 8.42205 8.21236 5.41667 6.56989 3.7742C6.15054 3.38979 5.69624 3.18011 5.24193 3.18011C4.12366 3.18011 3.18011 4.19355 3.18011 5.24194C3.18011 5.62635 3.35484 6.08065 3.73925 6.46506C5.41667 8.21237 8.52688 8.59678 12.7903 12.8952C6.74462 12.7204 4.22849 11.043 1.95699 11.043C0.663978 11.043 0 12.0565 0 13.0699C0 14.0134 0.594086 14.957 1.85215 14.957C4.22849 14.957 6.74462 13.0699 12.8253 13.0699C8.35215 17.2285 5.41667 17.8575 3.77419 19.4651C3.38978 19.8495 3.18011 20.3737 3.18011 20.828C3.18011 21.8763 4.19355 22.8199 5.24193 22.8199C5.62634 22.8199 6.08064 22.6452 6.46505 22.2608C8.14247 20.5833 8.59677 17.4731 12.8952 13.2097C12.7204 19.2903 11.043 21.8065 11.043 24.1129C11.043 25.4059 12.0564 26 13 26C14.0134 26 14.957 25.4059 14.957 24.1479C14.957 21.8065 13.0699 19.2903 13.1048 13.2097C17.4032 17.4731 17.8575 20.5833 19.5349 22.2608C19.9194 22.6452 20.3737 22.8199 20.7581 22.8199C21.8064 22.8199 22.7849 21.8065 22.7849 20.828C22.7849 20.3737 22.6102 19.8495 22.2258 19.4651C20.5833 17.8575 17.6478 17.2285 13.1747 13.0699C19.2903 13.0699 21.8064 14.957 24.1478 14.957C25.4059 14.957 26 14.0134 26 13C26 12.0565 25.4059 11.043 24.1129 11.043Z" fill="#1C1D1F" />
-                                                    </svg>
-                                                </span>GLOBAL REACH
-                                            </li>
-                                            <li class="td-border"></li>
-                                            <li>
-                                                <span>
-                                                    <svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                        <path d="M24.1129 11.043C21.8064 11.043 19.2903 12.7204 13.2097 12.8952C17.4731 8.59678 20.5833 8.14248 22.2607 6.46506C22.6452 6.08065 22.8199 5.62635 22.8199 5.24194C22.8199 4.19355 21.8064 3.21506 20.828 3.21506C20.3737 3.21506 19.8495 3.38979 19.465 3.7742C17.8575 5.41667 17.2285 8.35215 13.1048 12.7903C13.0699 6.70968 14.957 4.12366 14.957 1.85215C14.957 0.594087 14.0134 0 13 0C12.0564 0 11.043 0.594087 11.043 1.8871C11.043 4.12366 12.7204 6.70968 12.8952 12.7903C8.7715 8.42205 8.21236 5.41667 6.56989 3.7742C6.15054 3.38979 5.69624 3.18011 5.24193 3.18011C4.12366 3.18011 3.18011 4.19355 3.18011 5.24194C3.18011 5.62635 3.35484 6.08065 3.73925 6.46506C5.41667 8.21237 8.52688 8.59678 12.7903 12.8952C6.74462 12.7204 4.22849 11.043 1.95699 11.043C0.663978 11.043 0 12.0565 0 13.0699C0 14.0134 0.594086 14.957 1.85215 14.957C4.22849 14.957 6.74462 13.0699 12.8253 13.0699C8.35215 17.2285 5.41667 17.8575 3.77419 19.4651C3.38978 19.8495 3.18011 20.3737 3.18011 20.828C3.18011 21.8763 4.19355 22.8199 5.24193 22.8199C5.62634 22.8199 6.08064 22.6452 6.46505 22.2608C8.14247 20.5833 8.59677 17.4731 12.8952 13.2097C12.7204 19.2903 11.043 21.8065 11.043 24.1129C11.043 25.4059 12.0564 26 13 26C14.0134 26 14.957 25.4059 14.957 24.1479C14.957 21.8065 13.0699 19.2903 13.1048 13.2097C17.4032 17.4731 17.8575 20.5833 19.5349 22.2608C19.9194 22.6452 20.3737 22.8199 20.7581 22.8199C21.8064 22.8199 22.7849 21.8065 22.7849 20.828C22.7849 20.3737 22.6102 19.8495 22.2258 19.4651C20.5833 17.8575 17.6478 17.2285 13.1747 13.0699C19.2903 13.0699 21.8064 14.957 24.1478 14.957C25.4059 14.957 26 14.0134 26 13C26 12.0565 25.4059 11.043 24.1129 11.043Z" fill="#1C1D1F" />
-                                                    </svg>
-                                                </span>AUTHOR-FIRST APPROACH
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="container container-1680">
-                        <div class="row">
-                            <div class="col-12">
-                                <div class="td-hero-bottom-thumb">
-                                    <img data-speed="0.6" class="w-100 round-2" src="assets/img/hero/bg-thumb.jpg" alt="">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div> -->
-                <!-- td-hero-area-end -->
-
-
                 <!-- td-hero-area-start -->
                 <div class="td-hero-area td-hero-3-spacing fix include-bg" data-background="assets/img/hero/hero-3/bg.png">
                     <div class="container">
@@ -169,12 +71,16 @@
                                     <div class="td-hero-3-content pt-100 p-relative wow fadeInUp" data-wow-delay=".3s" data-wow-duration="1s">
                                         <!-- <img class="td-hero-3-shape" src="assets/img/hero/hero-3/icon.png" alt=""> -->
                                         <div class="row align-items-center">
+                                            <!-- HTML: wrap the main column content with the tel: anchor -->
                                             <div class="col-xxl-2 col-xl-2 col-lg-3">
-                                                <div class="p-relative mb-30 d-inline-block">
-                                                    <img class="likes" src="assets/img/hero/hero-3/like.png" alt="">
-                                                    <img class="round-text td-live-anim-spin" src="assets/img/hero/hero-3/text.png" alt="">
-                                                </div>
+                                                <a class="call-link" href="tel:+17869494620" aria-label="Call (786) 949-4620" onclick="window.location.href='tel:+17869494620'">
+                                                    <div class="p-relative mb-30 d-inline-block">
+                                                        <img class="likes" src="assets/img/hero/hero-3/like.png" alt="Call (786) 949-4620">
+                                                        <img class="round-text td-live-anim-spin" src="assets/img/hero/hero-3/text.png" alt="">
+                                                    </div>
+                                                </a>
                                             </div>
+
                                             <div class="col-xxl-6 col-xl-5 col-lg-4">
                                                 <div class="td-hero-3-border mb-30 d-block"></div>
                                             </div>
@@ -212,11 +118,11 @@
                                     <h2 class="td-about-title mb-30 td-text-invert" style="font-size: 40px">Start your journey with ISB Publishers — where expert guidance and creative support lead to publishing success.</h2>
                                     <p class="mb-45">Whether you’re starting fresh, polishing a draft, illustrating a children’s book, self-publishing on Amazon, or building a marketing plan — ISB Publishers provides expert book writing and publishing services to support you at every step. Turn your vision into a bestseller with our dedicated team.</p>
                                     <div class="td-btn-group mb-35">
-                                        <a class="td-btn-circle" href="about.html">
+                                        <a class="td-btn-circle" href="about.php">
                                             <i class="fa-solid fa-arrow-right"></i>
                                         </a>
-                                        <a class="td-btn-2 td-btn-primary" href="about.html">ABOUT US</a>
-                                        <a class="td-btn-circle" href="about.html">
+                                        <a class="td-btn-2 td-btn-primary" href="about.php">ABOUT US</a>
+                                        <a class="td-btn-circle" href="about.php">
                                             <i class="fa-solid fa-arrow-right"></i>
                                         </a>
                                     </div>
@@ -280,11 +186,11 @@
                 </div>
                 <!-- td-counter-area-end -->
 
-                 <!-- td-contact-area-start -->
+                <!-- td-contact-area-start -->
                 <div class="td-contact-area td-contact-2-wrap pt-85 fix pb-50">
                     <div class="td-contact-7-text-slider">
                         <div class="td-contact-7-text-btn text-center pt-30">
-                            <a href="contact.html">
+                            <a href="contact.php">
                                 <img class="td-live-anim-spin" src="assets/img/contact/text.png" alt="">
                                 <span class="icon">
                                     <svg width="29" height="30" viewBox="0 0 29 30" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -365,14 +271,11 @@
                         <div class="row align-items-center">
                             <div class="col-lg-9 col-md-9">
                                 <div class="td-service-2-title-wrap mb-40  wow fadeInLeft" data-wow-delay=".5s" data-wow-duration="1s">
-                                    <span class="td-section-2-subtitle mb-25 d-inline-block">// Our services</span>
+                                    <span class="td-section-2-subtitle mb-25 d-inline-block">Our services</span>
                                     <h2 class="td-section-2-title">Ebook Publishing <br>Services <span>We Provide</span></h2>
                                 </div>
                             </div>
                             <div class="col-lg-3 col-md-3 d-none d-md-block">
-                                <div class="td-service-2-shape mb-40  td-btn-bounce">
-                                    <img src="assets/img/service/service-2/ok.png" alt="">
-                                </div>
                             </div>
                         </div>
                         <div class="row">
@@ -394,12 +297,16 @@
                                         <img class="thumb" src="assets/img/service/service-2/thumb-4.jpg" alt="Service Image">
                                         <img class="shape" src="assets/img/service/service-2/shape.png" alt="">
                                     </div>
+                                    <div class="hover-image">
+                                        <img class="thumb" src="assets/img/service/service-2/thumb-5.jpg" alt="Service Image">
+                                        <img class="shape" src="assets/img/service/service-2/shape.png" alt="">
+                                    </div>
                                 </div>
                             </div>
                             <div class="col-lg-7">
                                 <div class="td-service-2-wrap mb-40">
                                     <div class="td-service-2-item service-item active" data-img="assets/img/service/service-2/thumb.png">
-                                        <a href="service-details.html">
+                                        <a href="service-details.php">
                                             <div class="title d-flex align-items-center mb-10">
                                                 <span class="mr-65">01</span>
                                                 Expert Ghostwriting
@@ -415,7 +322,7 @@
                                         </a>
                                     </div>
                                     <div class="td-service-2-item service-item" data-img="assets/img/service/service-2/thumb.png">
-                                        <a href="service-details.html">
+                                        <a href="service-details.php">
                                             <div class="title d-flex align-items-center mb-10">
                                                 <span class="mr-65">02</span>
                                                 Formating & Proofreading
@@ -431,7 +338,7 @@
                                         </a>
                                     </div>
                                     <div class="td-service-2-item service-item" data-img="assets/img/service/service-2/thumb.png">
-                                        <a href="service-details.html">
+                                        <a href="service-details.php">
                                             <div class="title d-flex align-items-center mb-10">
                                                 <span class="mr-65">03</span>
                                                 Illustration & Layout
@@ -448,7 +355,7 @@
                                     </div>
                                     <!-- 04 - Publishing Strategy -->
                                     <div class="td-service-2-item service-item" data-img="assets/img/service/service-2/thumb.png">
-                                        <a href="service-details.html">
+                                        <a href="service-details.php">
                                             <div class="title d-flex align-items-center mb-10">
                                                 <span class="mr-65">04</span>
                                                 Publishing Strategy
@@ -466,7 +373,7 @@
 
                                     <!-- 05 - Marketing Plan -->
                                     <div class="td-service-2-item service-item" data-img="assets/img/service/service-2/thumb.png">
-                                        <a href="service-details.html">
+                                        <a href="service-details.php">
                                             <div class="title d-flex align-items-center mb-10">
                                                 <span class="mr-65">05</span>
                                                 Marketing Plan
@@ -507,7 +414,7 @@
                                                 <span class="dot"></span>
                                                 <span>Parody</span>
                                             </div>
-                                            <a class="title" href="portfolio-details.html">Colyfate tent</a>
+                                            <a class="title" href="portfolio-details.php">Colyfate tent</a>
                                         </div>
                                     </div>
                                 </div>
@@ -522,7 +429,7 @@
                                                 <span class="dot"></span>
                                                 <span>Parody</span>
                                             </div>
-                                            <a class="title" href="portfolio-details.html">Colyfate tent</a>
+                                            <a class="title" href="portfolio-details.php">Colyfate tent</a>
                                         </div>
                                     </div>
                                 </div>
@@ -537,7 +444,7 @@
                                                 <span class="dot"></span>
                                                 <span>Parody</span>
                                             </div>
-                                            <a class="title" href="portfolio-details.html">Colyfate tent</a>
+                                            <a class="title" href="portfolio-details.php">Colyfate tent</a>
                                         </div>
                                     </div>
                                 </div>
@@ -552,7 +459,7 @@
                                                 <span class="dot"></span>
                                                 <span>Parody</span>
                                             </div>
-                                            <a class="title" href="portfolio-details.html">Colyfate tent</a>
+                                            <a class="title" href="portfolio-details.php">Colyfate tent</a>
                                         </div>
                                     </div>
                                 </div>
@@ -567,7 +474,7 @@
                                                 <span class="dot"></span>
                                                 <span>Parody</span>
                                             </div>
-                                            <a class="title" href="portfolio-details.html">Colyfate tent</a>
+                                            <a class="title" href="portfolio-details.php">Colyfate tent</a>
                                         </div>
                                     </div>
                                 </div>
@@ -582,7 +489,7 @@
                                                 <span class="dot"></span>
                                                 <span>Parody</span>
                                             </div>
-                                            <a class="title" href="portfolio-details.html">Colyfate tent</a>
+                                            <a class="title" href="portfolio-details.php">Colyfate tent</a>
                                         </div>
                                     </div>
                                 </div>
@@ -597,7 +504,7 @@
                                                 <span class="dot"></span>
                                                 <span>Parody</span>
                                             </div>
-                                            <a class="title" href="portfolio-details.html">Colyfate tent</a>
+                                            <a class="title" href="portfolio-details.php">Colyfate tent</a>
                                         </div>
                                     </div>
                                 </div>
@@ -612,7 +519,7 @@
                                                 <span class="dot"></span>
                                                 <span>Parody</span>
                                             </div>
-                                            <a class="title" href="portfolio-details.html">Colyfate tent</a>
+                                            <a class="title" href="portfolio-details.php">Colyfate tent</a>
                                         </div>
                                     </div>
                                 </div>
@@ -633,7 +540,7 @@
                                                 <span class="dot"></span>
                                                 <span>Parody</span>
                                             </div>
-                                            <a class="title" href="portfolio-details.html">Colyfate tent</a>
+                                            <a class="title" href="portfolio-details.php">Colyfate tent</a>
                                         </div>
                                     </div>
                                 </div>
@@ -648,7 +555,7 @@
                                                 <span class="dot"></span>
                                                 <span>Parody</span>
                                             </div>
-                                            <a class="title" href="portfolio-details.html">Colyfate tent</a>
+                                            <a class="title" href="portfolio-details.php">Colyfate tent</a>
                                         </div>
                                     </div>
                                 </div>
@@ -663,7 +570,7 @@
                                                 <span class="dot"></span>
                                                 <span>Parody</span>
                                             </div>
-                                            <a class="title" href="portfolio-details.html">Colyfate tent</a>
+                                            <a class="title" href="portfolio-details.php">Colyfate tent</a>
                                         </div>
                                     </div>
                                 </div>
@@ -678,7 +585,7 @@
                                                 <span class="dot"></span>
                                                 <span>Parody</span>
                                             </div>
-                                            <a class="title" href="portfolio-details.html">Colyfate tent</a>
+                                            <a class="title" href="portfolio-details.php">Colyfate tent</a>
                                         </div>
                                     </div>
                                 </div>
@@ -693,7 +600,7 @@
                                                 <span class="dot"></span>
                                                 <span>Parody</span>
                                             </div>
-                                            <a class="title" href="portfolio-details.html">Colyfate tent</a>
+                                            <a class="title" href="portfolio-details.php">Colyfate tent</a>
                                         </div>
                                     </div>
                                 </div>
@@ -708,7 +615,7 @@
                                                 <span class="dot"></span>
                                                 <span>Parody</span>
                                             </div>
-                                            <a class="title" href="portfolio-details.html">Colyfate tent</a>
+                                            <a class="title" href="portfolio-details.php">Colyfate tent</a>
                                         </div>
                                     </div>
                                 </div>
@@ -723,7 +630,7 @@
                                                 <span class="dot"></span>
                                                 <span>Parody</span>
                                             </div>
-                                            <a class="title" href="portfolio-details.html">Colyfate tent</a>
+                                            <a class="title" href="portfolio-details.php">Colyfate tent</a>
                                         </div>
                                     </div>
                                 </div>
@@ -738,7 +645,7 @@
                                                 <span class="dot"></span>
                                                 <span>Parody</span>
                                             </div>
-                                            <a class="title" href="portfolio-details.html">Colyfate tent</a>
+                                            <a class="title" href="portfolio-details.php">Colyfate tent</a>
                                         </div>
                                     </div>
                                 </div>
@@ -747,7 +654,7 @@
                     </div>
                 </div>
                 <!-- td-portfolio-area-end -->
-<!-- td-feature-area-start -->
+                <!-- td-feature-area-start -->
                 <div class="td-feature-area fix">
 
                     <div class="td-feature-slide-wrap td-feature-2-spacing">
@@ -887,6 +794,88 @@
                     </div>
                 </div>
                 <!-- td-brands-area-end -->
+
+                <!-- td-about-area-start -->
+                <div class="td-about-area td-about-main-spacing pb-140">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-5">
+                                <div class="td-about-main-thumb mb-40 fix td-rounded-10 wow fadeInLeft" data-wow-delay=".5s" data-wow-duration="1s">
+                                    <img data-speed=".9" class="w-100 td-rounded-10" src="assets/img/about/main/thumb.jpg" alt="">
+                                </div>
+                            </div>
+                            <div class="col-lg-7">
+                                <div class="td-about-main-content ml-110 mb-40  wow fadeInRight" data-wow-delay=".5s" data-wow-duration="1s">
+                                    <h3 class="td-about-main-title mb-20">We transform your ideas into living stories.</h3>
+                                    <div class="row">
+                                        <div class="col-lg-5 col-md-5">
+                                            <div class="td-about-main-bigtext">
+                                                <h2>4</h2>
+                                                <span>Years of experience</span>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-7 col-md-7">
+                                            <div class="td-about-main-text mt-30">
+                                                <p class="mb-30">Unlock your writing potential with ISB Ghostwriters. Our expert team transforms your ideas into captivating books through powerful storytelling, creativity, and originality that bring your vision to life.</p>
+                                                <div class="td-btn-group">
+                                                    <a class="td-btn-circle" href="contact.html">
+                                                        <i class="fa-solid fa-arrow-right"></i>
+                                                    </a>
+                                                    <a class="td-btn-2 td-btn-primary" href="contact.php">Contact Us</a>
+                                                    <a class="td-btn-circle" href="contact.php">
+                                                        <i class="fa-solid fa-arrow-right"></i>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- td-about-area-end -->
+
+                <!-- td-about-main-feature-area-start -->
+                <div class="td-about-main-feature-area pt-150 pb-165" style="padding-bottom: 0px;">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-xl-9">
+                                <div class="td-about-main-feature-wrap">
+                                    <h2 class="td-about-main-feature-title mb-70 td-text-invert">We are a creative studio that specializes
+                                        in providing high-quality design and branding
+                                        solutions to businesses and individuals. Our
+                                        team is composed of talented designers,
+                                        developers, and marketers.!</h2>
+                                    <div class="row">
+                                        <div class="col-lg-5 d-none d-md-block">
+                                            <div class="td-about-main-feature-shape text-center ml-70 mb-40">
+                                                <img src="assets/img/about/main/shape.png" alt="">
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-7">
+                                            <div class="td-about-main-feature-list">
+                                                <ul>
+                                                    <li>Art direction</li>
+                                                    <li>Branding</li>
+                                                    <li>Content Production</li>
+                                                    <li>User Interface Design</li>
+                                                    <li>Animation</li>
+                                                    <li>Brand Identity</li>
+                                                    <li>User Interface</li>
+                                                    <li>User Experience</li>
+                                                    <li>Responsive Design</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- td-about-main-feature-area-end -->
+
                 <!-- td-process-area-start -->
                 <div class="td-process-area pt-130 pb-160">
                     <div class="container">
@@ -999,32 +988,6 @@
                 </div>
                 <!-- td-process-area-end -->
 
-                <!-- td-video-area-start -->
-                <div class="td-video-area pt-20">
-                    <div class="container">
-                        <div class="row justify-content-center">
-                            <div class="col-lg-8">
-                                <div class="td-video-5-title-wrap mb-45 p-relative">
-                                    <img class="td-video-5-shape d-none d-lg-block" src="assets/img/video/video-5/shape.png" alt="">
-                                    <h2 class="td-section-5-bigtitle td-title-anim"> INNOVATION <span class="ml-200">CULTURE</span></h2>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="td-video-5-wrap p-relative">
-                        <video loop="" muted="" autoplay="" playsinline="">
-                            <source src="https://themedox.com/videos/parody-video.mp4" type="video/mp4">
-                        </video>
-                        <div class="td-video-4-wrap td-video-5-content d-flex align-items-center">
-                            <img class="mr-40" src="assets/img/video/video-5/shape-2.png" alt="">
-                            <p class="mb-0">Welcome to our world, where every<br>
-                                shot is a piece of art, and every<br>
-                                client’s story is uniquely</p>
-                        </div>
-                    </div>
-                </div>
-                <!-- td-video-area-end -->
-
                 <!-- td-testimonial-area-start -->
                 <div class="td-testimonial-area grey-bg-2 pt-155 pb-120" style="padding-bottom: 50px; margin-top: -7px;">
                     <div class="container">
@@ -1103,7 +1066,7 @@
                                     </div>
                                 </div>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -1129,11 +1092,11 @@
                                         mpacts clients. With over 12 years of experience
                                         we have been constantly</p>
                                     <div class="td-btn-group">
-                                        <a class="td-btn-circle" href="blog.html">
+                                        <a class="td-btn-circle" href="blog.php">
                                             <i class="fa-solid fa-arrow-right"></i>
                                         </a>
-                                        <a class="td-btn-2 td-btn-primary" href="blog.html">view ALL POST</a>
-                                        <a class="td-btn-circle" href="blog.html">
+                                        <a class="td-btn-2 td-btn-primary" href="blog.php">view ALL POST</a>
+                                        <a class="td-btn-circle" href="blog.php">
                                             <i class="fa-solid fa-arrow-right"></i>
                                         </a>
                                     </div>
@@ -1147,7 +1110,7 @@
                                         <img class="w-100" src="assets/img/blog/thumb.jpg" alt="">
                                     </div>
                                     <div class="td-blog-content">
-                                        <h3 class="td-blog-title mb-30"><a href="blog-details.html">Our strategic planning ensures
+                                        <h3 class="td-blog-title mb-30"><a href="blog-details.php">Our strategic planning ensures
                                                 your brand's vision aligns with
                                                 market opportunities</a></h3>
                                         <div class="td-blog-cetagory d-flex align-items-center">
@@ -1164,7 +1127,7 @@
                                         <img class="w-100" src="assets/img/blog/thumb-2.jpg" alt="">
                                     </div>
                                     <div class="td-blog-content">
-                                        <h3 class="td-blog-title mb-30"><a href="blog-details.html">The complex but awesome CSS
+                                        <h3 class="td-blog-title mb-30"><a href="blog-details.php">The complex but awesome CSS
                                                 border-image proper for web
                                                 design company</a></h3>
                                         <div class="td-blog-cetagory d-flex align-items-center">
@@ -1181,7 +1144,7 @@
                                         <img class="w-100" src="assets/img/blog/thumb-3.jpg" alt="">
                                     </div>
                                     <div class="td-blog-content">
-                                        <h3 class="td-blog-title mb-30"><a href="blog-details.html">Our strategic planning ensures
+                                        <h3 class="td-blog-title mb-30"><a href="blog-details.php">Our strategic planning ensures
                                                 your brand's vision aligns with
                                                 market opportunities</a></h3>
                                         <div class="td-blog-cetagory d-flex align-items-center">
@@ -1266,6 +1229,7 @@
     <script src="assets/js/ajax-form.js" defer></script>
     <!--<< main.Js >>-->
     <script src="assets/js/main.js" defer></script>
+
 </body>
 
 </html>
