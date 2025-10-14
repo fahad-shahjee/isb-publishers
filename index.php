@@ -410,11 +410,9 @@
                                         </div>
                                         <div class="td-portfolio-2-content">
                                             <div class="dates mb-10">
-                                                <span>2024</span>
-                                                <span class="dot"></span>
-                                                <span>Parody</span>
+                                                <span>ISB Ghostwriters</span>
                                             </div>
-                                            <a class="title" href="portfolio-details.php">Colyfate tent</a>
+                                            <a class="title" href="portfolio-details.php">We Do Recover</a>
                                         </div>
                                     </div>
                                 </div>
@@ -425,11 +423,9 @@
                                         </div>
                                         <div class="td-portfolio-2-content">
                                             <div class="dates mb-10">
-                                                <span>2024</span>
-                                                <span class="dot"></span>
-                                                <span>Parody</span>
+                                                <span>ISB Ghostwriters</span>
                                             </div>
-                                            <a class="title" href="portfolio-details.php">Colyfate tent</a>
+                                            <a class="title" href="portfolio-details.php">Speak Your Mind</a>
                                         </div>
                                     </div>
                                 </div>
@@ -439,10 +435,9 @@
                                             <img src="assets/img/portfolio/2/thumb-3.jpg" alt="">
                                         </div>
                                         <div class="td-portfolio-2-content">
-                                            <div class="dates mb-10">
-                                                <span>2024</span>
-                                                <span class="dot"></span>
-                                                <span>Parody</span>
+                                             <div class="dates mb-10">
+                                                <span>ISB Ghostwriters</span>
+                                            </div>
                                             </div>
                                             <a class="title" href="portfolio-details.php">Colyfate tent</a>
                                         </div>
@@ -454,10 +449,8 @@
                                             <img src="assets/img/portfolio/2/thumb-4.jpg" alt="">
                                         </div>
                                         <div class="td-portfolio-2-content">
-                                            <div class="dates mb-10">
-                                                <span>2024</span>
-                                                <span class="dot"></span>
-                                                <span>Parody</span>
+                                             <div class="dates mb-10">
+                                                <span>ISB Ghostwriters</span>
                                             </div>
                                             <a class="title" href="portfolio-details.php">Colyfate tent</a>
                                         </div>
@@ -469,10 +462,8 @@
                                             <img src="assets/img/portfolio/2/thumb-5.jpg" alt="">
                                         </div>
                                         <div class="td-portfolio-2-content">
-                                            <div class="dates mb-10">
-                                                <span>2024</span>
-                                                <span class="dot"></span>
-                                                <span>Parody</span>
+                                             <div class="dates mb-10">
+                                                <span>ISB Ghostwriters</span>
                                             </div>
                                             <a class="title" href="portfolio-details.php">Colyfate tent</a>
                                         </div>
