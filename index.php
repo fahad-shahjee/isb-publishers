@@ -523,6 +523,22 @@
                                         </div>
                                     </div>
                                 </div>
+                                <div class="swiper-slide">
+                                    <div class="td-portfolio-2-item p-relative">
+                                        <div class="td-portfolio-2-thumb fix">
+                                            <img src="assets/img/portfolio/2/thumb-8.jpg" alt="">
+                                        </div>
+                                        <div class="td-portfolio-2-content">
+                                            <div class="dates mb-10">
+                                                <span>2024</span>
+                                                <span class="dot"></span>
+                                                <span>Parody</span>
+                                            </div>
+                                            <a class="title" href="portfolio-details.php">Colyfate tent</a>
+                                        </div>
+                                    </div>
+                                </div>
+
                             </div>
                         </div>
                     </div>
@@ -533,6 +549,21 @@
                                     <div class="td-portfolio-2-item p-relative">
                                         <div class="td-portfolio-2-thumb fix">
                                             <img src="assets/img/portfolio/2/thumb-7.jpg" alt="">
+                                        </div>
+                                        <div class="td-portfolio-2-content">
+                                            <div class="dates mb-10">
+                                                <span>2024</span>
+                                                <span class="dot"></span>
+                                                <span>Parody</span>
+                                            </div>
+                                            <a class="title" href="portfolio-details.php">Colyfate tent</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="td-portfolio-2-item p-relative">
+                                        <div class="td-portfolio-2-thumb fix">
+                                            <img src="assets/img/portfolio/2/thumb-9.jpg" alt="">
                                         </div>
                                         <div class="td-portfolio-2-content">
                                             <div class="dates mb-10">
