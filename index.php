@@ -409,10 +409,6 @@
                                             <img src="assets/img/portfolio/2/thumb.jpg" alt="">
                                         </div>
                                         <div class="td-portfolio-2-content">
-                                            <div class="dates mb-10">
-                                                <span>ISB Ghostwriters</span>
-                                            </div>
-                                            <a class="title" href="portfolio-details.php">We Do Recover</a>
                                         </div>
                                     </div>
                                 </div>
@@ -420,12 +416,6 @@
                                     <div class="td-portfolio-2-item p-relative">
                                         <div class="td-portfolio-2-thumb fix">
                                             <img src="assets/img/portfolio/2/thumb-2.jpg" alt="">
-                                        </div>
-                                        <div class="td-portfolio-2-content">
-                                            <div class="dates mb-10">
-                                                <span>ISB Ghostwriters</span>
-                                            </div>
-                                            <a class="title" href="portfolio-details.php">Speak Your Mind</a>
                                         </div>
                                     </div>
                                 </div>
@@ -435,9 +425,10 @@
                                             <img src="assets/img/portfolio/2/thumb-3.jpg" alt="">
                                         </div>
                                         <div class="td-portfolio-2-content">
-                                             <div class="dates mb-10">
-                                                <span>ISB Ghostwriters</span>
-                                            </div>
+                                            <div class="dates mb-10">
+                                                <span>2024</span>
+                                                <span class="dot"></span>
+                                                <span>Parody</span>
                                             </div>
                                             <a class="title" href="portfolio-details.php">Colyfate tent</a>
                                         </div>
@@ -448,24 +439,12 @@
                                         <div class="td-portfolio-2-thumb fix">
                                             <img src="assets/img/portfolio/2/thumb-4.jpg" alt="">
                                         </div>
-                                        <div class="td-portfolio-2-content">
-                                             <div class="dates mb-10">
-                                                <span>ISB Ghostwriters</span>
-                                            </div>
-                                            <a class="title" href="portfolio-details.php">Colyfate tent</a>
-                                        </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="td-portfolio-2-item p-relative">
                                         <div class="td-portfolio-2-thumb fix">
                                             <img src="assets/img/portfolio/2/thumb-5.jpg" alt="">
-                                        </div>
-                                        <div class="td-portfolio-2-content">
-                                             <div class="dates mb-10">
-                                                <span>ISB Ghostwriters</span>
-                                            </div>
-                                            <a class="title" href="portfolio-details.php">Colyfate tent</a>
                                         </div>
                                     </div>
                                 </div>
@@ -474,14 +453,6 @@
                                         <div class="td-portfolio-2-thumb fix">
                                             <img src="assets/img/portfolio/2/thumb-6.jpg" alt="">
                                         </div>
-                                        <div class="td-portfolio-2-content">
-                                            <div class="dates mb-10">
-                                                <span>2024</span>
-                                                <span class="dot"></span>
-                                                <span>Parody</span>
-                                            </div>
-                                            <a class="title" href="portfolio-details.php">Colyfate tent</a>
-                                        </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
@@ -489,14 +460,6 @@
                                         <div class="td-portfolio-2-thumb fix">
                                             <img src="assets/img/portfolio/2/thumb-7.jpg" alt="">
                                         </div>
-                                        <div class="td-portfolio-2-content">
-                                            <div class="dates mb-10">
-                                                <span>2024</span>
-                                                <span class="dot"></span>
-                                                <span>Parody</span>
-                                            </div>
-                                            <a class="title" href="portfolio-details.php">Colyfate tent</a>
-                                        </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
@@ -504,28 +467,33 @@
                                         <div class="td-portfolio-2-thumb fix">
                                             <img src="assets/img/portfolio/2/thumb-8.jpg" alt="">
                                         </div>
-                                        <div class="td-portfolio-2-content">
-                                            <div class="dates mb-10">
-                                                <span>2024</span>
-                                                <span class="dot"></span>
-                                                <span>Parody</span>
-                                            </div>
-                                            <a class="title" href="portfolio-details.php">Colyfate tent</a>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="td-portfolio-2-item p-relative">
+                                        <div class="td-portfolio-2-thumb fix">
+                                            <img src="assets/img/portfolio/2/thumb-12.jpg" alt="">
                                         </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="td-portfolio-2-item p-relative">
                                         <div class="td-portfolio-2-thumb fix">
-                                            <img src="assets/img/portfolio/2/thumb-8.jpg" alt="">
+                                            <img src="assets/img/portfolio/2/thumb-9.jpg" alt="">
                                         </div>
-                                        <div class="td-portfolio-2-content">
-                                            <div class="dates mb-10">
-                                                <span>2024</span>
-                                                <span class="dot"></span>
-                                                <span>Parody</span>
-                                            </div>
-                                            <a class="title" href="portfolio-details.php">Colyfate tent</a>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="td-portfolio-2-item p-relative">
+                                        <div class="td-portfolio-2-thumb fix">
+                                            <img src="assets/img/portfolio/2/thumb-10.jpg" alt="">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="td-portfolio-2-item p-relative">
+                                        <div class="td-portfolio-2-thumb fix">
+                                            <img src="assets/img/portfolio/2/thumb-11.jpg" alt="">
                                         </div>
                                     </div>
                                 </div>
@@ -536,33 +504,31 @@
                     <div class="td-portfolio-2-slider-wrap">
                         <div class="swiper-container td-portfolio-2-slider-2" dir="rtl">
                             <div class="swiper-wrapper slide-transtion">
+                                
                                 <div class="swiper-slide">
                                     <div class="td-portfolio-2-item p-relative">
                                         <div class="td-portfolio-2-thumb fix">
-                                            <img src="assets/img/portfolio/2/thumb-7.jpg" alt="">
+                                            <img src="assets/img/portfolio/2/thumb-12.jpg" alt="">
                                         </div>
-                                        <div class="td-portfolio-2-content">
-                                            <div class="dates mb-10">
-                                                <span>2024</span>
-                                                <span class="dot"></span>
-                                                <span>Parody</span>
-                                            </div>
-                                            <a class="title" href="portfolio-details.php">Colyfate tent</a>
+                                    </div>
+                                </div><div class="swiper-slide">
+                                    <div class="td-portfolio-2-item p-relative">
+                                        <div class="td-portfolio-2-thumb fix">
+                                            <img src="assets/img/portfolio/2/thumb-11.jpg" alt="">
+                                        </div>
+                                    </div>
+                                </div><div class="swiper-slide">
+                                    <div class="td-portfolio-2-item p-relative">
+                                        <div class="td-portfolio-2-thumb fix">
+                                            <img src="assets/img/portfolio/2/thumb-10.jpg" alt="">
                                         </div>
                                     </div>
                                 </div>
+                            
                                 <div class="swiper-slide">
                                     <div class="td-portfolio-2-item p-relative">
                                         <div class="td-portfolio-2-thumb fix">
                                             <img src="assets/img/portfolio/2/thumb-9.jpg" alt="">
-                                        </div>
-                                        <div class="td-portfolio-2-content">
-                                            <div class="dates mb-10">
-                                                <span>2024</span>
-                                                <span class="dot"></span>
-                                                <span>Parody</span>
-                                            </div>
-                                            <a class="title" href="portfolio-details.php">Colyfate tent</a>
                                         </div>
                                     </div>
                                 </div>
@@ -571,88 +537,12 @@
                                         <div class="td-portfolio-2-thumb fix">
                                             <img src="assets/img/portfolio/2/thumb-8.jpg" alt="">
                                         </div>
-                                        <div class="td-portfolio-2-content">
-                                            <div class="dates mb-10">
-                                                <span>2024</span>
-                                                <span class="dot"></span>
-                                                <span>Parody</span>
-                                            </div>
-                                            <a class="title" href="portfolio-details.php">Colyfate tent</a>
-                                        </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="td-portfolio-2-item p-relative">
                                         <div class="td-portfolio-2-thumb fix">
-                                            <img src="assets/img/portfolio/2/thumb.jpg" alt="">
-                                        </div>
-                                        <div class="td-portfolio-2-content">
-                                            <div class="dates mb-10">
-                                                <span>2024</span>
-                                                <span class="dot"></span>
-                                                <span>Parody</span>
-                                            </div>
-                                            <a class="title" href="portfolio-details.php">Colyfate tent</a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="td-portfolio-2-item p-relative">
-                                        <div class="td-portfolio-2-thumb fix">
-                                            <img src="assets/img/portfolio/2/thumb-2.jpg" alt="">
-                                        </div>
-                                        <div class="td-portfolio-2-content">
-                                            <div class="dates mb-10">
-                                                <span>2024</span>
-                                                <span class="dot"></span>
-                                                <span>Parody</span>
-                                            </div>
-                                            <a class="title" href="portfolio-details.php">Colyfate tent</a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="td-portfolio-2-item p-relative">
-                                        <div class="td-portfolio-2-thumb fix">
-                                            <img src="assets/img/portfolio/2/thumb-3.jpg" alt="">
-                                        </div>
-                                        <div class="td-portfolio-2-content">
-                                            <div class="dates mb-10">
-                                                <span>2024</span>
-                                                <span class="dot"></span>
-                                                <span>Parody</span>
-                                            </div>
-                                            <a class="title" href="portfolio-details.php">Colyfate tent</a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="td-portfolio-2-item p-relative">
-                                        <div class="td-portfolio-2-thumb fix">
-                                            <img src="assets/img/portfolio/2/thumb-4.jpg" alt="">
-                                        </div>
-                                        <div class="td-portfolio-2-content">
-                                            <div class="dates mb-10">
-                                                <span>2024</span>
-                                                <span class="dot"></span>
-                                                <span>Parody</span>
-                                            </div>
-                                            <a class="title" href="portfolio-details.php">Colyfate tent</a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="td-portfolio-2-item p-relative">
-                                        <div class="td-portfolio-2-thumb fix">
-                                            <img src="assets/img/portfolio/2/thumb-5.jpg" alt="">
-                                        </div>
-                                        <div class="td-portfolio-2-content">
-                                            <div class="dates mb-10">
-                                                <span>2024</span>
-                                                <span class="dot"></span>
-                                                <span>Parody</span>
-                                            </div>
-                                            <a class="title" href="portfolio-details.php">Colyfate tent</a>
+                                            <img src="assets/img/portfolio/2/thumb-7.jpg" alt="">
                                         </div>
                                     </div>
                                 </div>
@@ -661,13 +551,40 @@
                                         <div class="td-portfolio-2-thumb fix">
                                             <img src="assets/img/portfolio/2/thumb-6.jpg" alt="">
                                         </div>
-                                        <div class="td-portfolio-2-content">
-                                            <div class="dates mb-10">
-                                                <span>2024</span>
-                                                <span class="dot"></span>
-                                                <span>Parody</span>
-                                            </div>
-                                            <a class="title" href="portfolio-details.php">Colyfate tent</a>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="td-portfolio-2-item p-relative">
+                                        <div class="td-portfolio-2-thumb fix">
+                                            <img src="assets/img/portfolio/2/thumb-5.jpg" alt="">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="td-portfolio-2-item p-relative">
+                                        <div class="td-portfolio-2-thumb fix">
+                                            <img src="assets/img/portfolio/2/thumb-4.jpg" alt="">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="td-portfolio-2-item p-relative">
+                                        <div class="td-portfolio-2-thumb fix">
+                                            <img src="assets/img/portfolio/2/thumb-3.jpg" alt="">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="td-portfolio-2-item p-relative">
+                                        <div class="td-portfolio-2-thumb fix">
+                                            <img src="assets/img/portfolio/2/thumb-2.jpg" alt="">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="td-portfolio-2-item p-relative">
+                                        <div class="td-portfolio-2-thumb fix">
+                                            <img src="assets/img/portfolio/2/thumb.jpg" alt="">
                                         </div>
                                     </div>
                                 </div>
@@ -805,7 +722,12 @@
                                             </div>
                                             <div class="swiper-slide">
                                                 <div class="td-brand-item">
-                                                    <img src="assets/img/brand/logo-3.png" alt="">
+                                                    <img src="assets/img/brand/logo-6.png" alt="">
+                                                </div>
+                                            </div>
+                                            <div class="swiper-slide">
+                                                <div class="td-brand-item">
+                                                    <img src="assets/img/brand/logo-7.png" alt="">
                                                 </div>
                                             </div>
                                         </div>
@@ -828,12 +750,12 @@
                             </div>
                             <div class="col-lg-7">
                                 <div class="td-about-main-content ml-110 mb-40  wow fadeInRight" data-wow-delay=".5s" data-wow-duration="1s">
-                                    <h3 class="td-about-main-title mb-20">We transform your ideas into living stories.</h3>
+                                    <h3 class="td-about-main-title mb-20">We turn your story ideas into published success.</h3>
                                     <div class="row">
                                         <div class="col-lg-5 col-md-5">
                                             <div class="td-about-main-bigtext">
-                                                <h2>4</h2>
-                                                <span>Years of experience</span>
+                                                <h2>1k</h2>
+                                                <span>Authors Trust Us</span>
                                             </div>
                                         </div>
                                         <div class="col-lg-7 col-md-7">
@@ -859,16 +781,12 @@
                 <!-- td-about-area-end -->
 
                 <!-- td-about-main-feature-area-start -->
-                <div class="td-about-main-feature-area pt-150 pb-165" style="padding-bottom: 0px;">
+                <div class="td-about-main-feature-area pt-150 pb-165" style="padding-bottom: 0px; padding-top:0px;">
                     <div class="container">
                         <div class="row">
                             <div class="col-xl-9">
                                 <div class="td-about-main-feature-wrap">
-                                    <h2 class="td-about-main-feature-title mb-70 td-text-invert">We are a creative studio that specializes
-                                        in providing high-quality design and branding
-                                        solutions to businesses and individuals. Our
-                                        team is composed of talented designers,
-                                        developers, and marketers.!</h2>
+                                    <h2 class="td-about-main-feature-title mb-70 td-text-invert" style="line-height: 60px;">We are a ghostwriting studio dedicated to crafting books that reflect your voice and captivate readers worldwide.</h2>
                                     <div class="row">
                                         <div class="col-lg-5 d-none d-md-block">
                                             <div class="td-about-main-feature-shape text-center ml-70 mb-40">
@@ -878,15 +796,14 @@
                                         <div class="col-lg-7">
                                             <div class="td-about-main-feature-list">
                                                 <ul>
-                                                    <li>Art direction</li>
-                                                    <li>Branding</li>
-                                                    <li>Content Production</li>
-                                                    <li>User Interface Design</li>
-                                                    <li>Animation</li>
-                                                    <li>Brand Identity</li>
-                                                    <li>User Interface</li>
-                                                    <li>User Experience</li>
-                                                    <li>Responsive Design</li>
+                                                    <li>Ghostwriting</li>
+                                                    <li>Editing & Proofreading</li>
+                                                    <li>Book Formatting</li>
+                                                    <li>Illustration & Cover Design</li>
+                                                    <li>Publishing Strategy</li>
+                                                    <li>Marketing Plan</li>
+                                                    <li>Author Consultation</li>
+                                                    <li>Book Launch Support</li>
                                                 </ul>
                                             </div>
                                         </div>
