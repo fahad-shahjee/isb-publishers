@@ -152,7 +152,7 @@ $servicePages = [
 </header>
 
 <!--<< Popup >>-->
-<?php include 'components/popup.php'; ?>
+<?php include __DIR__ . '/popup.php'; ?>
 
 
 <script>
