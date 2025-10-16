@@ -424,14 +424,6 @@
                                         <div class="td-portfolio-2-thumb fix">
                                             <img src="assets/img/portfolio/2/thumb-3.jpg" alt="">
                                         </div>
-                                        <div class="td-portfolio-2-content">
-                                            <div class="dates mb-10">
-                                                <span>2024</span>
-                                                <span class="dot"></span>
-                                                <span>Parody</span>
-                                            </div>
-                                            <a class="title" href="portfolio-details.php">Colyfate tent</a>
-                                        </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
@@ -780,43 +772,8 @@
                 </div>
                 <!-- td-about-area-end -->
 
-                <!-- td-about-main-feature-area-start -->
-                <div class="td-about-main-feature-area pt-150 pb-165" style="padding-bottom: 0px; padding-top:0px;">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-xl-9">
-                                <div class="td-about-main-feature-wrap">
-                                    <h2 class="td-about-main-feature-title mb-70 td-text-invert" style="line-height: 60px;">We are a ghostwriting studio dedicated to crafting books that reflect your voice and captivate readers worldwide.</h2>
-                                    <div class="row">
-                                        <div class="col-lg-5 d-none d-md-block">
-                                            <div class="td-about-main-feature-shape text-center ml-70 mb-40">
-                                                <img src="assets/img/about/main/shape.png" alt="">
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-7">
-                                            <div class="td-about-main-feature-list">
-                                                <ul>
-                                                    <li>Ghostwriting</li>
-                                                    <li>Editing & Proofreading</li>
-                                                    <li>Book Formatting</li>
-                                                    <li>Illustration & Cover Design</li>
-                                                    <li>Publishing Strategy</li>
-                                                    <li>Marketing Plan</li>
-                                                    <li>Author Consultation</li>
-                                                    <li>Book Launch Support</li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- td-about-main-feature-area-end -->
-
                 <!-- td-process-area-start -->
-                <div class="td-process-area pt-130 pb-160">
+                <div class="td-process-area pt-130 pb-160" style="padding-top:0px;">
                     <div class="container">
                         <div class="row">
                             <div class="col-12">
@@ -850,9 +807,9 @@
                                         <div class="col-lg-4 col-md-5">
                                             <div class="td-process-list">
                                                 <ul>
-                                                    <li>Target audience research</li>
-                                                    <li>Site map creation</li>
-                                                    <li>Content strategy</li>
+                                                    <li>Audience Analysis</li>
+                                                    <li>Content Strategy</li>
+                                                    <li>Project Timeline</li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -865,15 +822,15 @@
                                         </div>
                                         <div class="col-lg-6 col-md-4 col-9">
                                             <div class="td-process-title">
-                                                <h3 class="mb-0">Design & <br> <span>Development</span></h3>
+                                                <h3 class="mb-0">Creative<br> <span>Writing Stage</span></h3>
                                             </div>
                                         </div>
                                         <div class="col-lg-4 col-md-5">
                                             <div class="td-process-list">
                                                 <ul>
-                                                    <li>Target audience research</li>
-                                                    <li>Site map creation</li>
-                                                    <li>Content strategy</li>
+                                                    <li>Draft Creation</li>
+                                                    <li>Collaborative Review</li>
+                                                    <li>Manuscript Completion</li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -886,15 +843,15 @@
                                         </div>
                                         <div class="col-lg-6 col-md-4 col-9">
                                             <div class="td-process-title">
-                                                <h3 class="mb-0">Testing & <br> <span>Quality Assurance</span></h3>
+                                                <h3 class="mb-0">Editing &<br> <span>Design</span></h3>
                                             </div>
                                         </div>
                                         <div class="col-lg-4 col-md-5">
                                             <div class="td-process-list">
                                                 <ul>
-                                                    <li>Target audience research</li>
-                                                    <li>Site map creation</li>
-                                                    <li>Content strategy</li>
+                                                    <li>Proofreading</li>
+                                                    <li>Cover Design</li>
+                                                    <li>Book Formatting</li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -907,15 +864,15 @@
                                         </div>
                                         <div class="col-lg-6 col-md-4 col-9">
                                             <div class="td-process-title no-border">
-                                                <h3 class="mb-0">Project & <br> <span>Launch</span></h3>
+                                                <h3 class="mb-0">Publishing &<br> <span>Marketing</span></h3>
                                             </div>
                                         </div>
                                         <div class="col-lg-4 col-md-5">
                                             <div class="td-process-list no-border">
                                                 <ul>
-                                                    <li>Target audience research</li>
-                                                    <li>Site map creation</li>
-                                                    <li>Content strategy</li>
+                                                    <li>Platform Publishing</li>
+                                                    <li>Marketing Strategy</li>
+                                                    <li>Launch Support</li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -1011,85 +968,32 @@
                 </div>
                 <!-- td-testimonial-area-end -->
 
-                <!-- td-blog-area-start -->
-                <div class="td-blog-area pt-155 pb-130">
+                <!-- td-about-main-feature-area-start -->
+                <div class="td-about-main-feature-area pt-150 pb-165" style="padding-bottom: 50px; padding-top:100px;">
                     <div class="container">
-                        <div class="row mb-50">
-                            <div class="col-lg-3">
-                                <div class="mb-20">
-                                    <span class="td-section-subtitle">OUR LATEST BLOG</span>
-                                </div>
-                            </div>
-                            <div class="col-lg-5">
-                                <div>
-                                    <h2 class="td-testimonial-title mb-30 td-text-invert">News from <br> <span>Parody</span></h2>
-                                </div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div class="mb-30">
-                                    <p class="mb-35">We are excited for our work and how it positively
-                                        mpacts clients. With over 12 years of experience
-                                        we have been constantly</p>
-                                    <div class="td-btn-group">
-                                        <a class="td-btn-circle" href="blog.php">
-                                            <i class="fa-solid fa-arrow-right"></i>
-                                        </a>
-                                        <a class="td-btn-2 td-btn-primary" href="blog.php">view ALL POST</a>
-                                        <a class="td-btn-circle" href="blog.php">
-                                            <i class="fa-solid fa-arrow-right"></i>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
                         <div class="row">
-                            <div class="col-xl-4 col-lg-6 col-md-6">
-                                <div class="td-blog-wrap mb-30 wow fadeInLeft" data-wow-delay=".3s" data-wow-duration="1s">
-                                    <div class="td-blog-thumb fix mb-25">
-                                        <img class="w-100" src="assets/img/blog/thumb.jpg" alt="">
-                                    </div>
-                                    <div class="td-blog-content">
-                                        <h3 class="td-blog-title mb-30"><a href="blog-details.php">Our strategic planning ensures
-                                                your brand's vision aligns with
-                                                market opportunities</a></h3>
-                                        <div class="td-blog-cetagory d-flex align-items-center">
-                                            <span class="cetagory">Development</span>
-                                            <span class="td-border ml-20 mr-15 d-inline-block"></span>
-                                            <span class="dates">August 12, 2024</span>
+                            <div class="col-xl-9">
+                                <div class="td-about-main-feature-wrap">
+                                    <h2 class="td-about-main-feature-title mb-70 td-text-invert" style="line-height: 60px;">We are a ghostwriting studio dedicated to crafting books that reflect your voice and captivate readers worldwide.</h2>
+                                    <div class="row">
+                                        <div class="col-lg-5 d-none d-md-block">
+                                            <div class="td-about-main-feature-shape text-center ml-70 mb-40">
+                                                <img src="assets/img/about/main/shape.png" alt="">
+                                            </div>
                                         </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-xl-4 col-lg-6 col-md-6">
-                                <div class="td-blog-wrap mb-30 wow fadeInUp" data-wow-delay=".3s" data-wow-duration="1s">
-                                    <div class="td-blog-thumb fix mb-25">
-                                        <img class="w-100" src="assets/img/blog/thumb-2.jpg" alt="">
-                                    </div>
-                                    <div class="td-blog-content">
-                                        <h3 class="td-blog-title mb-30"><a href="blog-details.php">The complex but awesome CSS
-                                                border-image proper for web
-                                                design company</a></h3>
-                                        <div class="td-blog-cetagory d-flex align-items-center">
-                                            <span class="cetagory">Development</span>
-                                            <span class="td-border ml-20 mr-15 d-inline-block"></span>
-                                            <span class="dates">August 12, 2024</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-xl-4 col-lg-6 col-md-6">
-                                <div class="td-blog-wrap mb-30 wow fadeInRight" data-wow-delay=".3s" data-wow-duration="1s">
-                                    <div class="td-blog-thumb fix mb-25">
-                                        <img class="w-100" src="assets/img/blog/thumb-3.jpg" alt="">
-                                    </div>
-                                    <div class="td-blog-content">
-                                        <h3 class="td-blog-title mb-30"><a href="blog-details.php">Our strategic planning ensures
-                                                your brand's vision aligns with
-                                                market opportunities</a></h3>
-                                        <div class="td-blog-cetagory d-flex align-items-center">
-                                            <span class="cetagory">Development</span>
-                                            <span class="td-border ml-20 mr-15 d-inline-block"></span>
-                                            <span class="dates">August 12, 2024</span>
+                                        <div class="col-lg-7">
+                                            <div class="td-about-main-feature-list">
+                                                <ul>
+                                                    <li>Ghostwriting</li>
+                                                    <li>Editing & Proofreading</li>
+                                                    <li>Book Formatting</li>
+                                                    <li>Illustration & Cover Design</li>
+                                                    <li>Publishing Strategy</li>
+                                                    <li>Marketing Plan</li>
+                                                    <li>Author Consultation</li>
+                                                    <li>Book Launch Support</li>
+                                                </ul>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
@@ -1097,7 +1001,7 @@
                         </div>
                     </div>
                 </div>
-                <!-- td-blog-area-end -->
+                <!-- td-about-main-feature-area-end -->
 
                 <!-- td-cta-area-start -->
                 <div class="td-cta-area">
