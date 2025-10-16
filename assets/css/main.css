@@ -8368,18 +8368,18 @@ textarea {
   font-weight: 500;
   font-size: 18px;
   text-transform: uppercase;
-  color: var(--td-grey-1);
+  color: black !important;
   border-bottom: 1px solid transparent;
   padding: 0;
   margin: 0 23px;
   margin-bottom: 10px;
 }
 .td-portfolio-filter-btn button:hover {
-  color: var(--td-common-black);
+  color: #136BAC !important;
   border-color: var(--td-common-black);
 }
 .td-portfolio-filter-btn button.active {
-  color: var(--td-common-black);
+  color: #136BAC !important;
   border-color: var(--td-common-black);
 }
 .td-portfolio-filter-three .td-portfolio-filter-content .titles {

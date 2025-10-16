@@ -24,7 +24,7 @@
     <link rel="stylesheet" href="assets/css/odometer.css">
     <!--<< ion.rangeSlider.min.css >>-->
     <link rel="stylesheet" href="assets/css/ion.rangeSlider.min.css">
-   <!--<< effect-slicer.css >>-->
+    <!--<< effect-slicer.css >>-->
     <link rel="stylesheet" href="assets/css/effect-slicer.css">
     <!--<< animate.css >>-->
     <link rel="stylesheet" href="assets/css/animate.css">
@@ -62,7 +62,6 @@
                         <div class="row">
                             <div class="col-xxl-9">
                                 <div class="td-breadcrumb-wrap">
-                                    <span class="subtitle d-inline-block mb-10 wow fadeInUp" data-wow-delay=".5s" data-wow-duration="1s">LATEST PORTFOLIO</span>
                                     <h2 class="td-section-page-title  wow fadeInUp" data-wow-delay=".7s" data-wow-duration="1s">Would you like more<br> information? we are<br>
                                         happy <span>to help you!</span></h2>
                                 </div>
@@ -71,30 +70,6 @@
                     </div>
                 </div>
                 <!-- td-breadcrumb-area-end -->
-
-                <!-- td-contact-map-area-start -->
-                <div class="td-contact-map-area">
-                    <div class="container-fluid p-0">
-                        <div class="row">
-                            <div class="col-12">
-                                <div class="td-contact-map p-relative">
-                                    <div class="td-contact-map-wrap">
-                                        <img class="mb-100" src="assets/img/logo/logo-white-black.png" alt="">
-                                        <h6 class="mb-25">Contact info:</h6>
-                                        <a href="tel:+999235645689">+999 2356 45689</a>
-                                        <a class="mb-10" href="mailto:hello@parodyagency.com">hello@parodyagency.com</a>
-                                        <a href="#">Old Westbury 256, New York,
-                                            USA, NJ 3636459</a>
-                                    </div>
-                                    <div class="td-contact-map-inner">
-                                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31078.361591144112!2d-74.0256365664179!3d40.705584751235754!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew%20York%2C%20NY%2C%20USA!5e0!3m2!1sen!2sbd!4v1724572184688!5m2!1sen!2sbd" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- td-contact-map-area-end -->
 
                 <!-- td-contact-main-area -->
                 <div class="td-contact-main pt-155 pb-120">
@@ -123,19 +98,19 @@
                                                 <input class="td-input" name="phone" id="phone" type="text">
                                             </div>
                                             <div class="col-12 mb-25">
-                                                <label for="website">Website</label>
-                                                <input class="td-input" name="website" id="website" type="text">
+                                                <label for="website">Subject</label>
+                                                <input class="td-input" name="Subject" id="website" type="text">
                                             </div>
                                             <div class="col-md-12 mb-30">
                                                 <label for="message">Message</label>
-                                                <textarea  class="td-input message" name="message" id="message"  cols="30" rows="10"></textarea>
+                                                <textarea class="td-input message" name="message" id="message" cols="30" rows="10"></textarea>
                                             </div>
                                             <div class="col-12">
                                                 <button type="submit" class="td-btn-group">
                                                     <span class="td-btn-circle">
                                                         <i class="fa-solid fa-arrow-right"></i>
                                                     </span>
-                                                    <span class="td-btn-2 td-btn-primary">Send  message</span>
+                                                    <span class="td-btn-2 td-btn-primary">Send message</span>
                                                     <span class="td-btn-circle">
                                                         <i class="fa-solid fa-arrow-right"></i>
                                                     </span>
@@ -164,7 +139,7 @@
                                 <div class="td-contact-branch-item td-contact-branch-border  wow fadeInUp" data-wow-delay=".5s" data-wow-duration="1s">
                                     <div class="row">
                                         <div class="col-lg-3 col-md-6 col-sm-6">
-                                            <h3 class="td-contact-branch-name mb-20">France</h3>
+                                            <h3 class="td-contact-branch-name mb-20">Florida</h3>
                                         </div>
                                         <div class="col-lg-3 col-md-6 col-sm-6">
                                             <div class="td-contact-branch-thumb mb-20">
@@ -173,16 +148,14 @@
                                         </div>
                                         <div class="col-lg-3 col-md-6 col-sm-6">
                                             <div class="td-contact-branch-lucation ml-40 mb-20">
-                                                <h5 class="td-contact-branch-lucation-title">Base Create</h5>
-                                                <a class="lucation mb-110" href="#">Base Creative, 43 Appleton
-                                                    Lane, 3287 Hamilton</a>
-                                                <a class="map" href="#">Google Maps</a>
+                                                <h5 class="td-contact-branch-lucation-title">Office Address</h5>
+                                                <a class="lucation mb-110" href="#">1322 N Pine Hills Road, Orlando, Fl, 32808</a>
                                             </div>
                                         </div>
                                         <div class="col-lg-3 col-md-6 col-sm-6">
                                             <div class="td-contact-branch-number ml-40 mb-20">
-                                                <a class="mb-30" href="tel:(+91)76001726">(+91) 76001726</a>
-                                                <a class="link" href="mailto:Hello@contact.com">Hello@contact.com</a>
+                                                <a class="mb-30" href="tel:(+91)76001726">+1 786-949-4620</a>
+                                                <a class="link" href="mailto:Hello@contact.com">info@isbghostwriters.com</a>
                                             </div>
                                         </div>
                                     </div>
@@ -190,7 +163,7 @@
                                 <div class="td-contact-branch-item wow fadeInUp" data-wow-delay=".7s" data-wow-duration="1s">
                                     <div class="row">
                                         <div class="col-lg-3 col-md-6 col-sm-6">
-                                            <h3 class="td-contact-branch-name mb-20">Italy</h3>
+                                            <h3 class="td-contact-branch-name mb-20">California</h3>
                                         </div>
                                         <div class="col-lg-3 col-md-6 col-sm-6">
                                             <div class="td-contact-branch-thumb mb-20">
@@ -199,16 +172,14 @@
                                         </div>
                                         <div class="col-lg-3 col-md-6 col-sm-6">
                                             <div class="td-contact-branch-lucation ml-40 mb-20">
-                                                <h5 class="td-contact-branch-lucation-title">Base Create</h5>
-                                                <a class="lucation mb-110" href="#">Base Creative, 43 Appleton
-                                                    Lane, 3287 Hamilton</a>
-                                                <a class="map" href="#">Google Maps</a>
+                                                <h5 class="td-contact-branch-lucation-title">Office Address</h5>
+                                                <a class="lucation mb-110" href="#">2108 N St #10893, Sacramento, CA 95816, United States</a>
                                             </div>
                                         </div>
                                         <div class="col-lg-3 col-md-6 col-sm-6">
                                             <div class="td-contact-branch-number ml-40 mb-20">
-                                                <a class="mb-30" href="tel:(+91)76001726">(+91) 76001726</a>
-                                                <a class="link" href="mailto:Hello@contact.com">Hello@contact.com</a>
+                                                <a class="mb-30" href="tel:(+91)76001726">+1 786-949-4620</a>
+                                                <a class="link" href="mailto:Hello@contact.com">info@isbghostwriters.com</a>
                                             </div>
                                         </div>
                                     </div>
@@ -219,26 +190,6 @@
                 </div>
                 <!-- td-contact-branch-area-end -->
 
-                <!-- td-cta-area-start -->
-                <div class="td-cta-area">
-                    <div class="container">
-                        <div class="col-lg-12">
-                            <div class="td-cta-wrap p-relative z-index-1 text-center pt-135 pb-135 include-bg" data-background="assets/img/cta/bg.jpg">
-                                <img class="td-cta-shape d-none d-xl-block" src="assets/img/cta/cta.png" alt="">
-                                <h2 class="title p-relative d-inline-block">
-                                    <img class="td-cta-shape-2 d-none d-md-block" src="assets/img/cta/cta-2.png" alt="">
-                                    <a class="td-text-invert" href="contact.php">
-                                        HAVE A<br>
-                                        PROJECTS<br>
-                                        IN MINDS
-                                    </a>
-                                </h2>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- td-cta-area-end -->
-            
             </main>
 
             <!-- footer Include-->
@@ -247,6 +198,12 @@
 
         </div>
     </div>
+
+    <style>
+        .td-footer-spacing {
+            padding-top: 100px;
+        }
+    </style>
 
 
 
@@ -257,11 +214,11 @@
     <script src="assets/js/bootstrap.min.js"></script>
     <!--<< gsap.Js >>-->
     <script src="assets/js/jsap/gsap.js"></script>
-   <!--<< gsap-scroll-smoother.Js >>-->
+    <!--<< gsap-scroll-smoother.Js >>-->
     <script src="assets/js/jsap/gsap-scroll-smoother.js"></script>
-   <!--<< gsap-scroll-trigger.Js >>-->
+    <!--<< gsap-scroll-trigger.Js >>-->
     <script src="assets/js/jsap/gsap-scroll-trigger.js"></script>
-   <!--<< gsap-scroll-to-plugin.Js >>-->
+    <!--<< gsap-scroll-to-plugin.Js >>-->
     <script src="assets/js/jsap/gsap-scroll-to-plugin.js"></script>
     <!--<< gsap-split-text.Js >>-->
     <script src="assets/js/jsap/gsap-split-text.js"></script>
@@ -285,11 +242,10 @@
     <script src="assets/js/nice-select.js"></script>
     <!--<< ajax-form.Js >>-->
     <script src="assets/js/ajax-form.js"></script>
-    <!--<< wow.Js >>-->    
+    <!--<< wow.Js >>-->
     <script src="assets/js/wow.js"></script>
     <!--<< main.Js >>-->
     <script src="assets/js/main.js"></script>
 </body>
 
 </html>
-

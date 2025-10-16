@@ -746,7 +746,7 @@
                                     <div class="row">
                                         <div class="col-lg-5 col-md-5">
                                             <div class="td-about-main-bigtext">
-                                                <h2>1k</h2>
+                                                <h2>1k<span style="font-size: 80px;">+</span></h2>
                                                 <span>Authors Trust Us</span>
                                             </div>
                                         </div>

@@ -76,7 +76,6 @@ require_once __DIR__ . '/../config.php';
                                         </ul>
                                     </li>
                                     <li><a href="<?= $BASE_URL ?>portfolio.php">Portfolio</a></li>
-                                    <li><a href="<?= $BASE_URL ?>blog.php">Blog</a></li>
                                     <li><a href="<?= $BASE_URL ?>contact.php">Contact</a></li>
                                 </ul>
                             </div>
