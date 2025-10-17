@@ -9285,7 +9285,7 @@ textarea {
   padding-right: 40px;
   font-weight: 600;
   font-size: 18px;
-  color: var(--td-common-white);
+  color: var(--td-common-black) !important;
   width: 100%;
   text-align: left;
   line-height: 1;
