@@ -7,7 +7,7 @@ require_once __DIR__ . '/../config.php';
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Expert Audiobook Services | ISB Ghostwriters</title>
+    <title>Website Design for Authors | ISB Ghostwriters</title>
     <meta name="description" content="Parody - Digital Agency Portfolio Html Template">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -68,21 +68,21 @@ require_once __DIR__ . '/../config.php';
                             <div class="col-lg-12">
                                 <div class="td-about-main-wrapper pb-90" style="padding-bottom: 180px;">
                                     <h2 class="td-section-page-title td-title-anim text-center">
-                                        Professional<br>
-                                        <span>Audiobook Services</span>
+                                    Specialized Web Design<br>
+                                        <span>Services for Authors</span>
                                     </h2>
                                 </div>
                             </div>
                             <div class="col-lg-6">
                                 <div class="td-about-main-thumb mb-40 fix td-rounded-10 wow fadeInLeft" data-wow-delay=".5s" data-wow-duration="1s">
-                                    <img data-speed=".9" class="w-100 td-rounded-10" src="<?= $BASE_URL ?>assets/img/about/main/about.jpg" alt="">
+                                    <img data-speed=".9" class="w-100 td-rounded-10" src="<?= $BASE_URL ?>assets/img/about/main/aurth-web.jpg" alt="">
                                 </div>
                             </div>
                             <div class="col-lg-6">
                                 <div class="td-about-main-content mb-40 wow fadeInRight" data-wow-delay=".5s" data-wow-duration="1s">
-                                    <h3 class="td-about-main-title mb-20">Premium Audiobook Solutions for Writers</h3>
+                                    <h3 class="td-about-main-title mb-20">How a Website Empowers Authors</h3>
                                     <div class="td-about-main-text mt-30">
-                                        <p class="mb-40">We are passionate about supporting authors and the incredible stories they have to tell. With years of publishing expertise, our team provides personalized, end-to-end solutions to help writers at every stage of their journey — from the first spark of an idea to the moment their book reaches readers around the world. We believe every story deserves to be told with care, creativity, and authenticity.</p>
+                                        <p class="mb-40">Having a personal website greatly enhances an author’s credibility and strengthens their brand. It gives readers a central place to discover, recognize, and follow your work. Through your website, you can connect directly with your audience, share updates, and offer deeper insights into your stories and creative process. Your website also serves as a professional portfolio, allowing readers to explore all your books in one convenient space. With a well-designed author website, you can boost visibility and increase book sales by making it effortless for visitors to purchase your titles online.</p>
                                         <div class="td-btn-group">
                                             <a class="td-btn-circle" href="contact.html">
                                                 <i class="fa-solid fa-arrow-right"></i>
@@ -185,16 +185,16 @@ require_once __DIR__ . '/../config.php';
                         <div class="row">
                             <div class="col-lg-4">
                                 <div class="td-about-left mb-30">
-                                    <span>Empowering Your Words to Be Heard</span>
+                                    <span>How We Build Your Website</span>
                                     <div class="td-about-left-thumb ml-60 fix td-rounded-10">
-                                        <img data-speed=".9" src="<?= $BASE_URL ?>assets/img/about/main/about-2.jpg" alt="">
+                                        <img data-speed=".9" src="<?= $BASE_URL ?>assets/img/about/main/aurth-abt.jpg" alt="">
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-8">
                                 <div class="td-about-content mb-30">
-                                    <h2 class="td-about-title mb-30 td-text-invert" style="font-size: 40px">Every story deserves to be heard. Let us give your words a voice that inspires, connects, and leaves a lasting impression on hearts and minds everywhere.</h2>
-                                    <p class="mb-45">Turning your written book into a captivating audiobook takes more than simply reading it aloud. It requires expert narration, meticulous editing, and top-tier production to truly capture the heart and soul of your story. Let us handle every detail for you. We’ll transform your book into an immersive audiobook experience — one that brings every emotion to life and makes your story impossible to ignore.</p>
+                                    <h2 class="td-about-title mb-30 td-text-invert" style="font-size: 40px">Build your online presence with a stunning author website that connects you with readers worldwide.</h2>
+                                    <p class="mb-45">Our process starts with a personalized consultation where we take the time to understand your goals, audience, and vision as an author. Next, we move into the design and development stage, crafting a website that aligns perfectly with your brand and strategy. Once the initial design is complete, we share it with you for feedback and make any adjustments needed to ensure it fully meets your expectations. Finally, we launch your website and provide hands-on guidance on how to update and manage it with ease — empowering you to keep your site fresh, engaging, and perfectly in tune with your readers.</p>
                                     <div class="td-btn-group mb-35">
                                         <a class="td-btn-circle" href="about.php">
                                             <i class="fa-solid fa-arrow-right"></i>
@@ -209,7 +209,7 @@ require_once __DIR__ . '/../config.php';
                                             <img class="td-live-anim-spin" src="<?= $BASE_URL ?>assets/img/about/shape.png" alt="">
                                         </div>
                                         <div class="td-about-thumb fix td-rounded-10">
-                                            <img data-speed=".9" src="<?= $BASE_URL ?>assets/img/about/main/about-3.jpg" alt="">
+                                            <img data-speed=".9" src="<?= $BASE_URL ?>assets/img/about/main/aurth-abt-2.jpg" alt="">
                                         </div>
                                     </div>
                                 </div>
@@ -277,8 +277,8 @@ require_once __DIR__ . '/../config.php';
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
                                 <div class="td-service-process-title-wrap text-center mb-50">
-                                    <h2 class="td-testimonial-title td-text-invert">Complete Professional Audiobook
-                                        <span>Solutions from Start to Finish</span></h2>
+                                    <h2 class="td-testimonial-title td-text-invert" style="line-height: 95px;">Crafting Your Digital Presence,
+                                        <span>Step by Step</span></h2>
                                 </div>
                             </div>
                         </div>
@@ -290,8 +290,8 @@ require_once __DIR__ . '/../config.php';
                                         <svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">...</svg>
                                         <span class="number">01</span>
                                     </span>
-                                    <h5 class="title mb-15">Initial Consultation</h5>
-                                    <p class="para">We learn your vision and define the tone, style, and voice for your audiobook.</p>
+                                    <h5 class="title mb-15">Custom Website Design</h5>
+                                    <p class="para">We design websites that reflect your personality, style, and author brand.</p>
                                 </div>
                             </div>
                             <div class="col-lg-3 col-md-6 col-sm-6  wow fadeInUp" data-wow-delay=".5s" data-wow-duration="1s">
@@ -300,8 +300,8 @@ require_once __DIR__ . '/../config.php';
                                         <svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">...</svg>
                                         <span class="number">02</span>
                                     </span>
-                                    <h5 class="title mb-15">Voice Selection</h5>
-                                    <p class="para">Choose the perfect narrator whose voice captures your story’s essence.</p>
+                                    <h5 class="title mb-15">Brand Identity & Aesthetic</h5>
+                                    <p class="para">We ensure your website matches your brand with the right colors and visuals.</p>
                                 </div>
                             </div>
                             <div class="col-lg-3 col-md-6 col-sm-6  wow fadeInUp" data-wow-delay=".7s" data-wow-duration="1s">
@@ -310,8 +310,8 @@ require_once __DIR__ . '/../config.php';
                                         <svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">...</svg>
                                         <span class="number">03</span>
                                     </span>
-                                    <h5 class="title mb-15">Recording & Production</h5>
-                                    <p class="para">Then, we record and produce your audiobook with expert narration and top-quality sound.</p>
+                                    <h5 class="title mb-15">E-Commerce Integration</h5>
+                                    <p class="para">We set up a secure store so readers can easily buy your books or downloads.</p>
                                 </div>
                             </div>
                             <div class="col-lg-3 col-md-6 col-sm-6  wow fadeInUp" data-wow-delay=".9s" data-wow-duration="1s">
@@ -320,8 +320,49 @@ require_once __DIR__ . '/../config.php';
                                         <svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">...</svg>
                                         <span class="number">04</span>
                                     </span>
-                                    <h5 class="title mb-15">Final Review & Delivery</h5>
-                                    <p class="para">Finally, we review, polish, and deliver your audiobook ready for global release.</p>
+                                    <h5 class="title mb-15">Blog Integration</h5>
+                                    <p class="para">We add a blog where you can share updates and connect with your readers</p>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-md-6 col-sm-6  wow fadeInUp" data-wow-delay=".3s" data-wow-duration="1s">
+                                <div class="td-service-process-item mt-120">
+                                    <span class="icons mb-60 d-flex align-items-start justify-content-between">
+                                        <!-- SVGs unchanged -->
+                                        <svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">...</svg>
+                                        <span class="number">05</span>
+                                    </span>
+                                    <h5 class="title mb-15">Portfolio & Book Showcase</h5>
+                                    <p class="para">We present your books beautifully, making it easy for visitors to explore.</p>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-md-6 col-sm-6  wow fadeInUp" data-wow-delay=".5s" data-wow-duration="1s">
+                                <div class="td-service-process-item">
+                                    <span class="icons mb-60 d-flex align-items-start justify-content-between">
+                                        <svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">...</svg>
+                                        <span class="number">06</span>
+                                    </span>
+                                    <h5 class="title mb-15">SEO Optimization</h5>
+                                    <p class="para">We make your site search-friendly so readers can find you online.</p>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-md-6 col-sm-6  wow fadeInUp" data-wow-delay=".7s" data-wow-duration="1s">
+                                <div class="td-service-process-item mt-120">
+                                    <span class="icons mb-60 d-flex align-items-start justify-content-between">
+                                        <svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">...</svg>
+                                        <span class="number">07</span>
+                                    </span>
+                                    <h5 class="title mb-15">Responsive Design</h5>
+                                    <p class="para">We create websites that perform flawlessly on all devices.</p>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-md-6 col-sm-6  wow fadeInUp" data-wow-delay=".9s" data-wow-duration="1s">
+                                <div class="td-service-process-item">
+                                    <span class="icons mb-60 d-flex align-items-start justify-content-between">
+                                        <svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">...</svg>
+                                        <span class="number">08</span>
+                                    </span>
+                                    <h5 class="title mb-15">Content Management System (CMS)</h5>
+                                    <p class="para">We build on easy-to-use platforms like WordPress for simple updates.</p>
                                 </div>
                             </div>
                         </div>
@@ -335,7 +376,7 @@ require_once __DIR__ . '/../config.php';
                         <div class="row">
                             <div class="col-lg-6">
                                 <div class="td-faq-2-thumb mb-30 fix td-rounded-10">
-                                    <img data-speed=".9" class="td-rounded-10" src="<?= $BASE_URL ?>assets/img/about/main/about-4.jpg" alt="">
+                                    <img data-speed=".9" class="td-rounded-10" src="<?= $BASE_URL ?>assets/img/about/main/aurth-faq.jpg" alt="">
                                 </div>
                             </div>
                             <div class="col-lg-6">
@@ -347,14 +388,14 @@ require_once __DIR__ . '/../config.php';
                                               <h2 class="accordion-header">
                                                  <button class="accordion-buttons collapsed" type="button" data-bs-toggle="collapse"
                                                     data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                                    Why use professional audiobook production?
+                                                    How long does it take to build my website?
                                                     <span class="plus-icon"></span>
                                                  </button>
                                               </h2>
                                               <div id="collapseOne" class="accordion-collapse collapse"
                                                  data-bs-parent="#accordionExample">
                                                  <div class="accordion-body">
-                                                    <p>Professional production ensures your story sounds clear, engaging, and emotionally authentic. It enhances the listening experience, captures the heart of your book, and helps your audiobook shine in a competitive market.</p>
+                                                    <p>Usually, it takes about 4–6 weeks, depending on the site’s complexity and your feedback.</p>
                                                  </div>
                                               </div>
                                            </div>
@@ -362,14 +403,14 @@ require_once __DIR__ . '/../config.php';
                                               <h2>
                                                  <button class="accordion-buttons" type="button" data-bs-toggle="collapse"
                                                     data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                                    How much does it cost?
+                                                    Can I edit my website on my own??
                                                     <span class="plus-icon"></span>
                                                  </button>
                                               </h2>
                                               <div id="collapseTwo" class="accordion-collapse collapse show"
                                                  data-bs-parent="#accordionExample">
                                                  <div class="accordion-body">
-                                                    <p>Costs vary by book length, narration style, and voice artist. Contact us for a custom quote based on your project.</p>
+                                                    <p>Yes, we use WordPress and other easy tools so you can manage content anytime.</p>
                                                  </div>
                                               </div>
                                            </div>
@@ -377,14 +418,14 @@ require_once __DIR__ . '/../config.php';
                                               <h2 class="accordion-header">
                                                  <button class="accordion-buttons collapsed" type="button" data-bs-toggle="collapse"
                                                     data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                                    How long does it take?
+                                                    Will my site look good on mobile??
                                                     <span class="plus-icon"></span>
                                                  </button>
                                               </h2>
                                               <div id="collapseThree" class="accordion-collapse collapse"
                                                  data-bs-parent="#accordionExample">
                                                  <div class="accordion-body">
-                                                    <p>Depending on length and production details, most audiobooks are completed within a few weeks to a couple of months.</p>
+                                                    <p>Absolutely! Every site we create is fully responsive and mobile-friendly.</p>
                                                  </div>
                                               </div>
                                            </div>
@@ -392,14 +433,14 @@ require_once __DIR__ . '/../config.php';
                                               <h2 class="accordion-header">
                                                  <button class="accordion-buttons collapsed" type="button" data-bs-toggle="collapse"
                                                     data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                                    What genres do you work with?
+                                                    Do you offer post-launch support?
                                                     <span class="plus-icon"></span>
                                                  </button>
                                               </h2>
                                               <div id="collapseFour" class="accordion-collapse collapse"
                                                  data-bs-parent="#accordionExample">
                                                  <div class="accordion-body">
-                                                    <p>We produce all genres — fiction, non-fiction, self-help, memoirs, fantasy, romance, thrillers, and more</p>
+                                                    <p>Yes, we provide ongoing support and maintenance to keep your website running smoothly.</p>
                                                  </div>
                                               </div>
                                            </div>
@@ -407,14 +448,14 @@ require_once __DIR__ . '/../config.php';
                                               <h2 class="accordion-header">
                                                  <button class="accordion-buttons collapsed" type="button" data-bs-toggle="collapse"
                                                     data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                                    Is this good for self-published authors?
+                                                    Can you help write my website content?
                                                     <span class="plus-icon"></span>
                                                  </button>
                                               </h2>
                                               <div id="collapseFive" class="accordion-collapse collapse"
                                                  data-bs-parent="#accordionExample">
                                                  <div class="accordion-body">
-                                                    <p>Absolutely. Professional production boosts your book’s reach, credibility, and listener appeal.</p>
+                                                    <p>Yes, we offer content writing services to make your site clear, engaging, and on-brand.</p>
                                                  </div>
                                               </div>
                                            </div>

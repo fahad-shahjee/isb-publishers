@@ -48,11 +48,16 @@ $servicePages = [
                                 <li class="menu-item-has-children<?php if ($isActive($servicePages)) echo ' active'; ?>">
                                     <a href="<?= $BASE_URL ?>service.php">Service</a>
                                     <ul class="sub-menu">
-                                        <li><a href="<?= $BASE_URL ?>services-pages/ghostwriting.php">Ghostwriting</a></li>
-                                        <li><a href="<?= $BASE_URL ?>services-pages/editing-proofreading.php">Editing &amp; Proofreading</a></li>
-                                        <li><a href="<?= $BASE_URL ?>services-pages/illustration.php">Illustration</a></li>
-                                        <li><a href="<?= $BASE_URL ?>services-pages/publishing-strategy.php">Publishing Strategy</a></li>
-                                        <li><a href="<?= $BASE_URL ?>services-pages/marketing-plan.php">Marketing Plan</a></li>
+                                    <li><a href="<?= $BASE_URL ?>services-pages/audio-book.php">Audio Book</a></li>
+                                            <li><a href="<?= $BASE_URL ?>services-pages/author-website.php">Author Website</a></li>
+                                            <li><a href="<?= $BASE_URL ?>services-pages/book-editing.php">Book Editing</a></li>
+                                            <li><a href="<?= $BASE_URL ?>services-pages/book-publishing.php">Book Publishing</a></li>
+                                            <li><a href="<?= $BASE_URL ?>services-pages/book-ghostwriting.php">Book Ghostwriting</a></li>
+                                            <li><a href="<?= $BASE_URL ?>services-pages/book-marketing.php">Book Marketing</a></li>
+                                            <li><a href="<?= $BASE_URL ?>services-pages/book-illustration.php">Book Illustration</a></li>
+                                            <li><a href="<?= $BASE_URL ?>services-pages/book-cover-design.php">Book Cover Design</a></li>
+                                            <li><a href="<?= $BASE_URL ?>services-pages/book-formatting.php">Book Formatting</a></li>
+                                            <li><a href="<?= $BASE_URL ?>services-pages/book-video-trailer.php">Book Video Trailer</a></li>
                                     </ul>
                                 </li>
 

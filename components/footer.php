@@ -5,8 +5,8 @@
                     <div class="row">
                         <div class="col-lg-3 col-md-6 col-sm-6">
                             <div class="td-footer-logo mb-30">
-                                <a href="index.html">
-                                    <img src="assets/img/logo/logo-white.png" alt="" style="width:50%; height:auto;">
+                                <a href="<?= $BASE_URL ?>index.php">
+                                    <img src="<?= $BASE_URL ?>assets/img/logo/logo-white.png" alt="" style="width:50%; height:auto;">
                                 </a>
                                 <div style="width:90%; margin-top:12px; color:#ffffff; opacity:0.9; line-height:1.5;">
                                     <div>Empowering authors with world-class publishing services.</div>
@@ -17,11 +17,11 @@
                             <div class="td-footer-widget mb-30">
                                 <h3 class="td-footer-title mb-30">Quick Link</h3>
                                 <ul class="td-footer-widget-list">
-                                    <li><a href="index.php">Home</a></li>
-                                    <li><a href="about.php">About</a></li>
-                                    <li><a href="service.php">Services</a></li>
-                                    <li><a href="faq.php">Faq's</a></li>
-                                    <li><a href="contact.php">Contact</a></li>
+                                    <li><a href="<?= $BASE_URL ?>index.php">Home</a></li>
+                                    <li><a href="<?= $BASE_URL ?>about.php">About</a></li>
+                                    <li><a href="<?= $BASE_URL ?>service.php">Services</a></li>
+                                    <li><a href="<?= $BASE_URL ?>faq.php">Faq's</a></li>
+                                    <li><a href="<?= $BASE_URL ?>contact.php">Contact</a></li>
                                 </ul>
                             </div>
                         </div>
