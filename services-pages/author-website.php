@@ -84,11 +84,11 @@ require_once __DIR__ . '/../config.php';
                                     <div class="td-about-main-text mt-30">
                                         <p class="mb-40">Having a personal website greatly enhances an author’s credibility and strengthens their brand. It gives readers a central place to discover, recognize, and follow your work. Through your website, you can connect directly with your audience, share updates, and offer deeper insights into your stories and creative process. Your website also serves as a professional portfolio, allowing readers to explore all your books in one convenient space. With a well-designed author website, you can boost visibility and increase book sales by making it effortless for visitors to purchase your titles online.</p>
                                         <div class="td-btn-group">
-                                            <a class="td-btn-circle" href="contact.html">
+                                            <a class="td-btn-circle" href="<?= $BASE_URL ?>contact.php">
                                                 <i class="fa-solid fa-arrow-right"></i>
                                             </a>
-                                            <a class="td-btn-2 td-btn-primary" href="contact.php">Contact Us</a>
-                                            <a class="td-btn-circle" href="contact.php">
+                                            <a class="td-btn-2 td-btn-primary" href="<?= $BASE_URL ?>contact.php">Contact Us</a>
+                                            <a class="td-btn-circle" href="<?= $BASE_URL ?>contact.php">
                                                 <i class="fa-solid fa-arrow-right"></i>
                                             </a>
                                         </div>
@@ -104,7 +104,7 @@ require_once __DIR__ . '/../config.php';
                 <div class="td-contact-area td-contact-2-wrap pt-85 fix pb-50" style="padding-top: 0px;">
                     <div class="td-contact-7-text-slider">
                         <div class="td-contact-7-text-btn text-center pt-30">
-                            <a href="contact.php">
+                            <a href="<?= $BASE_URL ?>contact.php">
                                 <img class="td-live-anim-spin" src="<?= $BASE_URL ?>assets/img/contact/text.png" alt="">
                                 <span class="icon">
                                     <svg width="29" height="30" viewBox="0 0 29 30" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -196,11 +196,11 @@ require_once __DIR__ . '/../config.php';
                                     <h2 class="td-about-title mb-30 td-text-invert" style="font-size: 40px">Build your online presence with a stunning author website that connects you with readers worldwide.</h2>
                                     <p class="mb-45">Our process starts with a personalized consultation where we take the time to understand your goals, audience, and vision as an author. Next, we move into the design and development stage, crafting a website that aligns perfectly with your brand and strategy. Once the initial design is complete, we share it with you for feedback and make any adjustments needed to ensure it fully meets your expectations. Finally, we launch your website and provide hands-on guidance on how to update and manage it with ease — empowering you to keep your site fresh, engaging, and perfectly in tune with your readers.</p>
                                     <div class="td-btn-group mb-35">
-                                        <a class="td-btn-circle" href="about.php">
+                                        <a class="td-btn-circle" href="<?= $BASE_URL ?>about.php">
                                             <i class="fa-solid fa-arrow-right"></i>
                                         </a>
                                         <a class="td-btn-2 td-btn-primary" href="tel:(786) 949-4620">Free Consultation</a>
-                                        <a class="td-btn-circle" href="about.php">
+                                        <a class="td-btn-circle" href="<?= $BASE_URL ?>about.php">
                                             <i class="fa-solid fa-arrow-right"></i>
                                         </a>
                                     </div>
