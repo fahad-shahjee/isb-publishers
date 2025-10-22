@@ -287,7 +287,7 @@ require_once __DIR__ . '/../config.php';
                                 <div class="td-service-process-item mt-120">
                                     <span class="icons mb-60 d-flex align-items-start justify-content-between">
                                         <!-- SVGs unchanged -->
-                                        <svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">...</svg>
+                                        <img src="<?= $BASE_URL ?>assets\img\service\servicesico/custweb.png" alt="Custom Website Design" width="64" height="64">
                                         <span class="number">01</span>
                                     </span>
                                     <h5 class="title mb-15">Custom Website Design</h5>
@@ -297,7 +297,7 @@ require_once __DIR__ . '/../config.php';
                             <div class="col-lg-3 col-md-6 col-sm-6  wow fadeInUp" data-wow-delay=".5s" data-wow-duration="1s">
                                 <div class="td-service-process-item">
                                     <span class="icons mb-60 d-flex align-items-start justify-content-between">
-                                        <svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">...</svg>
+                                        <img src="<?= $BASE_URL ?>assets\img\service\servicesico/branding.png" alt="Custom Website Design" width="64" height="64">
                                         <span class="number">02</span>
                                     </span>
                                     <h5 class="title mb-15">Brand Identity & Aesthetic</h5>
@@ -307,7 +307,7 @@ require_once __DIR__ . '/../config.php';
                             <div class="col-lg-3 col-md-6 col-sm-6  wow fadeInUp" data-wow-delay=".7s" data-wow-duration="1s">
                                 <div class="td-service-process-item mt-120">
                                     <span class="icons mb-60 d-flex align-items-start justify-content-between">
-                                        <svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">...</svg>
+                                        <img src="<?= $BASE_URL ?>assets\img\service\servicesico/ecom.png" alt="Custom Website Design" width="64" height="64">
                                         <span class="number">03</span>
                                     </span>
                                     <h5 class="title mb-15">E-Commerce Integration</h5>
@@ -317,7 +317,7 @@ require_once __DIR__ . '/../config.php';
                             <div class="col-lg-3 col-md-6 col-sm-6  wow fadeInUp" data-wow-delay=".9s" data-wow-duration="1s">
                                 <div class="td-service-process-item">
                                     <span class="icons mb-60 d-flex align-items-start justify-content-between">
-                                        <svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">...</svg>
+                                        <img src="<?= $BASE_URL ?>assets\img\service\servicesico/blogint.png" alt="Custom Website Design" width="64" height="64">
                                         <span class="number">04</span>
                                     </span>
                                     <h5 class="title mb-15">Blog Integration</h5>
@@ -328,7 +328,7 @@ require_once __DIR__ . '/../config.php';
                                 <div class="td-service-process-item mt-120">
                                     <span class="icons mb-60 d-flex align-items-start justify-content-between">
                                         <!-- SVGs unchanged -->
-                                        <svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">...</svg>
+                                        <img src="<?= $BASE_URL ?>assets\img\service\servicesico/port.png" alt="Custom Website Design" width="64" height="64">
                                         <span class="number">05</span>
                                     </span>
                                     <h5 class="title mb-15">Portfolio & Book Showcase</h5>
@@ -338,7 +338,7 @@ require_once __DIR__ . '/../config.php';
                             <div class="col-lg-3 col-md-6 col-sm-6  wow fadeInUp" data-wow-delay=".5s" data-wow-duration="1s">
                                 <div class="td-service-process-item">
                                     <span class="icons mb-60 d-flex align-items-start justify-content-between">
-                                        <svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">...</svg>
+                                        <img src="<?= $BASE_URL ?>assets\img\service\servicesico/seo.png" alt="Custom Website Design" width="64" height="64">
                                         <span class="number">06</span>
                                     </span>
                                     <h5 class="title mb-15">SEO Optimization</h5>
@@ -348,7 +348,7 @@ require_once __DIR__ . '/../config.php';
                             <div class="col-lg-3 col-md-6 col-sm-6  wow fadeInUp" data-wow-delay=".7s" data-wow-duration="1s">
                                 <div class="td-service-process-item mt-120">
                                     <span class="icons mb-60 d-flex align-items-start justify-content-between">
-                                        <svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">...</svg>
+                                        <img src="<?= $BASE_URL ?>assets\img\service\servicesico/responsive.png" alt="Custom Website Design" width="64" height="64">
                                         <span class="number">07</span>
                                     </span>
                                     <h5 class="title mb-15">Responsive Design</h5>
@@ -358,7 +358,7 @@ require_once __DIR__ . '/../config.php';
                             <div class="col-lg-3 col-md-6 col-sm-6  wow fadeInUp" data-wow-delay=".9s" data-wow-duration="1s">
                                 <div class="td-service-process-item">
                                     <span class="icons mb-60 d-flex align-items-start justify-content-between">
-                                        <svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">...</svg>
+                                        <img src="<?= $BASE_URL ?>assets\img\service\servicesico/cms.png" alt="Custom Website Design" width="64" height="64">
                                         <span class="number">08</span>
                                     </span>
                                     <h5 class="title mb-15">Content Management System (CMS)</h5>

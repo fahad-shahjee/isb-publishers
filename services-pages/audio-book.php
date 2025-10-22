@@ -287,7 +287,7 @@ require_once __DIR__ . '/../config.php';
                                 <div class="td-service-process-item mt-120">
                                     <span class="icons mb-60 d-flex align-items-start justify-content-between">
                                         <!-- SVGs unchanged -->
-                                        <svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">...</svg>
+                                        <img src="<?= $BASE_URL ?>assets\img\service\servicesico/initialcons.png" alt="Initial Consultation" width="64" height="64">
                                         <span class="number">01</span>
                                     </span>
                                     <h5 class="title mb-15">Initial Consultation</h5>
@@ -297,7 +297,7 @@ require_once __DIR__ . '/../config.php';
                             <div class="col-lg-3 col-md-6 col-sm-6  wow fadeInUp" data-wow-delay=".5s" data-wow-duration="1s">
                                 <div class="td-service-process-item">
                                     <span class="icons mb-60 d-flex align-items-start justify-content-between">
-                                        <svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">...</svg>
+                                        <img src="<?= $BASE_URL ?>assets\img\service\servicesico/voiceselct.png" alt="Voice Selection" width="64" height="64">
                                         <span class="number">02</span>
                                     </span>
                                     <h5 class="title mb-15">Voice Selection</h5>
@@ -307,7 +307,7 @@ require_once __DIR__ . '/../config.php';
                             <div class="col-lg-3 col-md-6 col-sm-6  wow fadeInUp" data-wow-delay=".7s" data-wow-duration="1s">
                                 <div class="td-service-process-item mt-120">
                                     <span class="icons mb-60 d-flex align-items-start justify-content-between">
-                                        <svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">...</svg>
+                                        <img src="<?= $BASE_URL ?>assets\img\service\servicesico/rec_prod.png" alt="Recording & Production" width="64" height="64">
                                         <span class="number">03</span>
                                     </span>
                                     <h5 class="title mb-15">Recording & Production</h5>
@@ -317,7 +317,7 @@ require_once __DIR__ . '/../config.php';
                             <div class="col-lg-3 col-md-6 col-sm-6  wow fadeInUp" data-wow-delay=".9s" data-wow-duration="1s">
                                 <div class="td-service-process-item">
                                     <span class="icons mb-60 d-flex align-items-start justify-content-between">
-                                        <svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">...</svg>
+                                        <img src="<?= $BASE_URL ?>assets\img\service\servicesico/finalrev.png" alt="Final Review & Delivery" width="64" height="64">
                                         <span class="number">04</span>
                                     </span>
                                     <h5 class="title mb-15">Final Review & Delivery</h5>

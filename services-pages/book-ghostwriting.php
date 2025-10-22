@@ -7,7 +7,7 @@ require_once __DIR__ . '/../config.php';
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Book Editing Services | ISB Ghostwriters</title>
+    <title>Book Ghostwriting Services | ISB Ghostwriters</title>
     <meta name="description" content="Parody - Digital Agency Portfolio Html Template">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
