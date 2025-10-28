@@ -68,21 +68,21 @@ require_once __DIR__ . '/../config.php';
                             <div class="col-lg-12">
                                 <div class="td-about-main-wrapper pb-90" style="padding-bottom: 180px;">
                                     <h2 class="td-section-page-title td-title-anim text-center">
-                                    Perfecting Your Story<br>
-                                        <span>with Expert Editing</span>
+                                    Crafting Your Book<br>
+                                        <span>with Expert Ghostwriting</span>
                                     </h2>
                                 </div>
                             </div>
                             <div class="col-lg-6">
                                 <div class="td-about-main-thumb mb-40 fix td-rounded-10 wow fadeInLeft" data-wow-delay=".5s" data-wow-duration="1s">
-                                    <img data-speed=".9" class="w-100 td-rounded-10" src="<?= $BASE_URL ?>assets/img/about/main/edit-abt.jpg" alt="">
+                                    <img data-speed=".9" class="w-100 td-rounded-10" src="<?= $BASE_URL ?>assets/img/about/main/bg-abt2.jpg" alt="">
                                 </div>
                             </div>
                             <div class="col-lg-6">
                                 <div class="td-about-main-content mb-40 wow fadeInRight" data-wow-delay=".5s" data-wow-duration="1s">
-                                    <h3 class="td-about-main-title mb-20">Editing Services for Authors & Businesses</h3>
+                                    <h3 class="td-about-main-title mb-20">Your Vision, Our Words</h3>
                                     <div class="td-about-main-text mt-30">
-                                        <p class="mb-40">Whether you’re a business or an aspiring author beginning your writing journey, the best way to enhance your book is through professional editing. Expert feedback ensures your manuscript is fully refined and ready for publication. At ISB Ghostwriters, our experienced editors go far beyond checking grammar and formatting. We carefully analyze manuscripts and published works, offering expert insights on story structure, writing style, character development, and figurative language. Our team—consisting of developmental editors, copy editors, formatting specialists, and proofreaders—creates a detailed report with recommendations and an action plan to help you achieve the vision and impact you’ve imagined for your book.</p>
+                                        <p class="mb-40">At ISB Ghostwriters, we believe every story deserves to be shared. Many people have amazing ideas but don’t always have the time or energy to develop rich characters, craft compelling dialogue, or complete a full manuscript. That doesn’t mean their stories should remain untold. Our goal is to make the writing journey effortless for you — transforming your ideas into captivating books that resonate with readers. Simply share your concept and target audience, and we’ll pair you with a professional ghostwriter to bring your vision to life.</p>
                                         <div class="td-btn-group">
                                             <a class="td-btn-circle" href="<?= $BASE_URL ?>contact.php">
                                                 <i class="fa-solid fa-arrow-right"></i>
@@ -185,16 +185,16 @@ require_once __DIR__ . '/../config.php';
                         <div class="row">
                             <div class="col-lg-4">
                                 <div class="td-about-left mb-30">
-                                    <span>How We Perfect Your Manuscript</span>
+                                    <span>We Bring Your Story to Life</span>
                                     <div class="td-about-left-thumb ml-60 fix td-rounded-10">
-                                        <img data-speed=".9" src="<?= $BASE_URL ?>assets/img/about/main/be-abt.png" alt="">
+                                        <img data-speed=".9" src="<?= $BASE_URL ?>assets/img/about/main/bg-abt.png" alt="">
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-8">
                                 <div class="td-about-content mb-30">
-                                    <h2 class="td-about-title mb-30 td-text-invert" style="font-size: 40px">Elevate your manuscript with expert book editing services that polish your writing and captivate readers globally.</h2>
-                                    <p class="mb-45">Let our experienced editors turn your manuscript into a remarkable, publish-ready book. Our professional book editing services help authors craft best-sellers with precision and impact. Every great writer relies on a skilled editor, and our team ensures your work meets the highest standards. From grammar and structure to accuracy and flow, we refine every detail. Our editors understand the unique style of each genre, serving as trusted partners throughout your writing journey.</p>
+                                    <h2 class="td-about-title mb-30 td-text-invert" style="font-size: 40px">Turn Your Ideas into Powerful Stories with Expert Ghostwriting Services that Inspire Readers</h2>
+                                    <p class="mb-45">Writing captivating fiction requires true creative brilliance — and that’s exactly what our team at ISB Ghostwriters delivers. Our skilled writers use their imagination and storytelling expertise to craft gripping tales across genres like horror, romance, mystery, and children’s fantasy. Each story is designed to capture readers’ attention from the very first line.<br><br>When it comes to non-fiction, credibility and accuracy are essential. That’s where our writers’ advanced research skills come in. We create well-researched, industry-specific books, biographies, historical accounts, and self-help guides — all backed by authentic sources and thoughtful insights. The result is a book that not only informs but also earns readers’ trust.</p>
                                     <div class="td-btn-group mb-35">
                                         <a class="td-btn-circle" href="<?= $BASE_URL ?>about.php">
                                             <i class="fa-solid fa-arrow-right"></i>
@@ -209,7 +209,7 @@ require_once __DIR__ . '/../config.php';
                                             <img class="td-live-anim-spin" src="<?= $BASE_URL ?>assets/img/about/shape.png" alt="">
                                         </div>
                                         <div class="td-about-thumb fix td-rounded-10">
-                                            <img data-speed=".9" src="<?= $BASE_URL ?>assets/img/about/main/aurth-abt-2.jpg" alt="">
+                                            <img data-speed=".9" src="<?= $BASE_URL ?>assets/img/about/main/bg-abt3.jpg" alt="">
                                         </div>
                                     </div>
                                 </div>
@@ -225,8 +225,8 @@ require_once __DIR__ . '/../config.php';
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
                                 <div class="td-service-process-title-wrap text-center mb-50">
-                                    <h2 class="td-testimonial-title td-text-invert">Comprehensive Professional
-                                        <span>Book Editing Service</span></h2>
+                                    <h2 class="td-testimonial-title td-text-invert">Ghostwriting
+                                        <span>Process from Start to Finish</span></h2>
                                 </div>
                             </div>
                         </div>
@@ -238,8 +238,8 @@ require_once __DIR__ . '/../config.php';
                                         <img src="<?= $BASE_URL ?>assets\img\service\servicesico/proofreading.png" alt="Initial Consultation" width="64" height="64">
                                         <span class="number">01</span>
                                     </span>
-                                    <h5 class="title mb-15">Proofreading & Copyediting</h5>
-                                    <p class="para">We polish grammar, spelling, and flow for a flawless reading experience.</p>
+                                    <h5 class="title mb-15">You Share Your Idea</h5>
+                                    <p class="para">Share your concept or characters — we’ll turn it into a great story.</p>
                                 </div>
                             </div>
                             <div class="col-lg-3 col-md-6 col-sm-6  wow fadeInUp" data-wow-delay=".5s" data-wow-duration="1s">
@@ -248,8 +248,8 @@ require_once __DIR__ . '/../config.php';
                                         <img src="<?= $BASE_URL ?>assets\img\service\servicesico/formating.png" alt="Voice Selection" width="64" height="64">
                                         <span class="number">02</span>
                                     </span>
-                                    <h5 class="title mb-15">Formatting & Layout Design</h5>
-                                    <p class="para">We format your manuscript into a professional, publish-ready book.</p>
+                                    <h5 class="title mb-15">We Research & Plan</h5>
+                                    <p class="para">We outline the structure and tone to match your vision.</p>
                                 </div>
                             </div>
                             <div class="col-lg-3 col-md-6 col-sm-6  wow fadeInUp" data-wow-delay=".7s" data-wow-duration="1s">
@@ -258,8 +258,8 @@ require_once __DIR__ . '/../config.php';
                                         <img src="<?= $BASE_URL ?>assets\img\service\servicesico/editorial.png" alt="Recording & Production" width="64" height="64">
                                         <span class="number">03</span>
                                     </span>
-                                    <h5 class="title mb-15">Editorial Assessment</h5>
-                                    <p class="para">We review structure and clarity to ensure your story flows smoothly.</p>
+                                    <h5 class="title mb-15">We Write & Deliver</h5>
+                                    <p class="para">Our writers craft your manuscript and share the draft for review.</p>
                                 </div>
                             </div>
                             <div class="col-lg-3 col-md-6 col-sm-6  wow fadeInUp" data-wow-delay=".9s" data-wow-duration="1s">
@@ -268,8 +268,8 @@ require_once __DIR__ . '/../config.php';
                                         <img src="<?= $BASE_URL ?>assets\img\service\servicesico/Editing.png" alt="Final Review & Delivery" width="64" height="64">
                                         <span class="number">04</span>
                                     </span>
-                                    <h5 class="title mb-15">Developmental Editing</h5>
-                                    <p class="para">We refine characters, pacing, and themes to strengthen your story’s impact.</p>
+                                    <h5 class="title mb-15">You Review & Refine</h5>
+                                    <p class="para">Give feedback, and we’ll polish it until it’s perfect.</p>
                                 </div>
                             </div>
                         </div>
@@ -295,14 +295,14 @@ require_once __DIR__ . '/../config.php';
                                               <h2 class="accordion-header">
                                                  <button class="accordion-buttons collapsed" type="button" data-bs-toggle="collapse"
                                                     data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                                    Why do I need professional book editing services?
+                                                    How much do ghostwriting services cost?
                                                     <span class="plus-icon"></span>
                                                  </button>
                                               </h2>
                                               <div id="collapseOne" class="accordion-collapse collapse"
                                                  data-bs-parent="#accordionExample">
                                                  <div class="accordion-body">
-                                                    <p>Every writer makes mistakes — it’s part of the creative process. Crafting characters, building plots, and developing worlds can easily lead to overlooked errors or inconsistencies. Even non-fiction authors can unintentionally include inaccurate details after extensive research. Hiring a professional editor from ISBGhostwriters ensures your manuscript is refined, consistent, and completely error-free.</p>
+                                                    <p>Ghostwriting rates usually range from $10 to $50 per page, or $70 to $200 per hour. For a full-length book of 100–200 pages, costs typically fall between $15,000 and $40,000, depending on factors like genre, writing style, and project complexity.</p>
                                                  </div>
                                               </div>
                                            </div>
@@ -310,14 +310,14 @@ require_once __DIR__ . '/../config.php';
                                               <h2>
                                                  <button class="accordion-buttons" type="button" data-bs-toggle="collapse"
                                                     data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                                    How long does it take to edit a book?
+                                                    Is ghostwriting legal?
                                                     <span class="plus-icon"></span>
                                                  </button>
                                               </h2>
                                               <div id="collapseTwo" class="accordion-collapse collapse show"
                                                  data-bs-parent="#accordionExample">
                                                  <div class="accordion-body">
-                                                    <p>Editing timelines depend on your manuscript’s length and complexity. Typically, a book under 50 pages takes about 7–10 business days, while manuscripts between 50 and 200 pages may require 10–13 days. These timeframes are estimates, as each project is customized to your needs.</p>
+                                                    <p>Yes, hiring a ghostwriter is completely legal — it’s just like hiring any other professional service. You can work with a ghostwriter to create your book without any legal issues, though some publications may request a disclosure.</p>
                                                  </div>
                                               </div>
                                            </div>
@@ -325,14 +325,14 @@ require_once __DIR__ . '/../config.php';
                                               <h2 class="accordion-header">
                                                  <button class="accordion-buttons collapsed" type="button" data-bs-toggle="collapse"
                                                     data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                                    What genres of books do you edit?
+                                                    Who owns the rights to a ghostwritten book?
                                                     <span class="plus-icon"></span>
                                                  </button>
                                               </h2>
                                               <div id="collapseThree" class="accordion-collapse collapse"
                                                  data-bs-parent="#accordionExample">
                                                  <div class="accordion-body">
-                                                    <p>At ISBGhostwriters, we offer professional book editing services for all genres — from romance, fantasy, and thriller to biographies and academic works. No matter your genre, our editorial team ensures your manuscript meets the highest publishing standards.</p>
+                                                    <p>Clients who pay for ghostwriting services receive full ownership and rights to the work. You can publish it under your name, credit the ghostwriter, or keep their contribution confidential — the choice is entirely yours.</p>
                                                  </div>
                                               </div>
                                            </div>
@@ -340,14 +340,14 @@ require_once __DIR__ . '/../config.php';
                                               <h2 class="accordion-header">
                                                  <button class="accordion-buttons collapsed" type="button" data-bs-toggle="collapse"
                                                     data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                                    Can I publish a book without an editor?
+                                                    Will ISB Ghostwriters sign a Non-Disclosure Agreement (NDA)?
                                                     <span class="plus-icon"></span>
                                                  </button>
                                               </h2>
                                               <div id="collapseFour" class="accordion-collapse collapse"
                                                  data-bs-parent="#accordionExample">
                                                  <div class="accordion-body">
-                                                    <p>Even the most experienced authors benefit from professional editing. A book includes many moving parts — structure, pacing, dialogue, and tone — all of which need careful review. At ISBGhostwriters, our editors bring the expertise required to transform your draft into a polished, engaging book ready for publication.</p>
+                                                    <p>Absolutely. Every project at ISB Ghostwriters includes a non-disclosure clause to ensure your ideas and content remain completely confidential.</p>
                                                  </div>
                                               </div>
                                            </div>
@@ -355,14 +355,14 @@ require_once __DIR__ . '/../config.php';
                                               <h2 class="accordion-header">
                                                  <button class="accordion-buttons collapsed" type="button" data-bs-toggle="collapse"
                                                     data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                                    Do self-published authors need editors?
+                                                    Do you have writers who specialize in business books?
                                                     <span class="plus-icon"></span>
                                                  </button>
                                               </h2>
                                               <div id="collapseFive" class="accordion-collapse collapse"
                                                  data-bs-parent="#accordionExample">
                                                  <div class="accordion-body">
-                                                    <p>Absolutely. Many successful self-published authors rely on professional editors to refine their manuscripts before release. Editors at ISBGhostwriters help self-published writers enhance readability, maintain consistency, and ensure their books stand out in today’s competitive market.</p>
+                                                    <p>Yes, we do. If your project requires expertise in a specific field, ISB Ghostwriters will assign a professional writer experienced in that subject to deliver high-quality, industry-relevant content.</p>
                                                  </div>
                                               </div>
                                            </div>
