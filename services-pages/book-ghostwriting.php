@@ -283,7 +283,7 @@ require_once __DIR__ . '/../config.php';
                         <div class="row">
                             <div class="col-lg-6">
                                 <div class="td-faq-2-thumb mb-30 fix td-rounded-10">
-                                    <img data-speed=".9" class="td-rounded-10" src="<?= $BASE_URL ?>assets/img/about/main/be-faq.png" alt="">
+                                    <img data-speed=".9" class="td-rounded-10" src="<?= $BASE_URL ?>assets/img/about/main/bg-faq.jpg" alt="">
                                 </div>
                             </div>
                             <div class="col-lg-6">
@@ -299,7 +299,7 @@ require_once __DIR__ . '/../config.php';
                                                     <span class="plus-icon"></span>
                                                  </button>
                                               </h2>
-                                              <div id="collapseOne" class="accordion-collapse collapse"
+                                              <div id="collapseOne" class="accordion-collapse collapse show"
                                                  data-bs-parent="#accordionExample">
                                                  <div class="accordion-body">
                                                     <p>Ghostwriting rates usually range from $10 to $50 per page, or $70 to $200 per hour. For a full-length book of 100–200 pages, costs typically fall between $15,000 and $40,000, depending on factors like genre, writing style, and project complexity.</p>
@@ -314,7 +314,7 @@ require_once __DIR__ . '/../config.php';
                                                     <span class="plus-icon"></span>
                                                  </button>
                                               </h2>
-                                              <div id="collapseTwo" class="accordion-collapse collapse show"
+                                              <div id="collapseTwo" class="accordion-collapse collapse"
                                                  data-bs-parent="#accordionExample">
                                                  <div class="accordion-body">
                                                     <p>Yes, hiring a ghostwriter is completely legal — it’s just like hiring any other professional service. You can work with a ghostwriter to create your book without any legal issues, though some publications may request a disclosure.</p>

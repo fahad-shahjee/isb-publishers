@@ -299,7 +299,7 @@ require_once __DIR__ . '/../config.php';
                                                     <span class="plus-icon"></span>
                                                  </button>
                                               </h2>
-                                              <div id="collapseOne" class="accordion-collapse collapse"
+                                              <div id="collapseOne" class="accordion-collapse collapse show"
                                                  data-bs-parent="#accordionExample">
                                                  <div class="accordion-body">
                                                     <p>Self-publishing gives authors full control over their creative vision, publishing expenses, and royalties. With numerous online platforms available, authors can independently publish and share their books with readers worldwide.</p>
@@ -314,7 +314,7 @@ require_once __DIR__ . '/../config.php';
                                                     <span class="plus-icon"></span>
                                                  </button>
                                               </h2>
-                                              <div id="collapseTwo" class="accordion-collapse collapse show"
+                                              <div id="collapseTwo" class="accordion-collapse collapse"
                                                  data-bs-parent="#accordionExample">
                                                  <div class="accordion-body">
                                                     <p>Whether you’re a first-time author or an experienced writer, partnering with a professional self-publishing service ensures expert guidance across top publishing platforms. At ISB Ghostwriters, our team helps you publish successfully on Amazon KDP, Barnes & Noble, Smashwords, Lulu, and more—making the process smooth and effective.</p>

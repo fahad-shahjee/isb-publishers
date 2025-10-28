@@ -351,7 +351,7 @@ require_once __DIR__ . '/../config.php';
                                                     <span class="plus-icon"></span>
                                                  </button>
                                               </h2>
-                                              <div id="collapseOne" class="accordion-collapse collapse"
+                                              <div id="collapseOne" class="accordion-collapse collapse show"
                                                  data-bs-parent="#accordionExample">
                                                  <div class="accordion-body">
                                                     <p>Professional production ensures your story sounds clear, engaging, and emotionally authentic. It enhances the listening experience, captures the heart of your book, and helps your audiobook shine in a competitive market.</p>
@@ -366,7 +366,7 @@ require_once __DIR__ . '/../config.php';
                                                     <span class="plus-icon"></span>
                                                  </button>
                                               </h2>
-                                              <div id="collapseTwo" class="accordion-collapse collapse show"
+                                              <div id="collapseTwo" class="accordion-collapse collapse"
                                                  data-bs-parent="#accordionExample">
                                                  <div class="accordion-body">
                                                     <p>Costs vary by book length, narration style, and voice artist. Contact us for a custom quote based on your project.</p>

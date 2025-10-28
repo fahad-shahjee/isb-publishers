@@ -392,7 +392,7 @@ require_once __DIR__ . '/../config.php';
                                                     <span class="plus-icon"></span>
                                                  </button>
                                               </h2>
-                                              <div id="collapseOne" class="accordion-collapse collapse"
+                                              <div id="collapseOne" class="accordion-collapse collapse show"
                                                  data-bs-parent="#accordionExample">
                                                  <div class="accordion-body">
                                                     <p>Usually, it takes about 4–6 weeks, depending on the site’s complexity and your feedback.</p>
@@ -407,7 +407,7 @@ require_once __DIR__ . '/../config.php';
                                                     <span class="plus-icon"></span>
                                                  </button>
                                               </h2>
-                                              <div id="collapseTwo" class="accordion-collapse collapse show"
+                                              <div id="collapseTwo" class="accordion-collapse collapse"
                                                  data-bs-parent="#accordionExample">
                                                  <div class="accordion-body">
                                                     <p>Yes, we use WordPress and other easy tools so you can manage content anytime.</p>

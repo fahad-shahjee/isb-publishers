@@ -299,7 +299,7 @@ require_once __DIR__ . '/../config.php';
                                                     <span class="plus-icon"></span>
                                                  </button>
                                               </h2>
-                                              <div id="collapseOne" class="accordion-collapse collapse"
+                                              <div id="collapseOne" class="accordion-collapse collapse show"
                                                  data-bs-parent="#accordionExample">
                                                  <div class="accordion-body">
                                                     <p>Every writer makes mistakes — it’s part of the creative process. Crafting characters, building plots, and developing worlds can easily lead to overlooked errors or inconsistencies. Even non-fiction authors can unintentionally include inaccurate details after extensive research. Hiring a professional editor from ISBGhostwriters ensures your manuscript is refined, consistent, and completely error-free.</p>
@@ -314,7 +314,7 @@ require_once __DIR__ . '/../config.php';
                                                     <span class="plus-icon"></span>
                                                  </button>
                                               </h2>
-                                              <div id="collapseTwo" class="accordion-collapse collapse show"
+                                              <div id="collapseTwo" class="accordion-collapse collapse"
                                                  data-bs-parent="#accordionExample">
                                                  <div class="accordion-body">
                                                     <p>Editing timelines depend on your manuscript’s length and complexity. Typically, a book under 50 pages takes about 7–10 business days, while manuscripts between 50 and 200 pages may require 10–13 days. These timeframes are estimates, as each project is customized to your needs.</p>
