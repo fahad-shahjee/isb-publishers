@@ -51,7 +51,7 @@ require_once __DIR__ . '/../config.php';
                 <div class="col-xl-2 col-4">
                     <div class="logo">
                         <a class="logo-1" href="<?= $BASE_URL ?>">
-                            <img data-width="96" src="<?= $BASE_URL ?>assets/img/logo/logo-white.png" alt="Logo">
+                            <img data-width="220" src="<?= $BASE_URL ?>assets/img/logo/ghost-logo.png" alt="Logo">
                         </a>
                         <a class="logo-2 d-none" href="<?= $BASE_URL ?>">
                             <img data-width="96" src="<?= $BASE_URL ?>assets/img/logo/logo-black.png" alt="Logo">

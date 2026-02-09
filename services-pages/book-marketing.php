@@ -193,7 +193,7 @@ require_once __DIR__ . '/../config.php';
                             </div>
                             <div class="col-lg-8">
                                 <div class="td-about-content mb-30">
-                                    <h2 class="td-about-title mb-30 td-text-invert" style="font-size: 40px">Every story deserves to be heard. Let us give your words a voice that inspires, connects, and leaves a lasting impression on hearts and minds everywhere.</h2>
+                                    <h2 class="td-about-title mb-30 td-text-invert" style="font-size: 40px">Your story is meant to be read, shared, and celebrated. With our expert book marketing, we make sure your voice echoes across readers’ hearts and minds.</h2>
                                     <p class="mb-45">Turning your written book into a captivating audiobook takes more than simply reading it aloud. It requires expert narration, meticulous editing, and top-tier production to truly capture the heart and soul of your story. Let us handle every detail for you. We’ll transform your book into an immersive audiobook experience — one that brings every emotion to life and makes your story impossible to ignore.</p>
                                     <div class="td-btn-group mb-35">
                                         <a class="td-btn-circle" href="<?= $BASE_URL ?>about.php">
