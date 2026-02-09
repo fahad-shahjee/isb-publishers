@@ -54,7 +54,7 @@ require_once __DIR__ . '/../config.php';
                             <img data-width="220" src="<?= $BASE_URL ?>assets/img/logo/ghost-logo.png" alt="Logo">
                         </a>
                         <a class="logo-2 d-none" href="<?= $BASE_URL ?>">
-                            <img data-width="96" src="<?= $BASE_URL ?>assets/img/logo/logo-black.png" alt="Logo">
+                            <img data-width="240" src="<?= $BASE_URL ?>assets/img/logo/ghost-logo1.png" alt="Logo">
                         </a>
                     </div>
                 </div>
@@ -124,7 +124,7 @@ require_once __DIR__ . '/../config.php';
             <div class="close-btn"><i class="fa-solid fa-xmark"></i></div>
             <div class="nav-logo">
                 <a href="<?= $BASE_URL ?>">
-                    <img data-width="96" src="<?= $BASE_URL ?>assets/img/logo/logo-black.png" alt="logo">
+                    <img data-width="96" src="<?= $BASE_URL ?>assets/img/logo/ghost-logo1.png" alt="logo">
                 </a>
             </div>
             <div class="tdmobile__search">

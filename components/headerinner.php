@@ -28,7 +28,7 @@ $servicePages = [
             <div class="col-xxl-2 col-xl-2 col-4">
                 <div class="logo">
                     <a class="logo-1" href="<?= $BASE_URL ?>">
-                        <img data-width="96" src="<?= $BASE_URL ?>assets/img/logo/logo-black.png" alt="Logo">
+                        <img data-width="240" src="<?= $BASE_URL ?>assets/img/logo/ghost-logo1.png" alt="Logo">
                     </a>
                 </div>
             </div>

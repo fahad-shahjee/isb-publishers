@@ -6,7 +6,7 @@
                         <div class="col-lg-3 col-md-6 col-sm-6">
                             <div class="td-footer-logo mb-30">
                                 <a href="<?= $BASE_URL ?>index.php">
-                                    <img src="<?= $BASE_URL ?>assets/img/logo/logo-white.png" alt="" style="width:50%; height:auto;">
+                                    <img src="<?= $BASE_URL ?>assets/img/logo/ghost-white.png" alt="" style="width:80%; height:auto;">
                                 </a>
                                 <div style="width:90%; margin-top:12px; color:#ffffff; opacity:0.9; line-height:1.5;">
                                     <div>Empowering authors with world-class publishing services.</div>
