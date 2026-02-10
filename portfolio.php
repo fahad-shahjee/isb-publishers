@@ -65,8 +65,7 @@
                         <div class="row">
                             <div class="col-lg-9">
                                 <div class="td-breadcrumb-wrap">
-                                    <span class="subtitle d-inline-block mb-10  wow fadeInLeft" data-wow-delay=".5s" data-wow-duration="1s">LATEST PORTFOLIO</span>
-                                    <h2 class="td-section-page-title td-section-page-bigtitle mb-35  wow fadeInLeft" data-wow-delay=".7s" data-wow-duration="1s">Classic <span>grid</span></h2>
+                                <h2 class="td-section-page-title td-section-page-bigtitle mb-35  wow fadeInLeft" data-wow-delay=".7s" data-wow-duration="1s">Our <span>Portfolio</span></h2>
                                 </div>
                             </div>
                         </div>

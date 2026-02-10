@@ -1,5 +1,5 @@
 <?php
-// components/header.php
+// components/header
 ?>
 <!-- header-search -->
 <div class="search__popup">
@@ -61,52 +61,52 @@
                         <nav class="tdmenu__nav d-none">
                             <div class="tdmenu__navbar-wrap tdmenu__main-menu">
                                 <ul class="navigation">
-                                    <li class="active menu-item-has-children"><a href="index.php">Home</a>
+                                    <li class="active menu-item-has-children"><a href="index">Home</a>
                                         <ul class="sub-menu">
-                                            <li class="active"><a href="index.php">Design Studio</a></li>
-                                            <li><a href="index-2.php">Startup Agency</a></li>
-                                            <li><a href="index-3.php">Digital Studio</a></li>
-                                            <li><a href="index-4.php">Creative Agency</a></li>
-                                            <li><a href="index-5.php">Digital Agency</a></li>
-                                            <li><a href="index-6.php">Marketing Agency</a></li>
-                                            <li><a href="index-7.php">Personal Portfolio</a></li>
-                                            <li><a href="full-screen-slicer.php">Full Screen Slicer</a></li>
-                                            <li><a href="interactive-links.php">Interactive links</a></li>
-                                            <li><a href="showcase-carousale.php">Showcase Carousale</a></li>
-                                            <li><a href="portfolio-showcase.php">Portfolio Showcase</a></li>
+                                            <li class="active"><a href="index">Design Studio</a></li>
+                                            <li><a href="index-2">Startup Agency</a></li>
+                                            <li><a href="index-3">Digital Studio</a></li>
+                                            <li><a href="index-4">Creative Agency</a></li>
+                                            <li><a href="index-5">Digital Agency</a></li>
+                                            <li><a href="index-6">Marketing Agency</a></li>
+                                            <li><a href="index-7">Personal Portfolio</a></li>
+                                            <li><a href="full-screen-slicer">Full Screen Slicer</a></li>
+                                            <li><a href="interactive-links">Interactive links</a></li>
+                                            <li><a href="showcase-carousale">Showcase Carousale</a></li>
+                                            <li><a href="portfolio-showcase">Portfolio Showcase</a></li>
                                         </ul>
                                     </li>
                                     <li class="menu-item-has-children"><a href="#">Pages</a>
                                         <ul class="sub-menu">
-                                            <li><a href="about.php">About</a></li>
-                                            <li><a href="service.php">Service</a></li>
-                                            <li><a href="service-details.php">Service Details</a></li>
-                                            <li><a href="team.php">Team</a></li>
-                                            <li><a href="team-details.php">Team Details</a></li>
-                                            <li><a href="shop.php">Shop</a></li>
-                                            <li><a href="shop-details.php">Shop Details</a></li>
-                                            <li><a href="pricing.php">Pricing</a></li>
-                                            <li><a href="faq.php">Faq</a></li>
-                                            <li><a href="error.php">Error</a></li>
+                                            <li><a href="about">About</a></li>
+                                            <li><a href="service">Service</a></li>
+                                            <li><a href="service-details">Service Details</a></li>
+                                            <li><a href="team">Team</a></li>
+                                            <li><a href="team-details">Team Details</a></li>
+                                            <li><a href="shop">Shop</a></li>
+                                            <li><a href="shop-details">Shop Details</a></li>
+                                            <li><a href="pricing">Pricing</a></li>
+                                            <li><a href="faq">Faq</a></li>
+                                            <li><a href="error">Error</a></li>
                                         </ul>
                                     </li>
-                                    <li class="menu-item-has-children"><a href="portfolio-two-columns.php">Portfolio</a>
+                                    <li class="menu-item-has-children"><a href="portfolio-two-columns">Portfolio</a>
                                         <ul class="sub-menu">
-                                            <li><a href="portfolio-two-columns.php">Two Columns</a></li>
-                                            <li><a href="portfolio-three-columns.php">Three Columns</a></li>
-                                            <li><a href="portfolio-four-columns.php">Four Columns</a></li>
-                                            <li><a href="portfolio-random.php">Portfolio Random</a></li>
-                                            <li><a href="portfolio-details.php">Portfolio Details</a></li>
+                                            <li><a href="portfolio-two-columns">Two Columns</a></li>
+                                            <li><a href="portfolio-three-columns">Three Columns</a></li>
+                                            <li><a href="portfolio-four-columns">Four Columns</a></li>
+                                            <li><a href="portfolio-random">Portfolio Random</a></li>
+                                            <li><a href="portfolio-details">Portfolio Details</a></li>
                                         </ul>
                                     </li>
-                                    <li class="menu-item-has-children"><a href="blog.php">Blog</a>
+                                    <li class="menu-item-has-children"><a href="blog">Blog</a>
                                         <ul class="sub-menu">
-                                            <li><a href="blog.php">Blog</a></li>
-                                            <li><a href="blog-sidebar.php">Blog Sidebar</a></li>
-                                            <li><a href="blog-details.php">Blog Details</a></li>
+                                            <li><a href="blog">Blog</a></li>
+                                            <li><a href="blog-sidebar">Blog Sidebar</a></li>
+                                            <li><a href="blog-details">Blog Details</a></li>
                                         </ul>
                                     </li>
-                                    <li><a href="contact.php">Contact</a></li>
+                                    <li><a href="contact">Contact</a></li>
                                 </ul>
                             </div>
                         </nav>
@@ -114,7 +114,7 @@
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-4 col-5">
                     <div class="logo text-center">
-                        <a class="logo-1" href="index.php"><img data-width="96" src="assets/img/logo/logo-black.png"
+                        <a class="logo-1" href="index"><img data-width="96" src="assets/img/logo/logo-black.png"
                                 alt="Logo"></a>
                     </div>
                 </div>
@@ -130,7 +130,7 @@
                                     stroke-linecap="round" stroke-linejoin="round" />
                             </svg>
                         </button>
-                        <a href="contact.php"
+                        <a href="contact"
                             class="td-btn td-btn-lg d-none d-md-inline-block td-btn-switch-animation ml-10">
                             <span class="d-flex align-items-center justify-content-center">
                                 <span class="btn-text"> Contact Us </span>
@@ -149,7 +149,7 @@
         <nav class="tdmobile__menu-box">
             <div class="close-btn"><i class="fa-solid fa-xmark"></i></div>
             <div class="nav-logo">
-                <a href="index.php"><img data-width="96" src="assets/img/logo/logo-black.png" alt="logo"></a>
+                <a href="index"><img data-width="96" src="assets/img/logo/logo-black.png" alt="logo"></a>
             </div>
             <div class="tdmobile__search">
                 <form action="#">
@@ -161,7 +161,7 @@
                 <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
             </div>
             <div class="mt-30 ml-25 mr-25">
-                <a href="contact.php"
+                <a href="contact"
                     class="td-btn td-btn-menu-black w-100 d-inline-block td-btn-switch-animation ml-10">
                     <span class="d-flex align-items-center justify-content-center">
                         <span class="btn-text"> Contact Us </span>

@@ -118,11 +118,11 @@
                                     <h2 class="td-about-title mb-30 td-text-invert" style="font-size: 40px">Start your journey with ISB Publishers — where expert guidance and creative support lead to publishing success.</h2>
                                     <p class="mb-45">Whether you’re starting fresh, polishing a draft, illustrating a children’s book, self-publishing on Amazon, or building a marketing plan — ISB Publishers provides expert book writing and publishing services to support you at every step. Turn your vision into a bestseller with our dedicated team.</p>
                                     <div class="td-btn-group mb-35">
-                                        <a class="td-btn-circle" href="about.php">
+                                        <a class="td-btn-circle" href="about">
                                             <i class="fa-solid fa-arrow-right"></i>
                                         </a>
-                                        <a class="td-btn-2 td-btn-primary" href="about.php">ABOUT US</a>
-                                        <a class="td-btn-circle" href="about.php">
+                                        <a class="td-btn-2 td-btn-primary" href="about">ABOUT US</a>
+                                        <a class="td-btn-circle" href="about">
                                             <i class="fa-solid fa-arrow-right"></i>
                                         </a>
                                     </div>
@@ -309,7 +309,7 @@
                                         <a href="service-details.php">
                                             <div class="title d-flex align-items-center mb-10">
                                                 <span class="mr-65">01</span>
-                                                Expert Ghostwriting
+                                                Book Writing & Author Branding
                                             </div>
                                             <div class="icon mb-10">
                                                 <span>
@@ -325,7 +325,7 @@
                                         <a href="service-details.php">
                                             <div class="title d-flex align-items-center mb-10">
                                                 <span class="mr-65">02</span>
-                                                Formating & Proofreading
+                                                Editing, Formatting & Publishing
                                             </div>
                                             <div class="icon mb-10">
                                                 <span>
@@ -341,7 +341,7 @@
                                         <a href="service-details.php">
                                             <div class="title d-flex align-items-center mb-10">
                                                 <span class="mr-65">03</span>
-                                                Illustration & Layout
+                                                Book Design & Illustration
                                             </div>
                                             <div class="icon mb-10">
                                                 <span>
@@ -358,7 +358,7 @@
                                         <a href="service-details.php">
                                             <div class="title d-flex align-items-center mb-10">
                                                 <span class="mr-65">04</span>
-                                                Publishing Strategy
+                                                Audiobook Production
                                             </div>
                                             <div class="icon mb-10">
                                                 <span>
@@ -376,7 +376,7 @@
                                         <a href="service-details.php">
                                             <div class="title d-flex align-items-center mb-10">
                                                 <span class="mr-65">05</span>
-                                                Marketing Plan
+                                                Book Marketing & Promotion
                                             </div>
                                             <div class="icon mb-10">
                                                 <span>

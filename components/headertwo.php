@@ -64,25 +64,25 @@ require_once __DIR__ . '/../config.php';
                             <div class="tdmenu__navbar-wrap tdmenu__main-menu">
                                 <ul class="navigation">
                                     <li><a href="<?= $BASE_URL ?>index.php">Home</a></li>
-                                    <li><a href="<?= $BASE_URL ?>about.php">About</a></li>
+                                    <li><a href="<?= $BASE_URL ?>about">About</a></li>
                                     <li class="menu-item-has-children">
-                                        <a href="<?= $BASE_URL ?>service.php">Services</a>
+                                        <a href="<?= $BASE_URL ?>service">Services</a>
                                         <ul class="sub-menu">
-                                            <li><a href="<?= $BASE_URL ?>services-pages/audio-book.php">Audio Book</a></li>
-                                            <li><a href="<?= $BASE_URL ?>services-pages/author-website.php">Author Website</a></li>
-                                            <li><a href="<?= $BASE_URL ?>services-pages/book-editing.php">Book Editing</a></li>
-                                            <li><a href="<?= $BASE_URL ?>services-pages/book-publishing.php">Book Publishing</a></li>
-                                            <li><a href="<?= $BASE_URL ?>services-pages/book-ghostwriting.php">Book Ghostwriting</a></li>
-                                            <li><a href="<?= $BASE_URL ?>services-pages/book-marketing.php">Book Marketing</a></li>
-                                            <li><a href="<?= $BASE_URL ?>services-pages/book-illustration.php">Book Illustration</a></li>
-                                            <li><a href="<?= $BASE_URL ?>services-pages/book-cover-design.php">Book Cover Design</a></li>
-                                            <li><a href="<?= $BASE_URL ?>services-pages/book-formatting.php">Book Formatting</a></li>
-                                            <li><a href="<?= $BASE_URL ?>services-pages/book-video-trailer.php">Book Video Trailer</a></li>
+                                            <li><a href="<?= $BASE_URL ?>services-pages/audio-book">Audio Book</a></li>
+                                            <li><a href="<?= $BASE_URL ?>services-pages/author-website">Author Website</a></li>
+                                            <li><a href="<?= $BASE_URL ?>services-pages/book-editing">Book Editing</a></li>
+                                            <li><a href="<?= $BASE_URL ?>services-pages/book-publishing">Book Publishing</a></li>
+                                            <li><a href="<?= $BASE_URL ?>services-pages/book-ghostwriting">Book Ghostwriting</a></li>
+                                            <li><a href="<?= $BASE_URL ?>services-pages/book-marketing">Book Marketing</a></li>
+                                            <li><a href="<?= $BASE_URL ?>services-pages/book-illustration">Book Illustration</a></li>
+                                            <li><a href="<?= $BASE_URL ?>services-pages/book-cover-design">Book Cover Design</a></li>
+                                            <li><a href="<?= $BASE_URL ?>services-pages/book-formatting">Book Formatting</a></li>
+                                            <li><a href="<?= $BASE_URL ?>services-pages/book-video-trailer">Book Video Trailer</a></li>
                                         </ul>
                                     </li>
                                     </li>
-                                    <li><a href="<?= $BASE_URL ?>portfolio.php">Portfolio</a></li>
-                                    <li><a href="<?= $BASE_URL ?>contact.php">Contact</a></li>
+                                    <li><a href="<?= $BASE_URL ?>portfolio">Portfolio</a></li>
+                                    <li><a href="<?= $BASE_URL ?>contact">Contact</a></li>
                                 </ul>
                             </div>
                         </nav>
