@@ -249,7 +249,17 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-lg-6">
+                            </div>
+                        </div>
+
+                        <div class="black-bg td-service-pin-item-panel">
+                            <div class="row align-items-center">
+                                <div class="col-lg-6 order-lg-2">
+                                    <div class="td-service-pin-thumb">
+                                        <img class="w-100" src="assets/img/service/details/thumb-4.jpg" alt="">
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 order-lg-1">
                                     <div class="td-service-pin-content-inner pt-40 pb-40 ml-100">
                                         <div class="td-service-pin-subtitle mb-15">
                                             <span class="number">06</span>
@@ -273,6 +283,16 @@
                                                 </a>
                                             </div>
                                         </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="black-bg td-service-pin-item-panel">
+                            <div class="row align-items-center">
+                                <div class="col-lg-6">
+                                    <div class="td-service-pin-thumb">
+                                        <img class="w-100" src="assets/img/service/details/thumb-4.jpg" alt="">
                                     </div>
                                 </div>
                                 <div class="col-lg-6">
@@ -301,7 +321,17 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-lg-6">
+                            </div>
+                        </div>
+
+                        <div class="black-bg td-service-pin-item-panel">
+                            <div class="row align-items-center">
+                                <div class="col-lg-6 order-lg-2">
+                                    <div class="td-service-pin-thumb">
+                                        <img class="w-100" src="assets/img/service/details/thumb-4.jpg" alt="">
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 order-lg-1">
                                     <div class="td-service-pin-content-inner pt-40 pb-40 ml-100">
                                         <div class="td-service-pin-subtitle mb-15">
                                             <span class="number">08</span>
@@ -325,6 +355,16 @@
                                                 </a>
                                             </div>
                                         </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="black-bg td-service-pin-item-panel">
+                            <div class="row align-items-center">
+                                <div class="col-lg-6">
+                                    <div class="td-service-pin-thumb">
+                                        <img class="w-100" src="assets/img/service/details/thumb-4.jpg" alt="">
                                     </div>
                                 </div>
                                 <div class="col-lg-6">
@@ -353,7 +393,6 @@
                                         </div>
                                     </div>
                                 </div>
-
                             </div>
                         </div>
                     </div>
