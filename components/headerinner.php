@@ -3,21 +3,27 @@ require_once __DIR__ . '/../config.php'; // loads $BASE_URL
 
 // figure out current file for "active" state
 $currentFile = basename($_SERVER['SCRIPT_NAME']);
+$currentBase = pathinfo($currentFile, PATHINFO_FILENAME);
 
 // helper for active menu items
-$isActive = function ($files) use ($currentFile) {
+$isActive = function ($files) use ($currentFile, $currentBase) {
     $files = (array) $files;
-    return in_array($currentFile, $files, true);
+    return in_array($currentFile, $files, true) || in_array($currentBase, $files, true);
 };
 
 // any page that should keep "Service" parent highlighted
 $servicePages = [
-    'service.php',
-    'ghostwriting.php',
-    'editing-proofreading.php',
-    'illustration.php',
-    'publishing-strategy.php',
-    'marketing-plan.php',
+    'service',
+    'audio-book',
+    'author-website',
+    'book-editing',
+    'book-publishing',
+    'book-ghostwriting',
+    'book-marketing',
+    'book-illustration',
+    'book-cover-design',
+    'book-formatting',
+    'book-video-trailer',
 ];
 ?>
 <header>
@@ -50,7 +56,7 @@ $servicePages = [
                                     <ul class="sub-menu">
                                     <li><a href="<?= $BASE_URL ?>services-pages/audio-book">Audio Book</a></li>
                                             <li><a href="<?= $BASE_URL ?>services-pages/author-website">Author Website</a></li>
-                                            <li><a href="<?= $BASE_URL ?>services-pages/book-editing">Book Editing</a></li>
+                                            <li><a href="<?= $BASE_URL ?>services-pages/book-editing">Proofreading</a></li>
                                             <li><a href="<?= $BASE_URL ?>services-pages/book-publishing">Book Publishing</a></li>
                                             <li><a href="<?= $BASE_URL ?>services-pages/book-ghostwriting">Book Ghostwriting</a></li>
                                             <li><a href="<?= $BASE_URL ?>services-pages/book-marketing">Book Marketing</a></li>

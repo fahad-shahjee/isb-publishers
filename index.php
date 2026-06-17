@@ -282,34 +282,54 @@
                             <div class="col-lg-5">
                                 <div class="td-service-2-img-wrapper image-container mt-65 mb-40">
                                     <div class="hover-image active">
-                                        <img class="thumb" src="assets/img/service/service-2/thumb.png" alt="Service Image">
+                                        <img class="thumb" src="assets/img/service/service-2/audiobook.jpg" alt="Audio Book">
                                         <img class="shape" src="assets/img/service/service-2/shape.png" alt="">
                                     </div>
                                     <div class="hover-image">
-                                        <img class="thumb" src="assets/img/service/service-2/thumb-2.jpg" alt="Service Image">
+                                        <img class="thumb" src="assets/img/service/service-2/aurtherweb.jpg" alt="Author Webstie">
                                         <img class="shape" src="assets/img/service/service-2/shape.png" alt="">
                                     </div>
                                     <div class="hover-image">
-                                        <img class="thumb" src="assets/img/service/service-2/thumb-3.jpg" alt="Service Image">
+                                        <img class="thumb" src="assets/img/service/service-2/Proofreading.jpg" alt="Proofreading">
                                         <img class="shape" src="assets/img/service/service-2/shape.png" alt="">
                                     </div>
                                     <div class="hover-image">
-                                        <img class="thumb" src="assets/img/service/service-2/thumb-4.jpg" alt="Service Image">
+                                        <img class="thumb" src="assets/img/service/service-2/bookpublishing.jpg" alt="Book Publishing">
                                         <img class="shape" src="assets/img/service/service-2/shape.png" alt="">
                                     </div>
                                     <div class="hover-image">
-                                        <img class="thumb" src="assets/img/service/service-2/thumb-5.jpg" alt="Service Image">
+                                        <img class="thumb" src="assets/img/service/service-2/bookghost.jpg" alt="Book Ghostwriting">
+                                        <img class="shape" src="assets/img/service/service-2/shape.png" alt="">
+                                    </div>
+                                    <div class="hover-image">
+                                        <img class="thumb" src="assets/img/service/service-2/Bookmarketing.jpg" alt="Book Marketing">
+                                        <img class="shape" src="assets/img/service/service-2/shape.png" alt="">
+                                    </div>
+                                    <div class="hover-image">
+                                        <img class="thumb" src="assets/img/service/service-2/bookilustration.jpg" alt="Book Illustration">
+                                        <img class="shape" src="assets/img/service/service-2/shape.png" alt="">
+                                    </div>
+                                    <div class="hover-image">
+                                        <img class="thumb" src="assets/img/service/service-2/bookcover.jpg" alt="Book Cover Design">
+                                        <img class="shape" src="assets/img/service/service-2/shape.png" alt="">
+                                    </div>
+                                    <div class="hover-image">
+                                        <img class="thumb" src="assets/img/service/service-2/bookformating.png" alt="Book Formatting">
+                                        <img class="shape" src="assets/img/service/service-2/shape.png" alt="">
+                                    </div>
+                                    <div class="hover-image">
+                                        <img class="thumb" src="assets/img/service/service-2/bookvedio.jpg" alt="Book Video Trailer">
                                         <img class="shape" src="assets/img/service/service-2/shape.png" alt="">
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-7">
                                 <div class="td-service-2-wrap mb-40">
-                                    <div class="td-service-2-item service-item active" data-img="assets/img/service/service-2/thumb.png">
-                                        <a href="service-details.php">
+                                    <div class="td-service-2-item service-item active" data-img="assets/img/service/service-2/audiobook.jpg">
+                                        <a href="<?= $BASE_URL ?>services-pages/author-website">
                                             <div class="title d-flex align-items-center mb-10">
                                                 <span class="mr-65">01</span>
-                                                Book Writing & Author Branding
+                                                Audio Book
                                             </div>
                                             <div class="icon mb-10">
                                                 <span>
@@ -321,11 +341,11 @@
                                             </div>
                                         </a>
                                     </div>
-                                    <div class="td-service-2-item service-item" data-img="assets/img/service/service-2/thumb.png">
-                                        <a href="service-details.php">
+                                    <div class="td-service-2-item service-item" data-img="assets/img/service/service-2/thumb-2.jpg">
+                                        <a href="<?= $BASE_URL ?>services-pages/author-website">
                                             <div class="title d-flex align-items-center mb-10">
                                                 <span class="mr-65">02</span>
-                                                Editing, Formatting & Publishing
+                                                Author Website
                                             </div>
                                             <div class="icon mb-10">
                                                 <span>
@@ -337,11 +357,11 @@
                                             </div>
                                         </a>
                                     </div>
-                                    <div class="td-service-2-item service-item" data-img="assets/img/service/service-2/thumb.png">
-                                        <a href="service-details.php">
+                                    <div class="td-service-2-item service-item" data-img="assets/img/service/service-2/thumb-3.jpg">
+                                        <a href="<?= $BASE_URL ?>services-pages/book-editing">
                                             <div class="title d-flex align-items-center mb-10">
                                                 <span class="mr-65">03</span>
-                                                Book Design & Illustration
+                                                Proofreading
                                             </div>
                                             <div class="icon mb-10">
                                                 <span>
@@ -353,12 +373,11 @@
                                             </div>
                                         </a>
                                     </div>
-                                    <!-- 04 - Publishing Strategy -->
-                                    <div class="td-service-2-item service-item" data-img="assets/img/service/service-2/thumb.png">
-                                        <a href="service-details.php">
+                                    <div class="td-service-2-item service-item" data-img="assets/img/service/service-2/thumb-4.jpg">
+                                        <a href="<?= $BASE_URL ?>services-pages/book-publishing">
                                             <div class="title d-flex align-items-center mb-10">
                                                 <span class="mr-65">04</span>
-                                                Audiobook Production
+                                                Book Publishing
                                             </div>
                                             <div class="icon mb-10">
                                                 <span>
@@ -370,13 +389,91 @@
                                             </div>
                                         </a>
                                     </div>
-
-                                    <!-- 05 - Marketing Plan -->
-                                    <div class="td-service-2-item service-item" data-img="assets/img/service/service-2/thumb.png">
-                                        <a href="service-details.php">
+                                    <div class="td-service-2-item service-item" data-img="assets/img/service/service-2/thumb-5.jpg">
+                                        <a href="<?= $BASE_URL ?>services-pages/book-ghostwriting">
                                             <div class="title d-flex align-items-center mb-10">
                                                 <span class="mr-65">05</span>
-                                                Book Marketing & Promotion
+                                                Book Ghostwriting
+                                            </div>
+                                            <div class="icon mb-10">
+                                                <span>
+                                                    <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                        <path d="M1 12.965L13 0.959717" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                                                        <path d="M1 0.959717H13V12.965" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                                                    </svg>
+                                                </span>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="td-service-2-item service-item" data-img="assets/img/service/service-2/thumb.png">
+                                        <a href="<?= $BASE_URL ?>services-pages/book-marketing">
+                                            <div class="title d-flex align-items-center mb-10">
+                                                <span class="mr-65">06</span>
+                                                Book Marketing
+                                            </div>
+                                            <div class="icon mb-10">
+                                                <span>
+                                                    <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                        <path d="M1 12.965L13 0.959717" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                                                        <path d="M1 0.959717H13V12.965" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                                                    </svg>
+                                                </span>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="td-service-2-item service-item" data-img="assets/img/service/service-2/thumb-2.jpg">
+                                        <a href="<?= $BASE_URL ?>services-pages/book-illustration">
+                                            <div class="title d-flex align-items-center mb-10">
+                                                <span class="mr-65">07</span>
+                                                Book Illustration
+                                            </div>
+                                            <div class="icon mb-10">
+                                                <span>
+                                                    <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                        <path d="M1 12.965L13 0.959717" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                                                        <path d="M1 0.959717H13V12.965" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                                                    </svg>
+                                                </span>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="td-service-2-item service-item" data-img="assets/img/service/service-2/thumb-3.jpg">
+                                        <a href="<?= $BASE_URL ?>services-pages/book-cover-design">
+                                            <div class="title d-flex align-items-center mb-10">
+                                                <span class="mr-65">08</span>
+                                                Book Cover Design
+                                            </div>
+                                            <div class="icon mb-10">
+                                                <span>
+                                                    <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                        <path d="M1 12.965L13 0.959717" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                                                        <path d="M1 0.959717H13V12.965" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                                                    </svg>
+                                                </span>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="td-service-2-item service-item" data-img="assets/img/service/service-2/thumb-4.jpg">
+                                        <a href="<?= $BASE_URL ?>services-pages/book-formatting">
+                                            <div class="title d-flex align-items-center mb-10">
+                                                <span class="mr-65">09</span>
+                                                Book Formatting
+                                            </div>
+                                            <div class="icon mb-10">
+                                                <span>
+                                                    <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                        <path d="M1 12.965L13 0.959717" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                                                        <path d="M1 0.959717H13V12.965" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                                                    </svg>
+                                                </span>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="td-service-2-item service-item" data-img="assets/img/service/service-2/thumb-5.jpg">
+                                        <a href="<?= $BASE_URL ?>services-pages/book-video-trailer">
+                                            <div class="title d-flex align-items-center mb-10">
+                                                <span class="mr-65">10</span>
+                                                Book Video Trailer
                                             </div>
                                             <div class="icon mb-10">
                                                 <span>
