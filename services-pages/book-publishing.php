@@ -75,7 +75,7 @@ require_once __DIR__ . '/../config.php';
                             </div>
                             <div class="col-lg-6">
                                 <div class="td-about-main-thumb mb-40 fix td-rounded-10 wow fadeInLeft" data-wow-delay=".5s" data-wow-duration="1s">
-                                    <img data-speed=".9" class="w-100 td-rounded-10" src="<?= $BASE_URL ?>assets/img/about/main/edit-abt.jpg" alt="">
+                                    <img data-speed=".9" class="w-100 td-rounded-10" src="<?= $BASE_URL ?>assets/img/about/main/pub-bok.jpg" alt="">
                                 </div>
                             </div>
                             <div class="col-lg-6">
@@ -187,7 +187,7 @@ require_once __DIR__ . '/../config.php';
                                 <div class="td-about-left mb-30">
                                     <span>How We Perfect Your Manuscript</span>
                                     <div class="td-about-left-thumb ml-60 fix td-rounded-10">
-                                        <img data-speed=".9" src="<?= $BASE_URL ?>assets/img/about/main/be-abt.png" alt="">
+                                        <img data-speed=".9" src="<?= $BASE_URL ?>assets/img/about/main/bkpb-bg.jpg" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -209,7 +209,7 @@ require_once __DIR__ . '/../config.php';
                                             <img class="td-live-anim-spin" src="<?= $BASE_URL ?>assets/img/about/shape.png" alt="">
                                         </div>
                                         <div class="td-about-thumb fix td-rounded-10">
-                                            <img data-speed=".9" src="<?= $BASE_URL ?>assets/img/about/main/aurth-abt-2.jpg" alt="">
+                                            <img data-speed=".9" src="<?= $BASE_URL ?>assets/img/about/main/bkpb-abt-2.jpg" alt="">
                                         </div>
                                     </div>
                                 </div>
@@ -235,7 +235,7 @@ require_once __DIR__ . '/../config.php';
                                 <div class="td-service-process-item mt-120">
                                     <span class="icons mb-60 d-flex align-items-start justify-content-between">
                                         <!-- SVGs unchanged -->
-                                        <img src="<?= $BASE_URL ?>assets\img\service\servicesico/proofreading.png" alt="Initial Consultation" width="64" height="64">
+                                        <img src="<?= $BASE_URL ?>assets\img\service\servicesico/bkpub1.png" alt="Initial Consultation" width="64" height="64">
                                         <span class="number">01</span>
                                     </span>
                                     <h5 class="title mb-15">Fast Book Publishing Service</h5>
@@ -245,7 +245,7 @@ require_once __DIR__ . '/../config.php';
                             <div class="col-lg-3 col-md-6 col-sm-6  wow fadeInUp" data-wow-delay=".5s" data-wow-duration="1s">
                                 <div class="td-service-process-item">
                                     <span class="icons mb-60 d-flex align-items-start justify-content-between">
-                                        <img src="<?= $BASE_URL ?>assets\img\service\servicesico/formating.png" alt="Voice Selection" width="64" height="64">
+                                        <img src="<?= $BASE_URL ?>assets\img\service\servicesico/bkpub2.png" alt="Voice Selection" width="64" height="64">
                                         <span class="number">02</span>
                                     </span>
                                     <h5 class="title mb-15">Expert Book Publishers</h5>
@@ -255,7 +255,7 @@ require_once __DIR__ . '/../config.php';
                             <div class="col-lg-3 col-md-6 col-sm-6  wow fadeInUp" data-wow-delay=".7s" data-wow-duration="1s">
                                 <div class="td-service-process-item mt-120">
                                     <span class="icons mb-60 d-flex align-items-start justify-content-between">
-                                        <img src="<?= $BASE_URL ?>assets\img\service\servicesico/editorial.png" alt="Recording & Production" width="64" height="64">
+                                        <img src="<?= $BASE_URL ?>assets\img\service\servicesico/bkpub3.png" alt="Recording & Production" width="64" height="64">
                                         <span class="number">03</span>
                                     </span>
                                     <h5 class="title mb-15">Quality Customer Support</h5>
@@ -265,7 +265,7 @@ require_once __DIR__ . '/../config.php';
                             <div class="col-lg-3 col-md-6 col-sm-6  wow fadeInUp" data-wow-delay=".9s" data-wow-duration="1s">
                                 <div class="td-service-process-item">
                                     <span class="icons mb-60 d-flex align-items-start justify-content-between">
-                                        <img src="<?= $BASE_URL ?>assets\img\service\servicesico/Editing.png" alt="Final Review & Delivery" width="64" height="64">
+                                        <img src="<?= $BASE_URL ?>assets\img\service\servicesico/bkpub4.png" alt="Final Review & Delivery" width="64" height="64">
                                         <span class="number">04</span>
                                     </span>
                                     <h5 class="title mb-15">Enhanced Book Presentation</h5>
@@ -283,7 +283,7 @@ require_once __DIR__ . '/../config.php';
                         <div class="row">
                             <div class="col-lg-6">
                                 <div class="td-faq-2-thumb mb-30 fix td-rounded-10">
-                                    <img data-speed=".9" class="td-rounded-10" src="<?= $BASE_URL ?>assets/img/about/main/be-faq.png" alt="">
+                                    <img data-speed=".9" class="td-rounded-10" src="<?= $BASE_URL ?>assets/img/about/main/bp-faq.jpg" alt="">
                                 </div>
                             </div>
                             <div class="col-lg-6">
