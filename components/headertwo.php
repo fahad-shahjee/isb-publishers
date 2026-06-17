@@ -70,7 +70,7 @@ require_once __DIR__ . '/../config.php';
                                         <ul class="sub-menu">
                                             <li><a href="<?= $BASE_URL ?>services-pages/audio-book">Audio Book</a></li>
                                             <li><a href="<?= $BASE_URL ?>services-pages/author-website">Author Website</a></li>
-                                            <li><a href="<?= $BASE_URL ?>services-pages/book-editing">Book Editing</a></li>
+                                            <li><a href="<?= $BASE_URL ?>services-pages/Proofreading">Proofreading</a></li>
                                             <li><a href="<?= $BASE_URL ?>services-pages/book-publishing">Book Publishing</a></li>
                                             <li><a href="<?= $BASE_URL ?>services-pages/book-ghostwriting">Book Ghostwriting</a></li>
                                             <li><a href="<?= $BASE_URL ?>services-pages/book-marketing">Book Marketing</a></li>
