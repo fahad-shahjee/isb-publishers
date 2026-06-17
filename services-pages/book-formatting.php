@@ -75,7 +75,7 @@ require_once __DIR__ . '/../config.php';
                             </div>
                             <div class="col-lg-6">
                                 <div class="td-about-main-thumb mb-40 fix td-rounded-10 wow fadeInLeft" data-wow-delay=".5s" data-wow-duration="1s">
-                                    <img data-speed=".9" class="w-100 td-rounded-10" src="<?= $BASE_URL ?>assets/img/about/main/about.jpg" alt="">
+                                    <img data-speed=".9" class="w-100 td-rounded-10" src="<?= $BASE_URL ?>assets/img/about/main/bf-abt.jpg" alt="">
                                 </div>
                             </div>
                             <div class="col-lg-6">
@@ -187,7 +187,7 @@ require_once __DIR__ . '/../config.php';
                                 <div class="td-about-left mb-30">
                                     <span>Pages Ready To Publish</span>
                                     <div class="td-about-left-thumb ml-60 fix td-rounded-10">
-                                        <img data-speed=".9" src="<?= $BASE_URL ?>assets/img/about/main/about-2.jpg" alt="">
+                                        <img data-speed=".9" src="<?= $BASE_URL ?>assets/img/about/main/be-abt.jpg" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -209,7 +209,7 @@ require_once __DIR__ . '/../config.php';
                                             <img class="td-live-anim-spin" src="<?= $BASE_URL ?>assets/img/about/shape.png" alt="">
                                         </div>
                                         <div class="td-about-thumb fix td-rounded-10">
-                                            <img data-speed=".9" src="<?= $BASE_URL ?>assets/img/about/main/about-3.jpg" alt="">
+                                            <img data-speed=".9" src="<?= $BASE_URL ?>assets/img/about/main/bf2-abt-2.jpg" alt="">
                                         </div>
                                     </div>
                                 </div>
@@ -218,58 +218,6 @@ require_once __DIR__ . '/../config.php';
                     </div>
                 </div>
                 <!-- td-about-area-end -->
-
-                <!-- td-brands-area-start -->
-                <div class="td-brands-area pt-115">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-12">
-                                <div class="td-brand-wrap">
-                                    <div class="swiper-container td-brand-slide-active">
-                                        <div class="swiper-wrapper slide-transtion">
-                                            <div class="swiper-slide">
-                                                <div class="td-brand-item">
-                                                    <img src="<?= $BASE_URL ?>assets/img/brand/services/serv-logo.png" alt="">
-                                                </div>
-                                            </div>
-                                            <div class="swiper-slide">
-                                                <div class="td-brand-item">
-                                                    <img src="<?= $BASE_URL ?>assets/img/brand/services/serv-logo1.png" alt="">
-                                                </div>
-                                            </div>
-                                            <div class="swiper-slide">
-                                                <div class="td-brand-item">
-                                                    <img src="<?= $BASE_URL ?>assets/img/brand/services/serv-logo2.png" alt="">
-                                                </div>
-                                            </div>
-                                            <div class="swiper-slide">
-                                                <div class="td-brand-item">
-                                                    <img src="<?= $BASE_URL ?>assets/img/brand/services/serv-logo3.png" alt="">
-                                                </div>
-                                            </div>
-                                            <div class="swiper-slide">
-                                                <div class="td-brand-item">
-                                                    <img src="<?= $BASE_URL ?>assets/img/brand/services/serv-logo4.png" alt="">
-                                                </div>
-                                            </div>
-                                            <div class="swiper-slide">
-                                                <div class="td-brand-item">
-                                                    <img src="<?= $BASE_URL ?>assets/img/brand/services/serv-logo2.png" alt="">
-                                                </div>
-                                            </div>
-                                            <div class="swiper-slide">
-                                                <div class="td-brand-item">
-                                                    <img src="<?= $BASE_URL ?>assets/img/brand/services/serv-logo1.png" alt="">
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- td-brands-area-end -->
 
                 <!-- td-service-process-area-start -->
                 <div class="td-service-process-area pt-80">
@@ -287,7 +235,7 @@ require_once __DIR__ . '/../config.php';
                                 <div class="td-service-process-item mt-120">
                                     <span class="icons mb-60 d-flex align-items-start justify-content-between">
                                         <!-- SVGs unchanged -->
-                                        <img src="<?= $BASE_URL ?>assets\img\service\servicesico/initialcons.png" alt="Initial Consultation" width="64" height="64">
+                                        <img src="<?= $BASE_URL ?>assets\img\service\servicesico/manu.png" alt="Initial Consultation" width="64" height="64">
                                         <span class="number">01</span>
                                     </span>
                                     <h5 class="title mb-15">Manuscript Review</h5>
@@ -297,7 +245,7 @@ require_once __DIR__ . '/../config.php';
                             <div class="col-lg-3 col-md-6 col-sm-6  wow fadeInUp" data-wow-delay=".5s" data-wow-duration="1s">
                                 <div class="td-service-process-item">
                                     <span class="icons mb-60 d-flex align-items-start justify-content-between">
-                                        <img src="<?= $BASE_URL ?>assets\img\service\servicesico/voiceselct.png" alt="Voice Selection" width="64" height="64">
+                                        <img src="<?= $BASE_URL ?>assets\img\service\servicesico/layout.png" alt="Voice Selection" width="64" height="64">
                                         <span class="number">02</span>
                                     </span>
                                     <h5 class="title mb-15">Layout Setup</h5>
@@ -307,7 +255,7 @@ require_once __DIR__ . '/../config.php';
                             <div class="col-lg-3 col-md-6 col-sm-6  wow fadeInUp" data-wow-delay=".7s" data-wow-duration="1s">
                                 <div class="td-service-process-item mt-120">
                                     <span class="icons mb-60 d-flex align-items-start justify-content-between">
-                                        <img src="<?= $BASE_URL ?>assets\img\service\servicesico/rec_prod.png" alt="Recording & Production" width="64" height="64">
+                                        <img src="<?= $BASE_URL ?>assets\img\service\servicesico/print.png" alt="Recording & Production" width="64" height="64">
                                         <span class="number">03</span>
                                     </span>
                                     <h5 class="title mb-15">Print & Digital Formatting</h5>
@@ -317,7 +265,7 @@ require_once __DIR__ . '/../config.php';
                             <div class="col-lg-3 col-md-6 col-sm-6  wow fadeInUp" data-wow-delay=".9s" data-wow-duration="1s">
                                 <div class="td-service-process-item">
                                     <span class="icons mb-60 d-flex align-items-start justify-content-between">
-                                        <img src="<?= $BASE_URL ?>assets\img\service\servicesico/finalrev.png" alt="Final Review & Delivery" width="64" height="64">
+                                        <img src="<?= $BASE_URL ?>assets\img\service\servicesico/responsive.png" alt="Final Review & Delivery" width="64" height="64">
                                         <span class="number">04</span>
                                     </span>
                                     <h5 class="title mb-15">Final File Delivery</h5>
@@ -335,7 +283,7 @@ require_once __DIR__ . '/../config.php';
                         <div class="row">
                             <div class="col-lg-6">
                                 <div class="td-faq-2-thumb mb-30 fix td-rounded-10">
-                                    <img data-speed=".9" class="td-rounded-10" src="<?= $BASE_URL ?>assets/img/about/main/about-4.jpg" alt="">
+                                    <img data-speed=".9" class="td-rounded-10" src="<?= $BASE_URL ?>assets/img/about/main/bf-faq.jpg" alt="">
                                 </div>
                             </div>
                             <div class="col-lg-6">

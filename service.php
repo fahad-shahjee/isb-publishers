@@ -65,74 +65,12 @@
                                 <div class="td-breadcrumb-wrap">
                                     <span class="subtitle d-inline-block mb-15  wow fadeInLeft" data-wow-delay=".4s" data-wow-duration="1s">BEST SERVICE PROVIDE</span>
                                     <h2 class="td-section-page-title mb-35  wow fadeInLeft" data-wow-delay=".7s" data-wow-duration="1s">Experience <br> The <span>Best Service </span></h2>
-                                    <p class="text  wow fadeInLeft" data-wow-delay=".9s" data-wow-duration="1s">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius
-                                        enim in eros elementum Duis cursus, mi quis viverra ornare, eros dolor
-                                        interdum nulla, ut commodo diam libero vitae erat.</p>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
                 <!-- td-breadcrumb-area-end -->
-
-                <!-- td-service-main-area-start -->
-                <div class="td-service-main-area pb-125">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-12">
-                                <div class="td-service-main-bigthumb fix td-rounded-10">
-                                    <img data-speed=".9" src="assets/img/service/details/bg.jpg" alt="">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row justify-content-center">
-                            <div class="col-lg-9">
-                                <div class="td-service-main-content text-center pt-140 mb-60  wow fadeInUp" data-wow-delay=".5s" data-wow-duration="1s">
-                                    <span class="mb-25 d-inline-block">// Who we are</span>
-                                    <h2>We provide brilliant ideas to help
-                                        your startup grow building your
-                                        branding with precision</h2>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-lg-4">
-                                <div class="td-service-main-expreance mb-30  wow fadeInUp" data-wow-delay=".4s" data-wow-duration="1s">
-                                    <h2 class="expreance mb-0">26</h2>
-                                    <span class="year">YEARS OF WORK EXPERIENCE</span>
-                                </div>
-                            </div>
-                            <div class="col-lg-8">
-                                <div class="td-service-main-strategy-wrap ml-50">
-                                    <div class="row">
-                                        <div class="col-lg-6 col-md-6  wow fadeInUp" data-wow-delay=".6s" data-wow-duration="1s">
-                                            <div class="td-service-main-strategy mb-40">
-                                                <h3 class="title mb-20">Brand strategy</h3>
-                                                <p class="text">Some definitions of marketing highlight
-                                                    marketing's ability to produce</p>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-6 col-md-6  wow fadeInUp" data-wow-delay=".8s" data-wow-duration="1s">
-                                            <div class="td-service-main-strategy mb-40">
-                                                <h3 class="title mb-20">Make it creative</h3>
-                                                <p class="text">Some definitions of marketing highlight
-                                                    marketing's ability to produce</p>
-                                            </div>
-                                        </div>
-                                        <div class="col-12  wow fadeInUp" data-wow-delay=".9s" data-wow-duration="1s">
-                                            <div class="td-service-main-strategy">
-                                                <p class="text">Some definitions of marketing highlight marketing's ability to produce value to shareholders
-                                                    of the firm as well. In this context, marketing can be defined as "the management process
-                                                    that seeks to maximise returns to shareholders</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- td-service-main-area-end -->
 
                 <!-- td-service-iteam-pin-area-start -->
                 <div class="td-service-pin-item td-service-pin-items">
@@ -148,16 +86,16 @@
                                     <div class="td-service-pin-content-inner pt-40 pb-40 ml-100">
                                         <div class="td-service-pin-subtitle mb-15">
                                             <span class="number">01</span>
-                                            
+
                                         </div>
-                                        <h2 class="td-service-pin-title mb-30">Ghostwriting</h2>
+                                        <h2 class="td-service-pin-title mb-30">Audiobook</h2>
                                         <div class="td-service-pin-content  ml-50">
-                                            <p class="mb-40">We create your graphic designs according to your<br> budget and your needs. Reveal your brand image<br> and capture your audience.</p>
+                                            <p class="mb-40">We transform your book into a professional audiobook that captures your story, tone, and emotion. Reach more readers by giving your audience a powerful listening experience.</p>
                                             <ul>
-                                                <li>Logo Design</li>
-                                                <li>Graphic identity </li>
-                                                <li>Business communication</li>
-                                                <li>Web design</li>
+                                                <li>Voice narration</li>
+                                                <li>Sound mastering</li>
+                                                <li>Audio editing</li>
+                                                <li>Audiobook production</li>
                                             </ul>
                                             <div class="td-btn-group td-btn-group-border pt-50">
                                                 <a class="td-btn-circle" href="service-details.html">
@@ -185,14 +123,14 @@
                                         <div class="td-service-pin-subtitle mb-15">
                                             <span class="number">02</span>
                                         </div>
-                                        <h2 class="td-service-pin-title mb-30">Editing & Proofreading</h2>
+                                        <h2 class="td-service-pin-title mb-30">Author Website</h2>
                                         <div class="td-service-pin-content  ml-50">
-                                            <p class="mb-40">We create your graphic designs according to your<br> budget and your needs. Reveal your brand image<br> and capture your audience.</p>
+                                            <p class="mb-40">We create professional author websites that showcase your books, build your personal brand, and help readers connect with your work online.</p>
                                             <ul>
-                                                <li>Logo Design</li>
-                                                <li>Graphic identity </li>
-                                                <li>Business communication</li>
-                                                <li>Web design</li>
+                                                <li>Author profile</li>
+                                                <li>Book showcase</li>
+                                                <li>Website design</li>
+                                                <li>Reader engagement</li>
                                             </ul>
                                             <div class="td-btn-group td-btn-group-border pt-50">
                                                 <a class="td-btn-circle" href="service-details.html">
@@ -220,14 +158,14 @@
                                         <div class="td-service-pin-subtitle mb-15">
                                             <span class="number">03</span>
                                         </div>
-                                        <h2 class="td-service-pin-title mb-30">Illustration</h2>
+                                        <h2 class="td-service-pin-title mb-30">Proofreading</h2>
                                         <div class="td-service-pin-content  ml-50">
-                                            <p class="mb-40">We create your graphic designs according to your<br> budget and your needs. Reveal your brand image<br> and capture your audience.</p>
+                                            <p class="mb-40">We carefully review your manuscript to correct grammar, spelling, punctuation, and final errors, helping your book look polished and ready for publishing.</p>
                                             <ul>
-                                                <li>Logo Design</li>
-                                                <li>Graphic identity </li>
-                                                <li>Business communication</li>
-                                                <li>Web design</li>
+                                                <li>Grammar check</li>
+                                                <li>Spelling correction</li>
+                                                <li>Punctuation review</li>
+                                                <li>Final manuscript polish</li>
                                             </ul>
                                             <div class="td-btn-group td-btn-group-border pt-50">
                                                 <a class="td-btn-circle" href="service-details.html">
@@ -255,14 +193,14 @@
                                         <div class="td-service-pin-subtitle mb-15">
                                             <span class="number">04</span>
                                         </div>
-                                        <h2 class="td-service-pin-title mb-30">Publishing Strategy</h2>
+                                        <h2 class="td-service-pin-title mb-30">Book Publishing</h2>
                                         <div class="td-service-pin-content  ml-50">
-                                            <p class="mb-40">We create your graphic designs according to your<br> budget and your needs. Reveal your brand image<br> and capture your audience.</p>
+                                            <p class="mb-40">We guide authors through the complete publishing process, helping turn manuscripts into professionally prepared books ready for print and digital platforms.</p>
                                             <ul>
-                                                <li>Logo Design</li>
-                                                <li>Graphic identity </li>
-                                                <li>Business communication</li>
-                                                <li>Web design</li>
+                                                <li>Amazon publishing</li>
+                                                <li>Print publishing</li>
+                                                <li>eBook publishing</li>
+                                                <li>Publishing support</li>
                                             </ul>
                                             <div class="td-btn-group td-btn-group-border pt-50">
                                                 <a class="td-btn-circle" href="service-details.html">
@@ -290,14 +228,14 @@
                                         <div class="td-service-pin-subtitle mb-15">
                                             <span class="number">05</span>
                                         </div>
-                                        <h2 class="td-service-pin-title mb-30">Marketing Plan</h2>
+                                        <h2 class="td-service-pin-title mb-30">Ghostwriting</h2>
                                         <div class="td-service-pin-content  ml-50">
-                                            <p class="mb-40">We create your graphic designs according to your<br> budget and your needs. Reveal your brand image<br> and capture your audience.</p>
+                                            <p class="mb-40">We turn your ideas, notes, and experiences into a professionally written book that reflects your voice, message, and vision.</p>
                                             <ul>
-                                                <li>Logo Design</li>
-                                                <li>Graphic identity </li>
-                                                <li>Business communication</li>
-                                                <li>Web design</li>
+                                                <li>Book writing</li>
+                                                <li>Story development</li>
+                                                <li>Chapter planning</li>
+                                                <li>Manuscript creation</li>
                                             </ul>
                                             <div class="td-btn-group td-btn-group-border pt-50">
                                                 <a class="td-btn-circle" href="service-details.html">
@@ -311,60 +249,116 @@
                                         </div>
                                     </div>
                                 </div>
+                                <div class="col-lg-6">
+                                    <div class="td-service-pin-content-inner pt-40 pb-40 ml-100">
+                                        <div class="td-service-pin-subtitle mb-15">
+                                            <span class="number">06</span>
+                                        </div>
+                                        <h2 class="td-service-pin-title mb-30">Book Marketing</h2>
+                                        <div class="td-service-pin-content  ml-50">
+                                            <p class="mb-40">We help promote your book with creative marketing strategies designed to increase visibility, attract readers, and support your author brand.</p>
+                                            <ul>
+                                                <li>Marketing strategy</li>
+                                                <li>Launch planning</li>
+                                                <li>Social promotion</li>
+                                                <li>Reader outreach</li>
+                                            </ul>
+                                            <div class="td-btn-group td-btn-group-border pt-50">
+                                                <a class="td-btn-circle" href="service-details.html">
+                                                    <i class="fa-solid fa-arrow-right"></i>
+                                                </a>
+                                                <a class="td-btn-2 td-btn-primary" href="service-details.html">VIEW DETAILS</a>
+                                                <a class="td-btn-circle" href="service-details.html">
+                                                    <i class="fa-solid fa-arrow-right"></i>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6">
+                                    <div class="td-service-pin-content-inner pt-40 pb-40 ml-100">
+                                        <div class="td-service-pin-subtitle mb-15">
+                                            <span class="number">07</span>
+                                        </div>
+                                        <h2 class="td-service-pin-title mb-30">Book Illustration</h2>
+                                        <div class="td-service-pin-content  ml-50">
+                                            <p class="mb-40">We create custom illustrations that bring your characters, scenes, and story to life with visuals designed to engage readers.</p>
+                                            <ul>
+                                                <li>Character design</li>
+                                                <li>Story illustrations</li>
+                                                <li>Children’s books</li>
+                                                <li>Creative artwork</li>
+                                            </ul>
+                                            <div class="td-btn-group td-btn-group-border pt-50">
+                                                <a class="td-btn-circle" href="service-details.html">
+                                                    <i class="fa-solid fa-arrow-right"></i>
+                                                </a>
+                                                <a class="td-btn-2 td-btn-primary" href="service-details.html">VIEW DETAILS</a>
+                                                <a class="td-btn-circle" href="service-details.html">
+                                                    <i class="fa-solid fa-arrow-right"></i>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6">
+                                    <div class="td-service-pin-content-inner pt-40 pb-40 ml-100">
+                                        <div class="td-service-pin-subtitle mb-15">
+                                            <span class="number">08</span>
+                                        </div>
+                                        <h2 class="td-service-pin-title mb-30">Book Cover Design</h2>
+                                        <div class="td-service-pin-content  ml-50">
+                                            <p class="mb-40">We design professional book covers that capture attention, match your genre, and give your book a strong first impression.</p>
+                                            <ul>
+                                                <li>Front cover design</li>
+                                                <li>Back cover design</li>
+                                                <li>Spine layout</li>
+                                                <li>eBook cover</li>
+                                            </ul>
+                                            <div class="td-btn-group td-btn-group-border pt-50">
+                                                <a class="td-btn-circle" href="service-details.html">
+                                                    <i class="fa-solid fa-arrow-right"></i>
+                                                </a>
+                                                <a class="td-btn-2 td-btn-primary" href="service-details.html">VIEW DETAILS</a>
+                                                <a class="td-btn-circle" href="service-details.html">
+                                                    <i class="fa-solid fa-arrow-right"></i>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6">
+                                    <div class="td-service-pin-content-inner pt-40 pb-40 ml-100">
+                                        <div class="td-service-pin-subtitle mb-15">
+                                            <span class="number">09</span>
+                                        </div>
+                                        <h2 class="td-service-pin-title mb-30">Book Formatting</h2>
+                                        <div class="td-service-pin-content  ml-50">
+                                            <p class="mb-40">We format your manuscript into a clean, professional layout ready for paperback, hardcover, Kindle, and digital publishing.</p>
+                                            <ul>
+                                                <li>Print formatting</li>
+                                                <li>eBook formatting</li>
+                                                <li>Page layout</li>
+                                                <li>KDP formatting</li>
+                                            </ul>
+                                            <div class="td-btn-group td-btn-group-border pt-50">
+                                                <a class="td-btn-circle" href="service-details.html">
+                                                    <i class="fa-solid fa-arrow-right"></i>
+                                                </a>
+                                                <a class="td-btn-2 td-btn-primary" href="service-details.html">VIEW DETAILS</a>
+                                                <a class="td-btn-circle" href="service-details.html">
+                                                    <i class="fa-solid fa-arrow-right"></i>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
                             </div>
                         </div>
                     </div>
                 </div>
                 <!-- td-service-iteam-pin-area-end -->
-
-                <!-- td-brands-area-start -->
-                <div class="td-brands-area pt-160 pb-160">
-                    <div class="container">
-                        <div class="row gx-0">
-                            <div class="col-lg-3 col-md-4 col-sm-6">
-                                <div class="td-brands-7-item text-center">
-                                    <a href="#"><img src="assets/img/brand/brand-7/logo-1.png" alt=""></a>
-                                </div>
-                            </div>
-                            <div class="col-lg-3 col-md-4 col-sm-6">
-                                <div class="td-brands-7-item text-center">
-                                    <a href="#"><img src="assets/img/brand/brand-7/logo-2.png" alt=""></a>
-                                </div>
-                            </div>
-                            <div class="col-lg-3 col-md-4 col-sm-6">
-                                <div class="td-brands-7-item text-center">
-                                    <a href="#"><img src="assets/img/brand/brand-7/logo-3.png" alt=""></a>
-                                </div>
-                            </div>
-                            <div class="col-lg-3 col-md-4 col-sm-6">
-                                <div class="td-brands-7-item text-center">
-                                    <a href="#"><img src="assets/img/brand/brand-7/logo-4.png" alt=""></a>
-                                </div>
-                            </div>
-                            <div class="col-lg-3 col-md-4 col-sm-6">
-                                <div class="td-brands-7-item text-center">
-                                    <a href="#"><img src="assets/img/brand/brand-7/logo-5.png" alt=""></a>
-                                </div>
-                            </div>
-                            <div class="col-lg-3 col-md-4 col-sm-6">
-                                <div class="td-brands-7-item text-center">
-                                    <a href="#"><img src="assets/img/brand/brand-7/logo-6.png" alt=""></a>
-                                </div>
-                            </div>
-                            <div class="col-lg-3 col-md-4 col-sm-6">
-                                <div class="td-brands-7-item text-center">
-                                    <a href="#"><img src="assets/img/brand/brand-7/logo-7.png" alt=""></a>
-                                </div>
-                            </div>
-                            <div class="col-lg-3 col-md-4 col-sm-6">
-                                <div class="td-brands-7-item text-center">
-                                    <a href="#"><img src="assets/img/brand/brand-7/logo-8.png" alt=""></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- td-brands-area-end -->
 
                 <!-- td-cta-area-start -->
                 <div class="td-cta-area">

@@ -75,7 +75,7 @@ require_once __DIR__ . '/../config.php';
                             </div>
                             <div class="col-lg-6">
                                 <div class="td-about-main-thumb mb-40 fix td-rounded-10 wow fadeInLeft" data-wow-delay=".5s" data-wow-duration="1s">
-                                    <img data-speed=".9" class="w-100 td-rounded-10" src="<?= $BASE_URL ?>assets/img/about/main/about.jpg" alt="">
+                                    <img data-speed=".9" class="w-100 td-rounded-10" src="<?= $BASE_URL ?>assets/img/about/main/bm-img.jpg" alt="">
                                 </div>
                             </div>
                             <div class="col-lg-6">
@@ -187,7 +187,7 @@ require_once __DIR__ . '/../config.php';
                                 <div class="td-about-left mb-30">
                                     <span>Empowering Your Words to Be Heard</span>
                                     <div class="td-about-left-thumb ml-60 fix td-rounded-10">
-                                        <img data-speed=".9" src="<?= $BASE_URL ?>assets/img/about/main/about-2.jpg" alt="">
+                                        <img data-speed=".9" src="<?= $BASE_URL ?>assets/img/about/main/bm-abt.jpg" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -209,7 +209,7 @@ require_once __DIR__ . '/../config.php';
                                             <img class="td-live-anim-spin" src="<?= $BASE_URL ?>assets/img/about/shape.png" alt="">
                                         </div>
                                         <div class="td-about-thumb fix td-rounded-10">
-                                            <img data-speed=".9" src="<?= $BASE_URL ?>assets/img/about/main/about-3.jpg" alt="">
+                                            <img data-speed=".9" src="<?= $BASE_URL ?>assets/img/about/main/bm-abt-2.jpg" alt="">
                                         </div>
                                     </div>
                                 </div>
@@ -219,65 +219,13 @@ require_once __DIR__ . '/../config.php';
                 </div>
                 <!-- td-about-area-end -->
 
-                <!-- td-brands-area-start -->
-                <div class="td-brands-area pt-115">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-12">
-                                <div class="td-brand-wrap">
-                                    <div class="swiper-container td-brand-slide-active">
-                                        <div class="swiper-wrapper slide-transtion">
-                                            <div class="swiper-slide">
-                                                <div class="td-brand-item">
-                                                    <img src="<?= $BASE_URL ?>assets/img/brand/services/serv-logo.png" alt="">
-                                                </div>
-                                            </div>
-                                            <div class="swiper-slide">
-                                                <div class="td-brand-item">
-                                                    <img src="<?= $BASE_URL ?>assets/img/brand/services/serv-logo1.png" alt="">
-                                                </div>
-                                            </div>
-                                            <div class="swiper-slide">
-                                                <div class="td-brand-item">
-                                                    <img src="<?= $BASE_URL ?>assets/img/brand/services/serv-logo2.png" alt="">
-                                                </div>
-                                            </div>
-                                            <div class="swiper-slide">
-                                                <div class="td-brand-item">
-                                                    <img src="<?= $BASE_URL ?>assets/img/brand/services/serv-logo3.png" alt="">
-                                                </div>
-                                            </div>
-                                            <div class="swiper-slide">
-                                                <div class="td-brand-item">
-                                                    <img src="<?= $BASE_URL ?>assets/img/brand/services/serv-logo4.png" alt="">
-                                                </div>
-                                            </div>
-                                            <div class="swiper-slide">
-                                                <div class="td-brand-item">
-                                                    <img src="<?= $BASE_URL ?>assets/img/brand/services/serv-logo2.png" alt="">
-                                                </div>
-                                            </div>
-                                            <div class="swiper-slide">
-                                                <div class="td-brand-item">
-                                                    <img src="<?= $BASE_URL ?>assets/img/brand/services/serv-logo1.png" alt="">
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- td-brands-area-end -->
-
                 <!-- td-service-process-area-start -->
                 <div class="td-service-process-area pt-80">
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
                                 <div class="td-service-process-title-wrap text-center mb-50">
-                                    <h2 class="td-testimonial-title td-text-invert">Complete Professional Audiobook
+                                    <h2 class="td-testimonial-title td-text-invert">Complete Professional Book Marketing
                                         <span>Solutions from Start to Finish</span></h2>
                                 </div>
                             </div>
@@ -290,38 +238,38 @@ require_once __DIR__ . '/../config.php';
                                         <img src="<?= $BASE_URL ?>assets\img\service\servicesico/initialcons.png" alt="Initial Consultation" width="64" height="64">
                                         <span class="number">01</span>
                                     </span>
-                                    <h5 class="title mb-15">Initial Consultation</h5>
-                                    <p class="para">We learn your vision and define the tone, style, and voice for your audiobook.</p>
+                                    <h5 class="title mb-15">Marketing Consultation</h5>
+                                    <p class="para">We understand your book, audience, goals, and publishing stage.</p>
                                 </div>
                             </div>
                             <div class="col-lg-3 col-md-6 col-sm-6  wow fadeInUp" data-wow-delay=".5s" data-wow-duration="1s">
                                 <div class="td-service-process-item">
                                     <span class="icons mb-60 d-flex align-items-start justify-content-between">
-                                        <img src="<?= $BASE_URL ?>assets\img\service\servicesico/voiceselct.png" alt="Voice Selection" width="64" height="64">
+                                        <img src="<?= $BASE_URL ?>assets\img\service\servicesico/branding.png" alt="Strategy Planning" width="64" height="64">
                                         <span class="number">02</span>
                                     </span>
-                                    <h5 class="title mb-15">Voice Selection</h5>
-                                    <p class="para">Choose the perfect narrator whose voice captures your story’s essence.</p>
+                                    <h5 class="title mb-15">Strategy Planning</h5>
+                                    <p class="para">We create a clear marketing plan to promote your book effectively.</p>
                                 </div>
                             </div>
                             <div class="col-lg-3 col-md-6 col-sm-6  wow fadeInUp" data-wow-delay=".7s" data-wow-duration="1s">
                                 <div class="td-service-process-item mt-120">
                                     <span class="icons mb-60 d-flex align-items-start justify-content-between">
-                                        <img src="<?= $BASE_URL ?>assets\img\service\servicesico/rec_prod.png" alt="Recording & Production" width="64" height="64">
+                                        <img src="<?= $BASE_URL ?>assets\img\service\servicesico/promo.png" alt="Promotional Content" width="64" height="64">
                                         <span class="number">03</span>
                                     </span>
-                                    <h5 class="title mb-15">Recording & Production</h5>
-                                    <p class="para">Then, we record and produce your audiobook with expert narration and top-quality sound.</p>
+                                    <h5 class="title mb-15">Promotional Content</h5>
+                                    <p class="para">We write engaging content to attract and connect with readers.</p>
                                 </div>
                             </div>
                             <div class="col-lg-3 col-md-6 col-sm-6  wow fadeInUp" data-wow-delay=".9s" data-wow-duration="1s">
                                 <div class="td-service-process-item">
                                     <span class="icons mb-60 d-flex align-items-start justify-content-between">
-                                        <img src="<?= $BASE_URL ?>assets\img\service\servicesico/finalrev.png" alt="Final Review & Delivery" width="64" height="64">
+                                        <img src="<?= $BASE_URL ?>assets\img\service\servicesico/boklaunch.png" alt="Launch & Visibility Support" width="64" height="64">
                                         <span class="number">04</span>
                                     </span>
-                                    <h5 class="title mb-15">Final Review & Delivery</h5>
-                                    <p class="para">Finally, we review, polish, and deliver your audiobook ready for global release.</p>
+                                    <h5 class="title mb-15">Launch & Visibility Support</h5>
+                                    <p class="para">We help build awareness before, during, and after your launch.</p>
                                 </div>
                             </div>
                         </div>
@@ -335,7 +283,7 @@ require_once __DIR__ . '/../config.php';
                         <div class="row">
                             <div class="col-lg-6">
                                 <div class="td-faq-2-thumb mb-30 fix td-rounded-10">
-                                    <img data-speed=".9" class="td-rounded-10" src="<?= $BASE_URL ?>assets/img/about/main/about-4.jpg" alt="">
+                                    <img data-speed=".9" class="td-rounded-10" src="<?= $BASE_URL ?>assets/img/about/main/bm-faq.jpg" alt="">
                                 </div>
                             </div>
                             <div class="col-lg-6">
@@ -347,14 +295,14 @@ require_once __DIR__ . '/../config.php';
                                               <h2 class="accordion-header">
                                                  <button class="accordion-buttons collapsed" type="button" data-bs-toggle="collapse"
                                                     data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                                    Why use professional audiobook production?
+                                                    What is book marketing?
                                                     <span class="plus-icon"></span>
                                                  </button>
                                               </h2>
                                               <div id="collapseOne" class="accordion-collapse collapse show"
                                                  data-bs-parent="#accordionExample">
                                                  <div class="accordion-body">
-                                                    <p>Professional production ensures your story sounds clear, engaging, and emotionally authentic. It enhances the listening experience, captures the heart of your book, and helps your audiobook shine in a competitive market.</p>
+                                                    <p>Book marketing is the process of promoting your book so more readers can discover it. It includes creating a clear message, identifying your target audience, preparing promotional content, building visibility, and using the right platforms to introduce your book to potential readers.</p>
                                                  </div>
                                               </div>
                                            </div>
@@ -362,14 +310,14 @@ require_once __DIR__ . '/../config.php';
                                               <h2>
                                                  <button class="accordion-buttons" type="button" data-bs-toggle="collapse"
                                                     data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                                    How much does it cost?
+                                                    Can you market a book that is already published?
                                                     <span class="plus-icon"></span>
                                                  </button>
                                               </h2>
                                               <div id="collapseTwo" class="accordion-collapse collapse"
                                                  data-bs-parent="#accordionExample">
                                                  <div class="accordion-body">
-                                                    <p>Costs vary by book length, narration style, and voice artist. Contact us for a custom quote based on your project.</p>
+                                                    <p>Yes, we can help promote books that have already been published. Whether your book is newly released or has been available for some time, we can create a marketing direction to improve visibility, refresh your promotional content, and help your book reach new readers.</p>
                                                  </div>
                                               </div>
                                            </div>
@@ -377,14 +325,14 @@ require_once __DIR__ . '/../config.php';
                                               <h2 class="accordion-header">
                                                  <button class="accordion-buttons collapsed" type="button" data-bs-toggle="collapse"
                                                     data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                                    How long does it take?
+                                                    Do you help with book launch campaigns?
                                                     <span class="plus-icon"></span>
                                                  </button>
                                               </h2>
                                               <div id="collapseThree" class="accordion-collapse collapse"
                                                  data-bs-parent="#accordionExample">
                                                  <div class="accordion-body">
-                                                    <p>Depending on length and production details, most audiobooks are completed within a few weeks to a couple of months.</p>
+                                                    <p>Yes, we can support your book launch with planning, promotional copy, social media content, launch messaging, and campaign direction. A strong launch helps create attention around your book and gives readers a clear reason to engage with it.</p>
                                                  </div>
                                               </div>
                                            </div>
@@ -392,14 +340,14 @@ require_once __DIR__ . '/../config.php';
                                               <h2 class="accordion-header">
                                                  <button class="accordion-buttons collapsed" type="button" data-bs-toggle="collapse"
                                                     data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                                    What genres do you work with?
+                                                    Can you create social media content for my book?
                                                     <span class="plus-icon"></span>
                                                  </button>
                                               </h2>
                                               <div id="collapseFour" class="accordion-collapse collapse"
                                                  data-bs-parent="#accordionExample">
                                                  <div class="accordion-body">
-                                                    <p>We produce all genres — fiction, non-fiction, self-help, memoirs, fantasy, romance, thrillers, and more</p>
+                                                    <p>Yes, we can create social media content designed to promote your book professionally. This can include captions, post ideas, launch announcements, quote-based content, author branding posts, and promotional messaging that fits your book and audience.</p>
                                                  </div>
                                               </div>
                                            </div>
@@ -407,14 +355,14 @@ require_once __DIR__ . '/../config.php';
                                               <h2 class="accordion-header">
                                                  <button class="accordion-buttons collapsed" type="button" data-bs-toggle="collapse"
                                                     data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                                    Is this good for self-published authors?
+                                                    Do you write book descriptions and promotional copy?
                                                     <span class="plus-icon"></span>
                                                  </button>
                                               </h2>
                                               <div id="collapseFive" class="accordion-collapse collapse"
                                                  data-bs-parent="#accordionExample">
                                                  <div class="accordion-body">
-                                                    <p>Absolutely. Professional production boosts your book’s reach, credibility, and listener appeal.</p>
+                                                    <p>Yes, we can write professional book descriptions, author bios, sales copy, social media captions, and promotional text. Strong copy helps readers understand what your book is about and why they should be interested in reading it.</p>
                                                  </div>
                                               </div>
                                            </div>
