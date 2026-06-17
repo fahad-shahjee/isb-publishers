@@ -69,7 +69,7 @@ require_once __DIR__ . '/../config.php';
                                 <div class="td-about-main-wrapper pb-90" style="padding-bottom: 180px;">
                                     <h2 class="td-section-page-title td-title-anim text-center">
                                     Perfecting Your Story<br>
-                                        <span>with Expert Editing</span>
+                                        <span>with Expert Proofreading</span>
                                     </h2>
                                 </div>
                             </div>
@@ -80,9 +80,9 @@ require_once __DIR__ . '/../config.php';
                             </div>
                             <div class="col-lg-6">
                                 <div class="td-about-main-content mb-40 wow fadeInRight" data-wow-delay=".5s" data-wow-duration="1s">
-                                    <h3 class="td-about-main-title mb-20">Editing Services for Authors & Businesses</h3>
+                                    <h3 class="td-about-main-title mb-20">Premium Proofreading Solutions for Authors</h3>
                                     <div class="td-about-main-text mt-30">
-                                        <p class="mb-40">Whether you’re a business or an aspiring author beginning your writing journey, the best way to enhance your book is through professional editing. Expert feedback ensures your manuscript is fully refined and ready for publication. At ISB Ghostwriters, our experienced editors go far beyond checking grammar and formatting. We carefully analyze manuscripts and published works, offering expert insights on story structure, writing style, character development, and figurative language. Our team—consisting of developmental editors, copy editors, formatting specialists, and proofreaders—creates a detailed report with recommendations and an action plan to help you achieve the vision and impact you’ve imagined for your book.</p>
+                                        <p class="mb-40">At ISB Publishers, we help authors prepare their manuscripts for publishing with careful, professional proofreading. Our proofreading service focuses on correcting final errors while keeping your writing style, voice, and message unchanged. <br>Whether your book is ready for Amazon KDP, print publishing, eBook release, or final submission, our proofreaders review your manuscript for grammar, spelling, punctuation, sentence clarity, formatting consistency, and readability.</p>
                                         <div class="td-btn-group">
                                             <a class="td-btn-circle" href="<?= $BASE_URL ?>contact.php">
                                                 <i class="fa-solid fa-arrow-right"></i>
@@ -117,61 +117,61 @@ require_once __DIR__ . '/../config.php';
                         <div class="swiper-container td-contact-7-slide-active">
                             <div class="swiper-wrapper slide-transtion">
                                 <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text">Work</h2>
+                                    <h2 class="td-contact-7-slide-text">PROOFREAD</h2>
                                 </div>
                                 <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text yellows">TOGETHER</h2>
+                                    <h2 class="td-contact-7-slide-text yellows">WITH</h2>
                                 </div>
                                 <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text">Work</h2>
+                                    <h2 class="td-contact-7-slide-text">CONFIDENCE</h2>
                                 </div>
                                 <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text yellows">TOGETHER</h2>
+                                    <h2 class="td-contact-7-slide-text yellows">PROOFREAD</h2>
                                 </div>
                                 <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text">Work</h2>
+                                    <h2 class="td-contact-7-slide-text">WITH</h2>
                                 </div>
                                 <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text yellows">TOGETHER</h2>
+                                    <h2 class="td-contact-7-slide-text yellows">CONFIDENCE</h2>
                                 </div>
                                 <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text">Work</h2>
+                                    <h2 class="td-contact-7-slide-text">PROOFREAD</h2>
                                 </div>
                                 <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text yellows">TOGETHER</h2>
+                                    <h2 class="td-contact-7-slide-text yellows">WITH</h2>
                                 </div>
                                 <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text">Work</h2>
+                                    <h2 class="td-contact-7-slide-text">CONFIDENCE</h2>
                                 </div>
                                 <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text yellows">TOGETHER</h2>
+                                    <h2 class="td-contact-7-slide-text yellows">PROOFREAD</h2>
                                 </div>
                                 <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text">Work</h2>
+                                    <h2 class="td-contact-7-slide-text">WITH</h2>
                                 </div>
                                 <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text yellows">TOGETHER</h2>
+                                    <h2 class="td-contact-7-slide-text yellows">CONFIDENCE</h2>
                                 </div>
                                 <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text yellows">TOGETHER</h2>
+                                    <h2 class="td-contact-7-slide-text yellows">PROOFREAD</h2>
                                 </div>
                                 <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text">Work</h2>
+                                    <h2 class="td-contact-7-slide-text">WITH</h2>
                                 </div>
                                 <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text yellows">TOGETHER</h2>
+                                    <h2 class="td-contact-7-slide-text yellows">CONFIDENCE</h2>
                                 </div>
                                 <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text">Work</h2>
+                                    <h2 class="td-contact-7-slide-text">PROOFREAD</h2>
                                 </div>
                                 <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text yellows">TOGETHER</h2>
+                                    <h2 class="td-contact-7-slide-text yellows">WITH</h2>
                                 </div>
                                 <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text">Work</h2>
+                                    <h2 class="td-contact-7-slide-text">CONFIDENCE</h2>
                                 </div>
                                 <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text yellows">TOGETHER</h2>
+                                    <h2 class="td-contact-7-slide-text yellows">PROOFREAD</h2>
                                 </div>
                             </div>
                         </div>
@@ -185,7 +185,7 @@ require_once __DIR__ . '/../config.php';
                         <div class="row">
                             <div class="col-lg-4">
                                 <div class="td-about-left mb-30">
-                                    <span>How We Perfect Your Manuscript</span>
+                                    <span>Perfect Every Final Word</span>
                                     <div class="td-about-left-thumb ml-60 fix td-rounded-10">
                                         <img data-speed=".9" src="<?= $BASE_URL ?>assets/img/about/main/be-abt.png" alt="">
                                     </div>
@@ -193,8 +193,8 @@ require_once __DIR__ . '/../config.php';
                             </div>
                             <div class="col-lg-8">
                                 <div class="td-about-content mb-30">
-                                    <h2 class="td-about-title mb-30 td-text-invert" style="font-size: 40px">Elevate your manuscript with expert book editing services that polish your writing and captivate readers globally.</h2>
-                                    <p class="mb-45">Let our experienced editors turn your manuscript into a remarkable, publish-ready book. Our professional book editing services help authors craft best-sellers with precision and impact. Every great writer relies on a skilled editor, and our team ensures your work meets the highest standards. From grammar and structure to accuracy and flow, we refine every detail. Our editors understand the unique style of each genre, serving as trusted partners throughout your writing journey.</p>
+                                    <h2 class="td-about-title mb-30 td-text-invert" style="font-size: 40px">Make your manuscript clean, polished, and publishing-ready with careful proofreading that protects your voice and improves reader experience.</h2>
+                                    <p class="mb-45">Proofreading is the final step that helps your book feel professional before it reaches readers. Even a strong manuscript can lose impact if small spelling mistakes, punctuation issues, grammar errors, or formatting inconsistencies remain. ISB Publishers carefully reviews your work to correct final errors while keeping your writing style and message unchanged. We help make your manuscript clearer, cleaner, and more professional, giving you confidence before publishing your book.</p>
                                     <div class="td-btn-group mb-35">
                                         <a class="td-btn-circle" href="<?= $BASE_URL ?>about.php">
                                             <i class="fa-solid fa-arrow-right"></i>
@@ -225,8 +225,8 @@ require_once __DIR__ . '/../config.php';
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
                                 <div class="td-service-process-title-wrap text-center mb-50">
-                                    <h2 class="td-testimonial-title td-text-invert">Comprehensive Professional
-                                        <span>Book Editing Service</span></h2>
+                                    <h2 class="td-testimonial-title td-text-invert">Complete Professional Proofreading
+                                        <span>Solutions from Start to Finish</span></h2>
                                 </div>
                             </div>
                         </div>
@@ -295,14 +295,14 @@ require_once __DIR__ . '/../config.php';
                                               <h2 class="accordion-header">
                                                  <button class="accordion-buttons collapsed" type="button" data-bs-toggle="collapse"
                                                     data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                                    Why do I need professional book editing services?
+                                                    What is proofreading?
                                                     <span class="plus-icon"></span>
                                                  </button>
                                               </h2>
                                               <div id="collapseOne" class="accordion-collapse collapse show"
                                                  data-bs-parent="#accordionExample">
                                                  <div class="accordion-body">
-                                                    <p>Every writer makes mistakes — it’s part of the creative process. Crafting characters, building plots, and developing worlds can easily lead to overlooked errors or inconsistencies. Even non-fiction authors can unintentionally include inaccurate details after extensive research. Hiring a professional editor from ISBGhostwriters ensures your manuscript is refined, consistent, and completely error-free.</p>
+                                                    <p>Proofreading is the final review of a manuscript to correct grammar, spelling, punctuation, and small errors.</p>
                                                  </div>
                                               </div>
                                            </div>
@@ -310,14 +310,14 @@ require_once __DIR__ . '/../config.php';
                                               <h2>
                                                  <button class="accordion-buttons" type="button" data-bs-toggle="collapse"
                                                     data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                                    How long does it take to edit a book?
+                                                    Is proofreading different from editing?
                                                     <span class="plus-icon"></span>
                                                  </button>
                                               </h2>
                                               <div id="collapseTwo" class="accordion-collapse collapse"
                                                  data-bs-parent="#accordionExample">
                                                  <div class="accordion-body">
-                                                    <p>Editing timelines depend on your manuscript’s length and complexity. Typically, a book under 50 pages takes about 7–10 business days, while manuscripts between 50 and 200 pages may require 10–13 days. These timeframes are estimates, as each project is customized to your needs.</p>
+                                                    <p>Yes. Editing improves structure and flow, while proofreading focuses on final corrections.</p>
                                                  </div>
                                               </div>
                                            </div>
@@ -325,14 +325,14 @@ require_once __DIR__ . '/../config.php';
                                               <h2 class="accordion-header">
                                                  <button class="accordion-buttons collapsed" type="button" data-bs-toggle="collapse"
                                                     data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                                    What genres of books do you edit?
+                                                    Will you change my writing style?
                                                     <span class="plus-icon"></span>
                                                  </button>
                                               </h2>
                                               <div id="collapseThree" class="accordion-collapse collapse"
                                                  data-bs-parent="#accordionExample">
                                                  <div class="accordion-body">
-                                                    <p>At ISBGhostwriters, we offer professional book editing services for all genres — from romance, fantasy, and thriller to biographies and academic works. No matter your genre, our editorial team ensures your manuscript meets the highest publishing standards.</p>
+                                                    <p>No, we keep your voice the same while correcting mistakes.</p>
                                                  </div>
                                               </div>
                                            </div>
@@ -340,29 +340,14 @@ require_once __DIR__ . '/../config.php';
                                               <h2 class="accordion-header">
                                                  <button class="accordion-buttons collapsed" type="button" data-bs-toggle="collapse"
                                                     data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                                    Can I publish a book without an editor?
+                                                    Can you proofread before Amazon publishing?
                                                     <span class="plus-icon"></span>
                                                  </button>
                                               </h2>
                                               <div id="collapseFour" class="accordion-collapse collapse"
                                                  data-bs-parent="#accordionExample">
                                                  <div class="accordion-body">
-                                                    <p>Even the most experienced authors benefit from professional editing. A book includes many moving parts — structure, pacing, dialogue, and tone — all of which need careful review. At ISBGhostwriters, our editors bring the expertise required to transform your draft into a polished, engaging book ready for publication.</p>
-                                                 </div>
-                                              </div>
-                                           </div>
-                                           <div class="accordion-items">
-                                              <h2 class="accordion-header">
-                                                 <button class="accordion-buttons collapsed" type="button" data-bs-toggle="collapse"
-                                                    data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                                    Do self-published authors need editors?
-                                                    <span class="plus-icon"></span>
-                                                 </button>
-                                              </h2>
-                                              <div id="collapseFive" class="accordion-collapse collapse"
-                                                 data-bs-parent="#accordionExample">
-                                                 <div class="accordion-body">
-                                                    <p>Absolutely. Many successful self-published authors rely on professional editors to refine their manuscripts before release. Editors at ISBGhostwriters help self-published writers enhance readability, maintain consistency, and ensure their books stand out in today’s competitive market.</p>
+                                                    <p>Yes, we can proofread before Amazon KDP, eBook, paperback, or hardcover publishing.</p>
                                                  </div>
                                               </div>
                                            </div>
@@ -383,7 +368,7 @@ require_once __DIR__ . '/../config.php';
                                 <img class="td-cta-shape d-none d-xl-block" src="<?= $BASE_URL ?>assets/img/cta/cta.png" alt="">
                                 <h2 class="title p-relative d-inline-block">
                                     <img class="td-cta-shape-2 d-none d-md-block" src="<?= $BASE_URL ?>assets/img/cta/cta-2.png" alt="">
-                                    <a class="td-text-invert" href="<?= $BASE_URL ?>contact.php">
+                                    <a class="td-text-invert" href="<?= $BASE_URL ?>contact">
                                         HAVE A<br>
                                         PROJECTS<br>
                                         IN MINDS

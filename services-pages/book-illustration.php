@@ -7,7 +7,7 @@ require_once __DIR__ . '/../config.php';
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Book Marketing Services | ISB Ghostwriters</title>
+    <title>Book Illustration | ISB Ghostwriters</title>
     <meta name="description" content="Parody - Digital Agency Portfolio Html Template">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -68,21 +68,21 @@ require_once __DIR__ . '/../config.php';
                             <div class="col-lg-12">
                                 <div class="td-about-main-wrapper pb-90" style="padding-bottom: 180px;">
                                     <h2 class="td-section-page-title td-title-anim text-center">
-                                        Results-Driven Book<br>
-                                        <span>Marketing Services</span>
+                                    Premium Book <br>
+                                        <span>Illustration Solutions</span>
                                     </h2>
                                 </div>
                             </div>
                             <div class="col-lg-6">
                                 <div class="td-about-main-thumb mb-40 fix td-rounded-10 wow fadeInLeft" data-wow-delay=".5s" data-wow-duration="1s">
-                                    <img data-speed=".9" class="w-100 td-rounded-10" src="<?= $BASE_URL ?>assets/img/about/main/about.jpg" alt="">
+                                    <img data-speed=".9" class="w-100 td-rounded-10" src="<?= $BASE_URL ?>assets/img/about/main/edit-abt.jpg" alt="">
                                 </div>
                             </div>
                             <div class="col-lg-6">
                                 <div class="td-about-main-content mb-40 wow fadeInRight" data-wow-delay=".5s" data-wow-duration="1s">
-                                    <h3 class="td-about-main-title mb-20">You Know Your Book - We Know Marketing</h3>
+                                    <h3 class="td-about-main-title mb-20">Professional Book Illustration Services</h3>
                                     <div class="td-about-main-text mt-30">
-                                        <p class="mb-40">We are passionate about supporting authors and the incredible stories they have to tell. With years of publishing expertise, our team provides personalized, end-to-end solutions to help writers at every stage of their journey — from the first spark of an idea to the moment their book reaches readers around the world. We believe every story deserves to be told with care, creativity, and authenticity.</p>
+                                        <p class="mb-40">Bring your story to life with custom illustrations designed for children’s books, storybooks, educational books, and creative publications. ISB Publishers helps authors create characters, scenes, and visuals that match the tone of their story and connect with readers.</p>
                                         <div class="td-btn-group">
                                             <a class="td-btn-circle" href="<?= $BASE_URL ?>contact.php">
                                                 <i class="fa-solid fa-arrow-right"></i>
@@ -117,61 +117,61 @@ require_once __DIR__ . '/../config.php';
                         <div class="swiper-container td-contact-7-slide-active">
                             <div class="swiper-wrapper slide-transtion">
                                 <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text">Work</h2>
+                                    <h2 class="td-contact-7-slide-text">CREATE</h2>
                                 </div>
                                 <div class="swiper-slide">
                                     <h2 class="td-contact-7-slide-text yellows">TOGETHER</h2>
                                 </div>
                                 <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text">Work</h2>
+                                    <h2 class="td-contact-7-slide-text">CREATE</h2>
                                 </div>
                                 <div class="swiper-slide">
                                     <h2 class="td-contact-7-slide-text yellows">TOGETHER</h2>
                                 </div>
                                 <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text">Work</h2>
+                                    <h2 class="td-contact-7-slide-text">CREATE</h2>
                                 </div>
                                 <div class="swiper-slide">
                                     <h2 class="td-contact-7-slide-text yellows">TOGETHER</h2>
                                 </div>
                                 <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text">Work</h2>
+                                    <h2 class="td-contact-7-slide-text">CREATE</h2>
                                 </div>
                                 <div class="swiper-slide">
                                     <h2 class="td-contact-7-slide-text yellows">TOGETHER</h2>
                                 </div>
                                 <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text">Work</h2>
+                                    <h2 class="td-contact-7-slide-text">CREATE</h2>
                                 </div>
                                 <div class="swiper-slide">
                                     <h2 class="td-contact-7-slide-text yellows">TOGETHER</h2>
                                 </div>
                                 <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text">Work</h2>
+                                    <h2 class="td-contact-7-slide-text">CREATE</h2>
                                 </div>
                                 <div class="swiper-slide">
                                     <h2 class="td-contact-7-slide-text yellows">TOGETHER</h2>
                                 </div>
                                 <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text yellows">TOGETHER</h2>
+                                    <h2 class="td-contact-7-slide-text yellows">CREATE</h2>
                                 </div>
                                 <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text">Work</h2>
+                                    <h2 class="td-contact-7-slide-text">TOGETHER</h2>
                                 </div>
                                 <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text yellows">TOGETHER</h2>
+                                    <h2 class="td-contact-7-slide-text yellows">CREATE</h2>
                                 </div>
                                 <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text">Work</h2>
+                                    <h2 class="td-contact-7-slide-text">TOGETHER</h2>
                                 </div>
                                 <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text yellows">TOGETHER</h2>
+                                    <h2 class="td-contact-7-slide-text yellows">CREATE</h2>
                                 </div>
                                 <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text">Work</h2>
+                                    <h2 class="td-contact-7-slide-text">TOGETHER</h2>
                                 </div>
                                 <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text yellows">TOGETHER</h2>
+                                    <h2 class="td-contact-7-slide-text yellows">CREATE</h2>
                                 </div>
                             </div>
                         </div>
@@ -185,16 +185,16 @@ require_once __DIR__ . '/../config.php';
                         <div class="row">
                             <div class="col-lg-4">
                                 <div class="td-about-left mb-30">
-                                    <span>Empowering Your Words to Be Heard</span>
+                                    <span>Visualise Your Story Beautifully</span>
                                     <div class="td-about-left-thumb ml-60 fix td-rounded-10">
-                                        <img data-speed=".9" src="<?= $BASE_URL ?>assets/img/about/main/about-2.jpg" alt="">
+                                        <img data-speed=".9" src="<?= $BASE_URL ?>assets/img/about/main/be-abt.png" alt="">
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-8">
                                 <div class="td-about-content mb-30">
-                                    <h2 class="td-about-title mb-30 td-text-invert" style="font-size: 40px">Your story is meant to be read, shared, and celebrated. With our expert book marketing, we make sure your voice echoes across readers’ hearts and minds.</h2>
-                                    <p class="mb-45">Turning your written book into a captivating audiobook takes more than simply reading it aloud. It requires expert narration, meticulous editing, and top-tier production to truly capture the heart and soul of your story. Let us handle every detail for you. We’ll transform your book into an immersive audiobook experience — one that brings every emotion to life and makes your story impossible to ignore.</p>
+                                    <h2 class="td-about-title mb-30 td-text-invert" style="font-size: 40px">Bring your characters, scenes, and imagination to life with custom illustrations that make your book more engaging and memorable.</h2>
+                                    <p class="mb-45">Illustrations can turn a simple story into a visual experience that readers remember. For children’s books and creative stories, the right artwork helps communicate emotion, personality, setting, and imagination. ISB Publishers works with you to understand your story, characters, audience, and preferred style. From character concepts to full-page illustrations, we create visuals that support your words, strengthen your book’s identity, and make every page feel more alive.</p>
                                     <div class="td-btn-group mb-35">
                                         <a class="td-btn-circle" href="<?= $BASE_URL ?>about.php">
                                             <i class="fa-solid fa-arrow-right"></i>
@@ -209,7 +209,7 @@ require_once __DIR__ . '/../config.php';
                                             <img class="td-live-anim-spin" src="<?= $BASE_URL ?>assets/img/about/shape.png" alt="">
                                         </div>
                                         <div class="td-about-thumb fix td-rounded-10">
-                                            <img data-speed=".9" src="<?= $BASE_URL ?>assets/img/about/main/about-3.jpg" alt="">
+                                            <img data-speed=".9" src="<?= $BASE_URL ?>assets/img/about/main/aurth-abt-2.jpg" alt="">
                                         </div>
                                     </div>
                                 </div>
@@ -219,66 +219,14 @@ require_once __DIR__ . '/../config.php';
                 </div>
                 <!-- td-about-area-end -->
 
-                <!-- td-brands-area-start -->
-                <div class="td-brands-area pt-115">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-12">
-                                <div class="td-brand-wrap">
-                                    <div class="swiper-container td-brand-slide-active">
-                                        <div class="swiper-wrapper slide-transtion">
-                                            <div class="swiper-slide">
-                                                <div class="td-brand-item">
-                                                    <img src="<?= $BASE_URL ?>assets/img/brand/services/serv-logo.png" alt="">
-                                                </div>
-                                            </div>
-                                            <div class="swiper-slide">
-                                                <div class="td-brand-item">
-                                                    <img src="<?= $BASE_URL ?>assets/img/brand/services/serv-logo1.png" alt="">
-                                                </div>
-                                            </div>
-                                            <div class="swiper-slide">
-                                                <div class="td-brand-item">
-                                                    <img src="<?= $BASE_URL ?>assets/img/brand/services/serv-logo2.png" alt="">
-                                                </div>
-                                            </div>
-                                            <div class="swiper-slide">
-                                                <div class="td-brand-item">
-                                                    <img src="<?= $BASE_URL ?>assets/img/brand/services/serv-logo3.png" alt="">
-                                                </div>
-                                            </div>
-                                            <div class="swiper-slide">
-                                                <div class="td-brand-item">
-                                                    <img src="<?= $BASE_URL ?>assets/img/brand/services/serv-logo4.png" alt="">
-                                                </div>
-                                            </div>
-                                            <div class="swiper-slide">
-                                                <div class="td-brand-item">
-                                                    <img src="<?= $BASE_URL ?>assets/img/brand/services/serv-logo2.png" alt="">
-                                                </div>
-                                            </div>
-                                            <div class="swiper-slide">
-                                                <div class="td-brand-item">
-                                                    <img src="<?= $BASE_URL ?>assets/img/brand/services/serv-logo1.png" alt="">
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- td-brands-area-end -->
-
                 <!-- td-service-process-area-start -->
                 <div class="td-service-process-area pt-80">
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
                                 <div class="td-service-process-title-wrap text-center mb-50">
-                                    <h2 class="td-testimonial-title td-text-invert">Complete Professional Audiobook
-                                        <span>Solutions from Start to Finish</span></h2>
+                                    <h2 class="td-testimonial-title td-text-invert">Complete Professional Book
+                                        <span>Illustration Solutions from Start to Finish</span></h2>
                                 </div>
                             </div>
                         </div>
@@ -287,41 +235,41 @@ require_once __DIR__ . '/../config.php';
                                 <div class="td-service-process-item mt-120">
                                     <span class="icons mb-60 d-flex align-items-start justify-content-between">
                                         <!-- SVGs unchanged -->
-                                        <img src="<?= $BASE_URL ?>assets\img\service\servicesico/initialcons.png" alt="Initial Consultation" width="64" height="64">
+                                        <img src="<?= $BASE_URL ?>assets\img\service\servicesico/proofreading.png" alt="Initial Consultation" width="64" height="64">
                                         <span class="number">01</span>
                                     </span>
-                                    <h5 class="title mb-15">Initial Consultation</h5>
-                                    <p class="para">We learn your vision and define the tone, style, and voice for your audiobook.</p>
+                                    <h5 class="title mb-15">Creative Consultation</h5>
+                                    <p class="para">We discuss your story, characters, audience, and illustration style.</p>
                                 </div>
                             </div>
                             <div class="col-lg-3 col-md-6 col-sm-6  wow fadeInUp" data-wow-delay=".5s" data-wow-duration="1s">
                                 <div class="td-service-process-item">
                                     <span class="icons mb-60 d-flex align-items-start justify-content-between">
-                                        <img src="<?= $BASE_URL ?>assets\img\service\servicesico/voiceselct.png" alt="Voice Selection" width="64" height="64">
+                                        <img src="<?= $BASE_URL ?>assets\img\service\servicesico/formating.png" alt="Voice Selection" width="64" height="64">
                                         <span class="number">02</span>
                                     </span>
-                                    <h5 class="title mb-15">Voice Selection</h5>
-                                    <p class="para">Choose the perfect narrator whose voice captures your story’s essence.</p>
+                                    <h5 class="title mb-15">Character Design</h5>
+                                    <p class="para">We create the visual direction, character appearance, and artwork style.</p>
                                 </div>
                             </div>
                             <div class="col-lg-3 col-md-6 col-sm-6  wow fadeInUp" data-wow-delay=".7s" data-wow-duration="1s">
                                 <div class="td-service-process-item mt-120">
                                     <span class="icons mb-60 d-flex align-items-start justify-content-between">
-                                        <img src="<?= $BASE_URL ?>assets\img\service\servicesico/rec_prod.png" alt="Recording & Production" width="64" height="64">
+                                        <img src="<?= $BASE_URL ?>assets\img\service\servicesico/editorial.png" alt="Recording & Production" width="64" height="64">
                                         <span class="number">03</span>
                                     </span>
-                                    <h5 class="title mb-15">Recording & Production</h5>
-                                    <p class="para">Then, we record and produce your audiobook with expert narration and top-quality sound.</p>
+                                    <h5 class="title mb-15">Illustration Creation</h5>
+                                    <p class="para">Our illustrators create custom artwork for your scenes and pages.</p>
                                 </div>
                             </div>
                             <div class="col-lg-3 col-md-6 col-sm-6  wow fadeInUp" data-wow-delay=".9s" data-wow-duration="1s">
                                 <div class="td-service-process-item">
                                     <span class="icons mb-60 d-flex align-items-start justify-content-between">
-                                        <img src="<?= $BASE_URL ?>assets\img\service\servicesico/finalrev.png" alt="Final Review & Delivery" width="64" height="64">
+                                        <img src="<?= $BASE_URL ?>assets\img\service\servicesico/Editing.png" alt="Final Review & Delivery" width="64" height="64">
                                         <span class="number">04</span>
                                     </span>
-                                    <h5 class="title mb-15">Final Review & Delivery</h5>
-                                    <p class="para">Finally, we review, polish, and deliver your audiobook ready for global release.</p>
+                                    <h5 class="title mb-15">Final Artwork Delivery</h5>
+                                    <p class="para">We prepare final illustrations for book formatting, print, and digital publishing.</p>
                                 </div>
                             </div>
                         </div>
@@ -335,7 +283,7 @@ require_once __DIR__ . '/../config.php';
                         <div class="row">
                             <div class="col-lg-6">
                                 <div class="td-faq-2-thumb mb-30 fix td-rounded-10">
-                                    <img data-speed=".9" class="td-rounded-10" src="<?= $BASE_URL ?>assets/img/about/main/about-4.jpg" alt="">
+                                    <img data-speed=".9" class="td-rounded-10" src="<?= $BASE_URL ?>assets/img/about/main/be-faq.png" alt="">
                                 </div>
                             </div>
                             <div class="col-lg-6">
@@ -347,14 +295,14 @@ require_once __DIR__ . '/../config.php';
                                               <h2 class="accordion-header">
                                                  <button class="accordion-buttons collapsed" type="button" data-bs-toggle="collapse"
                                                     data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                                    Why use professional audiobook production?
+                                                    Do you illustrate children’s books?
                                                     <span class="plus-icon"></span>
                                                  </button>
                                               </h2>
                                               <div id="collapseOne" class="accordion-collapse collapse show"
                                                  data-bs-parent="#accordionExample">
                                                  <div class="accordion-body">
-                                                    <p>Professional production ensures your story sounds clear, engaging, and emotionally authentic. It enhances the listening experience, captures the heart of your book, and helps your audiobook shine in a competitive market.</p>
+                                                    <p>Yes, we create custom illustrations for children’s books and storybooks.</p>
                                                  </div>
                                               </div>
                                            </div>
@@ -362,14 +310,14 @@ require_once __DIR__ . '/../config.php';
                                               <h2>
                                                  <button class="accordion-buttons" type="button" data-bs-toggle="collapse"
                                                     data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                                    How much does it cost?
+                                                    Can you design characters?
                                                     <span class="plus-icon"></span>
                                                  </button>
                                               </h2>
                                               <div id="collapseTwo" class="accordion-collapse collapse"
                                                  data-bs-parent="#accordionExample">
                                                  <div class="accordion-body">
-                                                    <p>Costs vary by book length, narration style, and voice artist. Contact us for a custom quote based on your project.</p>
+                                                    <p>Yes, we can create original characters based on your story.</p>
                                                  </div>
                                               </div>
                                            </div>
@@ -377,14 +325,14 @@ require_once __DIR__ . '/../config.php';
                                               <h2 class="accordion-header">
                                                  <button class="accordion-buttons collapsed" type="button" data-bs-toggle="collapse"
                                                     data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                                    How long does it take?
+                                                    Can I choose the illustration style?
                                                     <span class="plus-icon"></span>
                                                  </button>
                                               </h2>
                                               <div id="collapseThree" class="accordion-collapse collapse"
                                                  data-bs-parent="#accordionExample">
                                                  <div class="accordion-body">
-                                                    <p>Depending on length and production details, most audiobooks are completed within a few weeks to a couple of months.</p>
+                                                    <p>Yes, we can work with your preferred visual direction.</p>
                                                  </div>
                                               </div>
                                            </div>
@@ -392,29 +340,14 @@ require_once __DIR__ . '/../config.php';
                                               <h2 class="accordion-header">
                                                  <button class="accordion-buttons collapsed" type="button" data-bs-toggle="collapse"
                                                     data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                                    What genres do you work with?
+                                                    Do you prepare illustrations for print?
                                                     <span class="plus-icon"></span>
                                                  </button>
                                               </h2>
                                               <div id="collapseFour" class="accordion-collapse collapse"
                                                  data-bs-parent="#accordionExample">
                                                  <div class="accordion-body">
-                                                    <p>We produce all genres — fiction, non-fiction, self-help, memoirs, fantasy, romance, thrillers, and more</p>
-                                                 </div>
-                                              </div>
-                                           </div>
-                                           <div class="accordion-items">
-                                              <h2 class="accordion-header">
-                                                 <button class="accordion-buttons collapsed" type="button" data-bs-toggle="collapse"
-                                                    data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                                    Is this good for self-published authors?
-                                                    <span class="plus-icon"></span>
-                                                 </button>
-                                              </h2>
-                                              <div id="collapseFive" class="accordion-collapse collapse"
-                                                 data-bs-parent="#accordionExample">
-                                                 <div class="accordion-body">
-                                                    <p>Absolutely. Professional production boosts your book’s reach, credibility, and listener appeal.</p>
+                                                    <p>Yes, final artwork can be prepared for print and digital book formats.</p>
                                                  </div>
                                               </div>
                                            </div>

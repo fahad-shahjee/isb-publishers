@@ -63,7 +63,6 @@ $servicePages = [
                                             <li><a href="<?= $BASE_URL ?>services-pages/book-illustration">Book Illustration</a></li>
                                             <li><a href="<?= $BASE_URL ?>services-pages/book-cover-design">Book Cover Design</a></li>
                                             <li><a href="<?= $BASE_URL ?>services-pages/book-formatting">Book Formatting</a></li>
-                                            <li><a href="<?= $BASE_URL ?>services-pages/book-video-trailer">Book Video Trailer</a></li>
                                     </ul>
                                 </li>
 

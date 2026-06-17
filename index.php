@@ -317,10 +317,6 @@
                                         <img class="thumb" src="assets/img/service/service-2/bookformating.png" alt="Book Formatting">
                                         <img class="shape" src="assets/img/service/service-2/shape.png" alt="">
                                     </div>
-                                    <div class="hover-image">
-                                        <img class="thumb" src="assets/img/service/service-2/bookvedio.jpg" alt="Book Video Trailer">
-                                        <img class="shape" src="assets/img/service/service-2/shape.png" alt="">
-                                    </div>
                                 </div>
                             </div>
                             <div class="col-lg-7">
@@ -358,7 +354,7 @@
                                         </a>
                                     </div>
                                     <div class="td-service-2-item service-item" data-img="assets/img/service/service-2/thumb-3.jpg">
-                                        <a href="<?= $BASE_URL ?>services-pages/book-editing">
+                                        <a href="<?= $BASE_URL ?>services-pages/proofreading">
                                             <div class="title d-flex align-items-center mb-10">
                                                 <span class="mr-65">03</span>
                                                 Proofreading
@@ -469,24 +465,6 @@
                                             </div>
                                         </a>
                                     </div>
-                                    <div class="td-service-2-item service-item" data-img="assets/img/service/service-2/thumb-5.jpg">
-                                        <a href="<?= $BASE_URL ?>services-pages/book-video-trailer">
-                                            <div class="title d-flex align-items-center mb-10">
-                                                <span class="mr-65">10</span>
-                                                Book Video Trailer
-                                            </div>
-                                            <div class="icon mb-10">
-                                                <span>
-                                                    <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                        <path d="M1 12.965L13 0.959717" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                                                        <path d="M1 0.959717H13V12.965" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                                                    </svg>
-                                                </span>
-                                            </div>
-                                        </a>
-                                    </div>
-
-
                                 </div>
                             </div>
                         </div>

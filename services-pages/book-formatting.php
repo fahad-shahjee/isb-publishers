@@ -7,7 +7,7 @@ require_once __DIR__ . '/../config.php';
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Book Marketing Services | ISB Ghostwriters</title>
+    <title>Expert Audiobook Services | ISB Ghostwriters</title>
     <meta name="description" content="Parody - Digital Agency Portfolio Html Template">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -68,8 +68,8 @@ require_once __DIR__ . '/../config.php';
                             <div class="col-lg-12">
                                 <div class="td-about-main-wrapper pb-90" style="padding-bottom: 180px;">
                                     <h2 class="td-section-page-title td-title-anim text-center">
-                                        Results-Driven Book<br>
-                                        <span>Marketing Services</span>
+                                        Professional<br>
+                                        <span>Book Formatting</span>
                                     </h2>
                                 </div>
                             </div>
@@ -80,9 +80,9 @@ require_once __DIR__ . '/../config.php';
                             </div>
                             <div class="col-lg-6">
                                 <div class="td-about-main-content mb-40 wow fadeInRight" data-wow-delay=".5s" data-wow-duration="1s">
-                                    <h3 class="td-about-main-title mb-20">You Know Your Book - We Know Marketing</h3>
+                                    <h3 class="td-about-main-title mb-20">Premium Book Formatting Solutions</h3>
                                     <div class="td-about-main-text mt-30">
-                                        <p class="mb-40">We are passionate about supporting authors and the incredible stories they have to tell. With years of publishing expertise, our team provides personalized, end-to-end solutions to help writers at every stage of their journey — from the first spark of an idea to the moment their book reaches readers around the world. We believe every story deserves to be told with care, creativity, and authenticity.</p>
+                                        <p class="mb-40">ISB Publishers provides clean, professional book formatting that prepares your manuscript for print and digital publishing. We format books for paperback, hardcover, Kindle, eBook, and Amazon KDP, making sure every page looks organised, readable, and publishing-ready. From margins and spacing to chapter headings, page numbers, fonts, and front matter, we help your book look polished from beginning to end.</p>
                                         <div class="td-btn-group">
                                             <a class="td-btn-circle" href="<?= $BASE_URL ?>contact.php">
                                                 <i class="fa-solid fa-arrow-right"></i>
@@ -117,58 +117,58 @@ require_once __DIR__ . '/../config.php';
                         <div class="swiper-container td-contact-7-slide-active">
                             <div class="swiper-wrapper slide-transtion">
                                 <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text">Work</h2>
+                                    <h2 class="td-contact-7-slide-text">FORMAT</h2>
                                 </div>
                                 <div class="swiper-slide">
                                     <h2 class="td-contact-7-slide-text yellows">TOGETHER</h2>
                                 </div>
                                 <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text">Work</h2>
+                                    <h2 class="td-contact-7-slide-text">FORMAT</h2>
                                 </div>
                                 <div class="swiper-slide">
                                     <h2 class="td-contact-7-slide-text yellows">TOGETHER</h2>
                                 </div>
                                 <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text">Work</h2>
+                                    <h2 class="td-contact-7-slide-text">FORMAT</h2>
                                 </div>
                                 <div class="swiper-slide">
                                     <h2 class="td-contact-7-slide-text yellows">TOGETHER</h2>
                                 </div>
                                 <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text">Work</h2>
+                                    <h2 class="td-contact-7-slide-text">FORMAT</h2>
                                 </div>
                                 <div class="swiper-slide">
                                     <h2 class="td-contact-7-slide-text yellows">TOGETHER</h2>
                                 </div>
                                 <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text">Work</h2>
+                                    <h2 class="td-contact-7-slide-text">FORMAT</h2>
                                 </div>
                                 <div class="swiper-slide">
                                     <h2 class="td-contact-7-slide-text yellows">TOGETHER</h2>
                                 </div>
                                 <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text">Work</h2>
+                                    <h2 class="td-contact-7-slide-text">FORMAT</h2>
                                 </div>
                                 <div class="swiper-slide">
                                     <h2 class="td-contact-7-slide-text yellows">TOGETHER</h2>
                                 </div>
                                 <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text yellows">TOGETHER</h2>
+                                    <h2 class="td-contact-7-slide-text yellows">FORMAT</h2>
                                 </div>
                                 <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text">Work</h2>
+                                    <h2 class="td-contact-7-slide-text">TOGETHER</h2>
                                 </div>
                                 <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text yellows">TOGETHER</h2>
+                                    <h2 class="td-contact-7-slide-text yellows">FORMAT</h2>
                                 </div>
                                 <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text">Work</h2>
+                                    <h2 class="td-contact-7-slide-text">TOGETHER</h2>
                                 </div>
                                 <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text yellows">TOGETHER</h2>
+                                    <h2 class="td-contact-7-slide-text yellows">FORMAT</h2>
                                 </div>
                                 <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text">Work</h2>
+                                    <h2 class="td-contact-7-slide-text">FORMAT</h2>
                                 </div>
                                 <div class="swiper-slide">
                                     <h2 class="td-contact-7-slide-text yellows">TOGETHER</h2>
@@ -185,7 +185,7 @@ require_once __DIR__ . '/../config.php';
                         <div class="row">
                             <div class="col-lg-4">
                                 <div class="td-about-left mb-30">
-                                    <span>Empowering Your Words to Be Heard</span>
+                                    <span>Pages Ready To Publish</span>
                                     <div class="td-about-left-thumb ml-60 fix td-rounded-10">
                                         <img data-speed=".9" src="<?= $BASE_URL ?>assets/img/about/main/about-2.jpg" alt="">
                                     </div>
@@ -193,8 +193,8 @@ require_once __DIR__ . '/../config.php';
                             </div>
                             <div class="col-lg-8">
                                 <div class="td-about-content mb-30">
-                                    <h2 class="td-about-title mb-30 td-text-invert" style="font-size: 40px">Your story is meant to be read, shared, and celebrated. With our expert book marketing, we make sure your voice echoes across readers’ hearts and minds.</h2>
-                                    <p class="mb-45">Turning your written book into a captivating audiobook takes more than simply reading it aloud. It requires expert narration, meticulous editing, and top-tier production to truly capture the heart and soul of your story. Let us handle every detail for you. We’ll transform your book into an immersive audiobook experience — one that brings every emotion to life and makes your story impossible to ignore.</p>
+                                    <h2 class="td-about-title mb-30 td-text-invert" style="font-size: 40px">Give your manuscript a clean, professional layout that improves readability and prepares your book for print and digital release.</h2>
+                                    <p class="mb-45">Formatting is what turns your manuscript into a finished book that feels professional in the hands of readers. At ISB Publishers, we carefully structure your pages so the layout, spacing, fonts, headings, and chapter breaks are clear and consistent. Whether you are publishing an eBook, paperback, or hardcover, we prepare your files to meet platform requirements and give your readers a smooth experience.</p>
                                     <div class="td-btn-group mb-35">
                                         <a class="td-btn-circle" href="<?= $BASE_URL ?>about.php">
                                             <i class="fa-solid fa-arrow-right"></i>
@@ -277,8 +277,8 @@ require_once __DIR__ . '/../config.php';
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
                                 <div class="td-service-process-title-wrap text-center mb-50">
-                                    <h2 class="td-testimonial-title td-text-invert">Complete Professional Audiobook
-                                        <span>Solutions from Start to Finish</span></h2>
+                                    <h2 class="td-testimonial-title td-text-invert">Complete Professional Book
+                                        <span>Formatting Solutions from Start to Finish</span></h2>
                                 </div>
                             </div>
                         </div>
@@ -290,8 +290,8 @@ require_once __DIR__ . '/../config.php';
                                         <img src="<?= $BASE_URL ?>assets\img\service\servicesico/initialcons.png" alt="Initial Consultation" width="64" height="64">
                                         <span class="number">01</span>
                                     </span>
-                                    <h5 class="title mb-15">Initial Consultation</h5>
-                                    <p class="para">We learn your vision and define the tone, style, and voice for your audiobook.</p>
+                                    <h5 class="title mb-15">Manuscript Review</h5>
+                                    <p class="para">We review your manuscript, word count, chapters, images, publishing platform, and required format so we can understand exactly how your book needs to be prepared.</p>
                                 </div>
                             </div>
                             <div class="col-lg-3 col-md-6 col-sm-6  wow fadeInUp" data-wow-delay=".5s" data-wow-duration="1s">
@@ -300,8 +300,8 @@ require_once __DIR__ . '/../config.php';
                                         <img src="<?= $BASE_URL ?>assets\img\service\servicesico/voiceselct.png" alt="Voice Selection" width="64" height="64">
                                         <span class="number">02</span>
                                     </span>
-                                    <h5 class="title mb-15">Voice Selection</h5>
-                                    <p class="para">Choose the perfect narrator whose voice captures your story’s essence.</p>
+                                    <h5 class="title mb-15">Layout Setup</h5>
+                                    <p class="para">We set up the page size, margins, fonts, spacing, headings, chapter titles, page numbers, and front/back matter to create a clean book layout.</p>
                                 </div>
                             </div>
                             <div class="col-lg-3 col-md-6 col-sm-6  wow fadeInUp" data-wow-delay=".7s" data-wow-duration="1s">
@@ -310,8 +310,8 @@ require_once __DIR__ . '/../config.php';
                                         <img src="<?= $BASE_URL ?>assets\img\service\servicesico/rec_prod.png" alt="Recording & Production" width="64" height="64">
                                         <span class="number">03</span>
                                     </span>
-                                    <h5 class="title mb-15">Recording & Production</h5>
-                                    <p class="para">Then, we record and produce your audiobook with expert narration and top-quality sound.</p>
+                                    <h5 class="title mb-15">Print & Digital Formatting</h5>
+                                    <p class="para">We prepare your book for paperback, hardcover, Kindle, eBook, or Amazon KDP, ensuring the format matches the technical requirements of your chosen platform.</p>
                                 </div>
                             </div>
                             <div class="col-lg-3 col-md-6 col-sm-6  wow fadeInUp" data-wow-delay=".9s" data-wow-duration="1s">
@@ -320,8 +320,8 @@ require_once __DIR__ . '/../config.php';
                                         <img src="<?= $BASE_URL ?>assets\img\service\servicesico/finalrev.png" alt="Final Review & Delivery" width="64" height="64">
                                         <span class="number">04</span>
                                     </span>
-                                    <h5 class="title mb-15">Final Review & Delivery</h5>
-                                    <p class="para">Finally, we review, polish, and deliver your audiobook ready for global release.</p>
+                                    <h5 class="title mb-15">Final File Delivery</h5>
+                                    <p class="para">We deliver publishing-ready files in the correct format, allowing you to upload, print, or publish your book with a professional presentation</p>
                                 </div>
                             </div>
                         </div>
@@ -347,14 +347,14 @@ require_once __DIR__ . '/../config.php';
                                               <h2 class="accordion-header">
                                                  <button class="accordion-buttons collapsed" type="button" data-bs-toggle="collapse"
                                                     data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                                    Why use professional audiobook production?
+                                                    What is book formatting?
                                                     <span class="plus-icon"></span>
                                                  </button>
                                               </h2>
                                               <div id="collapseOne" class="accordion-collapse collapse show"
                                                  data-bs-parent="#accordionExample">
                                                  <div class="accordion-body">
-                                                    <p>Professional production ensures your story sounds clear, engaging, and emotionally authentic. It enhances the listening experience, captures the heart of your book, and helps your audiobook shine in a competitive market.</p>
+                                                    <p>Book formatting is the process of arranging your manuscript into a professional book layout. It includes margins, spacing, fonts, chapter headings, page numbers, title pages, copyright pages, contents pages, and overall structure for print or digital publishing.</p>
                                                  </div>
                                               </div>
                                            </div>
@@ -362,14 +362,14 @@ require_once __DIR__ . '/../config.php';
                                               <h2>
                                                  <button class="accordion-buttons" type="button" data-bs-toggle="collapse"
                                                     data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                                    How much does it cost?
+                                                    Do you format books for Amazon KDP?
                                                     <span class="plus-icon"></span>
                                                  </button>
                                               </h2>
                                               <div id="collapseTwo" class="accordion-collapse collapse"
                                                  data-bs-parent="#accordionExample">
                                                  <div class="accordion-body">
-                                                    <p>Costs vary by book length, narration style, and voice artist. Contact us for a custom quote based on your project.</p>
+                                                    <p>Yes, we format books for Amazon KDP, including Kindle eBooks, paperbacks, and hardcovers. We prepare the files according to publishing requirements so your book is easier to upload and looks professional once published.</p>
                                                  </div>
                                               </div>
                                            </div>
@@ -377,14 +377,14 @@ require_once __DIR__ . '/../config.php';
                                               <h2 class="accordion-header">
                                                  <button class="accordion-buttons collapsed" type="button" data-bs-toggle="collapse"
                                                     data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                                    How long does it take?
+                                                    Can you format both print and eBook versions?
                                                     <span class="plus-icon"></span>
                                                  </button>
                                               </h2>
                                               <div id="collapseThree" class="accordion-collapse collapse"
                                                  data-bs-parent="#accordionExample">
                                                  <div class="accordion-body">
-                                                    <p>Depending on length and production details, most audiobooks are completed within a few weeks to a couple of months.</p>
+                                                    <p>Yes, we can format your manuscript for both print and digital versions. Print formatting focuses on page layout and trim size, while eBook formatting focuses on readability across Kindle, tablets, phones, and other devices.</p>
                                                  </div>
                                               </div>
                                            </div>
@@ -392,14 +392,14 @@ require_once __DIR__ . '/../config.php';
                                               <h2 class="accordion-header">
                                                  <button class="accordion-buttons collapsed" type="button" data-bs-toggle="collapse"
                                                     data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                                    What genres do you work with?
+                                                    Can you fix bad formatting in my manuscript?
                                                     <span class="plus-icon"></span>
                                                  </button>
                                               </h2>
                                               <div id="collapseFour" class="accordion-collapse collapse"
                                                  data-bs-parent="#accordionExample">
                                                  <div class="accordion-body">
-                                                    <p>We produce all genres — fiction, non-fiction, self-help, memoirs, fantasy, romance, thrillers, and more</p>
+                                                    <p>Yes, we can clean up messy or inconsistent formatting. If your manuscript has uneven spacing, broken headings, wrong page numbers, font issues, or layout problems, we can correct it and prepare a professional final version.</p>
                                                  </div>
                                               </div>
                                            </div>
@@ -407,14 +407,14 @@ require_once __DIR__ . '/../config.php';
                                               <h2 class="accordion-header">
                                                  <button class="accordion-buttons collapsed" type="button" data-bs-toggle="collapse"
                                                     data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                                    Is this good for self-published authors?
+                                                    Do you format books with images or illustrations?
                                                     <span class="plus-icon"></span>
                                                  </button>
                                               </h2>
                                               <div id="collapseFive" class="accordion-collapse collapse"
                                                  data-bs-parent="#accordionExample">
                                                  <div class="accordion-body">
-                                                    <p>Absolutely. Professional production boosts your book’s reach, credibility, and listener appeal.</p>
+                                                    <p>Yes, we can format books that include images, illustrations, tables, or special layouts. This is especially useful for children’s books, workbooks, educational books, poetry books, and illustrated non-fiction books.</p>
                                                  </div>
                                               </div>
                                            </div>

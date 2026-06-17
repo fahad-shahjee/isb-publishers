@@ -80,9 +80,9 @@ require_once __DIR__ . '/../config.php';
                             </div>
                             <div class="col-lg-6">
                                 <div class="td-about-main-content mb-40 wow fadeInRight" data-wow-delay=".5s" data-wow-duration="1s">
-                                    <h3 class="td-about-main-title mb-20">Premium Audiobook Solutions for Writers</h3>
+                                    <h3 class="td-about-main-title mb-20">Premium Audiobook Solutions for Authors</h3>
                                     <div class="td-about-main-text mt-30">
-                                        <p class="mb-40">We are passionate about supporting authors and the incredible stories they have to tell. With years of publishing expertise, our team provides personalized, end-to-end solutions to help writers at every stage of their journey — from the first spark of an idea to the moment their book reaches readers around the world. We believe every story deserves to be told with care, creativity, and authenticity.</p>
+                                        <p class="mb-40">At ISB Publishers, we provide complete audiobook services for authors who want to reach a wider audience. From voice selection and narration guidance to recording, editing, mastering, and final delivery, our team ensures your audiobook sounds clear, professional, and ready for distribution. Whether you are publishing fiction, non-fiction, business content, self-help, or children’s books, we help create an audiobook that reflects your message and keeps listeners engaged from start to finish.</p>
                                         <div class="td-btn-group">
                                             <a class="td-btn-circle" href="<?= $BASE_URL ?>contact.php">
                                                 <i class="fa-solid fa-arrow-right"></i>
@@ -117,37 +117,37 @@ require_once __DIR__ . '/../config.php';
                         <div class="swiper-container td-contact-7-slide-active">
                             <div class="swiper-wrapper slide-transtion">
                                 <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text">Work</h2>
+                                    <h2 class="td-contact-7-slide-text">LISTEN</h2>
                                 </div>
                                 <div class="swiper-slide">
                                     <h2 class="td-contact-7-slide-text yellows">TOGETHER</h2>
                                 </div>
                                 <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text">Work</h2>
+                                    <h2 class="td-contact-7-slide-text">LISTEN</h2>
                                 </div>
                                 <div class="swiper-slide">
                                     <h2 class="td-contact-7-slide-text yellows">TOGETHER</h2>
                                 </div>
                                 <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text">Work</h2>
+                                    <h2 class="td-contact-7-slide-text">LISTEN</h2>
                                 </div>
                                 <div class="swiper-slide">
                                     <h2 class="td-contact-7-slide-text yellows">TOGETHER</h2>
                                 </div>
                                 <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text">Work</h2>
+                                    <h2 class="td-contact-7-slide-text">LISTEN</h2>
                                 </div>
                                 <div class="swiper-slide">
                                     <h2 class="td-contact-7-slide-text yellows">TOGETHER</h2>
                                 </div>
                                 <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text">Work</h2>
+                                    <h2 class="td-contact-7-slide-text">LISTEN</h2>
                                 </div>
                                 <div class="swiper-slide">
                                     <h2 class="td-contact-7-slide-text yellows">TOGETHER</h2>
                                 </div>
                                 <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text">Work</h2>
+                                    <h2 class="td-contact-7-slide-text">LISTEN</h2>
                                 </div>
                                 <div class="swiper-slide">
                                     <h2 class="td-contact-7-slide-text yellows">TOGETHER</h2>
@@ -156,19 +156,19 @@ require_once __DIR__ . '/../config.php';
                                     <h2 class="td-contact-7-slide-text yellows">TOGETHER</h2>
                                 </div>
                                 <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text">Work</h2>
+                                    <h2 class="td-contact-7-slide-text">LISTEN</h2>
                                 </div>
                                 <div class="swiper-slide">
                                     <h2 class="td-contact-7-slide-text yellows">TOGETHER</h2>
                                 </div>
                                 <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text">Work</h2>
+                                    <h2 class="td-contact-7-slide-text">LISTEN</h2>
                                 </div>
                                 <div class="swiper-slide">
                                     <h2 class="td-contact-7-slide-text yellows">TOGETHER</h2>
                                 </div>
                                 <div class="swiper-slide">
-                                    <h2 class="td-contact-7-slide-text">Work</h2>
+                                    <h2 class="td-contact-7-slide-text">LISTEN</h2>
                                 </div>
                                 <div class="swiper-slide">
                                     <h2 class="td-contact-7-slide-text yellows">TOGETHER</h2>
@@ -185,7 +185,7 @@ require_once __DIR__ . '/../config.php';
                         <div class="row">
                             <div class="col-lg-4">
                                 <div class="td-about-left mb-30">
-                                    <span>Empowering Your Words to Be Heard</span>
+                                    <span>Every book deserves to be heard, not just read.</span>
                                     <div class="td-about-left-thumb ml-60 fix td-rounded-10">
                                         <img data-speed=".9" src="<?= $BASE_URL ?>assets/img/about/main/about-2.jpg" alt="">
                                     </div>
@@ -193,7 +193,7 @@ require_once __DIR__ . '/../config.php';
                             </div>
                             <div class="col-lg-8">
                                 <div class="td-about-content mb-30">
-                                    <h2 class="td-about-title mb-30 td-text-invert" style="font-size: 40px">Every story deserves to be heard. Let us give your words a voice that inspires, connects, and leaves a lasting impression on hearts and minds everywhere.</h2>
+                                    <h2 class="td-about-title mb-30 td-text-invert" style="font-size: 40px">Your story has the power to connect with readers in a deeper way through audio. ISB Publishers helps you turn your manuscript into a polished audiobook with professional production quality.</h2>
                                     <p class="mb-45">Turning your written book into a captivating audiobook takes more than simply reading it aloud. It requires expert narration, meticulous editing, and top-tier production to truly capture the heart and soul of your story. Let us handle every detail for you. We’ll transform your book into an immersive audiobook experience — one that brings every emotion to life and makes your story impossible to ignore.</p>
                                     <div class="td-btn-group mb-35">
                                         <a class="td-btn-circle" href="<?= $BASE_URL ?>about.php">
@@ -435,7 +435,7 @@ require_once __DIR__ . '/../config.php';
                                 <img class="td-cta-shape d-none d-xl-block" src="<?= $BASE_URL ?>assets/img/cta/cta.png" alt="">
                                 <h2 class="title p-relative d-inline-block">
                                     <img class="td-cta-shape-2 d-none d-md-block" src="<?= $BASE_URL ?>assets/img/cta/cta-2.png" alt="">
-                                    <a class="td-text-invert" href="<?= $BASE_URL ?>contact.php">
+                                    <a class="td-text-invert" href="<?= $BASE_URL ?>contact">
                                         HAVE A<br>
                                         PROJECTS<br>
                                         IN MINDS

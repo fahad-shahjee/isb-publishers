@@ -383,7 +383,7 @@ require_once __DIR__ . '/../config.php';
                                 <img class="td-cta-shape d-none d-xl-block" src="<?= $BASE_URL ?>assets/img/cta/cta.png" alt="">
                                 <h2 class="title p-relative d-inline-block">
                                     <img class="td-cta-shape-2 d-none d-md-block" src="<?= $BASE_URL ?>assets/img/cta/cta-2.png" alt="">
-                                    <a class="td-text-invert" href="<?= $BASE_URL ?>contact.php">
+                                    <a class="td-text-invert" href="<?= $BASE_URL ?>contact">
                                         HAVE A<br>
                                         PROJECTS<br>
                                         IN MINDS
