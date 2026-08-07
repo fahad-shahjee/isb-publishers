@@ -102,7 +102,11 @@
 
         $email_headers = "From: ISB Ghostwriters Website <noreply@isbghostwriters.com>\r\n";
 
-        $email_headers .= "Reply-To: $name <$email>";
+        $email_headers .= "Reply-To: $name <$email>\r\n";
+
+        $email_headers .= "MIME-Version: 1.0\r\n";
+
+        $email_headers .= "Content-Type: text/plain; charset=UTF-8";
 
 
 
