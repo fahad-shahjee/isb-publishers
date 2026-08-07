@@ -1,48 +1,48 @@
-$(function() {
+document.addEventListener('DOMContentLoaded', function() {
 
 	// Get the form.
-	var form = $('#contact-form');
+	var form = document.getElementById('contact-form');
 
-	// Get the messages div.
-	var formMessages = $('.ajax-response');
+	if (!form) {
+		return;
+	}
+
+	// Get the messages element.
+	var formMessages = form.querySelector('.ajax-response') || document.querySelector('.ajax-response');
 
 	// Set up an event listener for the contact form.
-	$(form).submit(function(e) {
+	// Uses fetch() instead of jQuery's $.ajax (XMLHttpRequest-based) because some
+	// antivirus/security software hooks XMLHttpRequest specifically and silently
+	// blocks it, while leaving fetch() untouched.
+	form.addEventListener('submit', function(e) {
 		// Stop the browser from submitting the form.
 		e.preventDefault();
 
-		// Serialize the form data.
-		var formData = $(form).serialize();
-
-		// Submit the form using AJAX.
-		$.ajax({
-			type: 'POST',
-			url: $(form).attr('action'),
-			data: formData
+		fetch(form.getAttribute('action'), {
+			method: 'POST',
+			body: new FormData(form)
 		})
-		.done(function(response) {
-			// Make sure that the formMessages div has the 'success' class.
-			$(formMessages).removeClass('error');
-			$(formMessages).addClass('success');
+			.then(function(response) {
+				return response.text().then(function(text) {
+					return { ok: response.ok, text: text };
+				});
+			})
+			.then(function(result) {
+				formMessages.classList.toggle('success', result.ok);
+				formMessages.classList.toggle('error', !result.ok);
+				formMessages.textContent = result.text;
 
-			// Set the message text.
-			$(formMessages).text(response);
-
-			// Clear the form.
-			$('#contact-form input,#contact-form textarea').val('');
-		})
-		.fail(function(data) {
-			// Make sure that the formMessages div has the 'error' class.
-			$(formMessages).removeClass('success');
-			$(formMessages).addClass('error');
-
-			// Set the message text.
-			if (data.responseText !== '') {
-				$(formMessages).text(data.responseText);
-			} else {
-				$(formMessages).text('Oops! An error occured and your message could not be sent.');
-			}
-		});
+				if (result.ok) {
+					form.querySelectorAll('input, textarea').forEach(function(field) {
+						field.value = '';
+					});
+				}
+			})
+			.catch(function() {
+				formMessages.classList.remove('success');
+				formMessages.classList.add('error');
+				formMessages.textContent = 'Oops! An error occured and your message could not be sent.';
+			});
 	});
 
 });
