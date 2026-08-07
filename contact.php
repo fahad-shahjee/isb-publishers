@@ -253,8 +253,6 @@ $formStatus = $_GET['status'] ?? '';
     <script src="assets/js/swiper-bundle.min.js"></script>
     <!--<< jquery.nice-select.min.Js >>-->
     <script src="assets/js/nice-select.js"></script>
-    <!--<< ajax-form.Js >>-->
-    <script src="assets/js/ajax-form.js"></script>
     <!--<< wow.Js >>-->
     <script src="assets/js/wow.js"></script>
     <!--<< main.Js >>-->
