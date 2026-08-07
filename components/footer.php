@@ -44,8 +44,8 @@
                                 <a class="td-footer-location mb-45 d-inline-block" href="#">(786) 949-4620</a>
                                 <a class="td-footer-location mb-45 d-inline-block" href="#">info@isbpublisher.com</a>
                                 <div class="td-footer-form p-relative">
-                                    <form action="#">
-                                        <input type="text" placeholder="example@gmail.com">
+                                    <form id="newsletter-form" action="<?= $BASE_URL ?>assets/newsletter.php" method="POST">
+                                        <input type="email" name="email" placeholder="example@gmail.com" required>
                                         <button type="submit">
                                             <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                 <path d="M1 11L11 1" stroke="#1C1D1F" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
@@ -53,7 +53,55 @@
                                             </svg>
                                         </button>
                                     </form>
+                                    <p class="newsletter-response"></p>
                                 </div>
+
+                                <style>
+                                    .newsletter-response {
+                                        margin: 8px 0 0;
+                                        font-size: 13px;
+                                    }
+                                    .newsletter-response.success {
+                                        color: #4caf50;
+                                    }
+                                    .newsletter-response.error {
+                                        color: #ff6b6b;
+                                    }
+                                </style>
+
+                                <script>
+                                document.addEventListener('DOMContentLoaded', function() {
+                                    const newsletterForm = document.getElementById('newsletter-form');
+                                    const newsletterResponse = newsletterForm.parentElement.querySelector('.newsletter-response');
+
+                                    newsletterForm.addEventListener('submit', function(e) {
+                                        e.preventDefault();
+
+                                        fetch(newsletterForm.getAttribute('action'), {
+                                            method: 'POST',
+                                            body: new FormData(newsletterForm)
+                                        })
+                                            .then(function(response) {
+                                                return response.text().then(function(text) {
+                                                    return { ok: response.ok, text: text };
+                                                });
+                                            })
+                                            .then(function(result) {
+                                                newsletterResponse.classList.toggle('success', result.ok);
+                                                newsletterResponse.classList.toggle('error', !result.ok);
+                                                newsletterResponse.textContent = result.text;
+                                                if (result.ok) {
+                                                    newsletterForm.reset();
+                                                }
+                                            })
+                                            .catch(function() {
+                                                newsletterResponse.classList.remove('success');
+                                                newsletterResponse.classList.add('error');
+                                                newsletterResponse.textContent = 'Oops! Something went wrong, please try again.';
+                                            });
+                                    });
+                                });
+                                </script>
                             </div>
                         </div>
                         <div class="col-12">

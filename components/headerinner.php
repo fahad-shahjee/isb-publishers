@@ -109,13 +109,6 @@ $servicePages = [
             </a>
         </div>
 
-        <div class="tdmobile__search">
-            <form action="#">
-                <input type="text" placeholder="Search here...">
-                <button><i class="fas fa-search"></i></button>
-            </form>
-        </div>
-
         <div class="tdmobile__menu-outer d-xl-none">
             <!-- Same menu injected via JS -->
         </div>

@@ -82,17 +82,6 @@
                             <div class="col-lg-5  wow fadeInLeft" data-wow-delay=".5s" data-wow-duration="1s">
                                 <div class="td-faq-2-thumb td-faq-main-thumb mt-40 mr-110 mb-30">
                                     <img class="td-rounded-10" src="assets/img/faq/main/thumb.jpg" alt="">
-                                    <div class="td-faq-main-form pt-50">
-                                        <form action="#" class="p-relative">
-                                            <input class="inputs" type="text" placeholder="Search product">
-                                            <button class="td-faq-main-btn" type="submit">
-                                                <svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                    <path d="M9.8889 15.2222C5.96154 15.2222 2.7778 12.0385 2.7778 8.1111C2.7778 4.18375 5.96154 1 9.8889 1C13.8163 1 17 4.18375 17 8.1111C17 12.0385 13.8163 15.2222 9.8889 15.2222Z" stroke="#1C1D1F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-                                                    <path d="M1.00053 17.0001L4.86719 13.1334" stroke="#1C1D1F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-                                                </svg>
-                                            </button>
-                                        </form>
-                                    </div>
                                 </div>
                             </div>
                             <div class="col-lg-7  wow fadeInRight" data-wow-delay=".5s" data-wow-duration="1s">

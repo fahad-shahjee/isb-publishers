@@ -4,16 +4,16 @@
     <span id="servicePopupClose" class="popup-close">&times;</span>
     <h2 class="popup-heading">Book a Quick Call & Let's Get Started.</h2>
 
-    <form class="popup-form">
+    <form id="popup-form" class="popup-form" action="<?= $BASE_URL ?>assets/popup-mail.php" method="POST">
       <div class="popup-row">
-        <input type="text" placeholder="Name" class="popup-input popup-field" id="popup-name" required>
+        <input type="text" name="name" placeholder="Name" class="popup-input popup-field" id="popup-name" required>
       </div>
       <div class="popup-row two">
-        <input type="email" placeholder="Email" class="popup-input popup-field" id="popup-email" required>
-        <input type="tel" placeholder="Phone" class="popup-input popup-field" id="popup-phone" required>
+        <input type="email" name="email" placeholder="Email" class="popup-input popup-field" id="popup-email" required>
+        <input type="tel" name="phone" placeholder="Phone" class="popup-input popup-field" id="popup-phone" required>
       </div>
       <div class="popup-row">
-        <select class="popup-select popup-field" id="popup-service" required>
+        <select class="popup-select popup-field" name="service" id="popup-service" required>
           <option value="">Select a Service</option>
           <option>Ghostwriting</option>
           <option>Editing & Proofreading</option>
@@ -23,11 +23,12 @@
         </select>
       </div>
       <div class="popup-row">
-        <textarea placeholder="Message" class="popup-textarea popup-field" id="popup-message" required></textarea>
+        <textarea placeholder="Message" name="message" class="popup-textarea popup-field" id="popup-message" required></textarea>
       </div>
       <div class="popup-row">
         <button type="submit" class="popup-btn" id="popup-submit">Send</button>
       </div>
+      <p class="popup-response"></p>
     </form>
   </div>
 </div>
@@ -131,6 +132,19 @@
   background: var(--td-theme-secondary);
 }
 
+.popup-response {
+  margin: 0;
+  font-size: 14px;
+}
+
+.popup-response.success {
+  color: #4caf50;
+}
+
+.popup-response.error {
+  color: #ff6b6b;
+}
+
 .popup-close {
   position: absolute;
   top: 15px;
@@ -192,6 +206,37 @@ document.addEventListener('DOMContentLoaded', function() {
     if (e.target === popup) {
       closePopup();
     }
+  });
+
+  // Submit the popup form via AJAX, same pattern as the main contact form.
+  const popupForm = document.getElementById('popup-form');
+  const popupResponse = popupForm.querySelector('.popup-response');
+
+  popupForm.addEventListener('submit', function(e) {
+    e.preventDefault();
+
+    fetch(popupForm.getAttribute('action'), {
+      method: 'POST',
+      body: new FormData(popupForm)
+    })
+      .then(function(response) {
+        return response.text().then(function(text) {
+          return { ok: response.ok, text: text };
+        });
+      })
+      .then(function(result) {
+        popupResponse.classList.toggle('success', result.ok);
+        popupResponse.classList.toggle('error', !result.ok);
+        popupResponse.textContent = result.text;
+        if (result.ok) {
+          popupForm.reset();
+        }
+      })
+      .catch(function() {
+        popupResponse.classList.remove('success');
+        popupResponse.classList.add('error');
+        popupResponse.textContent = 'Oops! An error occurred and your message could not be sent.';
+      });
   });
 });
 </script>

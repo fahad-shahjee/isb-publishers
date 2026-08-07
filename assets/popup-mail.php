@@ -6,21 +6,21 @@
 
     if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
-        // Get the form fields and remove MORALspace.
+        // Get the form fields and remove whitespace.
 
         $name = strip_tags(trim($_POST["name"] ?? ""));
 
-		$name = str_replace(array("\r","\n"),array(" "," "),$name);
+        $name = str_replace(array("\r","\n"),array(" "," "),$name);
 
         $email = filter_var(trim($_POST["email"] ?? ""), FILTER_SANITIZE_EMAIL);
-
-        $subject = strip_tags(trim($_POST["Subject"] ?? ""));
-
-        $subject = str_replace(array("\r","\n"),array(" "," "),$subject);
 
         $phone = strip_tags(trim($_POST["phone"] ?? ""));
 
         $phone = str_replace(array("\r","\n"),array(" "," "),$phone);
+
+        $service = strip_tags(trim($_POST["service"] ?? ""));
+
+        $service = str_replace(array("\r","\n"),array(" "," "),$service);
 
         $message = trim($_POST["message"] ?? "");
 
@@ -28,7 +28,7 @@
 
         // Check that data was sent to the mailer.
 
-        if ( empty($name) OR empty($phone) OR empty($subject) OR empty($message) OR !filter_var($email, FILTER_VALIDATE_EMAIL)) {
+        if ( empty($name) OR empty($phone) OR empty($service) OR empty($message) OR !filter_var($email, FILTER_VALIDATE_EMAIL)) {
 
             // Set a 400 (bad request) response code and exit.
 
@@ -54,11 +54,11 @@
 
             $stmt = $conn->prepare(
 
-                "INSERT INTO contact_submissions (name, email, phone, subject, message) VALUES (?, ?, ?, ?, ?)"
+                "INSERT INTO popup_leads (name, email, phone, service, message) VALUES (?, ?, ?, ?, ?)"
 
             );
 
-            $stmt->bind_param("sssss", $name, $email, $phone, $subject, $message);
+            $stmt->bind_param("sssss", $name, $email, $phone, $service, $message);
 
             $db_saved = $stmt->execute();
 
@@ -78,19 +78,19 @@
 
         // Set the email subject.
 
-        $email_subject = "New contact form message: $subject";
+        $email_subject = "New quick call request: $service";
 
 
 
         // Build the email content.
 
-        $email_content = "New contact form submission from isbghostwriters.com\n\n";
+        $email_content = "New popup form submission from isbghostwriters.com\n\n";
 
         $email_content .= "Name: $name\n";
 
         $email_content .= "Email: $email\n\n";
 
-        $email_content .= "Subject: $subject\n\n";
+        $email_content .= "Service: $service\n\n";
 
         $email_content .= "Phone: $phone\n\n";
 
@@ -99,12 +99,6 @@
 
 
         // Build the email headers.
-
-        // Use a From address on our own domain (many mail servers reject/spam-flag
-
-        // mail() calls whose From doesn't match the sending domain), and put the
-
-        // visitor's address in Reply-To so replying still goes to them.
 
         $email_headers = "From: ISB Ghostwriters Website <noreply@isbghostwriters.com>\r\n";
 
@@ -124,7 +118,7 @@
 
             http_response_code(200);
 
-            echo "Thank You! Your message has been sent.";
+            echo "Thank You! We'll be in touch shortly.";
 
         } else {
 
@@ -148,7 +142,4 @@
 
     }
 
-
-
 ?>
-
