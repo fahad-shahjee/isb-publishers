@@ -158,34 +158,4 @@ $servicePages = [
 <?php include __DIR__ . '/popup.php'; ?>
 
 
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-    const popupOverlay = document.getElementById("servicePopupOverlay");
-    const popupClose = document.getElementById("servicePopupClose");
-    const talkButton = document.querySelector(".td-header-2-btn");
-
-    // Open popup
-    talkButton.addEventListener("click", function(e) {
-        e.preventDefault();
-        popupOverlay.style.display = "flex";
-        document.body.style.overflow = "hidden";
-    });
-
-    // Close popup
-    popupClose.addEventListener("click", function() {
-        popupOverlay.style.display = "none";
-        document.body.style.overflow = "auto";
-    });
-
-    // Close popup on outside click
-    popupOverlay.addEventListener("click", function(e) {
-        if (e.target === popupOverlay) {
-            popupOverlay.style.display = "none";
-            document.body.style.overflow = "auto";
-        }
-    });
-});
-</script>
-
-
 
