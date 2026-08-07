@@ -1,3 +1,6 @@
+<?php
+$formStatus = $_GET['status'] ?? '';
+?>
 <!doctype html>
 <html class="no-js" lang="zxx">
 
@@ -115,7 +118,11 @@
                                                         <i class="fa-solid fa-arrow-right"></i>
                                                     </span>
                                                 </button>
-                                                <p class="ajax-response pt-20"></p>
+                                                <?php if ($formStatus === 'success'): ?>
+                                                <p class="ajax-response success pt-20">Thank You! Your message has been sent.</p>
+                                                <?php elseif ($formStatus === 'error'): ?>
+                                                <p class="ajax-response error pt-20">Oops! Please complete the form and try again.</p>
+                                                <?php endif; ?>
                                             </div>
                                         </div>
                                     </form>
@@ -202,6 +209,12 @@
     <style>
         .td-footer-spacing {
             padding-top: 100px;
+        }
+        .ajax-response.success {
+            color: #4caf50;
+        }
+        .ajax-response.error {
+            color: #ff6b6b;
         }
     </style>
 

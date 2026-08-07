@@ -30,11 +30,7 @@
 
         if ( empty($name) OR empty($phone) OR empty($subject) OR empty($message) OR !filter_var($email, FILTER_VALIDATE_EMAIL)) {
 
-            // Set a 400 (bad request) response code and exit.
-
-            http_response_code(400);
-
-            echo "Please complete the form and try again.";
+            header("Location: ../contact.php?status=error");
 
             exit;
 
@@ -120,35 +116,24 @@
 
         if ($db_saved OR $mail_sent) {
 
-            // Set a 200 (okay) response code.
-
-            http_response_code(200);
-
-            echo "Thank You! Your message has been sent.";
+            header("Location: ../contact.php?status=success");
 
         } else {
 
-            // Set a 500 (internal server error) response code.
-
-            http_response_code(500);
-
-            echo "Oops! Something went wrong and we couldn't send your message.";
+            header("Location: ../contact.php?status=error");
 
         }
+
+        exit;
 
 
 
     } else {
 
-        // Not a POST request, set a 403 (forbidden) response code.
+        header("Location: ../contact.php?status=error");
 
-        http_response_code(403);
-
-        echo "There was a problem with your submission, please try again.";
+        exit;
 
     }
 
-
-
 ?>
-
