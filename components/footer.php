@@ -41,8 +41,8 @@
                             <div class="td-footer-widget mr-30 mb-30">
                                 <h3 class="td-footer-title mb-30">Address</h3>
                                 <a class="td-footer-location mb-45 d-inline-block" href="#">418 Broadway; Albany, NY 12207</a>
-                                <a class="td-footer-location mb-45 d-inline-block" href="#">(786) 949-4620</a>
-                                <a class="td-footer-location mb-45 d-inline-block" href="#">info@isbpublisher.com</a>
+                                <a class="td-footer-location mb-45 d-inline-block" href="tel:+17869494620">(786) 949-4620</a>
+                                <a class="td-footer-location mb-45 d-inline-block" href="mailto:info@isbghostwriters.com">info@isbghostwriters.com</a>
                                 <div class="td-footer-form p-relative">
                                     <form id="newsletter-form" action="<?= $BASE_URL ?>assets/newsletter.php" method="POST">
                                         <input type="email" name="email" placeholder="example@gmail.com" required>
@@ -109,7 +109,7 @@
                                 <div class="row align-items-center">
                                     <div class="col-lg-6 col-md-8">
                                         <div class="td-footer-copyright mb-20">
-                                            <p>© 2025 <a href="isbtechs.com">ISBtechs.</a> All Rights Reserved.</p>
+                                            <p>© 2025 <a href="<?= $BASE_URL ?>index.php">ISB Ghostwriters.</a> All Rights Reserved.</p>
                                         </div>
                                     </div>
                                     <div class="col-lg-6 col-md-4">

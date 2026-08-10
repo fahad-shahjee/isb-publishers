@@ -120,11 +120,11 @@ $servicePages = [
             </div>
             <div class="contact-list mb-30">
                 <h4>Phone Number</h4>
-                <p>(786) 949-4620</p>
+                <p><a href="tel:+17869494620">(786) 949-4620</a></p>
             </div>
             <div class="contact-list mb-30">
                 <h4>Email Address</h4>
-                <p>info@isbpublisher.com</p>
+                <p><a href="mailto:info@isbghostwriters.com">info@isbghostwriters.com</a></p>
             </div>
         </div>
 

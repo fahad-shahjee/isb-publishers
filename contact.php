@@ -161,8 +161,8 @@ $formStatus = $_GET['status'] ?? '';
                                         </div>
                                         <div class="col-lg-3 col-md-6 col-sm-6">
                                             <div class="td-contact-branch-number ml-40 mb-20">
-                                                <a class="mb-30" href="tel:(+91)76001726">+1 786-949-4620</a>
-                                                <a class="link" href="mailto:Hello@contact.com">info@isbghostwriters.com</a>
+                                                <a class="mb-30" href="tel:+17869494620">+1 786-949-4620</a>
+                                                <a class="link" href="mailto:info@isbghostwriters.com">info@isbghostwriters.com</a>
                                             </div>
                                         </div>
                                     </div>
@@ -185,8 +185,8 @@ $formStatus = $_GET['status'] ?? '';
                                         </div>
                                         <div class="col-lg-3 col-md-6 col-sm-6">
                                             <div class="td-contact-branch-number ml-40 mb-20">
-                                                <a class="mb-30" href="tel:(+91)76001726">+1 786-949-4620</a>
-                                                <a class="link" href="mailto:Hello@contact.com">info@isbghostwriters.com</a>
+                                                <a class="mb-30" href="tel:+17869494620">+1 786-949-4620</a>
+                                                <a class="link" href="mailto:info@isbghostwriters.com">info@isbghostwriters.com</a>
                                             </div>
                                         </div>
                                     </div>
