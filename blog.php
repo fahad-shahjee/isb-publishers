@@ -6,6 +6,7 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Blogs - ISB Ghostwriters</title>
     <meta name="description" content="Explore the latest insights and stories from ISB Ghostwriters.">
+    <link rel="canonical" href="https://isbghostwriters.com/blog.php">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="shortcut icon" type="image/x-icon" href="assets/img/logo/favicon.png">
@@ -65,8 +66,8 @@
                                     <div class="td-blog-bigthumb-wrap">
                                         <span class="td-blog-bigthumb-dates  wow fadeInLeft" data-wow-delay=".5s" data-wow-duration="1s">NOV<br> 14</span>
                                         <div class="td-blog-bigthumb-content  wow fadeInLeft" data-wow-delay=".7s" data-wow-duration="1s">
-                                            <h2 class="td-blog-bigthumb-title">We are a creative studio that
-                                                specializes in providing</h2>
+                                            <h1 class="td-blog-bigthumb-title">We are a creative studio that
+                                                specializes in providing</h1>
                                         </div>
                                     </div>
                                 </div>
@@ -83,7 +84,7 @@
                             <div class="col-xl-4 col-lg-6 col-md-6  wow fadeInUp" data-wow-delay=".5s" data-wow-duration="1s">
                                 <div class="td-blog-wrap mb-60">
                                     <div class="td-blog-thumb fix mb-25">
-                                        <img class="w-100" src="assets/img/blog/thumb.jpg" alt="">
+                                        <img class="w-100" src="assets/img/blog/thumb.jpg" alt="Our strategic planning ensures your brand's vision aligns with market opportunities">
                                     </div>
                                     <div class="td-blog-content">
                                         <h3 class="td-blog-title mb-30"><a href="blog-details.html">Our strategic planning ensures
@@ -100,7 +101,7 @@
                             <div class="col-xl-4 col-lg-6 col-md-6  wow fadeInUp" data-wow-delay=".7s" data-wow-duration="1s">
                                 <div class="td-blog-wrap mb-60">
                                     <div class="td-blog-thumb fix mb-25">
-                                        <img class="w-100" src="assets/img/blog/thumb-2.jpg" alt="">
+                                        <img class="w-100" src="assets/img/blog/thumb-2.jpg" alt="The complex but awesome CSS border-image property for web design companies">
                                     </div>
                                     <div class="td-blog-content">
                                         <h3 class="td-blog-title mb-30"><a href="blog-details.html">The complex but awesome CSS
@@ -117,7 +118,7 @@
                             <div class="col-xl-4 col-lg-6 col-md-6  wow fadeInUp" data-wow-delay=".9s" data-wow-duration="1s">
                                 <div class="td-blog-wrap mb-60">
                                     <div class="td-blog-thumb fix mb-25">
-                                        <img class="w-100" src="assets/img/blog/thumb-3.jpg" alt="">
+                                        <img class="w-100" src="assets/img/blog/thumb-3.jpg" alt="The complex but awesome CSS border-image property for web design companies">
                                     </div>
                                     <div class="td-blog-content">
                                         <h3 class="td-blog-title mb-30"><a href="blog-details.html">The complex but awesome CSS
@@ -134,7 +135,7 @@
                             <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".5s" data-wow-duration="1s">
                                 <div class="td-blog-wrap mb-60">
                                     <div class="td-blog-thumb fix mb-25">
-                                        <img class="w-100" src="assets/img/blog/thumb-4.jpg" alt="">
+                                        <img class="w-100" src="assets/img/blog/thumb-4.jpg" alt="Developing advertising campaigns across digital, print, TV, or other media platforms">
                                     </div>
                                     <div class="td-blog-content">
                                         <h3 class="td-blog-title mb-30"><a href="blog-details.html">Developing advertising campaign
@@ -151,7 +152,7 @@
                             <div class="col-xl-4 col-lg-6 col-md-6  wow fadeInUp" data-wow-delay=".7s" data-wow-duration="1s">
                                 <div class="td-blog-wrap mb-60">
                                     <div class="td-blog-thumb fix mb-25">
-                                        <img class="w-100" src="assets/img/blog/thumb-5.jpg" alt="">
+                                        <img class="w-100" src="assets/img/blog/thumb-5.jpg" alt="Designing and building websites and applications to ensure businesses succeed online">
                                     </div>
                                     <div class="td-blog-content">
                                         <h3 class="td-blog-title mb-30"><a href="blog-details.html">Designing and building websites
@@ -168,7 +169,7 @@
                             <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".9s" data-wow-duration="1s">
                                 <div class="td-blog-wrap mb-60">
                                     <div class="td-blog-thumb fix mb-25">
-                                        <img class="w-100" src="assets/img/blog/thumb-6.jpg" alt="">
+                                        <img class="w-100" src="assets/img/blog/thumb-6.jpg" alt="Focus on promoting products or services through traditional and digital media">
                                     </div>
                                     <div class="td-blog-content">
                                         <h3 class="td-blog-title mb-30"><a href="blog-details.html">Focus on promoting products or

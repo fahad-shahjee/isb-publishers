@@ -9,6 +9,7 @@ $formStatus = $_GET['status'] ?? '';
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Contact Us - ISB Ghostwriters</title>
     <meta name="description" content="Get in touch with ISB Ghostwriters for inquiries and support.">
+    <link rel="canonical" href="https://isbghostwriters.com/contact.php">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="shortcut icon" type="image/x-icon" href="assets/img/logo/favicon.png">
@@ -65,8 +66,8 @@ $formStatus = $_GET['status'] ?? '';
                         <div class="row">
                             <div class="col-xxl-9">
                                 <div class="td-breadcrumb-wrap">
-                                    <h2 class="td-section-page-title  wow fadeInUp" data-wow-delay=".7s" data-wow-duration="1s">Would you like more<br> information? we are<br>
-                                        happy <span>to help you!</span></h2>
+                                    <h1 class="td-section-page-title  wow fadeInUp" data-wow-delay=".7s" data-wow-duration="1s">Would you like more<br> information? we are<br>
+                                        happy <span>to help you!</span></h1>
                                 </div>
                             </div>
                         </div>
@@ -154,7 +155,7 @@ $formStatus = $_GET['status'] ?? '';
                                         </div>
                                         <div class="col-lg-3 col-md-6 col-sm-6">
                                             <div class="td-contact-branch-thumb mb-20">
-                                                <img class="w-100 td-rounded-10" src="assets/img/contact/thumb.jpg" alt="">
+                                                <img class="w-100 td-rounded-10" src="assets/img/contact/thumb.jpg" alt="ISB Ghostwriters Florida branch office">
                                             </div>
                                         </div>
                                         <div class="col-lg-3 col-md-6 col-sm-6">
@@ -178,7 +179,7 @@ $formStatus = $_GET['status'] ?? '';
                                         </div>
                                         <div class="col-lg-3 col-md-6 col-sm-6">
                                             <div class="td-contact-branch-thumb mb-20">
-                                                <img class="w-100 td-rounded-10" src="assets/img/contact/thumb-2.jpg" alt="">
+                                                <img class="w-100 td-rounded-10" src="assets/img/contact/thumb-2.jpg" alt="ISB Ghostwriters California branch office">
                                             </div>
                                         </div>
                                         <div class="col-lg-3 col-md-6 col-sm-6">

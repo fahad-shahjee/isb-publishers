@@ -6,6 +6,7 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Services - ISB Ghostwriters</title>
     <meta name="description" content="Showcasing the services offered by ISB Ghostwriters.">
+    <link rel="canonical" href="https://isbghostwriters.com/service.php">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="shortcut icon" type="image/x-icon" href="assets/img/logo/favicon.png">
@@ -64,7 +65,7 @@
                             <div class="col-lg-9">
                                 <div class="td-breadcrumb-wrap">
                                     <span class="subtitle d-inline-block mb-15  wow fadeInLeft" data-wow-delay=".4s" data-wow-duration="1s">BEST SERVICE PROVIDE</span>
-                                    <h2 class="td-section-page-title mb-35  wow fadeInLeft" data-wow-delay=".7s" data-wow-duration="1s">Experience <br> The <span>Best Service </span></h2>
+                                    <h1 class="td-section-page-title mb-35  wow fadeInLeft" data-wow-delay=".7s" data-wow-duration="1s">Experience <br> The <span>Best Service </span></h1>
                                 </div>
                             </div>
                         </div>
@@ -79,7 +80,7 @@
                             <div class="row align-items-center">
                                 <div class="col-lg-6">
                                     <div class="td-service-pin-thumb">
-                                        <img class="w-100" src="assets/img/service/details/thumb.jpg" alt="">
+                                        <img class="w-100" src="assets/img/service/details/thumb.jpg" alt="Audiobook production service illustration">
                                     </div>
                                 </div>
                                 <div class="col-lg-6">
@@ -115,7 +116,7 @@
                             <div class="row align-items-center">
                                 <div class="col-lg-6">
                                     <div class="td-service-pin-thumb">
-                                        <img class="w-100" src="assets/img/service/details/thumb-2.jpg" alt="">
+                                        <img class="w-100" src="assets/img/service/details/thumb-2.jpg" alt="Author website design service illustration">
                                     </div>
                                 </div>
                                 <div class="col-lg-6">
@@ -150,7 +151,7 @@
                             <div class="row align-items-center">
                                 <div class="col-lg-6">
                                     <div class="td-service-pin-thumb">
-                                        <img class="w-100" src="assets/img/service/details/thumb-3.jpg" alt="">
+                                        <img class="w-100" src="assets/img/service/details/thumb-3.jpg" alt="Proofreading service illustration">
                                     </div>
                                 </div>
                                 <div class="col-lg-6">
@@ -185,7 +186,7 @@
                             <div class="row align-items-center">
                                 <div class="col-lg-6">
                                     <div class="td-service-pin-thumb">
-                                        <img class="w-100" src="assets/img/service/details/thumb-4.jpg" alt="">
+                                        <img class="w-100" src="assets/img/service/details/thumb-4.jpg" alt="Book publishing service illustration">
                                     </div>
                                 </div>
                                 <div class="col-lg-6">
@@ -220,7 +221,7 @@
                             <div class="row align-items-center">
                                 <div class="col-lg-6">
                                     <div class="td-service-pin-thumb">
-                                        <img class="w-100" src="assets/img/service/details/thumb-4.jpg" alt="">
+                                        <img class="w-100" src="assets/img/service/details/thumb-4.jpg" alt="Book ghostwriting service illustration">
                                     </div>
                                 </div>
                                 <div class="col-lg-6">
@@ -256,7 +257,7 @@
                             <div class="row align-items-center">
                                 <div class="col-lg-6 order-lg-2">
                                     <div class="td-service-pin-thumb">
-                                        <img class="w-100" src="assets/img/service/details/thumb-4.jpg" alt="">
+                                        <img class="w-100" src="assets/img/service/details/thumb-4.jpg" alt="Book marketing service illustration">
                                     </div>
                                 </div>
                                 <div class="col-lg-6 order-lg-1">
@@ -292,7 +293,7 @@
                             <div class="row align-items-center">
                                 <div class="col-lg-6">
                                     <div class="td-service-pin-thumb">
-                                        <img class="w-100" src="assets/img/service/details/thumb-4.jpg" alt="">
+                                        <img class="w-100" src="assets/img/service/details/thumb-4.jpg" alt="Book illustration service illustration">
                                     </div>
                                 </div>
                                 <div class="col-lg-6">
@@ -328,7 +329,7 @@
                             <div class="row align-items-center">
                                 <div class="col-lg-6 order-lg-2">
                                     <div class="td-service-pin-thumb">
-                                        <img class="w-100" src="assets/img/service/details/thumb-4.jpg" alt="">
+                                        <img class="w-100" src="assets/img/service/details/thumb-4.jpg" alt="Book cover design service illustration">
                                     </div>
                                 </div>
                                 <div class="col-lg-6 order-lg-1">
@@ -364,7 +365,7 @@
                             <div class="row align-items-center">
                                 <div class="col-lg-6">
                                     <div class="td-service-pin-thumb">
-                                        <img class="w-100" src="assets/img/service/details/thumb-4.jpg" alt="">
+                                        <img class="w-100" src="assets/img/service/details/thumb-4.jpg" alt="Book formatting service illustration">
                                     </div>
                                 </div>
                                 <div class="col-lg-6">

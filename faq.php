@@ -6,6 +6,7 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>FAQ's - ISB Ghostwriters</title>
     <meta name="description" content="Get answers to your questions about ISB Ghostwriters.">
+    <link rel="canonical" href="https://isbghostwriters.com/faq.php">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="shortcut icon" type="image/x-icon" href="assets/img/logo/favicon.png">
@@ -63,8 +64,8 @@
                             <div class="col-lg-9">
                                 <div class="td-breadcrumb-wrap">
                                     <span class="subtitle d-inline-block mb-15  wow fadeInLeft" data-wow-delay=".3s" data-wow-duration="1s">OUR FAQ</span>
-                                    <h2 class="td-section-page-title mb-35  wow fadeInLeft" data-wow-delay=".5s" data-wow-duration="1s">Frequently asked <br> 
-                                         <span>question</span></h2>
+                                    <h1 class="td-section-page-title mb-35  wow fadeInLeft" data-wow-delay=".5s" data-wow-duration="1s">Frequently asked <br>
+                                         <span>question</span></h1>
                                     <p class="text  wow fadeInLeft" data-wow-delay=".7s" data-wow-duration="1s">Parody dolor sit amet, consectetur adipiscing elit. Suspendisse  varius
                                         enim in eros elementum Duis cursus, mi quis viverra  ornare, eros dolor
                                         interdum nulla, ut commodo diam libero vitae erat.</p>
@@ -81,7 +82,7 @@
                         <div class="row">
                             <div class="col-lg-5  wow fadeInLeft" data-wow-delay=".5s" data-wow-duration="1s">
                                 <div class="td-faq-2-thumb td-faq-main-thumb mt-40 mr-110 mb-30">
-                                    <img class="td-rounded-10" src="assets/img/faq/main/thumb.jpg" alt="">
+                                    <img class="td-rounded-10" src="assets/img/faq/main/thumb.jpg" alt="ISB Ghostwriters team answering frequently asked questions">
                                 </div>
                             </div>
                             <div class="col-lg-7  wow fadeInRight" data-wow-delay=".5s" data-wow-duration="1s">

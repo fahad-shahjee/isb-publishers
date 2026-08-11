@@ -8,8 +8,9 @@ require_once __DIR__ . '/../config.php';
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Website Design for Authors | ISB Ghostwriters</title>
-    <meta name="description" content="Parody - Digital Agency Portfolio Html Template">
+    <meta name="description" content="Professional author website design services featuring custom branding, e-commerce book sales, blog integration, and SEO optimization to grow your reader audience.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="canonical" href="https://isbghostwriters.com/services-pages/author-website.php">
 
     <link rel="shortcut icon" type="image/x-icon" href="<?= $BASE_URL ?>assets/img/logo/favicon.png">
     <!-- Place favicon.ico in the root directory -->
@@ -67,15 +68,15 @@ require_once __DIR__ . '/../config.php';
                         <div class="row">
                             <div class="col-lg-12">
                                 <div class="td-about-main-wrapper pb-90" style="padding-bottom: 180px;">
-                                    <h2 class="td-section-page-title td-title-anim text-center">
+                                    <h1 class="td-section-page-title td-title-anim text-center">
                                     Specialized Web Design<br>
                                         <span>Services for Authors</span>
-                                    </h2>
+                                    </h1>
                                 </div>
                             </div>
                             <div class="col-lg-6">
                                 <div class="td-about-main-thumb mb-40 fix td-rounded-10 wow fadeInLeft" data-wow-delay=".5s" data-wow-duration="1s">
-                                    <img data-speed=".9" class="w-100 td-rounded-10" src="<?= $BASE_URL ?>assets/img/about/main/aurth-web.jpg" alt="">
+                                    <img data-speed=".9" class="w-100 td-rounded-10" src="<?= $BASE_URL ?>assets/img/about/main/aurth-web.jpg" alt="Custom author website design on desktop and mobile screens">
                                 </div>
                             </div>
                             <div class="col-lg-6">
@@ -187,7 +188,7 @@ require_once __DIR__ . '/../config.php';
                                 <div class="td-about-left mb-30">
                                     <span>How We Build Your Website</span>
                                     <div class="td-about-left-thumb ml-60 fix td-rounded-10">
-                                        <img data-speed=".9" src="<?= $BASE_URL ?>assets/img/about/main/aurth-abt.jpg" alt="">
+                                        <img data-speed=".9" src="<?= $BASE_URL ?>assets/img/about/main/aurth-abt.jpg" alt="Author website build process with our design team">
                                     </div>
                                 </div>
                             </div>
@@ -209,7 +210,7 @@ require_once __DIR__ . '/../config.php';
                                             <img class="td-live-anim-spin" src="<?= $BASE_URL ?>assets/img/about/shape.png" alt="">
                                         </div>
                                         <div class="td-about-thumb fix td-rounded-10">
-                                            <img data-speed=".9" src="<?= $BASE_URL ?>assets/img/about/main/aurth-abt-2.jpg" alt="">
+                                            <img data-speed=".9" src="<?= $BASE_URL ?>assets/img/about/main/aurth-abt-2.jpg" alt="Finished author website showcasing books and reader engagement">
                                         </div>
                                     </div>
                                 </div>
@@ -324,7 +325,7 @@ require_once __DIR__ . '/../config.php';
                         <div class="row">
                             <div class="col-lg-6">
                                 <div class="td-faq-2-thumb mb-30 fix td-rounded-10">
-                                    <img data-speed=".9" class="td-rounded-10" src="<?= $BASE_URL ?>assets/img/about/main/aurth-faq.jpg" alt="">
+                                    <img data-speed=".9" class="td-rounded-10" src="<?= $BASE_URL ?>assets/img/about/main/aurth-faq.jpg" alt="Author reviewing their newly built website">
                                 </div>
                             </div>
                             <div class="col-lg-6">

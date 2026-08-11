@@ -6,6 +6,7 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Portfolio - ISB Ghostwriters</title>
     <meta name="description" content="Showcasing the work of ISB Ghostwriters.">
+    <link rel="canonical" href="https://isbghostwriters.com/portfolio.php">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="shortcut icon" type="image/x-icon" href="assets/img/logo/favicon.png">
@@ -65,7 +66,7 @@
                         <div class="row">
                             <div class="col-lg-9">
                                 <div class="td-breadcrumb-wrap">
-                                <h2 class="td-section-page-title td-section-page-bigtitle mb-35  wow fadeInLeft" data-wow-delay=".7s" data-wow-duration="1s">Our <span>Portfolio</span></h2>
+                                <h1 class="td-section-page-title td-section-page-bigtitle mb-35  wow fadeInLeft" data-wow-delay=".7s" data-wow-duration="1s">Our <span>Portfolio</span></h1>
                                 </div>
                             </div>
                         </div>

@@ -8,8 +8,9 @@ require_once __DIR__ . '/../config.php';
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Book Formatting Services | ISB Ghostwriters</title>
-    <meta name="description" content="Parody - Digital Agency Portfolio Html Template">
+    <meta name="description" content="Professional book formatting for paperback, hardcover, Kindle, eBook, and Amazon KDP, covering margins, spacing, chapter headings, page numbers, and front matter.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="canonical" href="https://isbghostwriters.com/services-pages/book-formatting.php">
 
     <link rel="shortcut icon" type="image/x-icon" href="<?= $BASE_URL ?>assets/img/logo/favicon.png">
     <!-- Place favicon.ico in the root directory -->
@@ -67,15 +68,15 @@ require_once __DIR__ . '/../config.php';
                         <div class="row">
                             <div class="col-lg-12">
                                 <div class="td-about-main-wrapper pb-90" style="padding-bottom: 180px;">
-                                    <h2 class="td-section-page-title td-title-anim text-center">
+                                    <h1 class="td-section-page-title td-title-anim text-center">
                                         Professional<br>
                                         <span>Book Formatting</span>
-                                    </h2>
+                                    </h1>
                                 </div>
                             </div>
                             <div class="col-lg-6">
                                 <div class="td-about-main-thumb mb-40 fix td-rounded-10 wow fadeInLeft" data-wow-delay=".5s" data-wow-duration="1s">
-                                    <img data-speed=".9" class="w-100 td-rounded-10" src="<?= $BASE_URL ?>assets/img/about/main/bf-abt.jpg" alt="">
+                                    <img data-speed=".9" class="w-100 td-rounded-10" src="<?= $BASE_URL ?>assets/img/about/main/bf-abt.jpg" alt="Professionally formatted book pages ready for print and digital publishing">
                                 </div>
                             </div>
                             <div class="col-lg-6">
@@ -187,7 +188,7 @@ require_once __DIR__ . '/../config.php';
                                 <div class="td-about-left mb-30">
                                     <span>Pages Ready To Publish</span>
                                     <div class="td-about-left-thumb ml-60 fix td-rounded-10">
-                                        <img data-speed=".9" src="<?= $BASE_URL ?>assets/img/about/main/be-abt.jpg" alt="">
+                                        <img data-speed=".9" src="<?= $BASE_URL ?>assets/img/about/main/be-abt.jpg" alt="Formatted book pages ready to publish">
                                     </div>
                                 </div>
                             </div>
@@ -209,7 +210,7 @@ require_once __DIR__ . '/../config.php';
                                             <img class="td-live-anim-spin" src="<?= $BASE_URL ?>assets/img/about/shape.png" alt="">
                                         </div>
                                         <div class="td-about-thumb fix td-rounded-10">
-                                            <img data-speed=".9" src="<?= $BASE_URL ?>assets/img/about/main/bf2-abt-2.jpg" alt="">
+                                            <img data-speed=".9" src="<?= $BASE_URL ?>assets/img/about/main/bf2-abt-2.jpg" alt="Clean manuscript layout with consistent fonts, spacing, and chapter headings">
                                         </div>
                                     </div>
                                 </div>
@@ -283,7 +284,7 @@ require_once __DIR__ . '/../config.php';
                         <div class="row">
                             <div class="col-lg-6">
                                 <div class="td-faq-2-thumb mb-30 fix td-rounded-10">
-                                    <img data-speed=".9" class="td-rounded-10" src="<?= $BASE_URL ?>assets/img/about/main/bf-faq.jpg" alt="">
+                                    <img data-speed=".9" class="td-rounded-10" src="<?= $BASE_URL ?>assets/img/about/main/bf-faq.jpg" alt="Book formatting examples for print and eBook publishing">
                                 </div>
                             </div>
                             <div class="col-lg-6">

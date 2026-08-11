@@ -8,7 +8,8 @@ require_once __DIR__ . '/../config.php';
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Expert Audiobook Services | ISB Ghostwriters</title>
-    <meta name="description" content="Parody - Digital Agency Portfolio Html Template">
+    <meta name="description" content="Professional audiobook services from ISB Publishers: narration, recording, editing, and mastering for fiction, non-fiction, business, and children's books.">
+    <link rel="canonical" href="https://isbghostwriters.com/services-pages/audio-book.php">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="shortcut icon" type="image/x-icon" href="<?= $BASE_URL ?>assets/img/logo/favicon.png">
@@ -67,15 +68,15 @@ require_once __DIR__ . '/../config.php';
                         <div class="row">
                             <div class="col-lg-12">
                                 <div class="td-about-main-wrapper pb-90" style="padding-bottom: 180px;">
-                                    <h2 class="td-section-page-title td-title-anim text-center">
+                                    <h1 class="td-section-page-title td-title-anim text-center">
                                         Professional<br>
                                         <span>Audiobook Services</span>
-                                    </h2>
+                                    </h1>
                                 </div>
                             </div>
                             <div class="col-lg-6">
                                 <div class="td-about-main-thumb mb-40 fix td-rounded-10 wow fadeInLeft" data-wow-delay=".5s" data-wow-duration="1s">
-                                    <img data-speed=".9" class="w-100 td-rounded-10" src="<?= $BASE_URL ?>assets/img/about/main/about.jpg" alt="">
+                                    <img data-speed=".9" class="w-100 td-rounded-10" src="<?= $BASE_URL ?>assets/img/about/main/about.jpg" alt="Professional audiobook narration and recording session">
                                 </div>
                             </div>
                             <div class="col-lg-6">
@@ -105,7 +106,7 @@ require_once __DIR__ . '/../config.php';
                     <div class="td-contact-7-text-slider">
                         <div class="td-contact-7-text-btn text-center pt-30">
                             <a href="<?= $BASE_URL ?>contact.php">
-                                <img class="td-live-anim-spin" src="<?= $BASE_URL ?>assets/img/contact/text.png" alt="">
+                                <img class="td-live-anim-spin" src="<?= $BASE_URL ?>assets/img/contact/text.png" alt="Contact us">
                                 <span class="icon">
                                     <svg width="29" height="30" viewBox="0 0 29 30" fill="none" xmlns="http://www.w3.org/2000/svg">
                                         <path d="M7.07031 22.0708L21.2124 7.92867" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
@@ -187,7 +188,7 @@ require_once __DIR__ . '/../config.php';
                                 <div class="td-about-left mb-30">
                                     <span>Every book deserves to be heard, not just read.</span>
                                     <div class="td-about-left-thumb ml-60 fix td-rounded-10">
-                                        <img data-speed=".9" src="<?= $BASE_URL ?>assets/img/about/main/about-2.jpg" alt="">
+                                        <img data-speed=".9" src="<?= $BASE_URL ?>assets/img/about/main/about-2.jpg" alt="Every book deserves to be heard, not just read">
                                     </div>
                                 </div>
                             </div>
@@ -209,7 +210,7 @@ require_once __DIR__ . '/../config.php';
                                             <img class="td-live-anim-spin" src="<?= $BASE_URL ?>assets/img/about/shape.png" alt="">
                                         </div>
                                         <div class="td-about-thumb fix td-rounded-10">
-                                            <img data-speed=".9" src="<?= $BASE_URL ?>assets/img/about/main/about-3.jpg" alt="">
+                                            <img data-speed=".9" src="<?= $BASE_URL ?>assets/img/about/main/about-3.jpg" alt="Audiobook recording and mastering production">
                                         </div>
                                     </div>
                                 </div>
@@ -283,7 +284,7 @@ require_once __DIR__ . '/../config.php';
                         <div class="row">
                             <div class="col-lg-6">
                                 <div class="td-faq-2-thumb mb-30 fix td-rounded-10">
-                                    <img data-speed=".9" class="td-rounded-10" src="<?= $BASE_URL ?>assets/img/about/main/about-4.jpg" alt="">
+                                    <img data-speed=".9" class="td-rounded-10" src="<?= $BASE_URL ?>assets/img/about/main/about-4.jpg" alt="Audiobook services frequently asked questions">
                                 </div>
                             </div>
                             <div class="col-lg-6">

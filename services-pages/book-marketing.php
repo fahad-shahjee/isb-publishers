@@ -8,7 +8,8 @@ require_once __DIR__ . '/../config.php';
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Book Marketing Services | ISB Ghostwriters</title>
-    <meta name="description" content="Parody - Digital Agency Portfolio Html Template">
+    <meta name="description" content="ISB Publishers delivers results-driven book marketing, including strategy planning, promotional content, and launch support to help authors reach more readers.">
+    <link rel="canonical" href="https://isbghostwriters.com/services-pages/book-marketing.php">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="shortcut icon" type="image/x-icon" href="<?= $BASE_URL ?>assets/img/logo/favicon.png">
@@ -67,15 +68,15 @@ require_once __DIR__ . '/../config.php';
                         <div class="row">
                             <div class="col-lg-12">
                                 <div class="td-about-main-wrapper pb-90" style="padding-bottom: 180px;">
-                                    <h2 class="td-section-page-title td-title-anim text-center">
+                                    <h1 class="td-section-page-title td-title-anim text-center">
                                         Results-Driven Book<br>
                                         <span>Marketing Services</span>
-                                    </h2>
+                                    </h1>
                                 </div>
                             </div>
                             <div class="col-lg-6">
                                 <div class="td-about-main-thumb mb-40 fix td-rounded-10 wow fadeInLeft" data-wow-delay=".5s" data-wow-duration="1s">
-                                    <img data-speed=".9" class="w-100 td-rounded-10" src="<?= $BASE_URL ?>assets/img/about/main/bm-img.jpg" alt="">
+                                    <img data-speed=".9" class="w-100 td-rounded-10" src="<?= $BASE_URL ?>assets/img/about/main/bm-img.jpg" alt="Book marketing services from ISB Publishers">
                                 </div>
                             </div>
                             <div class="col-lg-6">
@@ -187,7 +188,7 @@ require_once __DIR__ . '/../config.php';
                                 <div class="td-about-left mb-30">
                                     <span>Empowering Your Words to Be Heard</span>
                                     <div class="td-about-left-thumb ml-60 fix td-rounded-10">
-                                        <img data-speed=".9" src="<?= $BASE_URL ?>assets/img/about/main/bm-abt.jpg" alt="">
+                                        <img data-speed=".9" src="<?= $BASE_URL ?>assets/img/about/main/bm-abt.jpg" alt="Author's book being promoted through ISB Publishers' marketing strategy">
                                     </div>
                                 </div>
                             </div>
@@ -209,7 +210,7 @@ require_once __DIR__ . '/../config.php';
                                             <img class="td-live-anim-spin" src="<?= $BASE_URL ?>assets/img/about/shape.png" alt="">
                                         </div>
                                         <div class="td-about-thumb fix td-rounded-10">
-                                            <img data-speed=".9" src="<?= $BASE_URL ?>assets/img/about/main/bm-abt-2.jpg" alt="">
+                                            <img data-speed=".9" src="<?= $BASE_URL ?>assets/img/about/main/bm-abt-2.jpg" alt="Book marketing campaign visual by ISB Publishers">
                                         </div>
                                     </div>
                                 </div>
@@ -283,7 +284,7 @@ require_once __DIR__ . '/../config.php';
                         <div class="row">
                             <div class="col-lg-6">
                                 <div class="td-faq-2-thumb mb-30 fix td-rounded-10">
-                                    <img data-speed=".9" class="td-rounded-10" src="<?= $BASE_URL ?>assets/img/about/main/bm-faq.jpg" alt="">
+                                    <img data-speed=".9" class="td-rounded-10" src="<?= $BASE_URL ?>assets/img/about/main/bm-faq.jpg" alt="Author discussing book marketing strategy with the ISB Publishers team">
                                 </div>
                             </div>
                             <div class="col-lg-6">
