@@ -15,23 +15,23 @@
     <!--<< Bootstrap min.css >>-->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <!--<< magnific-popup.css >>-->
-    <link rel="stylesheet" href="assets/css/magnific-popup.css">
+    <link rel="stylesheet" href="assets/css/magnific-popup.min.css">
     <!--<< fontawesome-all.min.css >>-->
     <link rel="stylesheet" href="assets/css/fontawesome-all.min.css">
     <!--<< swiper-bundle.min.css >>-->
     <link rel="stylesheet" href="assets/css/swiper-bundle.min.css">
     <!--<< odometer.css >>-->
-    <link rel="stylesheet" href="assets/css/odometer.css">
+    <link rel="stylesheet" href="assets/css/odometer.min.css">
     <!--<< ion.rangeSlider.min.css >>-->
     <link rel="stylesheet" href="assets/css/ion.rangeSlider.min.css">
     <!--<< effect-slicer.css >>-->
-    <link rel="stylesheet" href="assets/css/effect-slicer.css">
+    <link rel="stylesheet" href="assets/css/effect-slicer.min.css">
     <!--<< animate.css >>-->
-    <link rel="stylesheet" href="assets/css/animate.css">
+    <link rel="stylesheet" href="assets/css/animate.min.css">
     <!--<< default.css >>-->
-    <link rel="stylesheet" href="assets/css/defauls-spacing.css">
+    <link rel="stylesheet" href="assets/css/defauls-spacing.min.css">
     <!--<< main.css >>-->
-    <link rel="stylesheet" href="assets/css/main.css">
+    <link rel="stylesheet" href="assets/css/main.min.css">
 
 </head>
 
@@ -1129,7 +1129,7 @@
     <!--<< ion.rangeSlider.min.Js >>-->
     <script src="assets/js/ion.rangeSlider.min.js" defer></script>
     <!--<< effect-slicer.Js >>-->
-    <script src="assets/js/effect-slicer.js" defer></script>
+    <script src="assets/js/effect-slicer.min.js" defer></script>
     <!--<< imagesloaded.pkgd.min.Js >>-->
     <script src="assets/js/imagesloaded.pkgd.min.js" defer></script>
     <!--<< jquery.magnific-popup.min.Js >>-->
@@ -1137,17 +1137,17 @@
     <!--<< jquery.odometer.min.Js >>-->
     <script src="assets/js/jquery.odometer.min.js" defer></script>
     <!--<< jquery-appear.Js >>-->
-    <script src="assets/js/jquery-appear.js" defer></script>
+    <script src="assets/js/jquery-appear.min.js" defer></script>
     <!--<< swiper-bundle.min.Js >>-->
     <script src="assets/js/swiper-bundle.min.js" defer></script>
     <!--<< jquery.nice-select.min.Js >>-->
-    <script src="assets/js/nice-select.js" defer></script>
+    <script src="assets/js/nice-select.min.js" defer></script>
     <!--<< wow.Js >>-->
-    <script src="assets/js/wow.js" defer></script>
+    <script src="assets/js/wow.min.js" defer></script>
     <!--<< ajax-form.Js >>-->
     <script src="assets/js/ajax-form.js" defer></script>
     <!--<< main.Js >>-->
-    <script src="assets/js/main.js" defer></script>
+    <script src="assets/js/main.min.js" defer></script>
 
 </body>
 

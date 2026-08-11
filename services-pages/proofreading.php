@@ -19,23 +19,23 @@ require_once __DIR__ . '/../config.php';
     <!--<< Bootstrap min.css >>-->
     <link rel="stylesheet" href="<?= $BASE_URL ?>assets/css/bootstrap.min.css">
     <!--<< magnific-popup.css >>-->
-    <link rel="stylesheet" href="<?= $BASE_URL ?>assets/css/magnific-popup.css">
+    <link rel="stylesheet" href="<?= $BASE_URL ?>assets/css/magnific-popup.min.css">
     <!--<< fontawesome-all.min.css >>-->
     <link rel="stylesheet" href="<?= $BASE_URL ?>assets/css/fontawesome-all.min.css">
     <!--<< swiper-bundle.min.css >>-->
     <link rel="stylesheet" href="<?= $BASE_URL ?>assets/css/swiper-bundle.min.css">
     <!--<< odometer.css >>-->
-    <link rel="stylesheet" href="<?= $BASE_URL ?>assets/css/odometer.css">
+    <link rel="stylesheet" href="<?= $BASE_URL ?>assets/css/odometer.min.css">
     <!--<< ion.rangeSlider.min.css >>-->
     <link rel="stylesheet" href="<?= $BASE_URL ?>assets/css/ion.rangeSlider.min.css">
     <!--<< effect-slicer.css >>-->
-    <link rel="stylesheet" href="<?= $BASE_URL ?>assets/css/effect-slicer.css">
+    <link rel="stylesheet" href="<?= $BASE_URL ?>assets/css/effect-slicer.min.css">
     <!--<< animate.css >>-->
-    <link rel="stylesheet" href="<?= $BASE_URL ?>assets/css/animate.css">
+    <link rel="stylesheet" href="<?= $BASE_URL ?>assets/css/animate.min.css">
     <!--<< default.css >>-->
-    <link rel="stylesheet" href="<?= $BASE_URL ?>assets/css/defauls-spacing.css">
+    <link rel="stylesheet" href="<?= $BASE_URL ?>assets/css/defauls-spacing.min.css">
     <!--<< main.css >>-->
-    <link rel="stylesheet" href="<?= $BASE_URL ?>assets/css/main.css">
+    <link rel="stylesheet" href="<?= $BASE_URL ?>assets/css/main.min.css">
 </head>
 
 <body>
@@ -411,7 +411,7 @@ require_once __DIR__ . '/../config.php';
     <!--<< ion.rangeSlider.min.Js >>-->
     <script src="<?= $BASE_URL ?>assets/js/ion.rangeSlider.min.js"></script>
     <!--<< effect-slicer.Js >>-->
-    <script src="<?= $BASE_URL ?>assets/js/effect-slicer.js"></script>
+    <script src="<?= $BASE_URL ?>assets/js/effect-slicer.min.js"></script>
     <!--<< imagesloaded.pkgd.min.Js >>-->
     <script src="<?= $BASE_URL ?>assets/js/imagesloaded.pkgd.min.js"></script>
     <!--<< jquery.magnific-popup.min.Js >>-->
@@ -419,17 +419,17 @@ require_once __DIR__ . '/../config.php';
     <!--<< jquery.odometer.min.Js >>-->
     <script src="<?= $BASE_URL ?>assets/js/jquery.odometer.min.js"></script>
     <!--<< jquery-appear.Js >>-->
-    <script src="<?= $BASE_URL ?>assets/js/jquery-appear.js"></script>
+    <script src="<?= $BASE_URL ?>assets/js/jquery-appear.min.js"></script>
     <!--<< swiper-bundle.min.Js >>-->
     <script src="<?= $BASE_URL ?>assets/js/swiper-bundle.min.js"></script>
     <!--<< jquery.nice-select.min.Js >>-->
-    <script src="<?= $BASE_URL ?>assets/js/nice-select.js"></script>
+    <script src="<?= $BASE_URL ?>assets/js/nice-select.min.js"></script>
     <!--<< wow.Js >>-->    
-    <script src="<?= $BASE_URL ?>assets/js/wow.js"></script>
+    <script src="<?= $BASE_URL ?>assets/js/wow.min.js"></script>
     <!--<< ajax-form.Js >>-->
     <script src="<?= $BASE_URL ?>assets/js/ajax-form.js"></script>
     <!--<< main.Js >>-->
-    <script src="<?= $BASE_URL ?>assets/js/main.js"></script>
+    <script src="<?= $BASE_URL ?>assets/js/main.min.js"></script>
 </body>
 
 </html>
