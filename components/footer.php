@@ -45,6 +45,10 @@
                                 <a class="td-footer-location mb-45 d-inline-block" href="mailto:info@isbghostwriters.com">info@isbghostwriters.com</a>
                                 <div class="td-footer-form p-relative">
                                     <form id="newsletter-form" action="<?= $BASE_URL ?>assets/newsletter.php" method="POST">
+                                        <div style="position:absolute; left:-9999px;" aria-hidden="true">
+                                            <label for="newsletter-website">Leave this field empty</label>
+                                            <input type="text" name="website" id="newsletter-website" tabindex="-1" autocomplete="off">
+                                        </div>
                                         <input type="email" name="email" placeholder="example@gmail.com" required>
                                         <button type="submit">
                                             <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">

@@ -88,6 +88,10 @@ $formStatus = $_GET['status'] ?? '';
                                 <div class="td-contact-form-box mb-30  wow fadeInRight" data-wow-delay=".5s" data-wow-duration="1s">
                                     <form id="contact-form" action="assets/mail.php" method="POST">
                                         <div class="row">
+                                            <div style="position:absolute; left:-9999px;" aria-hidden="true">
+                                                <label for="website">Leave this field empty</label>
+                                                <input type="text" name="website" id="website" tabindex="-1" autocomplete="off">
+                                            </div>
                                             <div class="col-12 mb-25">
                                                 <label for="name">Name</label>
                                                 <input class="td-input" name="name" id="name" type="text">

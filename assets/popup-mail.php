@@ -6,6 +6,19 @@
 
     if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
+        // Honeypot: a hidden field real visitors never see or fill in. If it's
+        // non-empty, a bot filled it in — pretend success and discard silently.
+
+        if (!empty($_POST["website"] ?? "")) {
+
+            http_response_code(200);
+
+            echo "Thank You! We'll be in touch shortly.";
+
+            exit;
+
+        }
+
         // Get the form fields and remove whitespace.
 
         $name = strip_tags(trim($_POST["name"] ?? ""));

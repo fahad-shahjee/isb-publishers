@@ -5,6 +5,10 @@
     <h2 class="popup-heading">Book a Quick Call & Let's Get Started.</h2>
 
     <form id="popup-form" class="popup-form" action="<?= $BASE_URL ?>assets/popup-mail.php" method="POST">
+      <div style="position:absolute; left:-9999px;" aria-hidden="true">
+        <label for="popup-website">Leave this field empty</label>
+        <input type="text" name="website" id="popup-website" tabindex="-1" autocomplete="off">
+      </div>
       <div class="popup-row">
         <input type="text" name="name" placeholder="Name" class="popup-input popup-field" id="popup-name" required>
       </div>

@@ -6,6 +6,19 @@
 
     if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
+        // Honeypot: a hidden field real visitors never see or fill in. If it's
+        // non-empty, a bot filled it in — pretend success and discard silently.
+
+        if (!empty($_POST["website"] ?? "")) {
+
+            http_response_code(200);
+
+            echo "Thanks for subscribing!";
+
+            exit;
+
+        }
+
         $email = filter_var(trim($_POST["email"] ?? ""), FILTER_SANITIZE_EMAIL);
 
         if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
