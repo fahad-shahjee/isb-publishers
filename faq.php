@@ -82,7 +82,7 @@
                         <div class="row">
                             <div class="col-lg-5  wow fadeInLeft" data-wow-delay=".5s" data-wow-duration="1s">
                                 <div class="td-faq-2-thumb td-faq-main-thumb mt-40 mr-110 mb-30">
-                                    <img class="td-rounded-10" src="assets/img/faq/main/thumb.jpg" alt="ISB Ghostwriters team answering frequently asked questions">
+                                    <img class="td-rounded-10" src="assets/img/faq/main/thumb.jpg" alt="ISB Ghostwriters team answering frequently asked questions" loading="lazy">
                                 </div>
                             </div>
                             <div class="col-lg-7  wow fadeInRight" data-wow-delay=".5s" data-wow-duration="1s">
@@ -205,9 +205,9 @@
                     <div class="container">
                         <div class="col-lg-12">
                             <div class="td-cta-wrap p-relative z-index-1 text-center pt-135 pb-135 include-bg" data-background="assets/img/cta/bg.jpg">
-                                <img class="td-cta-shape d-none d-xl-block" src="assets/img/cta/cta.png" alt="">
+                                <img class="td-cta-shape d-none d-xl-block" src="assets/img/cta/cta.png" alt="" loading="lazy">
                                 <h2 class="title p-relative d-inline-block">
-                                    <img class="td-cta-shape-2 d-none d-md-block" src="assets/img/cta/cta-2.png" alt="">
+                                    <img class="td-cta-shape-2 d-none d-md-block" src="assets/img/cta/cta-2.png" alt="" loading="lazy">
                                     <a class="td-text-invert" href="contact.php">
                                         HAVE A<br>
                                         PROJECTS<br>

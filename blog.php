@@ -84,7 +84,7 @@
                             <div class="col-xl-4 col-lg-6 col-md-6  wow fadeInUp" data-wow-delay=".5s" data-wow-duration="1s">
                                 <div class="td-blog-wrap mb-60">
                                     <div class="td-blog-thumb fix mb-25">
-                                        <img class="w-100" src="assets/img/blog/thumb.jpg" alt="Our strategic planning ensures your brand's vision aligns with market opportunities">
+                                        <img class="w-100" src="assets/img/blog/thumb.jpg" alt="Our strategic planning ensures your brand's vision aligns with market opportunities" loading="lazy">
                                     </div>
                                     <div class="td-blog-content">
                                         <h3 class="td-blog-title mb-30"><a href="blog-details.html">Our strategic planning ensures
@@ -101,7 +101,7 @@
                             <div class="col-xl-4 col-lg-6 col-md-6  wow fadeInUp" data-wow-delay=".7s" data-wow-duration="1s">
                                 <div class="td-blog-wrap mb-60">
                                     <div class="td-blog-thumb fix mb-25">
-                                        <img class="w-100" src="assets/img/blog/thumb-2.jpg" alt="The complex but awesome CSS border-image property for web design companies">
+                                        <img class="w-100" src="assets/img/blog/thumb-2.jpg" alt="The complex but awesome CSS border-image property for web design companies" loading="lazy">
                                     </div>
                                     <div class="td-blog-content">
                                         <h3 class="td-blog-title mb-30"><a href="blog-details.html">The complex but awesome CSS
@@ -118,7 +118,7 @@
                             <div class="col-xl-4 col-lg-6 col-md-6  wow fadeInUp" data-wow-delay=".9s" data-wow-duration="1s">
                                 <div class="td-blog-wrap mb-60">
                                     <div class="td-blog-thumb fix mb-25">
-                                        <img class="w-100" src="assets/img/blog/thumb-3.jpg" alt="The complex but awesome CSS border-image property for web design companies">
+                                        <img class="w-100" src="assets/img/blog/thumb-3.jpg" alt="The complex but awesome CSS border-image property for web design companies" loading="lazy">
                                     </div>
                                     <div class="td-blog-content">
                                         <h3 class="td-blog-title mb-30"><a href="blog-details.html">The complex but awesome CSS
@@ -135,7 +135,7 @@
                             <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".5s" data-wow-duration="1s">
                                 <div class="td-blog-wrap mb-60">
                                     <div class="td-blog-thumb fix mb-25">
-                                        <img class="w-100" src="assets/img/blog/thumb-4.jpg" alt="Developing advertising campaigns across digital, print, TV, or other media platforms">
+                                        <img class="w-100" src="assets/img/blog/thumb-4.jpg" alt="Developing advertising campaigns across digital, print, TV, or other media platforms" loading="lazy">
                                     </div>
                                     <div class="td-blog-content">
                                         <h3 class="td-blog-title mb-30"><a href="blog-details.html">Developing advertising campaign
@@ -152,7 +152,7 @@
                             <div class="col-xl-4 col-lg-6 col-md-6  wow fadeInUp" data-wow-delay=".7s" data-wow-duration="1s">
                                 <div class="td-blog-wrap mb-60">
                                     <div class="td-blog-thumb fix mb-25">
-                                        <img class="w-100" src="assets/img/blog/thumb-5.jpg" alt="Designing and building websites and applications to ensure businesses succeed online">
+                                        <img class="w-100" src="assets/img/blog/thumb-5.jpg" alt="Designing and building websites and applications to ensure businesses succeed online" loading="lazy">
                                     </div>
                                     <div class="td-blog-content">
                                         <h3 class="td-blog-title mb-30"><a href="blog-details.html">Designing and building websites
@@ -169,7 +169,7 @@
                             <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".9s" data-wow-duration="1s">
                                 <div class="td-blog-wrap mb-60">
                                     <div class="td-blog-thumb fix mb-25">
-                                        <img class="w-100" src="assets/img/blog/thumb-6.jpg" alt="Focus on promoting products or services through traditional and digital media">
+                                        <img class="w-100" src="assets/img/blog/thumb-6.jpg" alt="Focus on promoting products or services through traditional and digital media" loading="lazy">
                                     </div>
                                     <div class="td-blog-content">
                                         <h3 class="td-blog-title mb-30"><a href="blog-details.html">Focus on promoting products or
@@ -193,9 +193,9 @@
                     <div class="container">
                         <div class="col-lg-12">
                             <div class="td-cta-wrap p-relative z-index-1 text-center pt-135 pb-135 include-bg" data-background="assets/img/cta/bg.jpg">
-                                <img class="td-cta-shape d-none d-xl-block" src="assets/img/cta/cta.png" alt="">
+                                <img class="td-cta-shape d-none d-xl-block" src="assets/img/cta/cta.png" alt="" loading="lazy">
                                 <h2 class="title p-relative d-inline-block">
-                                    <img class="td-cta-shape-2 d-none d-md-block" src="assets/img/cta/cta-2.png" alt="">
+                                    <img class="td-cta-shape-2 d-none d-md-block" src="assets/img/cta/cta-2.png" alt="" loading="lazy">
                                     <a class="td-text-invert" href="contact.html">
                                         HAVE A<br>
                                         PROJECTS<br>

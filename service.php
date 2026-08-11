@@ -116,7 +116,7 @@
                             <div class="row align-items-center">
                                 <div class="col-lg-6">
                                     <div class="td-service-pin-thumb">
-                                        <img class="w-100" src="assets/img/service/details/thumb-2.jpg" alt="Author website design service illustration">
+                                        <img class="w-100" src="assets/img/service/details/thumb-2.jpg" alt="Author website design service illustration" loading="lazy">
                                     </div>
                                 </div>
                                 <div class="col-lg-6">
@@ -151,7 +151,7 @@
                             <div class="row align-items-center">
                                 <div class="col-lg-6">
                                     <div class="td-service-pin-thumb">
-                                        <img class="w-100" src="assets/img/service/details/thumb-3.jpg" alt="Proofreading service illustration">
+                                        <img class="w-100" src="assets/img/service/details/thumb-3.jpg" alt="Proofreading service illustration" loading="lazy">
                                     </div>
                                 </div>
                                 <div class="col-lg-6">
@@ -186,7 +186,7 @@
                             <div class="row align-items-center">
                                 <div class="col-lg-6">
                                     <div class="td-service-pin-thumb">
-                                        <img class="w-100" src="assets/img/service/details/thumb-4.jpg" alt="Book publishing service illustration">
+                                        <img class="w-100" src="assets/img/service/details/thumb-4.jpg" alt="Book publishing service illustration" loading="lazy">
                                     </div>
                                 </div>
                                 <div class="col-lg-6">
@@ -221,7 +221,7 @@
                             <div class="row align-items-center">
                                 <div class="col-lg-6">
                                     <div class="td-service-pin-thumb">
-                                        <img class="w-100" src="assets/img/service/details/thumb-4.jpg" alt="Book ghostwriting service illustration">
+                                        <img class="w-100" src="assets/img/service/details/thumb-4.jpg" alt="Book ghostwriting service illustration" loading="lazy">
                                     </div>
                                 </div>
                                 <div class="col-lg-6">
@@ -257,7 +257,7 @@
                             <div class="row align-items-center">
                                 <div class="col-lg-6 order-lg-2">
                                     <div class="td-service-pin-thumb">
-                                        <img class="w-100" src="assets/img/service/details/thumb-4.jpg" alt="Book marketing service illustration">
+                                        <img class="w-100" src="assets/img/service/details/thumb-4.jpg" alt="Book marketing service illustration" loading="lazy">
                                     </div>
                                 </div>
                                 <div class="col-lg-6 order-lg-1">
@@ -293,7 +293,7 @@
                             <div class="row align-items-center">
                                 <div class="col-lg-6">
                                     <div class="td-service-pin-thumb">
-                                        <img class="w-100" src="assets/img/service/details/thumb-4.jpg" alt="Book illustration service illustration">
+                                        <img class="w-100" src="assets/img/service/details/thumb-4.jpg" alt="Book illustration service illustration" loading="lazy">
                                     </div>
                                 </div>
                                 <div class="col-lg-6">
@@ -307,7 +307,7 @@
                                             <ul>
                                                 <li>Character design</li>
                                                 <li>Story illustrations</li>
-                                                <li>Children’s books</li>
+                                                <li>Childrenâ€™s books</li>
                                                 <li>Creative artwork</li>
                                             </ul>
                                             <div class="td-btn-group td-btn-group-border pt-50">
@@ -329,7 +329,7 @@
                             <div class="row align-items-center">
                                 <div class="col-lg-6 order-lg-2">
                                     <div class="td-service-pin-thumb">
-                                        <img class="w-100" src="assets/img/service/details/thumb-4.jpg" alt="Book cover design service illustration">
+                                        <img class="w-100" src="assets/img/service/details/thumb-4.jpg" alt="Book cover design service illustration" loading="lazy">
                                     </div>
                                 </div>
                                 <div class="col-lg-6 order-lg-1">
@@ -365,7 +365,7 @@
                             <div class="row align-items-center">
                                 <div class="col-lg-6">
                                     <div class="td-service-pin-thumb">
-                                        <img class="w-100" src="assets/img/service/details/thumb-4.jpg" alt="Book formatting service illustration">
+                                        <img class="w-100" src="assets/img/service/details/thumb-4.jpg" alt="Book formatting service illustration" loading="lazy">
                                     </div>
                                 </div>
                                 <div class="col-lg-6">
@@ -405,9 +405,9 @@
                     <div class="container">
                         <div class="col-lg-12">
                             <div class="td-cta-wrap p-relative z-index-1 text-center pt-135 pb-135 include-bg" data-background="assets/img/cta/bg.jpg">
-                                <img class="td-cta-shape d-none d-xl-block" src="assets/img/cta/cta.png" alt="">
+                                <img class="td-cta-shape d-none d-xl-block" src="assets/img/cta/cta.png" alt="" loading="lazy">
                                 <h2 class="title p-relative d-inline-block">
-                                    <img class="td-cta-shape-2 d-none d-md-block" src="assets/img/cta/cta-2.png" alt="">
+                                    <img class="td-cta-shape-2 d-none d-md-block" src="assets/img/cta/cta-2.png" alt="" loading="lazy">
                                     <a class="td-text-invert" href="contact.php">
                                         HAVE A<br>
                                         PROJECTS<br>

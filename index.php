@@ -76,8 +76,8 @@
                                             <div class="col-xxl-2 col-xl-2 col-lg-3">
                                                 <a class="call-link" href="tel:+17869494620" aria-label="Call (786) 949-4620" onclick="window.location.href='tel:+17869494620'">
                                                     <div class="p-relative mb-30 d-inline-block">
-                                                        <img class="likes" src="assets/img/hero/hero-3/like.png" alt="Call (786) 949-4620">
-                                                        <img class="round-text td-live-anim-spin" src="assets/img/hero/hero-3/text.png" alt="">
+                                                        <img class="likes" src="assets/img/hero/hero-3/like.png" alt="Call (786) 949-4620" loading="lazy">
+                                                        <img class="round-text td-live-anim-spin" src="assets/img/hero/hero-3/text.png" alt="" loading="lazy">
                                                     </div>
                                                 </a>
                                             </div>
@@ -110,14 +110,14 @@
                                 <div class="td-about-left mb-30">
                                     <span>WHO WE ARE</span>
                                     <div class="td-about-left-thumb ml-60 fix td-rounded-10">
-                                        <img data-speed=".9" src="assets/img/about/thumb.jpg" alt="ISB Publishers team reviewing a manuscript together">
+                                        <img data-speed=".9" src="assets/img/about/thumb.jpg" alt="ISB Publishers team reviewing a manuscript together" loading="lazy">
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-8">
                                 <div class="td-about-content mb-30">
-                                    <h2 class="td-about-title mb-30 td-text-invert" style="font-size: 40px">Start your journey with ISB Publishers — where expert guidance and creative support lead to publishing success.</h2>
-                                    <p class="mb-45">Whether you’re starting fresh, polishing a draft, illustrating a children’s book, self-publishing on Amazon, or building a marketing plan — ISB Publishers provides expert book writing and publishing services to support you at every step. Turn your vision into a bestseller with our dedicated team.</p>
+                                    <h2 class="td-about-title mb-30 td-text-invert" style="font-size: 40px">Start your journey with ISB Publishers â€” where expert guidance and creative support lead to publishing success.</h2>
+                                    <p class="mb-45">Whether youâ€™re starting fresh, polishing a draft, illustrating a childrenâ€™s book, self-publishing on Amazon, or building a marketing plan â€” ISB Publishers provides expert book writing and publishing services to support you at every step. Turn your vision into a bestseller with our dedicated team.</p>
                                     <div class="td-btn-group mb-35">
                                         <a class="td-btn-circle" href="about">
                                             <i class="fa-solid fa-arrow-right"></i>
@@ -129,10 +129,10 @@
                                     </div>
                                     <div class="td-about-thumb-wrap d-flex align-items-center justify-content-end">
                                         <div class="mr-150 td-about-shape">
-                                            <img class="td-live-anim-spin" src="assets/img/about/shape.png" alt="">
+                                            <img class="td-live-anim-spin" src="assets/img/about/shape.png" alt="" loading="lazy">
                                         </div>
                                         <div class="td-about-thumb fix td-rounded-10">
-                                            <img data-speed=".9" src="assets/img/about/thumb-2.jpg" alt="Author reviewing a printed book proof">
+                                            <img data-speed=".9" src="assets/img/about/thumb-2.jpg" alt="Author reviewing a printed book proof" loading="lazy">
                                         </div>
                                     </div>
                                 </div>
@@ -192,7 +192,7 @@
                     <div class="td-contact-7-text-slider">
                         <div class="td-contact-7-text-btn text-center pt-30">
                             <a href="contact.php">
-                                <img class="td-live-anim-spin" src="assets/img/contact/text.png" alt="">
+                                <img class="td-live-anim-spin" src="assets/img/contact/text.png" alt="" loading="lazy">
                                 <span class="icon">
                                     <svg width="29" height="30" viewBox="0 0 29 30" fill="none" xmlns="http://www.w3.org/2000/svg">
                                         <path d="M7.07031 22.0708L21.2124 7.92867" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
@@ -283,40 +283,40 @@
                             <div class="col-lg-5">
                                 <div class="td-service-2-img-wrapper image-container mt-65 mb-40">
                                     <div class="hover-image active">
-                                        <img class="thumb" src="assets/img/service/service-2/audiobook.jpg" alt="Audio Book">
-                                        <img class="shape" src="assets/img/service/service-2/shape.png" alt="">
+                                        <img class="thumb" src="assets/img/service/service-2/audiobook.jpg" alt="Audio Book" loading="lazy">
+                                        <img class="shape" src="assets/img/service/service-2/shape.png" alt="" loading="lazy">
                                     </div>
                                     <div class="hover-image">
-                                        <img class="thumb" src="assets/img/service/service-2/aurtherweb.jpg" alt="Author Webstie">
-                                        <img class="shape" src="assets/img/service/service-2/shape.png" alt="">
+                                        <img class="thumb" src="assets/img/service/service-2/aurtherweb.jpg" alt="Author Webstie" loading="lazy">
+                                        <img class="shape" src="assets/img/service/service-2/shape.png" alt="" loading="lazy">
                                     </div>
                                     <div class="hover-image">
-                                        <img class="thumb" src="assets/img/service/service-2/Proofreading.jpg" alt="Proofreading">
-                                        <img class="shape" src="assets/img/service/service-2/shape.png" alt="">
+                                        <img class="thumb" src="assets/img/service/service-2/Proofreading.jpg" alt="Proofreading" loading="lazy">
+                                        <img class="shape" src="assets/img/service/service-2/shape.png" alt="" loading="lazy">
                                     </div>
                                     <div class="hover-image">
-                                        <img class="thumb" src="assets/img/service/service-2/bookpublishing.jpg" alt="Book Publishing">
-                                        <img class="shape" src="assets/img/service/service-2/shape.png" alt="">
+                                        <img class="thumb" src="assets/img/service/service-2/bookpublishing.jpg" alt="Book Publishing" loading="lazy">
+                                        <img class="shape" src="assets/img/service/service-2/shape.png" alt="" loading="lazy">
                                     </div>
                                     <div class="hover-image">
-                                        <img class="thumb" src="assets/img/service/service-2/bookghost.jpg" alt="Book Ghostwriting">
-                                        <img class="shape" src="assets/img/service/service-2/shape.png" alt="">
+                                        <img class="thumb" src="assets/img/service/service-2/bookghost.jpg" alt="Book Ghostwriting" loading="lazy">
+                                        <img class="shape" src="assets/img/service/service-2/shape.png" alt="" loading="lazy">
                                     </div>
                                     <div class="hover-image">
-                                        <img class="thumb" src="assets/img/service/service-2/Bookmarketing.jpg" alt="Book Marketing">
-                                        <img class="shape" src="assets/img/service/service-2/shape.png" alt="">
+                                        <img class="thumb" src="assets/img/service/service-2/Bookmarketing.jpg" alt="Book Marketing" loading="lazy">
+                                        <img class="shape" src="assets/img/service/service-2/shape.png" alt="" loading="lazy">
                                     </div>
                                     <div class="hover-image">
-                                        <img class="thumb" src="assets/img/service/service-2/bookilustration.jpg" alt="Book Illustration">
-                                        <img class="shape" src="assets/img/service/service-2/shape.png" alt="">
+                                        <img class="thumb" src="assets/img/service/service-2/bookilustration.jpg" alt="Book Illustration" loading="lazy">
+                                        <img class="shape" src="assets/img/service/service-2/shape.png" alt="" loading="lazy">
                                     </div>
                                     <div class="hover-image">
-                                        <img class="thumb" src="assets/img/service/service-2/bookcover.jpg" alt="Book Cover Design">
-                                        <img class="shape" src="assets/img/service/service-2/shape.png" alt="">
+                                        <img class="thumb" src="assets/img/service/service-2/bookcover.jpg" alt="Book Cover Design" loading="lazy">
+                                        <img class="shape" src="assets/img/service/service-2/shape.png" alt="" loading="lazy">
                                     </div>
                                     <div class="hover-image">
-                                        <img class="thumb" src="assets/img/service/service-2/bookformating.png" alt="Book Formatting">
-                                        <img class="shape" src="assets/img/service/service-2/shape.png" alt="">
+                                        <img class="thumb" src="assets/img/service/service-2/bookformating.png" alt="Book Formatting" loading="lazy">
+                                        <img class="shape" src="assets/img/service/service-2/shape.png" alt="" loading="lazy">
                                     </div>
                                 </div>
                             </div>
@@ -482,7 +482,7 @@
                                 <div class="swiper-slide">
                                     <div class="td-portfolio-2-item p-relative">
                                         <div class="td-portfolio-2-thumb fix">
-                                            <img src="assets/img/portfolio/2/thumb.jpg" alt="Published book cover design portfolio sample 1">
+                                            <img src="assets/img/portfolio/2/thumb.jpg" alt="Published book cover design portfolio sample 1" loading="lazy">
                                         </div>
                                         <div class="td-portfolio-2-content">
                                         </div>
@@ -491,77 +491,77 @@
                                 <div class="swiper-slide">
                                     <div class="td-portfolio-2-item p-relative">
                                         <div class="td-portfolio-2-thumb fix">
-                                            <img src="assets/img/portfolio/2/thumb-2.jpg" alt="Published book cover design portfolio sample 2">
+                                            <img src="assets/img/portfolio/2/thumb-2.jpg" alt="Published book cover design portfolio sample 2" loading="lazy">
                                         </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="td-portfolio-2-item p-relative">
                                         <div class="td-portfolio-2-thumb fix">
-                                            <img src="assets/img/portfolio/2/thumb-3.jpg" alt="Published book cover design portfolio sample 3">
+                                            <img src="assets/img/portfolio/2/thumb-3.jpg" alt="Published book cover design portfolio sample 3" loading="lazy">
                                         </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="td-portfolio-2-item p-relative">
                                         <div class="td-portfolio-2-thumb fix">
-                                            <img src="assets/img/portfolio/2/thumb-4.jpg" alt="Published book cover design portfolio sample 4">
+                                            <img src="assets/img/portfolio/2/thumb-4.jpg" alt="Published book cover design portfolio sample 4" loading="lazy">
                                         </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="td-portfolio-2-item p-relative">
                                         <div class="td-portfolio-2-thumb fix">
-                                            <img src="assets/img/portfolio/2/thumb-5.jpg" alt="Published book cover design portfolio sample 5">
+                                            <img src="assets/img/portfolio/2/thumb-5.jpg" alt="Published book cover design portfolio sample 5" loading="lazy">
                                         </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="td-portfolio-2-item p-relative">
                                         <div class="td-portfolio-2-thumb fix">
-                                            <img src="assets/img/portfolio/2/thumb-6.jpg" alt="Published book cover design portfolio sample 6">
+                                            <img src="assets/img/portfolio/2/thumb-6.jpg" alt="Published book cover design portfolio sample 6" loading="lazy">
                                         </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="td-portfolio-2-item p-relative">
                                         <div class="td-portfolio-2-thumb fix">
-                                            <img src="assets/img/portfolio/2/thumb-7.jpg" alt="Published book cover design portfolio sample 7">
+                                            <img src="assets/img/portfolio/2/thumb-7.jpg" alt="Published book cover design portfolio sample 7" loading="lazy">
                                         </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="td-portfolio-2-item p-relative">
                                         <div class="td-portfolio-2-thumb fix">
-                                            <img src="assets/img/portfolio/2/thumb-8.jpg" alt="Published book cover design portfolio sample 8">
+                                            <img src="assets/img/portfolio/2/thumb-8.jpg" alt="Published book cover design portfolio sample 8" loading="lazy">
                                         </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="td-portfolio-2-item p-relative">
                                         <div class="td-portfolio-2-thumb fix">
-                                            <img src="assets/img/portfolio/2/thumb-12.jpg" alt="Published book cover design portfolio sample 12">
+                                            <img src="assets/img/portfolio/2/thumb-12.jpg" alt="Published book cover design portfolio sample 12" loading="lazy">
                                         </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="td-portfolio-2-item p-relative">
                                         <div class="td-portfolio-2-thumb fix">
-                                            <img src="assets/img/portfolio/2/thumb-9.jpg" alt="Published book cover design portfolio sample 9">
+                                            <img src="assets/img/portfolio/2/thumb-9.jpg" alt="Published book cover design portfolio sample 9" loading="lazy">
                                         </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="td-portfolio-2-item p-relative">
                                         <div class="td-portfolio-2-thumb fix">
-                                            <img src="assets/img/portfolio/2/thumb-10.jpg" alt="Published book cover design portfolio sample 10">
+                                            <img src="assets/img/portfolio/2/thumb-10.jpg" alt="Published book cover design portfolio sample 10" loading="lazy">
                                         </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="td-portfolio-2-item p-relative">
                                         <div class="td-portfolio-2-thumb fix">
-                                            <img src="assets/img/portfolio/2/thumb-11.jpg" alt="Published book cover design portfolio sample 11">
+                                            <img src="assets/img/portfolio/2/thumb-11.jpg" alt="Published book cover design portfolio sample 11" loading="lazy">
                                         </div>
                                     </div>
                                 </div>
@@ -576,19 +576,19 @@
                                 <div class="swiper-slide">
                                     <div class="td-portfolio-2-item p-relative">
                                         <div class="td-portfolio-2-thumb fix">
-                                            <img src="assets/img/portfolio/2/thumb-12.jpg" alt="Published book cover design portfolio sample 12">
+                                            <img src="assets/img/portfolio/2/thumb-12.jpg" alt="Published book cover design portfolio sample 12" loading="lazy">
                                         </div>
                                     </div>
                                 </div><div class="swiper-slide">
                                     <div class="td-portfolio-2-item p-relative">
                                         <div class="td-portfolio-2-thumb fix">
-                                            <img src="assets/img/portfolio/2/thumb-11.jpg" alt="Published book cover design portfolio sample 11">
+                                            <img src="assets/img/portfolio/2/thumb-11.jpg" alt="Published book cover design portfolio sample 11" loading="lazy">
                                         </div>
                                     </div>
                                 </div><div class="swiper-slide">
                                     <div class="td-portfolio-2-item p-relative">
                                         <div class="td-portfolio-2-thumb fix">
-                                            <img src="assets/img/portfolio/2/thumb-10.jpg" alt="Published book cover design portfolio sample 10">
+                                            <img src="assets/img/portfolio/2/thumb-10.jpg" alt="Published book cover design portfolio sample 10" loading="lazy">
                                         </div>
                                     </div>
                                 </div>
@@ -596,63 +596,63 @@
                                 <div class="swiper-slide">
                                     <div class="td-portfolio-2-item p-relative">
                                         <div class="td-portfolio-2-thumb fix">
-                                            <img src="assets/img/portfolio/2/thumb-9.jpg" alt="Published book cover design portfolio sample 9">
+                                            <img src="assets/img/portfolio/2/thumb-9.jpg" alt="Published book cover design portfolio sample 9" loading="lazy">
                                         </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="td-portfolio-2-item p-relative">
                                         <div class="td-portfolio-2-thumb fix">
-                                            <img src="assets/img/portfolio/2/thumb-8.jpg" alt="Published book cover design portfolio sample 8">
+                                            <img src="assets/img/portfolio/2/thumb-8.jpg" alt="Published book cover design portfolio sample 8" loading="lazy">
                                         </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="td-portfolio-2-item p-relative">
                                         <div class="td-portfolio-2-thumb fix">
-                                            <img src="assets/img/portfolio/2/thumb-7.jpg" alt="Published book cover design portfolio sample 7">
+                                            <img src="assets/img/portfolio/2/thumb-7.jpg" alt="Published book cover design portfolio sample 7" loading="lazy">
                                         </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="td-portfolio-2-item p-relative">
                                         <div class="td-portfolio-2-thumb fix">
-                                            <img src="assets/img/portfolio/2/thumb-6.jpg" alt="Published book cover design portfolio sample 6">
+                                            <img src="assets/img/portfolio/2/thumb-6.jpg" alt="Published book cover design portfolio sample 6" loading="lazy">
                                         </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="td-portfolio-2-item p-relative">
                                         <div class="td-portfolio-2-thumb fix">
-                                            <img src="assets/img/portfolio/2/thumb-5.jpg" alt="Published book cover design portfolio sample 5">
+                                            <img src="assets/img/portfolio/2/thumb-5.jpg" alt="Published book cover design portfolio sample 5" loading="lazy">
                                         </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="td-portfolio-2-item p-relative">
                                         <div class="td-portfolio-2-thumb fix">
-                                            <img src="assets/img/portfolio/2/thumb-4.jpg" alt="Published book cover design portfolio sample 4">
+                                            <img src="assets/img/portfolio/2/thumb-4.jpg" alt="Published book cover design portfolio sample 4" loading="lazy">
                                         </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="td-portfolio-2-item p-relative">
                                         <div class="td-portfolio-2-thumb fix">
-                                            <img src="assets/img/portfolio/2/thumb-3.jpg" alt="Published book cover design portfolio sample 3">
+                                            <img src="assets/img/portfolio/2/thumb-3.jpg" alt="Published book cover design portfolio sample 3" loading="lazy">
                                         </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="td-portfolio-2-item p-relative">
                                         <div class="td-portfolio-2-thumb fix">
-                                            <img src="assets/img/portfolio/2/thumb-2.jpg" alt="Published book cover design portfolio sample 2">
+                                            <img src="assets/img/portfolio/2/thumb-2.jpg" alt="Published book cover design portfolio sample 2" loading="lazy">
                                         </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="td-portfolio-2-item p-relative">
                                         <div class="td-portfolio-2-thumb fix">
-                                            <img src="assets/img/portfolio/2/thumb.jpg" alt="Published book cover design portfolio sample 1">
+                                            <img src="assets/img/portfolio/2/thumb.jpg" alt="Published book cover design portfolio sample 1" loading="lazy">
                                         </div>
                                     </div>
                                 </div>
@@ -765,37 +765,37 @@
                                         <div class="swiper-wrapper slide-transtion">
                                             <div class="swiper-slide">
                                                 <div class="td-brand-item">
-                                                    <img src="assets/img/brand/logo-1.png" alt="Partner brand logo 1">
+                                                    <img src="assets/img/brand/logo-1.png" alt="Partner brand logo 1" loading="lazy">
                                                 </div>
                                             </div>
                                             <div class="swiper-slide">
                                                 <div class="td-brand-item">
-                                                    <img src="assets/img/brand/logo-2.png" alt="Partner brand logo 2">
+                                                    <img src="assets/img/brand/logo-2.png" alt="Partner brand logo 2" loading="lazy">
                                                 </div>
                                             </div>
                                             <div class="swiper-slide">
                                                 <div class="td-brand-item">
-                                                    <img src="assets/img/brand/logo-3.png" alt="Partner brand logo 3">
+                                                    <img src="assets/img/brand/logo-3.png" alt="Partner brand logo 3" loading="lazy">
                                                 </div>
                                             </div>
                                             <div class="swiper-slide">
                                                 <div class="td-brand-item">
-                                                    <img src="assets/img/brand/logo-4.png" alt="Partner brand logo 4">
+                                                    <img src="assets/img/brand/logo-4.png" alt="Partner brand logo 4" loading="lazy">
                                                 </div>
                                             </div>
                                             <div class="swiper-slide">
                                                 <div class="td-brand-item">
-                                                    <img src="assets/img/brand/logo-5.png" alt="Partner brand logo 5">
+                                                    <img src="assets/img/brand/logo-5.png" alt="Partner brand logo 5" loading="lazy">
                                                 </div>
                                             </div>
                                             <div class="swiper-slide">
                                                 <div class="td-brand-item">
-                                                    <img src="assets/img/brand/logo-6.png" alt="Partner brand logo 6">
+                                                    <img src="assets/img/brand/logo-6.png" alt="Partner brand logo 6" loading="lazy">
                                                 </div>
                                             </div>
                                             <div class="swiper-slide">
                                                 <div class="td-brand-item">
-                                                    <img src="assets/img/brand/logo-7.png" alt="Partner brand logo 7">
+                                                    <img src="assets/img/brand/logo-7.png" alt="Partner brand logo 7" loading="lazy">
                                                 </div>
                                             </div>
                                         </div>
@@ -813,7 +813,7 @@
                         <div class="row">
                             <div class="col-lg-5">
                                 <div class="td-about-main-thumb mb-40 fix td-rounded-10 wow fadeInLeft" data-wow-delay=".5s" data-wow-duration="1s">
-                                    <img data-speed=".9" class="w-100 td-rounded-10" src="assets/img/about/main/thumb.jpg" alt="">
+                                    <img data-speed=".9" class="w-100 td-rounded-10" src="assets/img/about/main/thumb.jpg" alt="" loading="lazy">
                                 </div>
                             </div>
                             <div class="col-lg-7">
@@ -865,7 +865,7 @@
                             <div class="row">
                                 <div class="col-lg-3">
                                     <div class="td-process-thumb pt-80 pb-80 td-fixed-thumb">
-                                        <img src="assets/img/process/thumb.jpg" alt="ISB Publishers writing and editing process in action">
+                                        <img src="assets/img/process/thumb.jpg" alt="ISB Publishers writing and editing process in action" loading="lazy">
                                     </div>
                                 </div>
                                 <div class="col-lg-9">
@@ -967,7 +967,7 @@
                             <div class="col-lg-3 col-md-4">
                                 <div class="td-testimonial-left mb-40 wow fadeInLeft" data-wow-delay=".3s" data-wow-duration="1s">
                                     <span class="td-section-subtitle mb-185 d-inline-block">CLIENTS FEEDBACK</span>
-                                    <img class="mb-20" src="assets/img/testimonial/user.png" alt="">
+                                    <img class="mb-20" src="assets/img/testimonial/user.png" alt="" loading="lazy">
                                     <p>More than 25k clients all<br>
                                         over the world</p>
                                 </div>
@@ -978,7 +978,7 @@
                                     <div class="row">
                                         <div class="col-lg-4">
                                             <div class="td-testimonial-thumb mb-40">
-                                                <img class="w-100 td-rounded-10" src="assets/img/testimonial/thumb.jpg" alt="Satisfied client sharing a testimonial about ISB Publishers">
+                                                <img class="w-100 td-rounded-10" src="assets/img/testimonial/thumb.jpg" alt="Satisfied client sharing a testimonial about ISB Publishers" loading="lazy">
                                             </div>
                                         </div>
                                         <div class="col-lg-8">
@@ -1054,7 +1054,7 @@
                                     <div class="row">
                                         <div class="col-lg-5 d-none d-md-block">
                                             <div class="td-about-main-feature-shape text-center ml-70 mb-40">
-                                                <img src="assets/img/about/main/shape.png" alt="">
+                                                <img src="assets/img/about/main/shape.png" alt="" loading="lazy">
                                             </div>
                                         </div>
                                         <div class="col-lg-7">
@@ -1084,9 +1084,9 @@
                     <div class="container">
                         <div class="col-lg-12">
                             <div class="td-cta-wrap p-relative z-index-1 text-center pt-135 pb-135 include-bg" data-background="assets/img/cta/bg.jpg">
-                                <img class="td-cta-shape d-none d-xl-block" src="assets/img/cta/cta.png" alt="">
+                                <img class="td-cta-shape d-none d-xl-block" src="assets/img/cta/cta.png" alt="" loading="lazy">
                                 <h2 class="title p-relative d-inline-block">
-                                    <img class="td-cta-shape-2 d-none d-md-block" src="assets/img/cta/cta-2.png" alt="">
+                                    <img class="td-cta-shape-2 d-none d-md-block" src="assets/img/cta/cta-2.png" alt="" loading="lazy">
                                     <a class="td-text-invert" href="contact.php">
                                         HAVE A<br>
                                         PROJECTS<br>

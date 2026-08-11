@@ -92,7 +92,7 @@
                             <div class="col-lg-4 col-md-6 grid-item prof prof1 mb-30">
                                 <div class="td-portfolio-filter-wrapper p-relative">
                                     <div class="td-portfolio-filter-thumb fix">
-                                        <img class="w-100" src="assets/img/portfolio/three-columns/thumb.jpg" alt="project">
+                                        <img class="w-100" src="assets/img/portfolio/three-columns/thumb.jpg" alt="project" loading="lazy">
                                     </div>
                                     <div class="td-portfolio-filter-content">
                                         <span class="mb-10">DIGITAL</span>
@@ -103,7 +103,7 @@
                             <div class="col-lg-4 col-md-6 grid-item prof2 prof4 mb-30">
                                 <div class="td-portfolio-filter-wrapper p-relative">
                                     <div class="td-portfolio-filter-thumb fix">
-                                        <img class="w-100" src="assets/img/portfolio/three-columns/thumb-2.jpg" alt="project">
+                                        <img class="w-100" src="assets/img/portfolio/three-columns/thumb-2.jpg" alt="project" loading="lazy">
                                     </div>
                                     <div class="td-portfolio-filter-content">
                                         <span class="mb-10">STUDIO</span>
@@ -114,7 +114,7 @@
                             <div class="col-lg-4 col-md-6 grid-item prof1 prof3 mb-30">
                                 <div class="td-portfolio-filter-wrapper p-relative">
                                     <div class="td-portfolio-filter-thumb fix">
-                                        <img class="w-100" src="assets/img/portfolio/three-columns/thumb-3.jpg" alt="project">
+                                        <img class="w-100" src="assets/img/portfolio/three-columns/thumb-3.jpg" alt="project" loading="lazy">
                                     </div>
                                     <div class="td-portfolio-filter-content">
                                         <span class="mb-10">DIGITAL</span>
@@ -125,7 +125,7 @@
                             <div class="col-lg-4 col-md-6 grid-item prof3 prof1 mb-30">
                                 <div class="td-portfolio-filter-wrapper p-relative">
                                     <div class="td-portfolio-filter-thumb fix">
-                                        <img class="w-100" src="assets/img/portfolio/three-columns/thumb-4.jpg" alt="project">
+                                        <img class="w-100" src="assets/img/portfolio/three-columns/thumb-4.jpg" alt="project" loading="lazy">
                                     </div>
                                     <div class="td-portfolio-filter-content">
                                         <span class="mb-10">CREATIVE</span>
@@ -136,7 +136,7 @@
                             <div class="col-lg-4 col-md-6 grid-item prof2 prof4 mb-30">
                                 <div class="td-portfolio-filter-wrapper p-relative">
                                     <div class="td-portfolio-filter-thumb fix">
-                                        <img class="w-100" src="assets/img/portfolio/three-columns/thumb-5.jpg" alt="project">
+                                        <img class="w-100" src="assets/img/portfolio/three-columns/thumb-5.jpg" alt="project" loading="lazy">
                                     </div>
                                     <div class="td-portfolio-filter-content">
                                         <span class="mb-10">DIGITAL</span>
@@ -147,7 +147,7 @@
                             <div class="col-lg-4 col-md-6 grid-item prof prof1 mb-30">
                                 <div class="td-portfolio-filter-wrapper p-relative">
                                     <div class="td-portfolio-filter-thumb fix">
-                                        <img class="w-100" src="assets/img/portfolio/three-columns/thumb-6.jpg" alt="project">
+                                        <img class="w-100" src="assets/img/portfolio/three-columns/thumb-6.jpg" alt="project" loading="lazy">
                                     </div>
                                     <div class="td-portfolio-filter-content">
                                         <span class="mb-10">MARKETING</span>
@@ -158,7 +158,7 @@
                             <div class="col-lg-4 col-md-6 grid-item prof3 prof1 mb-30">
                                 <div class="td-portfolio-filter-wrapper p-relative">
                                     <div class="td-portfolio-filter-thumb fix">
-                                        <img class="w-100" src="assets/img/portfolio/three-columns/thumb-7.jpg" alt="project">
+                                        <img class="w-100" src="assets/img/portfolio/three-columns/thumb-7.jpg" alt="project" loading="lazy">
                                     </div>
                                     <div class="td-portfolio-filter-content">
                                         <span class="mb-10">DIGITAL</span>
@@ -169,7 +169,7 @@
                             <div class="col-lg-4 col-md-6 grid-item prof2 prof4 mb-30">
                                 <div class="td-portfolio-filter-wrapper p-relative">
                                     <div class="td-portfolio-filter-thumb fix">
-                                        <img class="w-100" src="assets/img/portfolio/three-columns/thumb-8.jpg" alt="project">
+                                        <img class="w-100" src="assets/img/portfolio/three-columns/thumb-8.jpg" alt="project" loading="lazy">
                                     </div>
                                     <div class="td-portfolio-filter-content">
                                         <span class="mb-10">DIGITAL</span>
@@ -180,7 +180,7 @@
                             <div class="col-lg-4 col-md-6 grid-item prof prof1 mb-30">
                                 <div class="td-portfolio-filter-wrapper p-relative">
                                     <div class="td-portfolio-filter-thumb fix">
-                                        <img class="w-100" src="assets/img/portfolio/three-columns/thumb-9.jpg" alt="project">
+                                        <img class="w-100" src="assets/img/portfolio/three-columns/thumb-9.jpg" alt="project" loading="lazy">
                                     </div>
                                     <div class="td-portfolio-filter-content">
                                         <span class="mb-10">TECHNOLOGY</span>
@@ -213,9 +213,9 @@
                     <div class="container">
                         <div class="col-lg-12">
                             <div class="td-cta-wrap p-relative z-index-1 text-center pt-135 pb-135 include-bg" data-background="assets/img/cta/bg.jpg">
-                                <img class="td-cta-shape d-none d-xl-block" src="assets/img/cta/cta.png" alt="">
+                                <img class="td-cta-shape d-none d-xl-block" src="assets/img/cta/cta.png" alt="" loading="lazy">
                                 <h2 class="title p-relative d-inline-block">
-                                    <img class="td-cta-shape-2 d-none d-md-block" src="assets/img/cta/cta-2.png" alt="">
+                                    <img class="td-cta-shape-2 d-none d-md-block" src="assets/img/cta/cta-2.png" alt="" loading="lazy">
                                     <a class="td-text-invert" href="contact.php">
                                         HAVE A<br>
                                         PROJECTS<br>

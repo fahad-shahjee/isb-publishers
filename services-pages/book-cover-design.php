@@ -106,7 +106,7 @@ require_once __DIR__ . '/../config.php';
                     <div class="td-contact-7-text-slider">
                         <div class="td-contact-7-text-btn text-center pt-30">
                             <a href="<?= $BASE_URL ?>contact.php">
-                                <img class="td-live-anim-spin" src="<?= $BASE_URL ?>assets/img/contact/text.png" alt="">
+                                <img class="td-live-anim-spin" src="<?= $BASE_URL ?>assets/img/contact/text.png" alt="" loading="lazy">
                                 <span class="icon">
                                     <svg width="29" height="30" viewBox="0 0 29 30" fill="none" xmlns="http://www.w3.org/2000/svg">
                                         <path d="M7.07031 22.0708L21.2124 7.92867" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
@@ -188,7 +188,7 @@ require_once __DIR__ . '/../config.php';
                                 <div class="td-about-left mb-30">
                                     <span>Covers That Capture Readers</span>
                                     <div class="td-about-left-thumb ml-60 fix td-rounded-10">
-                                        <img data-speed=".9" src="<?= $BASE_URL ?>assets/img/about/main/be-abt.png" alt="Eye-catching book cover designed to capture reader attention">
+                                        <img data-speed=".9" src="<?= $BASE_URL ?>assets/img/about/main/be-abt.png" alt="Eye-catching book cover designed to capture reader attention" loading="lazy">
                                     </div>
                                 </div>
                             </div>
@@ -207,10 +207,10 @@ require_once __DIR__ . '/../config.php';
                                     </div>
                                     <div class="td-about-thumb-wrap d-flex align-items-center justify-content-end">
                                         <div class="mr-150 td-about-shape">
-                                            <img class="td-live-anim-spin" src="<?= $BASE_URL ?>assets/img/about/shape.png" alt="">
+                                            <img class="td-live-anim-spin" src="<?= $BASE_URL ?>assets/img/about/shape.png" alt="" loading="lazy">
                                         </div>
                                         <div class="td-about-thumb fix td-rounded-10">
-                                            <img data-speed=".9" src="<?= $BASE_URL ?>assets/img/about/main/aurth-abt-2.jpg" alt="Finished book cover with typography and imagery ready for publishing">
+                                            <img data-speed=".9" src="<?= $BASE_URL ?>assets/img/about/main/aurth-abt-2.jpg" alt="Finished book cover with typography and imagery ready for publishing" loading="lazy">
                                         </div>
                                     </div>
                                 </div>
@@ -236,7 +236,7 @@ require_once __DIR__ . '/../config.php';
                                 <div class="td-service-process-item mt-120">
                                     <span class="icons mb-60 d-flex align-items-start justify-content-between">
                                         <!-- SVGs unchanged -->
-                                        <img src="<?= $BASE_URL ?>assets\img\service\servicesico/proofreading.png" alt="Initial Consultation" width="64" height="64">
+                                        <img src="<?= $BASE_URL ?>assets\img\service\servicesico/proofreading.png" alt="Initial Consultation" width="64" height="64" loading="lazy">
                                         <span class="number">01</span>
                                     </span>
                                     <h5 class="title mb-15">Design Consultation</h5>
@@ -246,7 +246,7 @@ require_once __DIR__ . '/../config.php';
                             <div class="col-lg-3 col-md-6 col-sm-6  wow fadeInUp" data-wow-delay=".5s" data-wow-duration="1s">
                                 <div class="td-service-process-item">
                                     <span class="icons mb-60 d-flex align-items-start justify-content-between">
-                                        <img src="<?= $BASE_URL ?>assets\img\service\servicesico/formating.png" alt="Voice Selection" width="64" height="64">
+                                        <img src="<?= $BASE_URL ?>assets\img\service\servicesico/formating.png" alt="Voice Selection" width="64" height="64" loading="lazy">
                                         <span class="number">02</span>
                                     </span>
                                     <h5 class="title mb-15">Creative Concept</h5>
@@ -256,7 +256,7 @@ require_once __DIR__ . '/../config.php';
                             <div class="col-lg-3 col-md-6 col-sm-6  wow fadeInUp" data-wow-delay=".7s" data-wow-duration="1s">
                                 <div class="td-service-process-item mt-120">
                                     <span class="icons mb-60 d-flex align-items-start justify-content-between">
-                                        <img src="<?= $BASE_URL ?>assets\img\service\servicesico/editorial.png" alt="Recording & Production" width="64" height="64">
+                                        <img src="<?= $BASE_URL ?>assets\img\service\servicesico/editorial.png" alt="Recording & Production" width="64" height="64" loading="lazy">
                                         <span class="number">03</span>
                                     </span>
                                     <h5 class="title mb-15">Design Refinement</h5>
@@ -266,7 +266,7 @@ require_once __DIR__ . '/../config.php';
                             <div class="col-lg-3 col-md-6 col-sm-6  wow fadeInUp" data-wow-delay=".9s" data-wow-duration="1s">
                                 <div class="td-service-process-item">
                                     <span class="icons mb-60 d-flex align-items-start justify-content-between">
-                                        <img src="<?= $BASE_URL ?>assets\img\service\servicesico/Editing.png" alt="Final Review & Delivery" width="64" height="64">
+                                        <img src="<?= $BASE_URL ?>assets\img\service\servicesico/Editing.png" alt="Final Review & Delivery" width="64" height="64" loading="lazy">
                                         <span class="number">04</span>
                                     </span>
                                     <h5 class="title mb-15">Final Cover Delivery</h5>
@@ -284,7 +284,7 @@ require_once __DIR__ . '/../config.php';
                         <div class="row">
                             <div class="col-lg-6">
                                 <div class="td-faq-2-thumb mb-30 fix td-rounded-10">
-                                    <img data-speed=".9" class="td-rounded-10" src="<?= $BASE_URL ?>assets/img/about/main/be-faq.png" alt="Book cover design examples answering frequently asked questions">
+                                    <img data-speed=".9" class="td-rounded-10" src="<?= $BASE_URL ?>assets/img/about/main/be-faq.png" alt="Book cover design examples answering frequently asked questions" loading="lazy">
                                 </div>
                             </div>
                             <div class="col-lg-6">
@@ -366,9 +366,9 @@ require_once __DIR__ . '/../config.php';
                     <div class="container">
                         <div class="col-lg-12">
                             <div class="td-cta-wrap p-relative z-index-1 text-center pt-135 pb-135 include-bg" data-background="<?= $BASE_URL ?>assets/img/cta/bg.jpg">
-                                <img class="td-cta-shape d-none d-xl-block" src="<?= $BASE_URL ?>assets/img/cta/cta.png" alt="">
+                                <img class="td-cta-shape d-none d-xl-block" src="<?= $BASE_URL ?>assets/img/cta/cta.png" alt="" loading="lazy">
                                 <h2 class="title p-relative d-inline-block">
-                                    <img class="td-cta-shape-2 d-none d-md-block" src="<?= $BASE_URL ?>assets/img/cta/cta-2.png" alt="">
+                                    <img class="td-cta-shape-2 d-none d-md-block" src="<?= $BASE_URL ?>assets/img/cta/cta-2.png" alt="" loading="lazy">
                                     <a class="td-text-invert" href="<?= $BASE_URL ?>contact">
                                         HAVE A<br>
                                         PROJECTS<br>

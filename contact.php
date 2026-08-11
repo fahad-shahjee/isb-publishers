@@ -155,7 +155,7 @@ $formStatus = $_GET['status'] ?? '';
                                         </div>
                                         <div class="col-lg-3 col-md-6 col-sm-6">
                                             <div class="td-contact-branch-thumb mb-20">
-                                                <img class="w-100 td-rounded-10" src="assets/img/contact/thumb.jpg" alt="ISB Ghostwriters Florida branch office">
+                                                <img class="w-100 td-rounded-10" src="assets/img/contact/thumb.jpg" alt="ISB Ghostwriters Florida branch office" loading="lazy">
                                             </div>
                                         </div>
                                         <div class="col-lg-3 col-md-6 col-sm-6">
@@ -179,7 +179,7 @@ $formStatus = $_GET['status'] ?? '';
                                         </div>
                                         <div class="col-lg-3 col-md-6 col-sm-6">
                                             <div class="td-contact-branch-thumb mb-20">
-                                                <img class="w-100 td-rounded-10" src="assets/img/contact/thumb-2.jpg" alt="ISB Ghostwriters California branch office">
+                                                <img class="w-100 td-rounded-10" src="assets/img/contact/thumb-2.jpg" alt="ISB Ghostwriters California branch office" loading="lazy">
                                             </div>
                                         </div>
                                         <div class="col-lg-3 col-md-6 col-sm-6">
