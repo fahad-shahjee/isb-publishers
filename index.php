@@ -558,13 +558,6 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="swiper-slide">
-                                    <div class="td-portfolio-2-item p-relative">
-                                        <div class="td-portfolio-2-thumb fix">
-                                            <img src="assets/img/portfolio/2/thumb-11.jpg" alt="Published book cover design portfolio sample 11">
-                                        </div>
-                                    </div>
-                                </div>
 
                             </div>
                         </div>
@@ -577,12 +570,6 @@
                                     <div class="td-portfolio-2-item p-relative">
                                         <div class="td-portfolio-2-thumb fix">
                                             <img src="assets/img/portfolio/2/thumb-12.jpg" alt="Published book cover design portfolio sample 12">
-                                        </div>
-                                    </div>
-                                </div><div class="swiper-slide">
-                                    <div class="td-portfolio-2-item p-relative">
-                                        <div class="td-portfolio-2-thumb fix">
-                                            <img src="assets/img/portfolio/2/thumb-11.jpg" alt="Published book cover design portfolio sample 11">
                                         </div>
                                     </div>
                                 </div><div class="swiper-slide">
