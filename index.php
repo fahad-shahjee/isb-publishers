@@ -1149,6 +1149,33 @@ require_once __DIR__ . '/config.php';
     <!--<< main.Js >>-->
     <script src="assets/js/main.min.js" defer></script>
 
+    <script>
+    document.addEventListener('DOMContentLoaded', function() {
+        if (typeof ScrollTrigger === 'undefined') return;
+
+        var imgWrapper = document.querySelector('.td-service-2-img-wrapper');
+        var listWrapper = document.querySelector('.td-service-2-wrap');
+
+        if (!imgWrapper || !listWrapper) return;
+
+        // Native position: sticky doesn't work here because this theme uses
+        // GSAP ScrollSmoother, which fakes smooth scrolling via CSS transforms
+        // instead of real browser scroll — sticky positioning needs real scroll.
+        // Use ScrollTrigger's own pin mechanism instead, which is scroll-smoother aware.
+        ScrollTrigger.matchMedia({
+            "(min-width: 992px)": function() {
+                ScrollTrigger.create({
+                    trigger: listWrapper,
+                    start: "top top+=120",
+                    end: "bottom bottom",
+                    pin: imgWrapper,
+                    pinSpacing: false
+                });
+            }
+        });
+    });
+    </script>
+
 </body>
 
 </html>
