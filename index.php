@@ -36,6 +36,16 @@ require_once __DIR__ . '/config.php';
     <!--<< main.css >>-->
     <link rel="stylesheet" href="assets/css/main.min.css">
 
+    <style>
+        @media (min-width: 992px) {
+            .td-service-2-img-wrapper {
+                position: sticky;
+                top: 120px;
+                align-self: flex-start;
+            }
+        }
+    </style>
+
 </head>
 
 <body>
