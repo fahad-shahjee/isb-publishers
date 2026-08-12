@@ -865,7 +865,7 @@ require_once __DIR__ . '/config.php';
                             <div class="row">
                                 <div class="col-lg-3">
                                     <div class="td-process-thumb pt-80 pb-80 td-fixed-thumb">
-                                        <img src="assets/img/process/thumb.jpg" alt="ISB Publishers writing and editing process in action" loading="lazy">
+                                        <img src="assets/img/process/thumb.jpg" alt="ISB Publishers writing and editing process in action">
                                     </div>
                                 </div>
                                 <div class="col-lg-9">
