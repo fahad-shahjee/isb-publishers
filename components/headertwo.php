@@ -1,6 +1,7 @@
 <?php
 // include config
 require_once __DIR__ . '/../config.php';
+/** @var string $BASE_URL */
 ?>
 
 <!-- header-area -->

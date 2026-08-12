@@ -1,3 +1,7 @@
+<?php
+require_once __DIR__ . '/../config.php';
+/** @var string $BASE_URL */
+?>
 <!-- components/popup.php -->
 <div id="servicePopupOverlay" class="popup-overlay">
   <div class="popup-box">

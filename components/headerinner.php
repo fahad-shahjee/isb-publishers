@@ -1,5 +1,6 @@
 <?php
-require_once __DIR__ . '/../config.php'; // loads $BASE_URL
+require_once __DIR__ . '/../config.php';
+/** @var string $BASE_URL */
 
 // figure out current file for "active" state
 $currentFile = basename($_SERVER['SCRIPT_NAME']);

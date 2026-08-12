@@ -1,5 +1,6 @@
 <?php
 require_once __DIR__ . '/../config.php';
+/** @var string $BASE_URL */
 ?>
 <!doctype html>
 <html class="no-js" lang="zxx">

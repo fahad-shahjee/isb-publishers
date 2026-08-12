@@ -1,3 +1,7 @@
+<?php
+require_once __DIR__ . '/../config.php';
+/** @var string $BASE_URL */
+?>
 <!-- footer-area-start -->
 <footer>
             <div class="td-footer-area td-footer-spacing black-bg">
