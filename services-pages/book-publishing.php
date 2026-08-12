@@ -10,6 +10,15 @@ require_once __DIR__ . '/../config.php';
     <title>Book Publishing Services | ISB Ghostwriters</title>
     <meta name="description" content="ISB Ghostwriters provides full-service book publishing on Amazon KDP, Barnes & Noble, and more, guiding authors from manuscript to a published book.">
     <link rel="canonical" href="https://isbghostwriters.com/services-pages/book-publishing.php">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Book Publishing Services | ISB Ghostwriters">
+    <meta property="og:description" content="ISB Ghostwriters provides full-service book publishing on Amazon KDP, Barnes &amp; Noble, and more, guiding authors from manuscript to a published book.">
+    <meta property="og:url" content="https://isbghostwriters.com/services-pages/book-publishing.php">
+    <meta property="og:image" content="https://isbghostwriters.com/assets/img/about/main/pub-bok.jpg">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Book Publishing Services | ISB Ghostwriters">
+    <meta name="twitter:description" content="ISB Ghostwriters provides full-service book publishing on Amazon KDP, Barnes &amp; Noble, and more, guiding authors from manuscript to a published book.">
+    <meta name="twitter:image" content="https://isbghostwriters.com/assets/img/about/main/pub-bok.jpg">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="shortcut icon" type="image/x-icon" href="<?= $BASE_URL ?>assets/img/logo/favicon.png">

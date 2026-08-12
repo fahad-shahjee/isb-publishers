@@ -11,6 +11,15 @@ require_once __DIR__ . '/../config.php';
     <meta name="description" content="Expert book ghostwriting services turning your ideas into captivating fiction or well-researched non-fiction, with a dedicated professional writer and full confidentiality.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="canonical" href="https://isbghostwriters.com/services-pages/book-ghostwriting.php">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Book Ghostwriting Services | ISB Ghostwriters">
+    <meta property="og:description" content="Expert book ghostwriting services turning your ideas into captivating fiction or well-researched non-fiction, with a dedicated professional writer and full confidentiality.">
+    <meta property="og:url" content="https://isbghostwriters.com/services-pages/book-ghostwriting.php">
+    <meta property="og:image" content="https://isbghostwriters.com/assets/img/about/main/bg-abt2.jpg">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Book Ghostwriting Services | ISB Ghostwriters">
+    <meta name="twitter:description" content="Expert book ghostwriting services turning your ideas into captivating fiction or well-researched non-fiction, with a dedicated professional writer and full confidentiality.">
+    <meta name="twitter:image" content="https://isbghostwriters.com/assets/img/about/main/bg-abt2.jpg">
 
     <link rel="shortcut icon" type="image/x-icon" href="<?= $BASE_URL ?>assets/img/logo/favicon.png">
     <!-- Place favicon.ico in the root directory -->

@@ -10,6 +10,15 @@ require_once __DIR__ . '/config.php';
     <title>ISB Ghostwriters</title>
     <meta name="description" content="From First Draft to Global Bookshelf">
     <link rel="canonical" href="https://isbghostwriters.com/index.php">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="ISB Ghostwriters">
+    <meta property="og:description" content="From First Draft to Global Bookshelf">
+    <meta property="og:url" content="https://isbghostwriters.com/index.php">
+    <meta property="og:image" content="https://isbghostwriters.com/assets/img/about/main/thumb.jpg">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="ISB Ghostwriters">
+    <meta name="twitter:description" content="From First Draft to Global Bookshelf">
+    <meta name="twitter:image" content="https://isbghostwriters.com/assets/img/about/main/thumb.jpg">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="shortcut icon" type="image/x-icon" href="assets/img/logo/favicon.png">

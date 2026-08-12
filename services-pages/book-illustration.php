@@ -10,6 +10,15 @@ require_once __DIR__ . '/../config.php';
     <title>Book Illustration | ISB Ghostwriters</title>
     <meta name="description" content="ISB Publishers offers professional book illustration services, creating custom characters, scenes, and artwork for children's books and storybooks.">
     <link rel="canonical" href="https://isbghostwriters.com/services-pages/book-illustration.php">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Book Illustration | ISB Ghostwriters">
+    <meta property="og:description" content="ISB Publishers offers professional book illustration services, creating custom characters, scenes, and artwork for children's books and storybooks.">
+    <meta property="og:url" content="https://isbghostwriters.com/services-pages/book-illustration.php">
+    <meta property="og:image" content="https://isbghostwriters.com/assets/img/about/main/bi-abt.jpg">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Book Illustration | ISB Ghostwriters">
+    <meta name="twitter:description" content="ISB Publishers offers professional book illustration services, creating custom characters, scenes, and artwork for children's books and storybooks.">
+    <meta name="twitter:image" content="https://isbghostwriters.com/assets/img/about/main/bi-abt.jpg">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="shortcut icon" type="image/x-icon" href="<?= $BASE_URL ?>assets/img/logo/favicon.png">

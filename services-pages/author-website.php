@@ -11,6 +11,15 @@ require_once __DIR__ . '/../config.php';
     <meta name="description" content="Professional author website design services featuring custom branding, e-commerce book sales, blog integration, and SEO optimization to grow your reader audience.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="canonical" href="https://isbghostwriters.com/services-pages/author-website.php">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Website Design for Authors | ISB Ghostwriters">
+    <meta property="og:description" content="Professional author website design services featuring custom branding, e-commerce book sales, blog integration, and SEO optimization to grow your reader audience.">
+    <meta property="og:url" content="https://isbghostwriters.com/services-pages/author-website.php">
+    <meta property="og:image" content="https://isbghostwriters.com/assets/img/about/main/aurth-web.jpg">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Website Design for Authors | ISB Ghostwriters">
+    <meta name="twitter:description" content="Professional author website design services featuring custom branding, e-commerce book sales, blog integration, and SEO optimization to grow your reader audience.">
+    <meta name="twitter:image" content="https://isbghostwriters.com/assets/img/about/main/aurth-web.jpg">
 
     <link rel="shortcut icon" type="image/x-icon" href="<?= $BASE_URL ?>assets/img/logo/favicon.png">
     <!-- Place favicon.ico in the root directory -->

@@ -11,6 +11,15 @@ require_once __DIR__ . '/../config.php';
     <meta name="description" content="Professional book formatting for paperback, hardcover, Kindle, eBook, and Amazon KDP, covering margins, spacing, chapter headings, page numbers, and front matter.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="canonical" href="https://isbghostwriters.com/services-pages/book-formatting.php">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Book Formatting Services | ISB Ghostwriters">
+    <meta property="og:description" content="Professional book formatting for paperback, hardcover, Kindle, eBook, and Amazon KDP, covering margins, spacing, chapter headings, page numbers, and front matter.">
+    <meta property="og:url" content="https://isbghostwriters.com/services-pages/book-formatting.php">
+    <meta property="og:image" content="https://isbghostwriters.com/assets/img/about/main/bf-abt.jpg">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Book Formatting Services | ISB Ghostwriters">
+    <meta name="twitter:description" content="Professional book formatting for paperback, hardcover, Kindle, eBook, and Amazon KDP, covering margins, spacing, chapter headings, page numbers, and front matter.">
+    <meta name="twitter:image" content="https://isbghostwriters.com/assets/img/about/main/bf-abt.jpg">
 
     <link rel="shortcut icon" type="image/x-icon" href="<?= $BASE_URL ?>assets/img/logo/favicon.png">
     <!-- Place favicon.ico in the root directory -->

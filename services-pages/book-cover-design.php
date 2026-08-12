@@ -11,6 +11,15 @@ require_once __DIR__ . '/../config.php';
     <meta name="description" content="Professional book cover design for eBooks, paperbacks, and hardcovers, including full print layouts with spine and back cover, tailored to your genre and audience.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="canonical" href="https://isbghostwriters.com/services-pages/book-cover-design.php">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Book Cover Design Services | ISB Ghostwriters">
+    <meta property="og:description" content="Professional book cover design for eBooks, paperbacks, and hardcovers, including full print layouts with spine and back cover, tailored to your genre and audience.">
+    <meta property="og:url" content="https://isbghostwriters.com/services-pages/book-cover-design.php">
+    <meta property="og:image" content="https://isbghostwriters.com/assets/img/about/main/edit-abt.jpg">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Book Cover Design Services | ISB Ghostwriters">
+    <meta name="twitter:description" content="Professional book cover design for eBooks, paperbacks, and hardcovers, including full print layouts with spine and back cover, tailored to your genre and audience.">
+    <meta name="twitter:image" content="https://isbghostwriters.com/assets/img/about/main/edit-abt.jpg">
 
     <link rel="shortcut icon" type="image/x-icon" href="<?= $BASE_URL ?>assets/img/logo/favicon.png">
     <!-- Place favicon.ico in the root directory -->

@@ -113,7 +113,7 @@
                                 <div class="row align-items-center">
                                     <div class="col-lg-6 col-md-8">
                                         <div class="td-footer-copyright mb-20">
-                                            <p>© 2025 <a href="<?= $BASE_URL ?>index.php">ISB Ghostwriters.</a> All Rights Reserved.</p>
+                                            <p>© 2025 <a href="<?= $BASE_URL ?>index.php">ISB Ghostwriters.</a> All Rights Reserved. <a href="<?= $BASE_URL ?>privacy-policy.php">Privacy Policy</a></p>
                                         </div>
                                     </div>
                                     <div class="col-lg-6 col-md-4">
@@ -152,3 +152,94 @@
             </div>
         </footer>
         <!-- footer-area-end -->
+
+        <!-- cookie-consent-banner-start -->
+        <div id="cookie-consent-banner" class="cookie-consent-banner">
+            <p>We use cookies to operate this site and, with your consent, to measure how well our ads perform. See our <a href="<?= $BASE_URL ?>privacy-policy.php">Privacy Policy</a> to learn more.</p>
+            <div class="cookie-consent-actions">
+                <button type="button" id="cookie-consent-decline" class="cookie-consent-btn cookie-consent-decline">Decline</button>
+                <button type="button" id="cookie-consent-accept" class="cookie-consent-btn cookie-consent-accept">Accept</button>
+            </div>
+        </div>
+
+        <style>
+            .cookie-consent-banner {
+                display: none;
+                position: fixed;
+                left: 20px;
+                right: 20px;
+                bottom: 20px;
+                z-index: 99998;
+                max-width: 720px;
+                margin: 0 auto;
+                background: #1c1d1f;
+                color: #fff;
+                border-radius: 10px;
+                padding: 20px 24px;
+                box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+                align-items: center;
+                justify-content: space-between;
+                gap: 20px;
+                flex-wrap: wrap;
+            }
+            .cookie-consent-banner.show {
+                display: flex;
+            }
+            .cookie-consent-banner p {
+                margin: 0;
+                font-size: 14px;
+                line-height: 1.6;
+                flex: 1 1 320px;
+            }
+            .cookie-consent-banner a {
+                color: var(--td-theme-primary, #3b82f6);
+                text-decoration: underline;
+            }
+            .cookie-consent-actions {
+                display: flex;
+                gap: 10px;
+                flex-shrink: 0;
+            }
+            .cookie-consent-btn {
+                padding: 10px 20px;
+                border-radius: 6px;
+                font-size: 14px;
+                font-weight: 600;
+                cursor: pointer;
+                border: 1px solid rgba(255,255,255,0.3);
+                background: transparent;
+                color: #fff;
+            }
+            .cookie-consent-accept {
+                background: var(--td-theme-primary, #3b82f6);
+                border-color: var(--td-theme-primary, #3b82f6);
+            }
+        </style>
+
+        <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            var banner = document.getElementById('cookie-consent-banner');
+            var acceptBtn = document.getElementById('cookie-consent-accept');
+            var declineBtn = document.getElementById('cookie-consent-decline');
+
+            var consent = localStorage.getItem('cookie_consent');
+
+            if (!consent) {
+                banner.classList.add('show');
+            }
+
+            function setConsent(value) {
+                localStorage.setItem('cookie_consent', value);
+                banner.classList.remove('show');
+            }
+
+            acceptBtn.addEventListener('click', function() {
+                setConsent('accepted');
+            });
+
+            declineBtn.addEventListener('click', function() {
+                setConsent('declined');
+            });
+        });
+        </script>
+        <!-- cookie-consent-banner-end -->

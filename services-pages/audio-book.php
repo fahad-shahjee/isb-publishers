@@ -10,6 +10,15 @@ require_once __DIR__ . '/../config.php';
     <title>Expert Audiobook Services | ISB Ghostwriters</title>
     <meta name="description" content="Professional audiobook services from ISB Publishers: narration, recording, editing, and mastering for fiction, non-fiction, business, and children's books.">
     <link rel="canonical" href="https://isbghostwriters.com/services-pages/audio-book.php">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Expert Audiobook Services | ISB Ghostwriters">
+    <meta property="og:description" content="Professional audiobook services from ISB Publishers: narration, recording, editing, and mastering for fiction, non-fiction, business, and children's books.">
+    <meta property="og:url" content="https://isbghostwriters.com/services-pages/audio-book.php">
+    <meta property="og:image" content="https://isbghostwriters.com/assets/img/about/main/about.jpg">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Expert Audiobook Services | ISB Ghostwriters">
+    <meta name="twitter:description" content="Professional audiobook services from ISB Publishers: narration, recording, editing, and mastering for fiction, non-fiction, business, and children's books.">
+    <meta name="twitter:image" content="https://isbghostwriters.com/assets/img/about/main/about.jpg">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="shortcut icon" type="image/x-icon" href="<?= $BASE_URL ?>assets/img/logo/favicon.png">
