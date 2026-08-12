@@ -408,9 +408,9 @@ require_once __DIR__ . '/../config.php';
 
     <!-- JS here -->
     <!--<< jquery.Js >>-->
-    <script src="<?= $BASE_URL ?>assets/js/vendor/jquery.js"></script>
+    <script src="<?= $BASE_URL ?>assets/js/vendor/jquery.js" defer></script>
     <!--<< bootstrap.min.Js >>-->
-    <script src="<?= $BASE_URL ?>assets/js/bootstrap.min.js"></script>
+    <script src="<?= $BASE_URL ?>assets/js/bootstrap.min.js" defer></script>
     <!--<< gsap.Js >>-->
     <script src="<?= $BASE_URL ?>assets/js/jsap/gsap.js"></script>
    <!--<< gsap-scroll-smoother.Js >>-->

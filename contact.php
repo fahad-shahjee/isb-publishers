@@ -228,9 +228,9 @@ $formStatus = $_GET['status'] ?? '';
 
     <!-- JS here -->
     <!--<< jquery.Js >>-->
-    <script src="assets/js/vendor/jquery.js"></script>
+    <script src="assets/js/vendor/jquery.js" defer></script>
     <!--<< bootstrap.min.Js >>-->
-    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="assets/js/bootstrap.min.js" defer></script>
     <!--<< gsap.Js >>-->
     <script src="assets/js/jsap/gsap.js"></script>
     <!--<< gsap-scroll-smoother.Js >>-->

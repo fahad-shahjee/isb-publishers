@@ -1111,9 +1111,9 @@ require_once __DIR__ . '/config.php';
 
     <!-- JS here -->
     <!--<< jquery.Js >>-->
-    <script src="assets/js/vendor/jquery.js"></script>
+    <script src="assets/js/vendor/jquery.js" defer></script>
     <!--<< bootstrap.min.Js >>-->
-    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="assets/js/bootstrap.min.js" defer></script>
     <!--<< gsap.Js >>-->
     <script src="assets/js/jsap/gsap.js" defer></script>
     <!--<< gsap-scroll-smoother.Js >>-->
