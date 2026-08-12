@@ -36,20 +36,6 @@ require_once __DIR__ . '/config.php';
     <link rel="stylesheet" href="assets/css/defauls-spacing.min.css">
     <!--<< main.css >>-->
     <link rel="stylesheet" href="assets/css/main.min.css">
-
-    <style>
-        .td-service-pin-item-panel .row {
-            align-items: stretch;
-        }
-        .td-service-pin-thumb {
-            height: 100%;
-        }
-        .td-service-pin-thumb img {
-            height: 100%;
-            width: 100%;
-            object-fit: cover;
-        }
-    </style>
 </head>
 
 <body>
@@ -94,7 +80,7 @@ require_once __DIR__ . '/config.php';
                 <div class="td-service-pin-item td-service-pin-items">
                     <div class="container-fluid p-0">
                         <div class="black-bg td-service-pin-item-panel">
-                            <div class="row">
+                            <div class="row align-items-center">
                                 <div class="col-lg-6">
                                     <div class="td-service-pin-thumb">
                                         <img class="w-100" src="assets/img/service/details/thumb.jpg" alt="Audiobook production service illustration">
@@ -130,7 +116,7 @@ require_once __DIR__ . '/config.php';
                             </div>
                         </div>
                         <div class="black-bg td-service-pin-item-panel">
-                            <div class="row">
+                            <div class="row align-items-center">
                                 <div class="col-lg-6 order-lg-2">
                                     <div class="td-service-pin-thumb">
                                         <img class="w-100" src="assets/img/service/details/thumb-2.jpg" alt="Author website design service illustration">
@@ -165,7 +151,7 @@ require_once __DIR__ . '/config.php';
                             </div>
                         </div>
                         <div class="black-bg td-service-pin-item-panel">
-                            <div class="row">
+                            <div class="row align-items-center">
                                 <div class="col-lg-6">
                                     <div class="td-service-pin-thumb">
                                         <img class="w-100" src="assets/img/service/details/thumb-3.jpg" alt="Proofreading service illustration">
@@ -200,7 +186,7 @@ require_once __DIR__ . '/config.php';
                             </div>
                         </div>
                         <div class="black-bg td-service-pin-item-panel">
-                            <div class="row">
+                            <div class="row align-items-center">
                                 <div class="col-lg-6 order-lg-2">
                                     <div class="td-service-pin-thumb">
                                         <img class="w-100" src="assets/img/service/details/thumb-4.jpg" alt="Book publishing service illustration">
@@ -235,10 +221,10 @@ require_once __DIR__ . '/config.php';
                             </div>
                         </div>
                         <div class="black-bg td-service-pin-item-panel">
-                            <div class="row">
+                            <div class="row align-items-center">
                                 <div class="col-lg-6">
                                     <div class="td-service-pin-thumb">
-                                        <img class="w-100" src="assets/img/service/details/thumb-5.jpg" alt="Book ghostwriting service illustration">
+                                        <img class="w-100" src="assets/img/service/details/thumb-4.jpg" alt="Book ghostwriting service illustration">
                                     </div>
                                 </div>
                                 <div class="col-lg-6">
@@ -271,7 +257,7 @@ require_once __DIR__ . '/config.php';
                         </div>
 
                         <div class="black-bg td-service-pin-item-panel">
-                            <div class="row">
+                            <div class="row align-items-center">
                                 <div class="col-lg-6 order-lg-2">
                                     <div class="td-service-pin-thumb">
                                         <img class="w-100" src="assets/img/service/details/thumb-4.jpg" alt="Book marketing service illustration">
@@ -307,7 +293,7 @@ require_once __DIR__ . '/config.php';
                         </div>
 
                         <div class="black-bg td-service-pin-item-panel">
-                            <div class="row">
+                            <div class="row align-items-center">
                                 <div class="col-lg-6">
                                     <div class="td-service-pin-thumb">
                                         <img class="w-100" src="assets/img/service/details/thumb-4.jpg" alt="Book illustration service illustration">
@@ -343,7 +329,7 @@ require_once __DIR__ . '/config.php';
                         </div>
 
                         <div class="black-bg td-service-pin-item-panel">
-                            <div class="row">
+                            <div class="row align-items-center">
                                 <div class="col-lg-6 order-lg-2">
                                     <div class="td-service-pin-thumb">
                                         <img class="w-100" src="assets/img/service/details/thumb-4.jpg" alt="Book cover design service illustration">
@@ -379,7 +365,7 @@ require_once __DIR__ . '/config.php';
                         </div>
 
                         <div class="black-bg td-service-pin-item-panel">
-                            <div class="row">
+                            <div class="row align-items-center">
                                 <div class="col-lg-6">
                                     <div class="td-service-pin-thumb">
                                         <img class="w-100" src="assets/img/service/details/thumb-4.jpg" alt="Book formatting service illustration">
@@ -416,41 +402,6 @@ require_once __DIR__ . '/config.php';
                     </div>
                 </div>
                 <!-- td-service-iteam-pin-area-end -->
-
-                <!-- td-about-main-feature-area-start -->
-                <div class="td-about-main-feature-area pt-150 pb-165" style="padding-bottom: 50px; padding-top:100px;">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-xl-9">
-                                <div class="td-about-main-feature-wrap">
-                                    <h2 class="td-about-main-feature-title mb-70 td-text-invert" style="line-height: 60px;">We are a ghostwriting studio dedicated to crafting books that reflect your voice and captivate readers worldwide.</h2>
-                                    <div class="row">
-                                        <div class="col-lg-5 d-none d-md-block">
-                                            <div class="td-about-main-feature-shape text-center ml-70 mb-40">
-                                                <img src="assets/img/about/main/shape.png" alt="" loading="lazy">
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-7">
-                                            <div class="td-about-main-feature-list">
-                                                <ul>
-                                                    <li>Ghostwriting</li>
-                                                    <li>Editing & Proofreading</li>
-                                                    <li>Book Formatting</li>
-                                                    <li>Illustration & Cover Design</li>
-                                                    <li>Publishing Strategy</li>
-                                                    <li>Marketing Plan</li>
-                                                    <li>Author Consultation</li>
-                                                    <li>Book Launch Support</li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- td-about-main-feature-area-end -->
 
                 <!-- td-cta-area-start -->
                 <div class="td-cta-area">
