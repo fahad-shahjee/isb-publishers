@@ -119,7 +119,7 @@ require_once __DIR__ . '/config.php';
                             <div class="row align-items-center">
                                 <div class="col-lg-6 order-lg-2">
                                     <div class="td-service-pin-thumb">
-                                        <img class="w-100" src="assets/img/service/details/thumb-2.jpg" alt="Author website design service illustration" loading="lazy">
+                                        <img class="w-100" src="assets/img/service/details/thumb-2.jpg" alt="Author website design service illustration">
                                     </div>
                                 </div>
                                 <div class="col-lg-6 order-lg-1">
@@ -154,7 +154,7 @@ require_once __DIR__ . '/config.php';
                             <div class="row align-items-center">
                                 <div class="col-lg-6">
                                     <div class="td-service-pin-thumb">
-                                        <img class="w-100" src="assets/img/service/details/thumb-3.jpg" alt="Proofreading service illustration" loading="lazy">
+                                        <img class="w-100" src="assets/img/service/details/thumb-3.jpg" alt="Proofreading service illustration">
                                     </div>
                                 </div>
                                 <div class="col-lg-6">
@@ -189,7 +189,7 @@ require_once __DIR__ . '/config.php';
                             <div class="row align-items-center">
                                 <div class="col-lg-6 order-lg-2">
                                     <div class="td-service-pin-thumb">
-                                        <img class="w-100" src="assets/img/service/details/thumb-4.jpg" alt="Book publishing service illustration" loading="lazy">
+                                        <img class="w-100" src="assets/img/service/details/thumb-4.jpg" alt="Book publishing service illustration">
                                     </div>
                                 </div>
                                 <div class="col-lg-6 order-lg-1">
@@ -224,7 +224,7 @@ require_once __DIR__ . '/config.php';
                             <div class="row align-items-center">
                                 <div class="col-lg-6">
                                     <div class="td-service-pin-thumb">
-                                        <img class="w-100" src="assets/img/service/details/thumb-4.jpg" alt="Book ghostwriting service illustration" loading="lazy">
+                                        <img class="w-100" src="assets/img/service/details/thumb-4.jpg" alt="Book ghostwriting service illustration">
                                     </div>
                                 </div>
                                 <div class="col-lg-6">
@@ -260,7 +260,7 @@ require_once __DIR__ . '/config.php';
                             <div class="row align-items-center">
                                 <div class="col-lg-6 order-lg-2">
                                     <div class="td-service-pin-thumb">
-                                        <img class="w-100" src="assets/img/service/details/thumb-4.jpg" alt="Book marketing service illustration" loading="lazy">
+                                        <img class="w-100" src="assets/img/service/details/thumb-4.jpg" alt="Book marketing service illustration">
                                     </div>
                                 </div>
                                 <div class="col-lg-6 order-lg-1">
@@ -296,7 +296,7 @@ require_once __DIR__ . '/config.php';
                             <div class="row align-items-center">
                                 <div class="col-lg-6">
                                     <div class="td-service-pin-thumb">
-                                        <img class="w-100" src="assets/img/service/details/thumb-4.jpg" alt="Book illustration service illustration" loading="lazy">
+                                        <img class="w-100" src="assets/img/service/details/thumb-4.jpg" alt="Book illustration service illustration">
                                     </div>
                                 </div>
                                 <div class="col-lg-6">
@@ -332,7 +332,7 @@ require_once __DIR__ . '/config.php';
                             <div class="row align-items-center">
                                 <div class="col-lg-6 order-lg-2">
                                     <div class="td-service-pin-thumb">
-                                        <img class="w-100" src="assets/img/service/details/thumb-4.jpg" alt="Book cover design service illustration" loading="lazy">
+                                        <img class="w-100" src="assets/img/service/details/thumb-4.jpg" alt="Book cover design service illustration">
                                     </div>
                                 </div>
                                 <div class="col-lg-6 order-lg-1">
@@ -368,7 +368,7 @@ require_once __DIR__ . '/config.php';
                             <div class="row align-items-center">
                                 <div class="col-lg-6">
                                     <div class="td-service-pin-thumb">
-                                        <img class="w-100" src="assets/img/service/details/thumb-4.jpg" alt="Book formatting service illustration" loading="lazy">
+                                        <img class="w-100" src="assets/img/service/details/thumb-4.jpg" alt="Book formatting service illustration">
                                     </div>
                                 </div>
                                 <div class="col-lg-6">
