@@ -222,6 +222,14 @@
             var acceptBtn = document.getElementById('cookie-consent-accept');
             var declineBtn = document.getElementById('cookie-consent-decline');
 
+            // This theme's GSAP ScrollSmoother applies a CSS transform to
+            // #smooth-content, which breaks position:fixed for any element
+            // inside it (a fixed element under a transformed ancestor behaves
+            // like it's positioned within that ancestor instead of the real
+            // viewport). Move the banner to be a direct child of <body> so it
+            // escapes that transformed container and stays fixed correctly.
+            document.body.appendChild(banner);
+
             var consent = localStorage.getItem('cookie_consent');
 
             if (!consent) {
