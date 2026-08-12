@@ -102,11 +102,11 @@ require_once __DIR__ . '/config.php';
                                                 <li>Audiobook production</li>
                                             </ul>
                                             <div class="td-btn-group td-btn-group-border pt-50">
-                                                <a class="td-btn-circle" href="service-details.html">
+                                                <a class="td-btn-circle" href="<?= $BASE_URL ?>services-pages/audio-book.php">
                                                     <i class="fa-solid fa-arrow-right"></i>
                                                 </a>
-                                                <a class="td-btn-2 td-btn-primary" href="service-details.html">VIEW DETAILS</a>
-                                                <a class="td-btn-circle" href="service-details.html">
+                                                <a class="td-btn-2 td-btn-primary" href="<?= $BASE_URL ?>services-pages/audio-book.php">VIEW DETAILS</a>
+                                                <a class="td-btn-circle" href="<?= $BASE_URL ?>services-pages/audio-book.php">
                                                     <i class="fa-solid fa-arrow-right"></i>
                                                 </a>
                                             </div>
@@ -117,12 +117,12 @@ require_once __DIR__ . '/config.php';
                         </div>
                         <div class="black-bg td-service-pin-item-panel">
                             <div class="row align-items-center">
-                                <div class="col-lg-6">
+                                <div class="col-lg-6 order-lg-2">
                                     <div class="td-service-pin-thumb">
                                         <img class="w-100" src="assets/img/service/details/thumb-2.jpg" alt="Author website design service illustration" loading="lazy">
                                     </div>
                                 </div>
-                                <div class="col-lg-6">
+                                <div class="col-lg-6 order-lg-1">
                                     <div class="td-service-pin-content-inner pt-40 pb-40 ml-100">
                                         <div class="td-service-pin-subtitle mb-15">
                                             <span class="number">02</span>
@@ -137,11 +137,11 @@ require_once __DIR__ . '/config.php';
                                                 <li>Reader engagement</li>
                                             </ul>
                                             <div class="td-btn-group td-btn-group-border pt-50">
-                                                <a class="td-btn-circle" href="service-details.html">
+                                                <a class="td-btn-circle" href="<?= $BASE_URL ?>services-pages/author-website.php">
                                                     <i class="fa-solid fa-arrow-right"></i>
                                                 </a>
-                                                <a class="td-btn-2 td-btn-primary" href="service-details.html">VIEW DETAILS</a>
-                                                <a class="td-btn-circle" href="service-details.html">
+                                                <a class="td-btn-2 td-btn-primary" href="<?= $BASE_URL ?>services-pages/author-website.php">VIEW DETAILS</a>
+                                                <a class="td-btn-circle" href="<?= $BASE_URL ?>services-pages/author-website.php">
                                                     <i class="fa-solid fa-arrow-right"></i>
                                                 </a>
                                             </div>
@@ -172,11 +172,11 @@ require_once __DIR__ . '/config.php';
                                                 <li>Final manuscript polish</li>
                                             </ul>
                                             <div class="td-btn-group td-btn-group-border pt-50">
-                                                <a class="td-btn-circle" href="service-details.html">
+                                                <a class="td-btn-circle" href="<?= $BASE_URL ?>services-pages/proofreading.php">
                                                     <i class="fa-solid fa-arrow-right"></i>
                                                 </a>
-                                                <a class="td-btn-2 td-btn-primary" href="service-details.html">VIEW DETAILS</a>
-                                                <a class="td-btn-circle" href="service-details.html">
+                                                <a class="td-btn-2 td-btn-primary" href="<?= $BASE_URL ?>services-pages/proofreading.php">VIEW DETAILS</a>
+                                                <a class="td-btn-circle" href="<?= $BASE_URL ?>services-pages/proofreading.php">
                                                     <i class="fa-solid fa-arrow-right"></i>
                                                 </a>
                                             </div>
@@ -187,12 +187,12 @@ require_once __DIR__ . '/config.php';
                         </div>
                         <div class="black-bg td-service-pin-item-panel">
                             <div class="row align-items-center">
-                                <div class="col-lg-6">
+                                <div class="col-lg-6 order-lg-2">
                                     <div class="td-service-pin-thumb">
                                         <img class="w-100" src="assets/img/service/details/thumb-4.jpg" alt="Book publishing service illustration" loading="lazy">
                                     </div>
                                 </div>
-                                <div class="col-lg-6">
+                                <div class="col-lg-6 order-lg-1">
                                     <div class="td-service-pin-content-inner pt-40 pb-40 ml-100">
                                         <div class="td-service-pin-subtitle mb-15">
                                             <span class="number">04</span>
@@ -207,11 +207,11 @@ require_once __DIR__ . '/config.php';
                                                 <li>Publishing support</li>
                                             </ul>
                                             <div class="td-btn-group td-btn-group-border pt-50">
-                                                <a class="td-btn-circle" href="service-details.html">
+                                                <a class="td-btn-circle" href="<?= $BASE_URL ?>services-pages/book-publishing.php">
                                                     <i class="fa-solid fa-arrow-right"></i>
                                                 </a>
-                                                <a class="td-btn-2 td-btn-primary" href="service-details.html">VIEW DETAILS</a>
-                                                <a class="td-btn-circle" href="service-details.html">
+                                                <a class="td-btn-2 td-btn-primary" href="<?= $BASE_URL ?>services-pages/book-publishing.php">VIEW DETAILS</a>
+                                                <a class="td-btn-circle" href="<?= $BASE_URL ?>services-pages/book-publishing.php">
                                                     <i class="fa-solid fa-arrow-right"></i>
                                                 </a>
                                             </div>
@@ -242,11 +242,11 @@ require_once __DIR__ . '/config.php';
                                                 <li>Manuscript creation</li>
                                             </ul>
                                             <div class="td-btn-group td-btn-group-border pt-50">
-                                                <a class="td-btn-circle" href="service-details.html">
+                                                <a class="td-btn-circle" href="<?= $BASE_URL ?>services-pages/book-ghostwriting.php">
                                                     <i class="fa-solid fa-arrow-right"></i>
                                                 </a>
-                                                <a class="td-btn-2 td-btn-primary" href="service-details.html">VIEW DETAILS</a>
-                                                <a class="td-btn-circle" href="service-details.html">
+                                                <a class="td-btn-2 td-btn-primary" href="<?= $BASE_URL ?>services-pages/book-ghostwriting.php">VIEW DETAILS</a>
+                                                <a class="td-btn-circle" href="<?= $BASE_URL ?>services-pages/book-ghostwriting.php">
                                                     <i class="fa-solid fa-arrow-right"></i>
                                                 </a>
                                             </div>
@@ -278,11 +278,11 @@ require_once __DIR__ . '/config.php';
                                                 <li>Reader outreach</li>
                                             </ul>
                                             <div class="td-btn-group td-btn-group-border pt-50">
-                                                <a class="td-btn-circle" href="service-details.html">
+                                                <a class="td-btn-circle" href="<?= $BASE_URL ?>services-pages/book-marketing.php">
                                                     <i class="fa-solid fa-arrow-right"></i>
                                                 </a>
-                                                <a class="td-btn-2 td-btn-primary" href="service-details.html">VIEW DETAILS</a>
-                                                <a class="td-btn-circle" href="service-details.html">
+                                                <a class="td-btn-2 td-btn-primary" href="<?= $BASE_URL ?>services-pages/book-marketing.php">VIEW DETAILS</a>
+                                                <a class="td-btn-circle" href="<?= $BASE_URL ?>services-pages/book-marketing.php">
                                                     <i class="fa-solid fa-arrow-right"></i>
                                                 </a>
                                             </div>
@@ -314,11 +314,11 @@ require_once __DIR__ . '/config.php';
                                                 <li>Creative artwork</li>
                                             </ul>
                                             <div class="td-btn-group td-btn-group-border pt-50">
-                                                <a class="td-btn-circle" href="service-details.html">
+                                                <a class="td-btn-circle" href="<?= $BASE_URL ?>services-pages/book-illustration.php">
                                                     <i class="fa-solid fa-arrow-right"></i>
                                                 </a>
-                                                <a class="td-btn-2 td-btn-primary" href="service-details.html">VIEW DETAILS</a>
-                                                <a class="td-btn-circle" href="service-details.html">
+                                                <a class="td-btn-2 td-btn-primary" href="<?= $BASE_URL ?>services-pages/book-illustration.php">VIEW DETAILS</a>
+                                                <a class="td-btn-circle" href="<?= $BASE_URL ?>services-pages/book-illustration.php">
                                                     <i class="fa-solid fa-arrow-right"></i>
                                                 </a>
                                             </div>
@@ -350,11 +350,11 @@ require_once __DIR__ . '/config.php';
                                                 <li>eBook cover</li>
                                             </ul>
                                             <div class="td-btn-group td-btn-group-border pt-50">
-                                                <a class="td-btn-circle" href="service-details.html">
+                                                <a class="td-btn-circle" href="<?= $BASE_URL ?>services-pages/book-cover-design.php">
                                                     <i class="fa-solid fa-arrow-right"></i>
                                                 </a>
-                                                <a class="td-btn-2 td-btn-primary" href="service-details.html">VIEW DETAILS</a>
-                                                <a class="td-btn-circle" href="service-details.html">
+                                                <a class="td-btn-2 td-btn-primary" href="<?= $BASE_URL ?>services-pages/book-cover-design.php">VIEW DETAILS</a>
+                                                <a class="td-btn-circle" href="<?= $BASE_URL ?>services-pages/book-cover-design.php">
                                                     <i class="fa-solid fa-arrow-right"></i>
                                                 </a>
                                             </div>
@@ -386,11 +386,11 @@ require_once __DIR__ . '/config.php';
                                                 <li>KDP formatting</li>
                                             </ul>
                                             <div class="td-btn-group td-btn-group-border pt-50">
-                                                <a class="td-btn-circle" href="service-details.html">
+                                                <a class="td-btn-circle" href="<?= $BASE_URL ?>services-pages/book-formatting.php">
                                                     <i class="fa-solid fa-arrow-right"></i>
                                                 </a>
-                                                <a class="td-btn-2 td-btn-primary" href="service-details.html">VIEW DETAILS</a>
-                                                <a class="td-btn-circle" href="service-details.html">
+                                                <a class="td-btn-2 td-btn-primary" href="<?= $BASE_URL ?>services-pages/book-formatting.php">VIEW DETAILS</a>
+                                                <a class="td-btn-circle" href="<?= $BASE_URL ?>services-pages/book-formatting.php">
                                                     <i class="fa-solid fa-arrow-right"></i>
                                                 </a>
                                             </div>
