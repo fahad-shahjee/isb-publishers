@@ -246,7 +246,7 @@ require_once __DIR__ . '/../config.php';
                                 <div class="td-service-process-item mt-120">
                                     <span class="icons mb-60 d-flex align-items-start justify-content-between">
                                         <!-- SVGs unchanged -->
-                                        <img src="<?= $BASE_URL ?>assets\img\service\servicesico/initialcons.png" alt="Initial Consultation" width="64" height="64" loading="lazy">
+                                        <img src="<?= $BASE_URL ?>assets/img/service/servicesico/initialcons.png" alt="Initial Consultation" width="64" height="64" loading="lazy">
                                         <span class="number">01</span>
                                     </span>
                                     <h5 class="title mb-15">Marketing Consultation</h5>
@@ -256,7 +256,7 @@ require_once __DIR__ . '/../config.php';
                             <div class="col-lg-3 col-md-6 col-sm-6  wow fadeInUp" data-wow-delay=".5s" data-wow-duration="1s">
                                 <div class="td-service-process-item">
                                     <span class="icons mb-60 d-flex align-items-start justify-content-between">
-                                        <img src="<?= $BASE_URL ?>assets\img\service\servicesico/branding.png" alt="Strategy Planning" width="64" height="64" loading="lazy">
+                                        <img src="<?= $BASE_URL ?>assets/img/service/servicesico/branding.png" alt="Strategy Planning" width="64" height="64" loading="lazy">
                                         <span class="number">02</span>
                                     </span>
                                     <h5 class="title mb-15">Strategy Planning</h5>
@@ -266,7 +266,7 @@ require_once __DIR__ . '/../config.php';
                             <div class="col-lg-3 col-md-6 col-sm-6  wow fadeInUp" data-wow-delay=".7s" data-wow-duration="1s">
                                 <div class="td-service-process-item mt-120">
                                     <span class="icons mb-60 d-flex align-items-start justify-content-between">
-                                        <img src="<?= $BASE_URL ?>assets\img\service\servicesico/promo.png" alt="Promotional Content" width="64" height="64" loading="lazy">
+                                        <img src="<?= $BASE_URL ?>assets/img/service/servicesico/promo.png" alt="Promotional Content" width="64" height="64" loading="lazy">
                                         <span class="number">03</span>
                                     </span>
                                     <h5 class="title mb-15">Promotional Content</h5>
@@ -276,7 +276,7 @@ require_once __DIR__ . '/../config.php';
                             <div class="col-lg-3 col-md-6 col-sm-6  wow fadeInUp" data-wow-delay=".9s" data-wow-duration="1s">
                                 <div class="td-service-process-item">
                                     <span class="icons mb-60 d-flex align-items-start justify-content-between">
-                                        <img src="<?= $BASE_URL ?>assets\img\service\servicesico/boklaunch.png" alt="Launch & Visibility Support" width="64" height="64" loading="lazy">
+                                        <img src="<?= $BASE_URL ?>assets/img/service/servicesico/boklaunch.png" alt="Launch & Visibility Support" width="64" height="64" loading="lazy">
                                         <span class="number">04</span>
                                     </span>
                                     <h5 class="title mb-15">Launch & Visibility Support</h5>
@@ -422,39 +422,39 @@ require_once __DIR__ . '/../config.php';
     <!--<< bootstrap.min.Js >>-->
     <script src="<?= $BASE_URL ?>assets/js/bootstrap.min.js" defer></script>
     <!--<< gsap.Js >>-->
-    <script src="<?= $BASE_URL ?>assets/js/jsap/gsap.js"></script>
+    <script src="<?= $BASE_URL ?>assets/js/jsap/gsap.js" defer></script>
    <!--<< gsap-scroll-smoother.Js >>-->
-    <script src="<?= $BASE_URL ?>assets/js/jsap/gsap-scroll-smoother.js"></script>
+    <script src="<?= $BASE_URL ?>assets/js/jsap/gsap-scroll-smoother.js" defer></script>
    <!--<< gsap-scroll-trigger.Js >>-->
-    <script src="<?= $BASE_URL ?>assets/js/jsap/gsap-scroll-trigger.js"></script>
+    <script src="<?= $BASE_URL ?>assets/js/jsap/gsap-scroll-trigger.js" defer></script>
    <!--<< gsap-scroll-to-plugin.Js >>-->
-    <script src="<?= $BASE_URL ?>assets/js/jsap/gsap-scroll-to-plugin.js"></script>
+    <script src="<?= $BASE_URL ?>assets/js/jsap/gsap-scroll-to-plugin.js" defer></script>
     <!--<< gsap-split-text.Js >>-->
-    <script src="<?= $BASE_URL ?>assets/js/jsap/gsap-split-text.js"></script>
+    <script src="<?= $BASE_URL ?>assets/js/jsap/gsap-split-text.js" defer></script>
     <!--<< isotope.pkgd.min.Js >>-->
-    <script src="<?= $BASE_URL ?>assets/js/isotope.pkgd.min.js"></script>
+    <script src="<?= $BASE_URL ?>assets/js/isotope.pkgd.min.js" defer></script>
     <!--<< ion.rangeSlider.min.Js >>-->
-    <script src="<?= $BASE_URL ?>assets/js/ion.rangeSlider.min.js"></script>
+    <script src="<?= $BASE_URL ?>assets/js/ion.rangeSlider.min.js" defer></script>
     <!--<< effect-slicer.Js >>-->
-    <script src="<?= $BASE_URL ?>assets/js/effect-slicer.min.js"></script>
+    <script src="<?= $BASE_URL ?>assets/js/effect-slicer.min.js" defer></script>
     <!--<< imagesloaded.pkgd.min.Js >>-->
-    <script src="<?= $BASE_URL ?>assets/js/imagesloaded.pkgd.min.js"></script>
+    <script src="<?= $BASE_URL ?>assets/js/imagesloaded.pkgd.min.js" defer></script>
     <!--<< jquery.magnific-popup.min.Js >>-->
-    <script src="<?= $BASE_URL ?>assets/js/jquery.magnific-popup.min.js"></script>
+    <script src="<?= $BASE_URL ?>assets/js/jquery.magnific-popup.min.js" defer></script>
     <!--<< jquery.odometer.min.Js >>-->
-    <script src="<?= $BASE_URL ?>assets/js/jquery.odometer.min.js"></script>
+    <script src="<?= $BASE_URL ?>assets/js/jquery.odometer.min.js" defer></script>
     <!--<< jquery-appear.Js >>-->
-    <script src="<?= $BASE_URL ?>assets/js/jquery-appear.min.js"></script>
+    <script src="<?= $BASE_URL ?>assets/js/jquery-appear.min.js" defer></script>
     <!--<< swiper-bundle.min.Js >>-->
-    <script src="<?= $BASE_URL ?>assets/js/swiper-bundle.min.js"></script>
+    <script src="<?= $BASE_URL ?>assets/js/swiper-bundle.min.js" defer></script>
     <!--<< jquery.nice-select.min.Js >>-->
-    <script src="<?= $BASE_URL ?>assets/js/nice-select.min.js"></script>
+    <script src="<?= $BASE_URL ?>assets/js/nice-select.min.js" defer></script>
     <!--<< wow.Js >>-->    
-    <script src="<?= $BASE_URL ?>assets/js/wow.min.js"></script>
+    <script src="<?= $BASE_URL ?>assets/js/wow.min.js" defer></script>
     <!--<< ajax-form.Js >>-->
-    <script src="<?= $BASE_URL ?>assets/js/ajax-form.js"></script>
+    <script src="<?= $BASE_URL ?>assets/js/ajax-form.js" defer></script>
     <!--<< main.Js >>-->
-    <script src="<?= $BASE_URL ?>assets/js/main.min.js"></script>
+    <script src="<?= $BASE_URL ?>assets/js/main.min.js" defer></script>
 </body>
 
 </html>

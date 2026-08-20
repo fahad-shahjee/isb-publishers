@@ -241,37 +241,37 @@ $formStatus = $_GET['status'] ?? '';
     <!--<< bootstrap.min.Js >>-->
     <script src="assets/js/bootstrap.min.js" defer></script>
     <!--<< gsap.Js >>-->
-    <script src="assets/js/jsap/gsap.js"></script>
+    <script src="assets/js/jsap/gsap.js" defer></script>
     <!--<< gsap-scroll-smoother.Js >>-->
-    <script src="assets/js/jsap/gsap-scroll-smoother.js"></script>
+    <script src="assets/js/jsap/gsap-scroll-smoother.js" defer></script>
     <!--<< gsap-scroll-trigger.Js >>-->
-    <script src="assets/js/jsap/gsap-scroll-trigger.js"></script>
+    <script src="assets/js/jsap/gsap-scroll-trigger.js" defer></script>
     <!--<< gsap-scroll-to-plugin.Js >>-->
-    <script src="assets/js/jsap/gsap-scroll-to-plugin.js"></script>
+    <script src="assets/js/jsap/gsap-scroll-to-plugin.js" defer></script>
     <!--<< gsap-split-text.Js >>-->
-    <script src="assets/js/jsap/gsap-split-text.js"></script>
+    <script src="assets/js/jsap/gsap-split-text.js" defer></script>
     <!--<< isotope.pkgd.min.Js >>-->
-    <script src="assets/js/isotope.pkgd.min.js"></script>
+    <script src="assets/js/isotope.pkgd.min.js" defer></script>
     <!--<< ion.rangeSlider.min.Js >>-->
-    <script src="assets/js/ion.rangeSlider.min.js"></script>
+    <script src="assets/js/ion.rangeSlider.min.js" defer></script>
     <!--<< effect-slicer.Js >>-->
-    <script src="assets/js/effect-slicer.min.js"></script>
+    <script src="assets/js/effect-slicer.min.js" defer></script>
     <!--<< imagesloaded.pkgd.min.Js >>-->
-    <script src="assets/js/imagesloaded.pkgd.min.js"></script>
+    <script src="assets/js/imagesloaded.pkgd.min.js" defer></script>
     <!--<< jquery.magnific-popup.min.Js >>-->
-    <script src="assets/js/jquery.magnific-popup.min.js"></script>
+    <script src="assets/js/jquery.magnific-popup.min.js" defer></script>
     <!--<< jquery.odometer.min.Js >>-->
-    <script src="assets/js/jquery.odometer.min.js"></script>
+    <script src="assets/js/jquery.odometer.min.js" defer></script>
     <!--<< jquery-appear.Js >>-->
-    <script src="assets/js/jquery-appear.min.js"></script>
+    <script src="assets/js/jquery-appear.min.js" defer></script>
     <!--<< swiper-bundle.min.Js >>-->
-    <script src="assets/js/swiper-bundle.min.js"></script>
+    <script src="assets/js/swiper-bundle.min.js" defer></script>
     <!--<< jquery.nice-select.min.Js >>-->
-    <script src="assets/js/nice-select.min.js"></script>
+    <script src="assets/js/nice-select.min.js" defer></script>
     <!--<< wow.Js >>-->
-    <script src="assets/js/wow.min.js"></script>
+    <script src="assets/js/wow.min.js" defer></script>
     <!--<< main.Js >>-->
-    <script src="assets/js/main.min.js"></script>
+    <script src="assets/js/main.min.js" defer></script>
 </body>
 
 </html>
