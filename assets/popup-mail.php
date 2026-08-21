@@ -1,6 +1,7 @@
 <?php
 
     require_once __DIR__ . '/../db-config.php';
+    require_once __DIR__ . '/../mail-helper.php';
 
     // Only process POST reqeusts.
 
@@ -111,23 +112,13 @@
 
 
 
-        // Build the email headers.
+        // Send the email — best-effort, via authenticated SMTP through the real
 
-        $email_headers = "From: ISB Ghostwriters Website <noreply@isbghostwriters.com>\r\n";
+        // noreply@ mailbox. The submission is already saved above, so a
 
-        $email_headers .= "Reply-To: $name <$email>\r\n";
+        // failed/blocked send doesn't lose the lead.
 
-        $email_headers .= "MIME-Version: 1.0\r\n";
-
-        $email_headers .= "Content-Type: text/plain; charset=UTF-8";
-
-
-
-        // Send the email — best-effort. The submission is already saved above,
-
-        // so a failed/blocked send doesn't lose the lead.
-
-        $mail_sent = mail($recipient, $email_subject, $email_content, $email_headers);
+        $mail_sent = send_site_email($recipient, $email_subject, $email_content, $name, $email);
 
         if ($db_saved OR $mail_sent) {
 

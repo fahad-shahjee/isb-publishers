@@ -1,6 +1,7 @@
 <?php
 
     require_once __DIR__ . '/../db-config.php';
+    require_once __DIR__ . '/../mail-helper.php';
 
     // Only process POST reqeusts.
 
@@ -105,29 +106,13 @@
 
 
 
-        // Build the email headers.
+        // Send the email — best-effort, via authenticated SMTP through the real
 
-        // Use a From address on our own domain (many mail servers reject/spam-flag
+        // noreply@ mailbox. The submission is already saved above, so a
 
-        // mail() calls whose From doesn't match the sending domain), and put the
+        // failed/blocked send doesn't lose the lead.
 
-        // visitor's address in Reply-To so replying still goes to them.
-
-        $email_headers = "From: ISB Ghostwriters Website <noreply@isbghostwriters.com>\r\n";
-
-        $email_headers .= "Reply-To: $name <$email>\r\n";
-
-        $email_headers .= "MIME-Version: 1.0\r\n";
-
-        $email_headers .= "Content-Type: text/plain; charset=UTF-8";
-
-
-
-        // Send the email — best-effort. The submission is already saved above,
-
-        // so a failed/blocked send doesn't lose the lead.
-
-        $mail_sent = mail($recipient, $email_subject, $email_content, $email_headers);
+        $mail_sent = send_site_email($recipient, $email_subject, $email_content, $name, $email);
 
         if ($db_saved OR $mail_sent) {
 
