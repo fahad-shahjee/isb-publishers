@@ -113,7 +113,7 @@ require_once __DIR__ . '/config.php';
                                                     <p style="color:white;">We are excited for our work and how it positively
                                                         impacts clients. With over 12 years of experience
                                                         we have been constantly providing solutions.
-                                                        We are committed to delive</p>
+                                                        We are committed to deliver</p>
                                                 </div>
                                             </div>
                                         </div>
