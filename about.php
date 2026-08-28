@@ -21,6 +21,30 @@ require_once __DIR__ . '/config.php';
     <meta name="twitter:image" content="https://isbghostwriters.com/assets/img/about/main/thumb.jpg">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "ProfessionalService",
+        "name": "ISB Ghostwriters",
+        "alternateName": "ISB Publishers",
+        "url": "https://isbghostwriters.com/",
+        "logo": "https://isbghostwriters.com/assets/img/logo/logo-black.png",
+        "image": "https://isbghostwriters.com/assets/img/about/main/thumb.jpg",
+        "description": "ISB Ghostwriters is a United States-based professional ghostwriting, book editing, publishing, and marketing service helping authors bring their stories to life.",
+        "telephone": "+1-786-949-4620",
+        "email": "info@isbghostwriters.com",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "418 Broadway",
+            "addressLocality": "Albany",
+            "addressRegion": "NY",
+            "postalCode": "12207",
+            "addressCountry": "US"
+        },
+        "areaServed": "US"
+    }
+    </script>
+
     <link rel="shortcut icon" type="image/x-icon" href="assets/img/logo/favicon.png">
     <!-- Place favicon.ico in the root directory -->
 
