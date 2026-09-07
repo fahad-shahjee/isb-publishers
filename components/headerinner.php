@@ -67,10 +67,6 @@ $servicePages = [
                                     </ul>
                                 </li>
 
-                                <li class="<?php if ($isActive(['portfolio.php'])) echo 'active'; ?>">
-                                    <a href="<?= $BASE_URL ?>portfolio">Portfolio</a>
-                                </li>
-
                                 <li class="<?php if ($isActive(['contact.php'])) echo 'active'; ?>">
                                     <a href="<?= $BASE_URL ?>contact">Contact</a>
                                 </li>

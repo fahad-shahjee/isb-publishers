@@ -41,7 +41,6 @@ require_once __DIR__ . '/../config.php';
                                         </ul>
                                     </li>
                                     </li>
-                                    <li><a href="<?= $BASE_URL ?>portfolio">Portfolio</a></li>
                                     <li><a href="<?= $BASE_URL ?>contact">Contact</a></li>
                                 </ul>
                             </div>
