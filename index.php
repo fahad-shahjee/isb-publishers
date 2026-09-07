@@ -1021,32 +1021,65 @@ require_once __DIR__ . '/config.php';
                                                     <div class="swiper-wrapper">
                                                         <div class="swiper-slide">
                                                             <div class="td-testimonial-slide-content">
-                                                                <p class="mb-40">We are excited for our work and how it positively impacts clients.
-                                                                    With over 12 years of experience we have been constantly
-                                                                    providing solutions. We are committed to deliver unique
-                                                                    digital media solutions from web design</p>
-                                                                <h6>David Backhum</h6>
-                                                                <span>Designer</span>
+                                                                <p class="mb-40">ISB Ghostwriters turned my scattered notes and voice memos into a
+                                                                    manuscript that genuinely sounds like me. My ghostwriter asked the right
+                                                                    questions upfront and the whole process felt collaborative, not outsourced.</p>
+                                                                <h6>Sarah Mitchell</h6>
+                                                                <span>Memoir Author</span>
                                                             </div>
                                                         </div>
                                                         <div class="swiper-slide">
                                                             <div class="td-testimonial-slide-content">
-                                                                <p class="mb-40">We are excited for our work and how it positively impacts clients.
-                                                                    With over 12 years of experience we have been constantly
-                                                                    providing solutions. We are committed to deliver unique
-                                                                    digital media solutions from web design</p>
-                                                                <h6>David Backhum</h6>
-                                                                <span>Designer</span>
+                                                                <p class="mb-40">I was nervous about how my book cover would turn out, but the design
+                                                                    team nailed my genre on the first draft. It's the reason so many readers
+                                                                    tell me they picked up my book because of the cover.</p>
+                                                                <h6>James Carter</h6>
+                                                                <span>Self-Published Author</span>
                                                             </div>
                                                         </div>
                                                         <div class="swiper-slide">
                                                             <div class="td-testimonial-slide-content">
-                                                                <p class="mb-40">We are excited for our work and how it positively impacts clients.
-                                                                    With over 12 years of experience we have been constantly
-                                                                    providing solutions. We are committed to deliver unique
-                                                                    digital media solutions from web design</p>
-                                                                <h6>David Backhum</h6>
-                                                                <span>Designer</span>
+                                                                <p class="mb-40">The proofreading was incredibly thorough — they caught inconsistencies
+                                                                    in my timeline that I'd missed after five rounds of my own edits. My book
+                                                                    reads so much cleaner now.</p>
+                                                                <h6>Emily Rodriguez</h6>
+                                                                <span>Fiction Author</span>
+                                                            </div>
+                                                        </div>
+                                                        <div class="swiper-slide">
+                                                            <div class="td-testimonial-slide-content">
+                                                                <p class="mb-40">Formatting for Kindle and paperback used to give me headaches every
+                                                                    single time. ISB Ghostwriters delivered print-ready files for both formats
+                                                                    in days, with none of the layout issues I'd fought with before.</p>
+                                                                <h6>Michael Chen</h6>
+                                                                <span>Independent Author</span>
+                                                            </div>
+                                                        </div>
+                                                        <div class="swiper-slide">
+                                                            <div class="td-testimonial-slide-content">
+                                                                <p class="mb-40">As a first-time author, publishing felt overwhelming until I worked
+                                                                    with this team. They walked me through Amazon KDP step by step and my book
+                                                                    was live within two weeks of finishing edits.</p>
+                                                                <h6>Rachel Thompson</h6>
+                                                                <span>First-Time Author</span>
+                                                            </div>
+                                                        </div>
+                                                        <div class="swiper-slide">
+                                                            <div class="td-testimonial-slide-content">
+                                                                <p class="mb-40">Their marketing plan gave me an actual launch strategy instead of just
+                                                                    "post on social media." The promotional content they wrote sold more copies
+                                                                    in my first month than my previous book sold all year.</p>
+                                                                <h6>David Anderson</h6>
+                                                                <span>Nonfiction Author</span>
+                                                            </div>
+                                                        </div>
+                                                        <div class="swiper-slide">
+                                                            <div class="td-testimonial-slide-content">
+                                                                <p class="mb-40">The narrator they cast for my audiobook captured every character's voice
+                                                                    perfectly, and the final mix sounds fully professional. Listeners keep telling
+                                                                    me they finished it in one sitting.</p>
+                                                                <h6>Olivia Bennett</h6>
+                                                                <span>Audiobook Author</span>
                                                             </div>
                                                         </div>
                                                     </div>
