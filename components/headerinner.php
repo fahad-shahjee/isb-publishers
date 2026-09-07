@@ -106,7 +106,7 @@ $servicePages = [
 
         <div class="nav-logo">
             <a href="<?= $BASE_URL ?>">
-                <img data-width="96" src="<?= $BASE_URL ?>assets/img/logo/logo-black.png" alt="logo">
+                <img data-width="200" src="<?= $BASE_URL ?>assets/img/logo/logo-black.png" alt="logo">
             </a>
         </div>
 
