@@ -275,6 +275,13 @@
 		=      td_testimonial_slider      =
 	=============================================*/
 
+	var td_testimonial_thumb_slider = new Swiper(".td-testimonial-thumb-slider", {
+		slidesPerView: 1,
+		speed: 700,
+		loop: true,
+		allowTouchMove: false,
+	});
+
 	var td_testimonial_slider = new Swiper(".td-testimonial-slider", {
 		slidesPerView: 1,
 		speed: 700,
@@ -284,7 +291,12 @@
 			nextEl: ".td-testimonial-next",
 			prevEl: ".td-testimonial-prev",
 		},
+		controller: {
+			control: td_testimonial_thumb_slider,
+		},
 	});
+
+	td_testimonial_thumb_slider.controller.control = td_testimonial_slider;
 
 
 	/*=============================================

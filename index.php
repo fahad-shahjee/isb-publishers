@@ -1011,8 +1011,44 @@ require_once __DIR__ . '/config.php';
                                     <h2 class="td-testimonial-title mb-65 td-text-invert">What Our Clients<br> <span>Say About Us</span></h2>
                                     <div class="row">
                                         <div class="col-lg-4">
-                                            <div class="td-testimonial-thumb mb-40">
-                                                <img class="w-100 td-rounded-10" src="assets/img/testimonial/thumb.jpg" alt="Satisfied client sharing a testimonial about ISB Publishers" loading="lazy">
+                                            <div class="swiper-container td-testimonial-thumb-slider">
+                                                <div class="swiper-wrapper">
+                                                    <div class="swiper-slide">
+                                                        <div class="td-testimonial-thumb mb-40">
+                                                            <img class="w-100 td-rounded-10" src="assets/img/testimonial/sarah.jpeg" alt="Sarah Mitchell, ISB Ghostwriters client">
+                                                        </div>
+                                                    </div>
+                                                    <div class="swiper-slide">
+                                                        <div class="td-testimonial-thumb mb-40">
+                                                            <img class="w-100 td-rounded-10" src="assets/img/testimonial/james.jpeg" alt="James Carter, ISB Ghostwriters client">
+                                                        </div>
+                                                    </div>
+                                                    <div class="swiper-slide">
+                                                        <div class="td-testimonial-thumb mb-40">
+                                                            <img class="w-100 td-rounded-10" src="assets/img/testimonial/emily.jpeg" alt="Emily Rodriguez, ISB Ghostwriters client">
+                                                        </div>
+                                                    </div>
+                                                    <div class="swiper-slide">
+                                                        <div class="td-testimonial-thumb mb-40">
+                                                            <img class="w-100 td-rounded-10" src="assets/img/testimonial/Michael.jpeg" alt="Michael Chen, ISB Ghostwriters client">
+                                                        </div>
+                                                    </div>
+                                                    <div class="swiper-slide">
+                                                        <div class="td-testimonial-thumb mb-40">
+                                                            <img class="w-100 td-rounded-10" src="assets/img/testimonial/Rachel.jpeg" alt="Rachel Thompson, ISB Ghostwriters client">
+                                                        </div>
+                                                    </div>
+                                                    <div class="swiper-slide">
+                                                        <div class="td-testimonial-thumb mb-40">
+                                                            <img class="w-100 td-rounded-10" src="assets/img/testimonial/david.jpeg" alt="David Anderson, ISB Ghostwriters client">
+                                                        </div>
+                                                    </div>
+                                                    <div class="swiper-slide">
+                                                        <div class="td-testimonial-thumb mb-40">
+                                                            <img class="w-100 td-rounded-10" src="assets/img/testimonial/olivia.jpeg" alt="Olivia Bennett, ISB Ghostwriters client">
+                                                        </div>
+                                                    </div>
+                                                </div>
                                             </div>
                                         </div>
                                         <div class="col-lg-8">
