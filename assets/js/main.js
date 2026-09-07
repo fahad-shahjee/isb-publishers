@@ -275,17 +275,6 @@
 		=      td_testimonial_slider      =
 	=============================================*/
 
-	// No loop mode here on purpose: Swiper was auto-disabling loop on this
-	// slider (logging a "not enough slides" warning) and silently failing
-	// every slideToLoop() call as a result. Since this slider is only ever
-	// moved programmatically (never by the user directly), plain slideTo()
-	// with the text slider's realIndex works regardless of loop state.
-	var td_testimonial_thumb_slider = new Swiper(".td-testimonial-thumb-slider", {
-		slidesPerView: 1,
-		speed: 700,
-		allowTouchMove: false,
-	});
-
 	var td_testimonial_slider = new Swiper(".td-testimonial-slider", {
 		slidesPerView: 1,
 		speed: 700,
@@ -295,10 +284,6 @@
 			nextEl: ".td-testimonial-next",
 			prevEl: ".td-testimonial-prev",
 		},
-	});
-
-	td_testimonial_slider.on("slideChange", function () {
-		td_testimonial_thumb_slider.slideTo(td_testimonial_slider.realIndex, 700, false);
 	});
 
 
