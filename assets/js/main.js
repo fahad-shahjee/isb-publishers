@@ -291,12 +291,14 @@
 			nextEl: ".td-testimonial-next",
 			prevEl: ".td-testimonial-prev",
 		},
-		controller: {
-			control: td_testimonial_thumb_slider,
-		},
 	});
 
-	td_testimonial_thumb_slider.controller.control = td_testimonial_slider;
+	// Keep the photo slider in step with the text slider. Using an explicit
+	// slideChange listener + slideToLoop instead of Swiper's Controller module,
+	// since Controller wasn't reliably syncing here.
+	td_testimonial_slider.on("slideChange", function () {
+		td_testimonial_thumb_slider.slideToLoop(td_testimonial_slider.realIndex, 700, false);
+	});
 
 
 	/*=============================================
