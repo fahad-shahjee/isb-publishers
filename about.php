@@ -41,7 +41,11 @@ require_once __DIR__ . '/config.php';
             "postalCode": "12207",
             "addressCountry": "US"
         },
-        "areaServed": "US"
+        "areaServed": "US",
+        "sameAs": [
+            "https://www.facebook.com/share/1C3VJYPr2X/",
+            "https://www.instagram.com/isb.ghostwriters"
+        ]
     }
     </script>
 

@@ -141,11 +141,8 @@ $servicePages = [
 
         <div class="social-links">
             <ul class="list-wrap">
-                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                <li><a href="#"><i class="fab fa-instagram"></i></a></li>
-                <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                <li><a href="#"><i class="fab fa-youtube"></i></a></li>
+                <li><a href="https://www.facebook.com/share/1C3VJYPr2X/" target="_blank" rel="noopener"><i class="fab fa-facebook-f"></i></a></li>
+                <li><a href="https://www.instagram.com/isb.ghostwriters?stkn=Z3hwYWN6dnVyM3dl" target="_blank" rel="noopener"><i class="fab fa-instagram"></i></a></li>
             </ul>
         </div>
     </nav>
