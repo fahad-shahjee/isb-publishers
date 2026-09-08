@@ -9,16 +9,16 @@ require_once __DIR__ . '/../config.php';
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Expert Audiobook Services | ISB Ghostwriters</title>
-    <meta name="description" content="Professional audiobook services from ISB Publishers: narration, recording, editing, and mastering for fiction, non-fiction, business, and children's books.">
+    <meta name="description" content="Professional audiobook services from ISB Ghostwriters: narration, recording, editing, and mastering for fiction, non-fiction, business, and children's books.">
     <link rel="canonical" href="https://isbghostwriters.com/services-pages/audio-book.php">
     <meta property="og:type" content="website">
     <meta property="og:title" content="Expert Audiobook Services | ISB Ghostwriters">
-    <meta property="og:description" content="Professional audiobook services from ISB Publishers: narration, recording, editing, and mastering for fiction, non-fiction, business, and children's books.">
+    <meta property="og:description" content="Professional audiobook services from ISB Ghostwriters: narration, recording, editing, and mastering for fiction, non-fiction, business, and children's books.">
     <meta property="og:url" content="https://isbghostwriters.com/services-pages/audio-book.php">
     <meta property="og:image" content="https://isbghostwriters.com/assets/img/about/main/about.jpg">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Expert Audiobook Services | ISB Ghostwriters">
-    <meta name="twitter:description" content="Professional audiobook services from ISB Publishers: narration, recording, editing, and mastering for fiction, non-fiction, business, and children's books.">
+    <meta name="twitter:description" content="Professional audiobook services from ISB Ghostwriters: narration, recording, editing, and mastering for fiction, non-fiction, business, and children's books.">
     <meta name="twitter:image" content="https://isbghostwriters.com/assets/img/about/main/about.jpg">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -204,7 +204,7 @@ require_once __DIR__ . '/../config.php';
                             </div>
                             <div class="col-lg-8">
                                 <div class="td-about-content mb-30">
-                                    <h2 class="td-about-title mb-30 td-text-invert" style="font-size: 40px">Your story has the power to connect with readers in a deeper way through audio. ISB Publishers helps you turn your manuscript into a polished audiobook with professional production quality.</h2>
+                                    <h2 class="td-about-title mb-30 td-text-invert" style="font-size: 40px">Your story has the power to connect with readers in a deeper way through audio. ISB Ghostwriters helps you turn your manuscript into a polished audiobook with professional production quality.</h2>
                                     <p class="mb-45">Turning your written book into a captivating audiobook takes more than simply reading it aloud. It requires expert narration, meticulous editing, and top-tier production to truly capture the heart and soul of your story. Let us handle every detail for you. We’ll transform your book into an immersive audiobook experience — one that brings every emotion to life and makes your story impossible to ignore.</p>
                                     <div class="td-btn-group mb-35">
                                         <a class="td-btn-circle" href="<?= $BASE_URL ?>about.php">

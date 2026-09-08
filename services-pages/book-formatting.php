@@ -93,7 +93,7 @@ require_once __DIR__ . '/../config.php';
                                 <div class="td-about-main-content mb-40 wow fadeInRight" data-wow-delay=".5s" data-wow-duration="1s">
                                     <h3 class="td-about-main-title mb-20">Premium Book Formatting Solutions</h3>
                                     <div class="td-about-main-text mt-30">
-                                        <p class="mb-40">ISB Publishers provides clean, professional book formatting that prepares your manuscript for print and digital publishing. We format books for paperback, hardcover, Kindle, eBook, and Amazon KDP, making sure every page looks organised, readable, and publishing-ready. From margins and spacing to chapter headings, page numbers, fonts, and front matter, we help your book look polished from beginning to end.</p>
+                                        <p class="mb-40">ISB Ghostwriters provides clean, professional book formatting that prepares your manuscript for print and digital publishing. We format books for paperback, hardcover, Kindle, eBook, and Amazon KDP, making sure every page looks organised, readable, and publishing-ready. From margins and spacing to chapter headings, page numbers, fonts, and front matter, we help your book look polished from beginning to end.</p>
                                         <div class="td-btn-group">
                                             <a class="td-btn-circle" href="<?= $BASE_URL ?>contact.php">
                                                 <i class="fa-solid fa-arrow-right"></i>

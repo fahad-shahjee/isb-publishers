@@ -9,16 +9,16 @@ require_once __DIR__ . '/../config.php';
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Book Illustration | ISB Ghostwriters</title>
-    <meta name="description" content="ISB Publishers offers professional book illustration services, creating custom characters, scenes, and artwork for children's books and storybooks.">
+    <meta name="description" content="ISB Ghostwriters offers professional book illustration services, creating custom characters, scenes, and artwork for children's books and storybooks.">
     <link rel="canonical" href="https://isbghostwriters.com/services-pages/book-illustration.php">
     <meta property="og:type" content="website">
     <meta property="og:title" content="Book Illustration | ISB Ghostwriters">
-    <meta property="og:description" content="ISB Publishers offers professional book illustration services, creating custom characters, scenes, and artwork for children's books and storybooks.">
+    <meta property="og:description" content="ISB Ghostwriters offers professional book illustration services, creating custom characters, scenes, and artwork for children's books and storybooks.">
     <meta property="og:url" content="https://isbghostwriters.com/services-pages/book-illustration.php">
     <meta property="og:image" content="https://isbghostwriters.com/assets/img/about/main/bi-abt.jpg">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Book Illustration | ISB Ghostwriters">
-    <meta name="twitter:description" content="ISB Publishers offers professional book illustration services, creating custom characters, scenes, and artwork for children's books and storybooks.">
+    <meta name="twitter:description" content="ISB Ghostwriters offers professional book illustration services, creating custom characters, scenes, and artwork for children's books and storybooks.">
     <meta name="twitter:image" content="https://isbghostwriters.com/assets/img/about/main/bi-abt.jpg">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -93,7 +93,7 @@ require_once __DIR__ . '/../config.php';
                                 <div class="td-about-main-content mb-40 wow fadeInRight" data-wow-delay=".5s" data-wow-duration="1s">
                                     <h3 class="td-about-main-title mb-20">Professional Book Illustration Services</h3>
                                     <div class="td-about-main-text mt-30">
-                                        <p class="mb-40">Bring your story to life with custom illustrations designed for children’s books, storybooks, educational books, and creative publications. ISB Publishers helps authors create characters, scenes, and visuals that match the tone of their story and connect with readers.</p>
+                                        <p class="mb-40">Bring your story to life with custom illustrations designed for children’s books, storybooks, educational books, and creative publications. ISB Ghostwriters helps authors create characters, scenes, and visuals that match the tone of their story and connect with readers.</p>
                                         <div class="td-btn-group">
                                             <a class="td-btn-circle" href="<?= $BASE_URL ?>contact.php">
                                                 <i class="fa-solid fa-arrow-right"></i>
@@ -205,7 +205,7 @@ require_once __DIR__ . '/../config.php';
                             <div class="col-lg-8">
                                 <div class="td-about-content mb-30">
                                     <h2 class="td-about-title mb-30 td-text-invert" style="font-size: 40px">Bring your characters, scenes, and imagination to life with custom illustrations that make your book more engaging and memorable.</h2>
-                                    <p class="mb-45">Illustrations can turn a simple story into a visual experience that readers remember. For children’s books and creative stories, the right artwork helps communicate emotion, personality, setting, and imagination. ISB Publishers works with you to understand your story, characters, audience, and preferred style. From character concepts to full-page illustrations, we create visuals that support your words, strengthen your book’s identity, and make every page feel more alive.</p>
+                                    <p class="mb-45">Illustrations can turn a simple story into a visual experience that readers remember. For children’s books and creative stories, the right artwork helps communicate emotion, personality, setting, and imagination. ISB Ghostwriters works with you to understand your story, characters, audience, and preferred style. From character concepts to full-page illustrations, we create visuals that support your words, strengthen your book’s identity, and make every page feel more alive.</p>
                                     <div class="td-btn-group mb-35">
                                         <a class="td-btn-circle" href="<?= $BASE_URL ?>about.php">
                                             <i class="fa-solid fa-arrow-right"></i>
@@ -220,7 +220,7 @@ require_once __DIR__ . '/../config.php';
                                             <img class="td-live-anim-spin" src="<?= $BASE_URL ?>assets/img/about/shape.png" alt="" loading="lazy">
                                         </div>
                                         <div class="td-about-thumb fix td-rounded-10">
-                                            <img data-speed=".9" src="<?= $BASE_URL ?>assets/img/about/main/bi2-abt-2.jpg" alt="Character illustration example from an ISB Publishers children's book" loading="lazy">
+                                            <img data-speed=".9" src="<?= $BASE_URL ?>assets/img/about/main/bi2-abt-2.jpg" alt="Character illustration example from an ISB Ghostwriters children's book" loading="lazy">
                                         </div>
                                     </div>
                                 </div>

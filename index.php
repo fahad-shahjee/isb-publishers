@@ -8,8 +8,8 @@ require_once __DIR__ . '/config.php';
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>ISB Ghostwriters</title>
-    <meta name="description" content="From First Draft to Global Bookshelf">
+    <title>Ebook Ghostwriting & Self-Publishing Services | ISB Ghostwriters</title>
+    <meta name="description" content="ISB Ghostwriters turns your idea into a published ebook. Expert ghostwriting, editing, cover design, formatting & Amazon KDP publishing — one team, start to finish.">
     <link rel="canonical" href="https://isbghostwriters.com/index.php">
     <meta property="og:type" content="website">
     <meta property="og:title" content="ISB Ghostwriters">
@@ -31,7 +31,7 @@ require_once __DIR__ . '/config.php';
         "url": "https://isbghostwriters.com/",
         "logo": "https://isbghostwriters.com/assets/img/logo/logo-black.png",
         "image": "https://isbghostwriters.com/assets/img/about/main/thumb.jpg",
-        "description": "ISB Ghostwriters is a United States-based professional ghostwriting, book editing, publishing, and marketing service helping authors bring their stories to life.",
+        "description": "ISB Ghostwriters turns your idea into a published ebook. Expert ghostwriting, editing, cover design, formatting & Amazon KDP publishing — one team, start to finish.",
         "telephone": "+1-786-949-4620",
         "email": "info@isbghostwriters.com",
         "address": {
@@ -138,10 +138,7 @@ require_once __DIR__ . '/config.php';
                                             </div>
                                             <div class="col-xxl-4 col-xl-5 col-lg-5">
                                                 <div class="td-hero-3-content-para mb-30">
-                                                    <p style="color:white;">We are excited for our work and how it positively
-                                                        impacts clients. With over 12 years of experience
-                                                        we have been constantly providing solutions.
-                                                        We are committed to deliver</p>
+                                                    <p style="color:white;">ISB Ghostwriters helps first-time and independent authors turn an idea, a voice memo, or a half-finished manuscript into a professionally ghostwritten ebook — ready for Amazon KDP, Kindle, and print, with your name on the cover and full rights in your hands.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -161,14 +158,14 @@ require_once __DIR__ . '/config.php';
                                 <div class="td-about-left mb-30">
                                     <span>WHO WE ARE</span>
                                     <div class="td-about-left-thumb ml-60 fix td-rounded-10">
-                                        <img data-speed=".9" src="assets/img/about/thumb.jpg" alt="ISB Publishers team reviewing a manuscript together" loading="lazy">
+                                        <img data-speed=".9" src="assets/img/about/thumb.jpg" alt="ISB Ghostwriters team reviewing a manuscript together" loading="lazy">
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-8">
                                 <div class="td-about-content mb-30">
-                                    <h2 class="td-about-title mb-30 td-text-invert" style="font-size: 40px">Start your journey with ISB Publishers â€” where expert guidance and creative support lead to publishing success.</h2>
-                                    <p class="mb-45">Whether youâ€™re starting fresh, polishing a draft, illustrating a childrenâ€™s book, self-publishing on Amazon, or building a marketing plan â€” ISB Publishers provides expert book writing and publishing services to support you at every step. Turn your vision into a bestseller with our dedicated team.</p>
+                                    <h2 class="td-about-title mb-30 td-text-invert" style="font-size: 40px">Start your journey with ISB Ghostwriters where expert guidance and creative support lead to publishing success.</h2>
+                                    <p class="mb-45">Whether youâ're starting fresh, polishing a draft, illustrating a childrenâ€™s book, self-publishing on Amazon, or building a marketing plan â€” ISB Ghostwriters provides expert book writing and publishing services to support you at every step. Turn your vision into a bestseller with our dedicated team.</p>
                                     <div class="td-btn-group mb-35">
                                         <a class="td-btn-circle" href="about">
                                             <i class="fa-solid fa-arrow-right"></i>
@@ -199,28 +196,28 @@ require_once __DIR__ . '/config.php';
                         <div class="row gx-0">
                             <div class="col-xl-3 col-lg-6 col-md-6">
                                 <div class="td-counter-4-item p-relative">
-                                    <h2 class="title mb-135"><span class="odometer" data-count="400">0</span>+</h2>
+                                    <h2 class="title mb-135"><span class="odometer" data-count="1000">0</span>+</h2>
                                     <div class="d-flex align-items-center justify-content-between">
                                         <h5 class="position">01</h5>
-                                        <span class="para">Authors<br> Trust Us</span>
+                                        <span class="para">Authors<br> Served</span>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-xl-3 col-lg-6 col-md-6">
                                 <div class="td-counter-4-item p-relative">
-                                    <h2 class="title mb-135"><span class="odometer" data-count="86">0</span>%</h2>
+                                    <h2 class="title mb-135"><span class="odometer" data-count="12">0</span>+</h2>
                                     <div class="d-flex align-items-center justify-content-between">
                                         <h5 class="position">02</h5>
-                                        <span class="para">Customer of <br> Recurrence</span>
+                                        <span class="para">Years of<br> Publishing Experience</span>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-xl-3 col-lg-6 col-md-6">
                                 <div class="td-counter-4-item p-relative">
-                                    <h2 class="title mb-135"><span class="odometer" data-count="3000">0</span></h2>
+                                    <h2 class="title mb-135"><span class="odometer" data-count="9">0</span></h2>
                                     <div class="d-flex align-items-center justify-content-between">
                                         <h5 class="position">03</h5>
-                                        <span class="para">Editors <br> and writers</span>
+                                        <span class="para">In-House<br> Service Lines</span>
                                     </div>
                                 </div>
                             </div>
@@ -229,7 +226,7 @@ require_once __DIR__ . '/config.php';
                                     <h2 class="title mb-135"><span class="odometer" data-count="100">0</span>%</h2>
                                     <div class="d-flex align-items-center justify-content-between">
                                         <h5 class="position">04</h5>
-                                        <span class="para">Client <br> Satisfaction</span>
+                                        <span class="para">NDA-Protected <br> on Every Project</span>
                                     </div>
                                 </div>
                             </div>
@@ -903,7 +900,7 @@ require_once __DIR__ . '/config.php';
                             <div class="row">
                                 <div class="col-lg-3">
                                     <div class="td-process-thumb pt-80 pb-80 td-fixed-thumb">
-                                        <img src="assets/img/process/thumb.jpg" alt="ISB Publishers writing and editing process in action">
+                                        <img src="assets/img/process/thumb.jpg" alt="ISB Ghostwriters writing and editing process in action">
                                     </div>
                                 </div>
                                 <div class="col-lg-9">

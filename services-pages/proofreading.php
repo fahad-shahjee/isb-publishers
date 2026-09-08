@@ -9,16 +9,16 @@ require_once __DIR__ . '/../config.php';
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Book Editing Services | ISB Ghostwriters</title>
-    <meta name="description" content="ISB Publishers offers expert proofreading services, correcting grammar, spelling, punctuation, and formatting for Amazon KDP, print, or eBook publishing.">
+    <meta name="description" content="ISB Ghostwriters offers expert proofreading services, correcting grammar, spelling, punctuation, and formatting for Amazon KDP, print, or eBook publishing.">
     <link rel="canonical" href="https://isbghostwriters.com/services-pages/proofreading.php">
     <meta property="og:type" content="website">
     <meta property="og:title" content="Book Editing Services | ISB Ghostwriters">
-    <meta property="og:description" content="ISB Publishers offers expert proofreading services, correcting grammar, spelling, punctuation, and formatting for Amazon KDP, print, or eBook publishing.">
+    <meta property="og:description" content="ISB Ghostwriters offers expert proofreading services, correcting grammar, spelling, punctuation, and formatting for Amazon KDP, print, or eBook publishing.">
     <meta property="og:url" content="https://isbghostwriters.com/services-pages/proofreading.php">
     <meta property="og:image" content="https://isbghostwriters.com/assets/img/about/main/edit-abt.jpg">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Book Editing Services | ISB Ghostwriters">
-    <meta name="twitter:description" content="ISB Publishers offers expert proofreading services, correcting grammar, spelling, punctuation, and formatting for Amazon KDP, print, or eBook publishing.">
+    <meta name="twitter:description" content="ISB Ghostwriters offers expert proofreading services, correcting grammar, spelling, punctuation, and formatting for Amazon KDP, print, or eBook publishing.">
     <meta name="twitter:image" content="https://isbghostwriters.com/assets/img/about/main/edit-abt.jpg">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 

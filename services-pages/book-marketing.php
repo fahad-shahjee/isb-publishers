@@ -9,16 +9,16 @@ require_once __DIR__ . '/../config.php';
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Book Marketing Services | ISB Ghostwriters</title>
-    <meta name="description" content="ISB Publishers delivers results-driven book marketing, including strategy planning, promotional content, and launch support to help authors reach more readers.">
+    <meta name="description" content="ISB Ghostwriters delivers results-driven book marketing, including strategy planning, promotional content, and launch support to help authors reach more readers.">
     <link rel="canonical" href="https://isbghostwriters.com/services-pages/book-marketing.php">
     <meta property="og:type" content="website">
     <meta property="og:title" content="Book Marketing Services | ISB Ghostwriters">
-    <meta property="og:description" content="ISB Publishers delivers results-driven book marketing, including strategy planning, promotional content, and launch support to help authors reach more readers.">
+    <meta property="og:description" content="ISB Ghostwriters delivers results-driven book marketing, including strategy planning, promotional content, and launch support to help authors reach more readers.">
     <meta property="og:url" content="https://isbghostwriters.com/services-pages/book-marketing.php">
     <meta property="og:image" content="https://isbghostwriters.com/assets/img/about/main/bm-img.jpg">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Book Marketing Services | ISB Ghostwriters">
-    <meta name="twitter:description" content="ISB Publishers delivers results-driven book marketing, including strategy planning, promotional content, and launch support to help authors reach more readers.">
+    <meta name="twitter:description" content="ISB Ghostwriters delivers results-driven book marketing, including strategy planning, promotional content, and launch support to help authors reach more readers.">
     <meta name="twitter:image" content="https://isbghostwriters.com/assets/img/about/main/bm-img.jpg">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -294,7 +294,7 @@ require_once __DIR__ . '/../config.php';
                         <div class="row">
                             <div class="col-lg-6">
                                 <div class="td-faq-2-thumb mb-30 fix td-rounded-10">
-                                    <img data-speed=".9" class="td-rounded-10" src="<?= $BASE_URL ?>assets/img/about/main/bm-faq.jpg" alt="Author discussing book marketing strategy with the ISB Publishers team" loading="lazy">
+                                    <img data-speed=".9" class="td-rounded-10" src="<?= $BASE_URL ?>assets/img/about/main/bm-faq.jpg" alt="Author discussing book marketing strategy with the ISB Ghostwriters team" loading="lazy">
                                 </div>
                             </div>
                             <div class="col-lg-6">

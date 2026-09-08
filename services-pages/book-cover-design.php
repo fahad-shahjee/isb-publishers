@@ -93,7 +93,7 @@ require_once __DIR__ . '/../config.php';
                                 <div class="td-about-main-content mb-40 wow fadeInRight" data-wow-delay=".5s" data-wow-duration="1s">
                                     <h3 class="td-about-main-title mb-20">Premium Book Cover Design Solutions</h3>
                                     <div class="td-about-main-text mt-30">
-                                        <p class="mb-40">ISB Publishers creates professional book covers that help authors make a powerful first impression. Our design team focuses on style, genre, audience, and market appeal to create covers that feel polished, creative, and publishing-ready. Whether you need an eBook cover, paperback cover, hardcover design, or full print layout with spine and back cover, we help your book stand out with confidence.</p>
+                                        <p class="mb-40">ISB Ghostwriters creates professional book covers that help authors make a powerful first impression. Our design team focuses on style, genre, audience, and market appeal to create covers that feel polished, creative, and publishing-ready. Whether you need an eBook cover, paperback cover, hardcover design, or full print layout with spine and back cover, we help your book stand out with confidence.</p>
                                         <div class="td-btn-group">
                                             <a class="td-btn-circle" href="<?= $BASE_URL ?>contact.php">
                                                 <i class="fa-solid fa-arrow-right"></i>

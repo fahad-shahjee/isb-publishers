@@ -113,7 +113,7 @@ require_once __DIR__ . '/config.php';
                             </div>
                             <div class="col-lg-5">
                                 <div class="td-about-main-thumb mb-40 fix td-rounded-10 wow fadeInLeft" data-wow-delay=".5s" data-wow-duration="1s">
-                                    <img data-speed=".9" class="w-100 td-rounded-10" src="assets/img/about/main/thumb.jpg" alt="ISB Publishers team collaborating with an author on a manuscript">
+                                    <img data-speed=".9" class="w-100 td-rounded-10" src="assets/img/about/main/thumb.jpg" alt="ISB Ghostwriters team collaborating with an author on a manuscript">
                                 </div>
                             </div>
                             <div class="col-lg-7">
