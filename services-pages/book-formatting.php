@@ -11,11 +11,11 @@ require_once __DIR__ . '/../config.php';
     <title>Book Formatting Services | ISB Ghostwriters</title>
     <meta name="description" content="Professional book formatting for paperback, hardcover, Kindle, eBook, and Amazon KDP, covering margins, spacing, chapter headings, page numbers, and front matter.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="canonical" href="https://isbghostwriters.com/services-pages/book-formatting.php">
+    <link rel="canonical" href="https://isbghostwriters.com/services-pages/book-formatting">
     <meta property="og:type" content="website">
     <meta property="og:title" content="Book Formatting Services | ISB Ghostwriters">
     <meta property="og:description" content="Professional book formatting for paperback, hardcover, Kindle, eBook, and Amazon KDP, covering margins, spacing, chapter headings, page numbers, and front matter.">
-    <meta property="og:url" content="https://isbghostwriters.com/services-pages/book-formatting.php">
+    <meta property="og:url" content="https://isbghostwriters.com/services-pages/book-formatting">
     <meta property="og:image" content="https://isbghostwriters.com/assets/img/about/main/bf-abt.jpg">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Book Formatting Services | ISB Ghostwriters">
@@ -46,6 +46,63 @@ require_once __DIR__ . '/../config.php';
     <link rel="stylesheet" href="<?= $BASE_URL ?>assets/css/defauls-spacing.min.css">
     <!--<< main.css >>-->
     <link rel="stylesheet" href="<?= $BASE_URL ?>assets/css/main.min.css">
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is book formatting?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Book formatting is the process of arranging your manuscript into a professional book layout. It includes margins, spacing, fonts, chapter headings, page numbers, title pages, copyright pages, contents pages, and overall structure for print or digital publishing."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you format books for Amazon KDP?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we format books for Amazon KDP, including Kindle eBooks, paperbacks, and hardcovers. We prepare the files according to publishing requirements so your book is easier to upload and looks professional once published."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can you format both print and eBook versions?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we can format your manuscript for both print and digital versions. Print formatting focuses on page layout and trim size, while eBook formatting focuses on readability across Kindle, tablets, phones, and other devices."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can you fix bad formatting in my manuscript?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we can clean up messy or inconsistent formatting. If your manuscript has uneven spacing, broken headings, wrong page numbers, font issues, or layout problems, we can correct it and prepare a professional final version."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you format books with images or illustrations?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we can format books that include images, illustrations, tables, or special layouts. This is especially useful for children's books, workbooks, educational books, poetry books, and illustrated non-fiction books."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can you fix formatting on a manuscript that's already been rejected by KDP?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — send us the rejection notice and the file, and we'll diagnose and correct the specific formatting issue before resubmission."
+          }
+        }
+      ]
+    }
+    </script>
 </head>
 
 <body>
@@ -95,11 +152,11 @@ require_once __DIR__ . '/../config.php';
                                     <div class="td-about-main-text mt-30">
                                         <p class="mb-40">ISB Ghostwriters provides clean, professional book formatting that prepares your manuscript for print and digital publishing. We format books for paperback, hardcover, Kindle, eBook, and Amazon KDP, making sure every page looks organised, readable, and publishing-ready. From margins and spacing to chapter headings, page numbers, fonts, and front matter, we help your book look polished from beginning to end.</p>
                                         <div class="td-btn-group">
-                                            <a class="td-btn-circle" href="<?= $BASE_URL ?>contact.php">
+                                            <a class="td-btn-circle" href="<?= $BASE_URL ?>contact">
                                                 <i class="fa-solid fa-arrow-right"></i>
                                             </a>
-                                            <a class="td-btn-2 td-btn-primary" href="<?= $BASE_URL ?>contact.php">Contact Us</a>
-                                            <a class="td-btn-circle" href="<?= $BASE_URL ?>contact.php">
+                                            <a class="td-btn-2 td-btn-primary" href="<?= $BASE_URL ?>contact">Contact Us</a>
+                                            <a class="td-btn-circle" href="<?= $BASE_URL ?>contact">
                                                 <i class="fa-solid fa-arrow-right"></i>
                                             </a>
                                         </div>
@@ -115,7 +172,7 @@ require_once __DIR__ . '/../config.php';
                 <div class="td-contact-area td-contact-2-wrap pt-85 fix pb-50" style="padding-top: 0px;">
                     <div class="td-contact-7-text-slider">
                         <div class="td-contact-7-text-btn text-center pt-30">
-                            <a href="<?= $BASE_URL ?>contact.php">
+                            <a href="<?= $BASE_URL ?>contact">
                                 <img class="td-live-anim-spin" src="<?= $BASE_URL ?>assets/img/contact/text.png" alt="" loading="lazy">
                                 <span class="icon">
                                     <svg width="29" height="30" viewBox="0 0 29 30" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -205,13 +262,13 @@ require_once __DIR__ . '/../config.php';
                             <div class="col-lg-8">
                                 <div class="td-about-content mb-30">
                                     <h2 class="td-about-title mb-30 td-text-invert" style="font-size: 40px">Give your manuscript a clean, professional layout that improves readability and prepares your book for print and digital release.</h2>
-                                    <p class="mb-45">Formatting is what turns your manuscript into a finished book that feels professional in the hands of readers. At ISB Publishers, we carefully structure your pages so the layout, spacing, fonts, headings, and chapter breaks are clear and consistent. Whether you are publishing an eBook, paperback, or hardcover, we prepare your files to meet platform requirements and give your readers a smooth experience.</p>
+                                    <p class="mb-45">Formatting is what turns your manuscript into a finished book that feels professional in the hands of readers. At ISB Ghostwriters, we carefully structure your pages so the layout, spacing, fonts, headings, and chapter breaks are clear and consistent. Whether you are publishing an eBook, paperback, or hardcover, we prepare your files to meet platform requirements and give your readers a smooth experience.</p>
                                     <div class="td-btn-group mb-35">
-                                        <a class="td-btn-circle" href="<?= $BASE_URL ?>about.php">
+                                        <a class="td-btn-circle" href="<?= $BASE_URL ?>about">
                                             <i class="fa-solid fa-arrow-right"></i>
                                         </a>
                                         <a class="td-btn-2 td-btn-primary" href="tel:(786) 949-4620">Free Consultation</a>
-                                        <a class="td-btn-circle" href="<?= $BASE_URL ?>about.php">
+                                        <a class="td-btn-circle" href="<?= $BASE_URL ?>about">
                                             <i class="fa-solid fa-arrow-right"></i>
                                         </a>
                                     </div>
@@ -287,6 +344,22 @@ require_once __DIR__ . '/../config.php';
                     </div>
                 </div>
                 <!-- td-service-process-area-end -->
+
+                <!-- td-service-highlight-area-start -->
+                <div class="td-about-area pt-80 pb-40">
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-8">
+                                <div class="td-service-process-title-wrap text-center mb-30">
+                                    <h2 class="td-testimonial-title td-text-invert" style="font-size: 40px; line-height: 1.3;">Why Formatting Errors Get Ebooks
+                                        <span>Rejected (or Returned) on KDP</span></h2>
+                                </div>
+                                <p class="text-center">Amazon's most common rejection reasons are inconsistent chapter breaks, broken table-of-contents links, and images that don't render on Kindle devices. We format and test every file against current KDP requirements before submission, so your book isn't bounced back and forth during review.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- td-service-highlight-area-end -->
 
                  <!-- td-faq-2-area-start -->
                 <div class="td-faq-2-area pt-160">
@@ -374,6 +447,21 @@ require_once __DIR__ . '/../config.php';
                                                  data-bs-parent="#accordionExample">
                                                  <div class="accordion-body">
                                                     <p>Yes, we can format books that include images, illustrations, tables, or special layouts. This is especially useful for children’s books, workbooks, educational books, poetry books, and illustrated non-fiction books.</p>
+                                                 </div>
+                                              </div>
+                                           </div>
+                                           <div class="accordion-items">
+                                              <h2 class="accordion-header">
+                                                 <button class="accordion-buttons collapsed" type="button" data-bs-toggle="collapse"
+                                                    data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                                                    Can you fix formatting on a manuscript that's already been rejected by KDP?
+                                                    <span class="plus-icon"></span>
+                                                 </button>
+                                              </h2>
+                                              <div id="collapseSix" class="accordion-collapse collapse"
+                                                 data-bs-parent="#accordionExample">
+                                                 <div class="accordion-body">
+                                                    <p>Yes — send us the rejection notice and the file, and we'll diagnose and correct the specific formatting issue before resubmission.</p>
                                                  </div>
                                               </div>
                                            </div>

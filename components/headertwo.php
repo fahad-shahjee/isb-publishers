@@ -24,7 +24,7 @@ require_once __DIR__ . '/../config.php';
                         <nav class="tdmenu__nav">
                             <div class="tdmenu__navbar-wrap tdmenu__main-menu">
                                 <ul class="navigation">
-                                    <li><a href="<?= $BASE_URL ?>index.php">Home</a></li>
+                                    <li><a href="<?= $BASE_URL ?>index">Home</a></li>
                                     <li><a href="<?= $BASE_URL ?>about">About</a></li>
                                     <li class="menu-item-has-children">
                                         <a href="<?= $BASE_URL ?>service">Services</a>
@@ -91,7 +91,7 @@ require_once __DIR__ . '/../config.php';
                 <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
             </div>
             <div class="mt-30 ml-25 mr-25">
-                <a href="<?= $BASE_URL ?>contact.php" class="td-btn td-btn-menu-black w-100 d-inline-block td-btn-switch-animation ml-10">
+                <a href="<?= $BASE_URL ?>contact" class="td-btn td-btn-menu-black w-100 d-inline-block td-btn-switch-animation ml-10">
                     <span class="d-flex align-items-center justify-content-center">
                         <span class="btn-text"> Contact Us </span>
                         <span class="btn-icon"><i class="fa-sharp fa-solid fa-angle-right"></i></span>

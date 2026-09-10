@@ -9,13 +9,13 @@ require_once __DIR__ . '/config.php';
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Privacy Policy - ISB Ghostwriters</title>
     <meta name="description" content="How ISB Ghostwriters collects, uses, and protects your personal information, including data from our contact forms and cookies.">
-    <link rel="canonical" href="https://isbghostwriters.com/privacy-policy.php">
+    <link rel="canonical" href="https://isbghostwriters.com/privacy-policy">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <meta property="og:type" content="website">
     <meta property="og:title" content="Privacy Policy - ISB Ghostwriters">
     <meta property="og:description" content="How ISB Ghostwriters collects, uses, and protects your personal information, including data from our contact forms and cookies.">
-    <meta property="og:url" content="https://isbghostwriters.com/privacy-policy.php">
+    <meta property="og:url" content="https://isbghostwriters.com/privacy-policy">
     <meta property="og:image" content="https://isbghostwriters.com/assets/img/about/main/thumb.jpg">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Privacy Policy - ISB Ghostwriters">

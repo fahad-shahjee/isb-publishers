@@ -10,11 +10,11 @@ require_once __DIR__ . '/../config.php';
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Book Editing Services | ISB Ghostwriters</title>
     <meta name="description" content="ISB Ghostwriters offers expert proofreading services, correcting grammar, spelling, punctuation, and formatting for Amazon KDP, print, or eBook publishing.">
-    <link rel="canonical" href="https://isbghostwriters.com/services-pages/proofreading.php">
+    <link rel="canonical" href="https://isbghostwriters.com/services-pages/proofreading">
     <meta property="og:type" content="website">
     <meta property="og:title" content="Book Editing Services | ISB Ghostwriters">
     <meta property="og:description" content="ISB Ghostwriters offers expert proofreading services, correcting grammar, spelling, punctuation, and formatting for Amazon KDP, print, or eBook publishing.">
-    <meta property="og:url" content="https://isbghostwriters.com/services-pages/proofreading.php">
+    <meta property="og:url" content="https://isbghostwriters.com/services-pages/proofreading">
     <meta property="og:image" content="https://isbghostwriters.com/assets/img/about/main/edit-abt.jpg">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Book Editing Services | ISB Ghostwriters">
@@ -46,6 +46,55 @@ require_once __DIR__ . '/../config.php';
     <link rel="stylesheet" href="<?= $BASE_URL ?>assets/css/defauls-spacing.min.css">
     <!--<< main.css >>-->
     <link rel="stylesheet" href="<?= $BASE_URL ?>assets/css/main.min.css">
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is proofreading?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Proofreading is the final review of a manuscript to correct grammar, spelling, punctuation, and small errors."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is proofreading different from editing?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Editing improves structure and flow, while proofreading focuses on final corrections."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Will you change my writing style?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, we keep your voice the same while correcting mistakes."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can you proofread before Amazon publishing?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we can proofread before Amazon KDP, eBook, paperback, or hardcover publishing."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you proofread manuscripts that weren't written by ISB Ghostwriters?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — we proofread and edit manuscripts from any source, whether we ghostwrote it or you wrote it yourself."
+          }
+        }
+      ]
+    }
+    </script>
 </head>
 
 <body>
@@ -86,20 +135,20 @@ require_once __DIR__ . '/../config.php';
                             </div>
                             <div class="col-lg-6">
                                 <div class="td-about-main-thumb mb-40 fix td-rounded-10 wow fadeInLeft" data-wow-delay=".5s" data-wow-duration="1s">
-                                    <img data-speed=".9" class="w-100 td-rounded-10" src="<?= $BASE_URL ?>assets/img/about/main/edit-abt.jpg" alt="Professional proofreading services for authors by ISB Publishers">
+                                    <img data-speed=".9" class="w-100 td-rounded-10" src="<?= $BASE_URL ?>assets/img/about/main/edit-abt.jpg" alt="Professional proofreading services for authors by ISB Ghostwriters">
                                 </div>
                             </div>
                             <div class="col-lg-6">
                                 <div class="td-about-main-content mb-40 wow fadeInRight" data-wow-delay=".5s" data-wow-duration="1s">
                                     <h3 class="td-about-main-title mb-20">Premium Proofreading Solutions for Authors</h3>
                                     <div class="td-about-main-text mt-30">
-                                        <p class="mb-40">At ISB Publishers, we help authors prepare their manuscripts for publishing with careful, professional proofreading. Our proofreading service focuses on correcting final errors while keeping your writing style, voice, and message unchanged. <br>Whether your book is ready for Amazon KDP, print publishing, eBook release, or final submission, our proofreaders review your manuscript for grammar, spelling, punctuation, sentence clarity, formatting consistency, and readability.</p>
+                                        <p class="mb-40">At ISB Ghostwriters, we help authors prepare their manuscripts for publishing with careful, professional proofreading. Our proofreading service focuses on correcting final errors while keeping your writing style, voice, and message unchanged. <br>Whether your book is ready for Amazon KDP, print publishing, eBook release, or final submission, our proofreaders review your manuscript for grammar, spelling, punctuation, sentence clarity, formatting consistency, and readability.</p>
                                         <div class="td-btn-group">
-                                            <a class="td-btn-circle" href="<?= $BASE_URL ?>contact.php">
+                                            <a class="td-btn-circle" href="<?= $BASE_URL ?>contact">
                                                 <i class="fa-solid fa-arrow-right"></i>
                                             </a>
-                                            <a class="td-btn-2 td-btn-primary" href="<?= $BASE_URL ?>contact.php">Contact Us</a>
-                                            <a class="td-btn-circle" href="<?= $BASE_URL ?>contact.php">
+                                            <a class="td-btn-2 td-btn-primary" href="<?= $BASE_URL ?>contact">Contact Us</a>
+                                            <a class="td-btn-circle" href="<?= $BASE_URL ?>contact">
                                                 <i class="fa-solid fa-arrow-right"></i>
                                             </a>
                                         </div>
@@ -115,7 +164,7 @@ require_once __DIR__ . '/../config.php';
                 <div class="td-contact-area td-contact-2-wrap pt-85 fix pb-50" style="padding-top: 0px;">
                     <div class="td-contact-7-text-slider">
                         <div class="td-contact-7-text-btn text-center pt-30">
-                            <a href="<?= $BASE_URL ?>contact.php">
+                            <a href="<?= $BASE_URL ?>contact">
                                 <img class="td-live-anim-spin" src="<?= $BASE_URL ?>assets/img/contact/text.png" alt="" loading="lazy">
                                 <span class="icon">
                                     <svg width="29" height="30" viewBox="0 0 29 30" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -205,13 +254,13 @@ require_once __DIR__ . '/../config.php';
                             <div class="col-lg-8">
                                 <div class="td-about-content mb-30">
                                     <h2 class="td-about-title mb-30 td-text-invert" style="font-size: 40px">Make your manuscript clean, polished, and publishing-ready with careful proofreading that protects your voice and improves reader experience.</h2>
-                                    <p class="mb-45">Proofreading is the final step that helps your book feel professional before it reaches readers. Even a strong manuscript can lose impact if small spelling mistakes, punctuation issues, grammar errors, or formatting inconsistencies remain. ISB Publishers carefully reviews your work to correct final errors while keeping your writing style and message unchanged. We help make your manuscript clearer, cleaner, and more professional, giving you confidence before publishing your book.</p>
+                                    <p class="mb-45">Proofreading is the final step that helps your book feel professional before it reaches readers. Even a strong manuscript can lose impact if small spelling mistakes, punctuation issues, grammar errors, or formatting inconsistencies remain. ISB Ghostwriters carefully reviews your work to correct final errors while keeping your writing style and message unchanged. We help make your manuscript clearer, cleaner, and more professional, giving you confidence before publishing your book.</p>
                                     <div class="td-btn-group mb-35">
-                                        <a class="td-btn-circle" href="<?= $BASE_URL ?>about.php">
+                                        <a class="td-btn-circle" href="<?= $BASE_URL ?>about">
                                             <i class="fa-solid fa-arrow-right"></i>
                                         </a>
                                         <a class="td-btn-2 td-btn-primary" href="tel:(786) 949-4620">Free Consultation</a>
-                                        <a class="td-btn-circle" href="<?= $BASE_URL ?>about.php">
+                                        <a class="td-btn-circle" href="<?= $BASE_URL ?>about">
                                             <i class="fa-solid fa-arrow-right"></i>
                                         </a>
                                     </div>
@@ -220,7 +269,7 @@ require_once __DIR__ . '/../config.php';
                                             <img class="td-live-anim-spin" src="<?= $BASE_URL ?>assets/img/about/shape.png" alt="" loading="lazy">
                                         </div>
                                         <div class="td-about-thumb fix td-rounded-10">
-                                            <img data-speed=".9" src="<?= $BASE_URL ?>assets/img/about/main/aurth-abt-2.jpg" alt="Polished, publishing-ready manuscript after proofreading by ISB Publishers" loading="lazy">
+                                            <img data-speed=".9" src="<?= $BASE_URL ?>assets/img/about/main/aurth-abt-2.jpg" alt="Polished, publishing-ready manuscript after proofreading by ISB Ghostwriters" loading="lazy">
                                         </div>
                                     </div>
                                 </div>
@@ -288,13 +337,29 @@ require_once __DIR__ . '/../config.php';
                 </div>
                 <!-- td-service-process-area-end -->
 
+                <!-- td-proofreading-kdp-area-start -->
+                <div class="td-service-process-area pt-80 pb-80">
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-8">
+                                <div class="td-service-process-title-wrap text-center mb-30">
+                                    <h2 class="td-testimonial-title td-text-invert" style="font-size: 40px; line-height: 1.3;">Proofreading Before You Hit Publish
+                                        <span>on Amazon KDP</span></h2>
+                                    <p class="mb-0">A single typo won’t sink a book — but a pattern of errors will show up in reviews and hurt future sales. Our final KDP-ready proofread checks grammar, punctuation, formatting consistency, and front/back matter (title page, copyright page, table of contents) so nothing slips through before your book goes live.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- td-proofreading-kdp-area-end -->
+
                  <!-- td-faq-2-area-start -->
                 <div class="td-faq-2-area pt-160">
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-6">
                                 <div class="td-faq-2-thumb mb-30 fix td-rounded-10">
-                                    <img data-speed=".9" class="td-rounded-10" src="<?= $BASE_URL ?>assets/img/about/main/be-faq.png" alt="Author reviewing proofreading and editing services with ISB Publishers" loading="lazy">
+                                    <img data-speed=".9" class="td-rounded-10" src="<?= $BASE_URL ?>assets/img/about/main/be-faq.png" alt="Author reviewing proofreading and editing services with ISB Ghostwriters" loading="lazy">
                                 </div>
                             </div>
                             <div class="col-lg-6">
@@ -359,6 +424,21 @@ require_once __DIR__ . '/../config.php';
                                                  data-bs-parent="#accordionExample">
                                                  <div class="accordion-body">
                                                     <p>Yes, we can proofread before Amazon KDP, eBook, paperback, or hardcover publishing.</p>
+                                                 </div>
+                                              </div>
+                                           </div>
+                                           <div class="accordion-items">
+                                              <h2 class="accordion-header">
+                                                 <button class="accordion-buttons collapsed" type="button" data-bs-toggle="collapse"
+                                                    data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                                    Do you proofread manuscripts that weren't written by ISB Ghostwriters?
+                                                    <span class="plus-icon"></span>
+                                                 </button>
+                                              </h2>
+                                              <div id="collapseFive" class="accordion-collapse collapse"
+                                                 data-bs-parent="#accordionExample">
+                                                 <div class="accordion-body">
+                                                    <p>Yes — we proofread and edit manuscripts from any source, whether we ghostwrote it or you wrote it yourself.</p>
                                                  </div>
                                               </div>
                                            </div>

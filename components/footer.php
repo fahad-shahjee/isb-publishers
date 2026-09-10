@@ -9,7 +9,7 @@ require_once __DIR__ . '/../config.php';
                     <div class="row">
                         <div class="col-lg-3 col-md-6 col-sm-6">
                             <div class="td-footer-logo mb-30">
-                                <a href="<?= $BASE_URL ?>index.php">
+                                <a href="<?= $BASE_URL ?>index">
                                     <img src="<?= $BASE_URL ?>assets/img/logo/ghost-white.png" alt="" style="width:80%; height:auto;">
                                 </a>
                                 <div style="width:90%; margin-top:12px; color:#ffffff; opacity:0.9; line-height:1.5;">
@@ -21,27 +21,38 @@ require_once __DIR__ . '/../config.php';
                             <div class="td-footer-widget mb-30">
                                 <h3 class="td-footer-title mb-30">Quick Link</h3>
                                 <ul class="td-footer-widget-list">
-                                    <li><a href="<?= $BASE_URL ?>index.php">Home</a></li>
-                                    <li><a href="<?= $BASE_URL ?>about.php">About</a></li>
-                                    <li><a href="<?= $BASE_URL ?>service.php">Services</a></li>
-                                    <li><a href="<?= $BASE_URL ?>faq.php">Faq's</a></li>
-                                    <li><a href="<?= $BASE_URL ?>contact.php">Contact</a></li>
+                                    <li><a href="<?= $BASE_URL ?>index">Home</a></li>
+                                    <li><a href="<?= $BASE_URL ?>about">About</a></li>
+                                    <li><a href="<?= $BASE_URL ?>service">Services</a></li>
+                                    <li><a href="<?= $BASE_URL ?>faq">Faq's</a></li>
+                                    <li><a href="<?= $BASE_URL ?>contact">Contact</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-lg-2 col-md-6">
+                            <div class="td-footer-widget mb-30">
+                                <h3 class="td-footer-title mb-30">Services</h3>
+                                <ul class="td-footer-widget-list">
+                                    <li><a href="<?= $BASE_URL ?>services-pages/audio-book">Audiobook Production</a></li>
+                                    <li><a href="<?= $BASE_URL ?>services-pages/author-website">Author Website</a></li>
+                                    <li><a href="<?= $BASE_URL ?>services-pages/proofreading">Proofreading & Editing</a></li>
+                                    <li><a href="<?= $BASE_URL ?>services-pages/book-publishing">Book Publishing</a></li>
+                                    <li><a href="<?= $BASE_URL ?>services-pages/book-ghostwriting">Book Ghostwriting</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-lg-2 col-md-6">
+                            <div class="td-footer-widget mb-30">
+                                <h3 class="td-footer-title mb-30">&nbsp;</h3>
+                                <ul class="td-footer-widget-list">
+                                    <li><a href="<?= $BASE_URL ?>services-pages/book-marketing">Book Marketing</a></li>
+                                    <li><a href="<?= $BASE_URL ?>services-pages/book-illustration">Book Illustration</a></li>
+                                    <li><a href="<?= $BASE_URL ?>services-pages/book-cover-design">Book Cover Design</a></li>
+                                    <li><a href="<?= $BASE_URL ?>services-pages/book-formatting">Book Formatting</a></li>
                                 </ul>
                             </div>
                         </div>
                         <div class="col-lg-3 col-md-6">
-                            <div class="td-footer-widget ml-80 mb-30">
-                                <h3 class="td-footer-title mb-30">Services</h3>
-                                <ul class="td-footer-widget-list">
-                                    <li><a href="#">Expert Ghostwriting</a></li>
-                                    <li><a href="#">Formating & Proofreading</a></li>
-                                    <li><a href="#">Illustration & Layout</a></li>
-                                    <li><a href="#">Publishing Strategy</a></li>
-                                    <li><a href="#">Marketing Plan</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6">
                             <div class="td-footer-widget mr-30 mb-30">
                                 <h3 class="td-footer-title mb-30">Address</h3>
                                 <a class="td-footer-location mb-45 d-inline-block" href="#">418 Broadway; Albany, NY 12207</a>
@@ -117,7 +128,7 @@ require_once __DIR__ . '/../config.php';
                                 <div class="row align-items-center">
                                     <div class="col-lg-6 col-md-8">
                                         <div class="td-footer-copyright mb-20">
-                                            <p>© 2025 <a href="<?= $BASE_URL ?>index.php">ISB Ghostwriters.</a> All Rights Reserved. <a href="<?= $BASE_URL ?>privacy-policy.php">Privacy Policy</a></p>
+                                            <p>© 2025 <a href="<?= $BASE_URL ?>index">ISB Ghostwriters.</a> All Rights Reserved. <a href="<?= $BASE_URL ?>privacy-policy">Privacy Policy</a></p>
                                         </div>
                                     </div>
                                     <div class="col-lg-6 col-md-4">
@@ -147,7 +158,7 @@ require_once __DIR__ . '/../config.php';
 
         <!-- cookie-consent-banner-start -->
         <div id="cookie-consent-banner" class="cookie-consent-banner">
-            <p>We use cookies to operate this site and, with your consent, to measure how well our ads perform. See our <a href="<?= $BASE_URL ?>privacy-policy.php">Privacy Policy</a> to learn more.</p>
+            <p>We use cookies to operate this site and, with your consent, to measure how well our ads perform. See our <a href="<?= $BASE_URL ?>privacy-policy">Privacy Policy</a> to learn more.</p>
             <div class="cookie-consent-actions">
                 <button type="button" id="cookie-consent-decline" class="cookie-consent-btn cookie-consent-decline">Decline</button>
                 <button type="button" id="cookie-consent-accept" class="cookie-consent-btn cookie-consent-accept">Accept</button>

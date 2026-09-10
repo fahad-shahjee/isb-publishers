@@ -11,11 +11,11 @@ require_once __DIR__ . '/../config.php';
     <title>Website Design for Authors | ISB Ghostwriters</title>
     <meta name="description" content="Professional author website design services featuring custom branding, e-commerce book sales, blog integration, and SEO optimization to grow your reader audience.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="canonical" href="https://isbghostwriters.com/services-pages/author-website.php">
+    <link rel="canonical" href="https://isbghostwriters.com/services-pages/author-website">
     <meta property="og:type" content="website">
     <meta property="og:title" content="Website Design for Authors | ISB Ghostwriters">
     <meta property="og:description" content="Professional author website design services featuring custom branding, e-commerce book sales, blog integration, and SEO optimization to grow your reader audience.">
-    <meta property="og:url" content="https://isbghostwriters.com/services-pages/author-website.php">
+    <meta property="og:url" content="https://isbghostwriters.com/services-pages/author-website">
     <meta property="og:image" content="https://isbghostwriters.com/assets/img/about/main/aurth-web.jpg">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Website Design for Authors | ISB Ghostwriters">
@@ -46,6 +46,63 @@ require_once __DIR__ . '/../config.php';
     <link rel="stylesheet" href="<?= $BASE_URL ?>assets/css/defauls-spacing.min.css">
     <!--<< main.css >>-->
     <link rel="stylesheet" href="<?= $BASE_URL ?>assets/css/main.min.css">
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How long does it take to build my website?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Usually, it takes about 4–6 weeks, depending on the site’s complexity and your feedback."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I edit my website on my own?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we use WordPress and other easy tools so you can manage content anytime."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Will my site look good on mobile?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Absolutely! Every site we create is fully responsive and mobile-friendly."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you offer post-launch support?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we provide ongoing support and maintenance to keep your website running smoothly."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can you help write my website content?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we offer content writing services to make your site clear, engaging, and on-brand."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can my author website sell books directly, not just link to Amazon?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — we can set up direct sales/e-commerce alongside Amazon links, so you’re not solely dependent on one platform."
+          }
+        }
+      ]
+    }
+    </script>
 </head>
 
 <body>
@@ -95,11 +152,11 @@ require_once __DIR__ . '/../config.php';
                                     <div class="td-about-main-text mt-30">
                                         <p class="mb-40">Having a personal website greatly enhances an author’s credibility and strengthens their brand. It gives readers a central place to discover, recognize, and follow your work. Through your website, you can connect directly with your audience, share updates, and offer deeper insights into your stories and creative process. Your website also serves as a professional portfolio, allowing readers to explore all your books in one convenient space. With a well-designed author website, you can boost visibility and increase book sales by making it effortless for visitors to purchase your titles online.</p>
                                         <div class="td-btn-group">
-                                            <a class="td-btn-circle" href="<?= $BASE_URL ?>contact.php">
+                                            <a class="td-btn-circle" href="<?= $BASE_URL ?>contact">
                                                 <i class="fa-solid fa-arrow-right"></i>
                                             </a>
-                                            <a class="td-btn-2 td-btn-primary" href="<?= $BASE_URL ?>contact.php">Contact Us</a>
-                                            <a class="td-btn-circle" href="<?= $BASE_URL ?>contact.php">
+                                            <a class="td-btn-2 td-btn-primary" href="<?= $BASE_URL ?>contact">Contact Us</a>
+                                            <a class="td-btn-circle" href="<?= $BASE_URL ?>contact">
                                                 <i class="fa-solid fa-arrow-right"></i>
                                             </a>
                                         </div>
@@ -115,7 +172,7 @@ require_once __DIR__ . '/../config.php';
                 <div class="td-contact-area td-contact-2-wrap pt-85 fix pb-50" style="padding-top: 0px;">
                     <div class="td-contact-7-text-slider">
                         <div class="td-contact-7-text-btn text-center pt-30">
-                            <a href="<?= $BASE_URL ?>contact.php">
+                            <a href="<?= $BASE_URL ?>contact">
                                 <img class="td-live-anim-spin" src="<?= $BASE_URL ?>assets/img/contact/text.png" alt="" loading="lazy">
                                 <span class="icon">
                                     <svg width="29" height="30" viewBox="0 0 29 30" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -207,11 +264,11 @@ require_once __DIR__ . '/../config.php';
                                     <h2 class="td-about-title mb-30 td-text-invert" style="font-size: 40px">Build your online presence with a stunning author website that connects you with readers worldwide.</h2>
                                     <p class="mb-45">Our process starts with a personalized consultation where we take the time to understand your goals, audience, and vision as an author. Next, we move into the design and development stage, crafting a website that aligns perfectly with your brand and strategy. Once the initial design is complete, we share it with you for feedback and make any adjustments needed to ensure it fully meets your expectations. Finally, we launch your website and provide hands-on guidance on how to update and manage it with ease — empowering you to keep your site fresh, engaging, and perfectly in tune with your readers.</p>
                                     <div class="td-btn-group mb-35">
-                                        <a class="td-btn-circle" href="<?= $BASE_URL ?>about.php">
+                                        <a class="td-btn-circle" href="<?= $BASE_URL ?>about">
                                             <i class="fa-solid fa-arrow-right"></i>
                                         </a>
                                         <a class="td-btn-2 td-btn-primary" href="tel:(786) 949-4620">Free Consultation</a>
-                                        <a class="td-btn-circle" href="<?= $BASE_URL ?>about.php">
+                                        <a class="td-btn-circle" href="<?= $BASE_URL ?>about">
                                             <i class="fa-solid fa-arrow-right"></i>
                                         </a>
                                     </div>
@@ -329,6 +386,22 @@ require_once __DIR__ . '/../config.php';
                 </div>
                 <!-- td-service-process-area-end -->
 
+                <!-- td-website-vs-amazon-area-start -->
+                <div class="td-service-process-area pt-80 pb-80">
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-8">
+                                <div class="td-service-process-title-wrap text-center mb-30">
+                                    <h2 class="td-testimonial-title td-text-invert" style="font-size: 40px; line-height: 1.3;">Why Self-Published Authors Need a Website,
+                                        <span>Not Just an Amazon Page</span></h2>
+                                    <p class="mb-0">Your Amazon author page is controlled by Amazon — it can change format, gets cluttered with ads for other books, and gives you no way to build an email list. A dedicated author website is the one piece of your brand you fully own, and it’s where readers, podcasts, and reviewers go to learn more about you before they buy.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- td-website-vs-amazon-area-end -->
+
                  <!-- td-faq-2-area-start -->
                 <div class="td-faq-2-area pt-160">
                     <div class="container">
@@ -415,6 +488,21 @@ require_once __DIR__ . '/../config.php';
                                                  data-bs-parent="#accordionExample">
                                                  <div class="accordion-body">
                                                     <p>Yes, we offer content writing services to make your site clear, engaging, and on-brand.</p>
+                                                 </div>
+                                              </div>
+                                           </div>
+                                           <div class="accordion-items">
+                                              <h2 class="accordion-header">
+                                                 <button class="accordion-buttons collapsed" type="button" data-bs-toggle="collapse"
+                                                    data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                                                    Can my author website sell books directly, not just link to Amazon?
+                                                    <span class="plus-icon"></span>
+                                                 </button>
+                                              </h2>
+                                              <div id="collapseSix" class="accordion-collapse collapse"
+                                                 data-bs-parent="#accordionExample">
+                                                 <div class="accordion-body">
+                                                    <p>Yes — we can set up direct sales/e-commerce alongside Amazon links, so you’re not solely dependent on one platform.</p>
                                                  </div>
                                               </div>
                                            </div>

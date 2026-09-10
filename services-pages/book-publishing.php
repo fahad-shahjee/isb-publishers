@@ -9,16 +9,16 @@ require_once __DIR__ . '/../config.php';
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Book Publishing Services | ISB Ghostwriters</title>
-    <meta name="description" content="ISB Ghostwriters provides full-service book publishing on Amazon KDP, Barnes & Noble, and more, guiding authors from manuscript to a published book.">
-    <link rel="canonical" href="https://isbghostwriters.com/services-pages/book-publishing.php">
+    <meta name="description" content="Amazon KDP publishing services from ISB Ghostwriters — we format, upload, and launch your ebook and paperback on Amazon, Barnes & Noble, and more, from manuscript to live listing.">
+    <link rel="canonical" href="https://isbghostwriters.com/services-pages/book-publishing">
     <meta property="og:type" content="website">
     <meta property="og:title" content="Book Publishing Services | ISB Ghostwriters">
-    <meta property="og:description" content="ISB Ghostwriters provides full-service book publishing on Amazon KDP, Barnes &amp; Noble, and more, guiding authors from manuscript to a published book.">
-    <meta property="og:url" content="https://isbghostwriters.com/services-pages/book-publishing.php">
+    <meta property="og:description" content="Amazon KDP publishing services from ISB Ghostwriters — we format, upload, and launch your ebook and paperback on Amazon, Barnes &amp; Noble, and more, from manuscript to live listing.">
+    <meta property="og:url" content="https://isbghostwriters.com/services-pages/book-publishing">
     <meta property="og:image" content="https://isbghostwriters.com/assets/img/about/main/pub-bok.jpg">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Book Publishing Services | ISB Ghostwriters">
-    <meta name="twitter:description" content="ISB Ghostwriters provides full-service book publishing on Amazon KDP, Barnes &amp; Noble, and more, guiding authors from manuscript to a published book.">
+    <meta name="twitter:description" content="Amazon KDP publishing services from ISB Ghostwriters — we format, upload, and launch your ebook and paperback on Amazon, Barnes &amp; Noble, and more, from manuscript to live listing.">
     <meta name="twitter:image" content="https://isbghostwriters.com/assets/img/about/main/pub-bok.jpg">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -46,6 +46,63 @@ require_once __DIR__ . '/../config.php';
     <link rel="stylesheet" href="<?= $BASE_URL ?>assets/css/defauls-spacing.min.css">
     <!--<< main.css >>-->
     <link rel="stylesheet" href="<?= $BASE_URL ?>assets/css/main.min.css">
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is Self-Publishing?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Self-publishing gives authors full control over their creative vision, publishing expenses, and royalties. With numerous online platforms available, authors can independently publish and share their books with readers worldwide."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why Do I Need a Book Publishing Service?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Whether you're a first-time author or an experienced writer, partnering with a professional self-publishing service ensures expert guidance across top publishing platforms. At ISB Ghostwriters, our team helps you publish successfully on Amazon KDP, Barnes & Noble, Smashwords, Lulu, and more—making the process smooth and effective."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Will I Retain the Rights to My Book?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, absolutely. When you publish with ISB Ghostwriters, you retain full ownership and rights to your work. We don't claim any credit or take royalties—your book remains 100% yours."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How Hard Is It to Get a Book Published?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Traditional publishers accept only a small fraction of submissions. Self-publishing, however, opens the door for every author to share their work. While publishing online is simple, achieving success requires a clear publishing strategy—and ISB Ghostwriters helps you build exactly that."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What Percentage of Royalty Does Amazon Charge for Self-Published Books?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Through Amazon Kindle Direct Publishing (KDP), self-published authors can choose between 30% or 70% royalty options. The platform automatically accounts for delivery costs, sales tax, and value-added tax in the final pricing."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does it take to publish an ebook on Amazon KDP once it's ready?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Once your manuscript and cover are final, we typically have your book live on Amazon within 3-5 business days, including KDP's own review time."
+          }
+        }
+      ]
+    }
+    </script>
 </head>
 
 <body>
@@ -95,11 +152,11 @@ require_once __DIR__ . '/../config.php';
                                     <div class="td-about-main-text mt-30">
                                         <p class="mb-40">Self-publishing a book is more than just uploading a Word file to platforms like Amazon KDP or Smashwords. It’s a detailed process that requires experience and strategy. Partnering with ISB Ghostwriters means collaborating with publishing professionals who understand how to maximize these platforms and turn your book into a success. We guide authors through the publishing process on Amazon Kindle, Barnes & Noble, Smashwords, Lulu, and many other platforms. Our experts make publishing seamless while helping you boost your book’s visibility and reach a wider audience.</p>
                                         <div class="td-btn-group">
-                                            <a class="td-btn-circle" href="<?= $BASE_URL ?>contact.php">
+                                            <a class="td-btn-circle" href="<?= $BASE_URL ?>contact">
                                                 <i class="fa-solid fa-arrow-right"></i>
                                             </a>
-                                            <a class="td-btn-2 td-btn-primary" href="<?= $BASE_URL ?>contact.php">Contact Us</a>
-                                            <a class="td-btn-circle" href="<?= $BASE_URL ?>contact.php">
+                                            <a class="td-btn-2 td-btn-primary" href="<?= $BASE_URL ?>contact">Contact Us</a>
+                                            <a class="td-btn-circle" href="<?= $BASE_URL ?>contact">
                                                 <i class="fa-solid fa-arrow-right"></i>
                                             </a>
                                         </div>
@@ -115,7 +172,7 @@ require_once __DIR__ . '/../config.php';
                 <div class="td-contact-area td-contact-2-wrap pt-85 fix pb-50" style="padding-top: 0px;">
                     <div class="td-contact-7-text-slider">
                         <div class="td-contact-7-text-btn text-center pt-30">
-                            <a href="<?= $BASE_URL ?>contact.php">
+                            <a href="<?= $BASE_URL ?>contact">
                                 <img class="td-live-anim-spin" src="<?= $BASE_URL ?>assets/img/contact/text.png" alt="" loading="lazy">
                                 <span class="icon">
                                     <svg width="29" height="30" viewBox="0 0 29 30" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -207,11 +264,11 @@ require_once __DIR__ . '/../config.php';
                                     <h2 class="td-about-title mb-30 td-text-invert" style="font-size: 40px">Elevate your manuscript with expert book publishing services that showcase your story and reach readers worldwide.</h2>
                                     <p class="mb-45">Let ISB Ghostwriters help you turn your manuscript into a published success. Many talented authors delay their work out of doubt—but with our expert guidance, you can publish confidently and reach your readers worldwide. With over a decade of experience, we’ve helped countless authors become best-sellers on platforms like Amazon. Simply share your manuscript, and our team will ensure it gets the attention it deserves across major publishing platforms.</p>
                                     <div class="td-btn-group mb-35">
-                                        <a class="td-btn-circle" href="<?= $BASE_URL ?>about.php">
+                                        <a class="td-btn-circle" href="<?= $BASE_URL ?>about">
                                             <i class="fa-solid fa-arrow-right"></i>
                                         </a>
                                         <a class="td-btn-2 td-btn-primary" href="tel:(786) 949-4620">Free Consultation</a>
-                                        <a class="td-btn-circle" href="<?= $BASE_URL ?>about.php">
+                                        <a class="td-btn-circle" href="<?= $BASE_URL ?>about">
                                             <i class="fa-solid fa-arrow-right"></i>
                                         </a>
                                     </div>
@@ -287,6 +344,22 @@ require_once __DIR__ . '/../config.php';
                     </div>
                 </div>
                 <!-- td-service-process-area-end -->
+
+                <!-- td-ebook-vs-print-area-start -->
+                <div class="td-service-process-area pt-80 pb-80">
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-8">
+                                <div class="td-service-process-title-wrap text-center mb-30">
+                                    <h2 class="td-testimonial-title td-text-invert" style="font-size: 40px; line-height: 1.3;">Ebook vs. Print: Publishing
+                                        <span>Both the Right Way</span></h2>
+                                    <p class="mb-0">An ebook and a paperback aren’t the same file with a different cover — trim size, margins, and metadata all differ. We prepare and publish both formats correctly the first time, so your KDP listing doesn’t get flagged or delayed for formatting errors.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- td-ebook-vs-print-area-end -->
 
                  <!-- td-faq-2-area-start -->
                 <div class="td-faq-2-area pt-160">
@@ -374,6 +447,21 @@ require_once __DIR__ . '/../config.php';
                                                  data-bs-parent="#accordionExample">
                                                  <div class="accordion-body">
                                                     <p>Through Amazon Kindle Direct Publishing (KDP), self-published authors can choose between 30% or 70% royalty options. The platform automatically accounts for delivery costs, sales tax, and value-added tax in the final pricing.</p>
+                                                 </div>
+                                              </div>
+                                           </div>
+                                           <div class="accordion-items">
+                                              <h2 class="accordion-header">
+                                                 <button class="accordion-buttons collapsed" type="button" data-bs-toggle="collapse"
+                                                    data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                                                    How long does it take to publish an ebook on Amazon KDP once it's ready?
+                                                    <span class="plus-icon"></span>
+                                                 </button>
+                                              </h2>
+                                              <div id="collapseSix" class="accordion-collapse collapse"
+                                                 data-bs-parent="#accordionExample">
+                                                 <div class="accordion-body">
+                                                    <p>Once your manuscript and cover are final, we typically have your book live on Amazon within 3-5 business days, including KDP's own review time.</p>
                                                  </div>
                                               </div>
                                            </div>

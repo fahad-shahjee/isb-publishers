@@ -10,11 +10,11 @@ require_once __DIR__ . '/../config.php';
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Book Illustration | ISB Ghostwriters</title>
     <meta name="description" content="ISB Ghostwriters offers professional book illustration services, creating custom characters, scenes, and artwork for children's books and storybooks.">
-    <link rel="canonical" href="https://isbghostwriters.com/services-pages/book-illustration.php">
+    <link rel="canonical" href="https://isbghostwriters.com/services-pages/book-illustration">
     <meta property="og:type" content="website">
     <meta property="og:title" content="Book Illustration | ISB Ghostwriters">
     <meta property="og:description" content="ISB Ghostwriters offers professional book illustration services, creating custom characters, scenes, and artwork for children's books and storybooks.">
-    <meta property="og:url" content="https://isbghostwriters.com/services-pages/book-illustration.php">
+    <meta property="og:url" content="https://isbghostwriters.com/services-pages/book-illustration">
     <meta property="og:image" content="https://isbghostwriters.com/assets/img/about/main/bi-abt.jpg">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Book Illustration | ISB Ghostwriters">
@@ -46,6 +46,55 @@ require_once __DIR__ . '/../config.php';
     <link rel="stylesheet" href="<?= $BASE_URL ?>assets/css/defauls-spacing.min.css">
     <!--<< main.css >>-->
     <link rel="stylesheet" href="<?= $BASE_URL ?>assets/css/main.min.css">
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Do you illustrate children's books?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we create custom illustrations for children's books and storybooks."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can you design characters?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we can create original characters based on your story."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I choose the illustration style?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we can work with your preferred visual direction."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you prepare illustrations for print?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, final artwork can be prepared for print and digital book formats."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I use my illustrations if I switch publishers or self-publish later?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — once your project is paid in full, you own full rights to the artwork, the same as your manuscript."
+          }
+        }
+      ]
+    }
+    </script>
 </head>
 
 <body>
@@ -86,7 +135,7 @@ require_once __DIR__ . '/../config.php';
                             </div>
                             <div class="col-lg-6">
                                 <div class="td-about-main-thumb mb-40 fix td-rounded-10 wow fadeInLeft" data-wow-delay=".5s" data-wow-duration="1s">
-                                    <img data-speed=".9" class="w-100 td-rounded-10" src="<?= $BASE_URL ?>assets/img/about/main/bi-abt.jpg" alt="Custom book illustration artwork created by ISB Publishers">
+                                    <img data-speed=".9" class="w-100 td-rounded-10" src="<?= $BASE_URL ?>assets/img/about/main/bi-abt.jpg" alt="Custom book illustration artwork created by ISB Ghostwriters">
                                 </div>
                             </div>
                             <div class="col-lg-6">
@@ -95,11 +144,11 @@ require_once __DIR__ . '/../config.php';
                                     <div class="td-about-main-text mt-30">
                                         <p class="mb-40">Bring your story to life with custom illustrations designed for children’s books, storybooks, educational books, and creative publications. ISB Ghostwriters helps authors create characters, scenes, and visuals that match the tone of their story and connect with readers.</p>
                                         <div class="td-btn-group">
-                                            <a class="td-btn-circle" href="<?= $BASE_URL ?>contact.php">
+                                            <a class="td-btn-circle" href="<?= $BASE_URL ?>contact">
                                                 <i class="fa-solid fa-arrow-right"></i>
                                             </a>
-                                            <a class="td-btn-2 td-btn-primary" href="<?= $BASE_URL ?>contact.php">Contact Us</a>
-                                            <a class="td-btn-circle" href="<?= $BASE_URL ?>contact.php">
+                                            <a class="td-btn-2 td-btn-primary" href="<?= $BASE_URL ?>contact">Contact Us</a>
+                                            <a class="td-btn-circle" href="<?= $BASE_URL ?>contact">
                                                 <i class="fa-solid fa-arrow-right"></i>
                                             </a>
                                         </div>
@@ -115,7 +164,7 @@ require_once __DIR__ . '/../config.php';
                 <div class="td-contact-area td-contact-2-wrap pt-85 fix pb-50" style="padding-top: 0px;">
                     <div class="td-contact-7-text-slider">
                         <div class="td-contact-7-text-btn text-center pt-30">
-                            <a href="<?= $BASE_URL ?>contact.php">
+                            <a href="<?= $BASE_URL ?>contact">
                                 <img class="td-live-anim-spin" src="<?= $BASE_URL ?>assets/img/contact/text.png" alt="" loading="lazy">
                                 <span class="icon">
                                     <svg width="29" height="30" viewBox="0 0 29 30" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -198,7 +247,7 @@ require_once __DIR__ . '/../config.php';
                                 <div class="td-about-left mb-30">
                                     <span>Visualise Your Story Beautifully</span>
                                     <div class="td-about-left-thumb ml-60 fix td-rounded-10">
-                                        <img data-speed=".9" src="<?= $BASE_URL ?>assets/img/about/main/bi-abtt.jpg" alt="Illustrated storybook scene showcasing ISB Publishers' illustration style" loading="lazy">
+                                        <img data-speed=".9" src="<?= $BASE_URL ?>assets/img/about/main/bi-abtt.jpg" alt="Illustrated storybook scene showcasing ISB Ghostwriters' illustration style" loading="lazy">
                                     </div>
                                 </div>
                             </div>
@@ -207,11 +256,11 @@ require_once __DIR__ . '/../config.php';
                                     <h2 class="td-about-title mb-30 td-text-invert" style="font-size: 40px">Bring your characters, scenes, and imagination to life with custom illustrations that make your book more engaging and memorable.</h2>
                                     <p class="mb-45">Illustrations can turn a simple story into a visual experience that readers remember. For children’s books and creative stories, the right artwork helps communicate emotion, personality, setting, and imagination. ISB Ghostwriters works with you to understand your story, characters, audience, and preferred style. From character concepts to full-page illustrations, we create visuals that support your words, strengthen your book’s identity, and make every page feel more alive.</p>
                                     <div class="td-btn-group mb-35">
-                                        <a class="td-btn-circle" href="<?= $BASE_URL ?>about.php">
+                                        <a class="td-btn-circle" href="<?= $BASE_URL ?>about">
                                             <i class="fa-solid fa-arrow-right"></i>
                                         </a>
                                         <a class="td-btn-2 td-btn-primary" href="tel:(786) 949-4620">Free Consultation</a>
-                                        <a class="td-btn-circle" href="<?= $BASE_URL ?>about.php">
+                                        <a class="td-btn-circle" href="<?= $BASE_URL ?>about">
                                             <i class="fa-solid fa-arrow-right"></i>
                                         </a>
                                     </div>
@@ -288,13 +337,29 @@ require_once __DIR__ . '/../config.php';
                 </div>
                 <!-- td-service-process-area-end -->
 
+                <!-- td-service-highlight-area-start -->
+                <div class="td-about-area pt-80 pb-40">
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-8">
+                                <div class="td-service-process-title-wrap text-center mb-30">
+                                    <h2 class="td-testimonial-title td-text-invert" style="font-size: 40px; line-height: 1.3;">How Illustration Style Affects Your Book's
+                                        <span>Age Range and Genre Fit</span></h2>
+                                </div>
+                                <p class="text-center">A picture book aimed at ages 3-5 needs simpler shapes and brighter color than a chapter book for ages 8-12 — matching illustration style to age range isn't just aesthetic, it's how parents and Amazon's own categorization judge fit at a glance. We start every project by confirming your target age range and genre before any artwork begins.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- td-service-highlight-area-end -->
+
                  <!-- td-faq-2-area-start -->
                 <div class="td-faq-2-area pt-160">
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-6">
                                 <div class="td-faq-2-thumb mb-30 fix td-rounded-10">
-                                    <img data-speed=".9" class="td-rounded-10" src="<?= $BASE_URL ?>assets/img/about/main/bi-faq.jpg" alt="Author reviewing custom book illustrations with ISB Publishers" loading="lazy">
+                                    <img data-speed=".9" class="td-rounded-10" src="<?= $BASE_URL ?>assets/img/about/main/bi-faq.jpg" alt="Author reviewing custom book illustrations with ISB Ghostwriters" loading="lazy">
                                 </div>
                             </div>
                             <div class="col-lg-6">
@@ -359,6 +424,21 @@ require_once __DIR__ . '/../config.php';
                                                  data-bs-parent="#accordionExample">
                                                  <div class="accordion-body">
                                                     <p>Yes, final artwork can be prepared for print and digital book formats.</p>
+                                                 </div>
+                                              </div>
+                                           </div>
+                                           <div class="accordion-items">
+                                              <h2 class="accordion-header">
+                                                 <button class="accordion-buttons collapsed" type="button" data-bs-toggle="collapse"
+                                                    data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                                    Can I use my illustrations if I switch publishers or self-publish later?
+                                                    <span class="plus-icon"></span>
+                                                 </button>
+                                              </h2>
+                                              <div id="collapseFive" class="accordion-collapse collapse"
+                                                 data-bs-parent="#accordionExample">
+                                                 <div class="accordion-body">
+                                                    <p>Yes — once your project is paid in full, you own full rights to the artwork, the same as your manuscript.</p>
                                                  </div>
                                               </div>
                                            </div>

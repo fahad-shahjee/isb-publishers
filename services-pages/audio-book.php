@@ -10,11 +10,11 @@ require_once __DIR__ . '/../config.php';
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Expert Audiobook Services | ISB Ghostwriters</title>
     <meta name="description" content="Professional audiobook services from ISB Ghostwriters: narration, recording, editing, and mastering for fiction, non-fiction, business, and children's books.">
-    <link rel="canonical" href="https://isbghostwriters.com/services-pages/audio-book.php">
+    <link rel="canonical" href="https://isbghostwriters.com/services-pages/audio-book">
     <meta property="og:type" content="website">
     <meta property="og:title" content="Expert Audiobook Services | ISB Ghostwriters">
     <meta property="og:description" content="Professional audiobook services from ISB Ghostwriters: narration, recording, editing, and mastering for fiction, non-fiction, business, and children's books.">
-    <meta property="og:url" content="https://isbghostwriters.com/services-pages/audio-book.php">
+    <meta property="og:url" content="https://isbghostwriters.com/services-pages/audio-book">
     <meta property="og:image" content="https://isbghostwriters.com/assets/img/about/main/about.jpg">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Expert Audiobook Services | ISB Ghostwriters">
@@ -46,6 +46,63 @@ require_once __DIR__ . '/../config.php';
     <link rel="stylesheet" href="<?= $BASE_URL ?>assets/css/defauls-spacing.min.css">
     <!--<< main.css >>-->
     <link rel="stylesheet" href="<?= $BASE_URL ?>assets/css/main.min.css">
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Why use professional audiobook production?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Professional production ensures your story sounds clear, engaging, and emotionally authentic. It enhances the listening experience, captures the heart of your book, and helps your audiobook shine in a competitive market."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much does it cost?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Costs vary by book length, narration style, and voice artist. Contact us for a custom quote based on your project."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does it take?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Depending on length and production details, most audiobooks are completed within a few weeks to a couple of months."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What genres do you work with?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We produce all genres — fiction, non-fiction, self-help, memoirs, fantasy, romance, thrillers, and more."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is this good for self-published authors?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Absolutely. Professional production boosts your book’s reach, credibility, and listener appeal."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Should I release the audiobook at the same time as my ebook, or later?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Most authors launch the ebook and paperback first, then add the audiobook 4-8 weeks later as a second wave of visibility and sales — though we can produce it in parallel if you’d rather launch all formats together."
+          }
+        }
+      ]
+    }
+    </script>
 </head>
 
 <body>
@@ -93,13 +150,13 @@ require_once __DIR__ . '/../config.php';
                                 <div class="td-about-main-content mb-40 wow fadeInRight" data-wow-delay=".5s" data-wow-duration="1s">
                                     <h3 class="td-about-main-title mb-20">Premium Audiobook Solutions for Authors</h3>
                                     <div class="td-about-main-text mt-30">
-                                        <p class="mb-40">At ISB Publishers, we provide complete audiobook services for authors who want to reach a wider audience. From voice selection and narration guidance to recording, editing, mastering, and final delivery, our team ensures your audiobook sounds clear, professional, and ready for distribution. Whether you are publishing fiction, non-fiction, business content, self-help, or children’s books, we help create an audiobook that reflects your message and keeps listeners engaged from start to finish.</p>
+                                        <p class="mb-40">At ISB Ghostwriters, we provide complete audiobook services for authors who want to reach a wider audience. From voice selection and narration guidance to recording, editing, mastering, and final delivery, our team ensures your audiobook sounds clear, professional, and ready for distribution. Whether you are publishing fiction, non-fiction, business content, self-help, or children’s books, we help create an audiobook that reflects your message and keeps listeners engaged from start to finish.</p>
                                         <div class="td-btn-group">
-                                            <a class="td-btn-circle" href="<?= $BASE_URL ?>contact.php">
+                                            <a class="td-btn-circle" href="<?= $BASE_URL ?>contact">
                                                 <i class="fa-solid fa-arrow-right"></i>
                                             </a>
-                                            <a class="td-btn-2 td-btn-primary" href="<?= $BASE_URL ?>contact.php">Contact Us</a>
-                                            <a class="td-btn-circle" href="<?= $BASE_URL ?>contact.php">
+                                            <a class="td-btn-2 td-btn-primary" href="<?= $BASE_URL ?>contact">Contact Us</a>
+                                            <a class="td-btn-circle" href="<?= $BASE_URL ?>contact">
                                                 <i class="fa-solid fa-arrow-right"></i>
                                             </a>
                                         </div>
@@ -115,7 +172,7 @@ require_once __DIR__ . '/../config.php';
                 <div class="td-contact-area td-contact-2-wrap pt-85 fix pb-50" style="padding-top: 0px;">
                     <div class="td-contact-7-text-slider">
                         <div class="td-contact-7-text-btn text-center pt-30">
-                            <a href="<?= $BASE_URL ?>contact.php">
+                            <a href="<?= $BASE_URL ?>contact">
                                 <img class="td-live-anim-spin" src="<?= $BASE_URL ?>assets/img/contact/text.png" alt="Contact us" loading="lazy">
                                 <span class="icon">
                                     <svg width="29" height="30" viewBox="0 0 29 30" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -207,11 +264,11 @@ require_once __DIR__ . '/../config.php';
                                     <h2 class="td-about-title mb-30 td-text-invert" style="font-size: 40px">Your story has the power to connect with readers in a deeper way through audio. ISB Ghostwriters helps you turn your manuscript into a polished audiobook with professional production quality.</h2>
                                     <p class="mb-45">Turning your written book into a captivating audiobook takes more than simply reading it aloud. It requires expert narration, meticulous editing, and top-tier production to truly capture the heart and soul of your story. Let us handle every detail for you. We’ll transform your book into an immersive audiobook experience — one that brings every emotion to life and makes your story impossible to ignore.</p>
                                     <div class="td-btn-group mb-35">
-                                        <a class="td-btn-circle" href="<?= $BASE_URL ?>about.php">
+                                        <a class="td-btn-circle" href="<?= $BASE_URL ?>about">
                                             <i class="fa-solid fa-arrow-right"></i>
                                         </a>
                                         <a class="td-btn-2 td-btn-primary" href="tel:(786) 949-4620">Free Consultation</a>
-                                        <a class="td-btn-circle" href="<?= $BASE_URL ?>about.php">
+                                        <a class="td-btn-circle" href="<?= $BASE_URL ?>about">
                                             <i class="fa-solid fa-arrow-right"></i>
                                         </a>
                                     </div>
@@ -288,6 +345,22 @@ require_once __DIR__ . '/../config.php';
                 </div>
                 <!-- td-service-process-area-end -->
 
+                <!-- td-audiobook-growth-area-start -->
+                <div class="td-service-process-area pt-80 pb-80">
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-8">
+                                <div class="td-service-process-title-wrap text-center mb-30">
+                                    <h2 class="td-testimonial-title td-text-invert" style="font-size: 40px; line-height: 1.3;">Why Audiobooks Are the Fastest-Growing Format
+                                        <span>for Self-Published Authors</span></h2>
+                                    <p class="mb-0">Audiobook consumption has grown faster than any other format in publishing over the past few years, and platforms like Audible and Spotify have made it easier than ever for independent authors to distribute one. Adding an audiobook after your ebook and print launch is often the single highest-ROI next step for reaching new readers.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- td-audiobook-growth-area-end -->
+
                  <!-- td-faq-2-area-start -->
                 <div class="td-faq-2-area pt-160">
                     <div class="container">
@@ -299,7 +372,7 @@ require_once __DIR__ . '/../config.php';
                             </div>
                             <div class="col-lg-6">
                                 <div class="td-faq-4-wrap-right td-faq-2-wrap-right mb-30">
-                                    <h2 class="td-testimonial-title mb-20 td-text-invert">Frequently <span>asked questions</span></h2>
+                                    <h2 class="td-testimonial-title mb-20 td-text-invert" style="font-size: 44px; line-height: 1.2;">Frequently <span>asked questions</span></h2>
                                     <div class="td-faq-4-accordion  wow fadeInRight" data-wow-delay=".5s" data-wow-duration="1s">
                                         <div class="accordion" id="accordionExample">
                                            <div class="accordion-items">
@@ -374,6 +447,21 @@ require_once __DIR__ . '/../config.php';
                                                  data-bs-parent="#accordionExample">
                                                  <div class="accordion-body">
                                                     <p>Absolutely. Professional production boosts your book’s reach, credibility, and listener appeal.</p>
+                                                 </div>
+                                              </div>
+                                           </div>
+                                           <div class="accordion-items">
+                                              <h2 class="accordion-header">
+                                                 <button class="accordion-buttons collapsed" type="button" data-bs-toggle="collapse"
+                                                    data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                                                    Should I release the audiobook at the same time as my ebook, or later?
+                                                    <span class="plus-icon"></span>
+                                                 </button>
+                                              </h2>
+                                              <div id="collapseSix" class="accordion-collapse collapse"
+                                                 data-bs-parent="#accordionExample">
+                                                 <div class="accordion-body">
+                                                    <p>Most authors launch the ebook and paperback first, then add the audiobook 4-8 weeks later as a second wave of visibility and sales — though we can produce it in parallel if you’d rather launch all formats together.</p>
                                                  </div>
                                               </div>
                                            </div>

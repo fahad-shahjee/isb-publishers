@@ -10,11 +10,11 @@ require_once __DIR__ . '/../config.php';
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Book Marketing Services | ISB Ghostwriters</title>
     <meta name="description" content="ISB Ghostwriters delivers results-driven book marketing, including strategy planning, promotional content, and launch support to help authors reach more readers.">
-    <link rel="canonical" href="https://isbghostwriters.com/services-pages/book-marketing.php">
+    <link rel="canonical" href="https://isbghostwriters.com/services-pages/book-marketing">
     <meta property="og:type" content="website">
     <meta property="og:title" content="Book Marketing Services | ISB Ghostwriters">
     <meta property="og:description" content="ISB Ghostwriters delivers results-driven book marketing, including strategy planning, promotional content, and launch support to help authors reach more readers.">
-    <meta property="og:url" content="https://isbghostwriters.com/services-pages/book-marketing.php">
+    <meta property="og:url" content="https://isbghostwriters.com/services-pages/book-marketing">
     <meta property="og:image" content="https://isbghostwriters.com/assets/img/about/main/bm-img.jpg">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Book Marketing Services | ISB Ghostwriters">
@@ -46,6 +46,63 @@ require_once __DIR__ . '/../config.php';
     <link rel="stylesheet" href="<?= $BASE_URL ?>assets/css/defauls-spacing.min.css">
     <!--<< main.css >>-->
     <link rel="stylesheet" href="<?= $BASE_URL ?>assets/css/main.min.css">
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is book marketing?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Book marketing is the process of promoting your book so more readers can discover it. It includes creating a clear message, identifying your target audience, preparing promotional content, building visibility, and using the right platforms to introduce your book to potential readers."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can you market a book that is already published?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we can help promote books that have already been published. Whether your book is newly released or has been available for some time, we can create a marketing direction to improve visibility, refresh your promotional content, and help your book reach new readers."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you help with book launch campaigns?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we can support your book launch with planning, promotional copy, social media content, launch messaging, and campaign direction. A strong launch helps create attention around your book and gives readers a clear reason to engage with it."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can you create social media content for my book?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we can create social media content designed to promote your book professionally. This can include captions, post ideas, launch announcements, quote-based content, author branding posts, and promotional messaging that fits your book and audience."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you write book descriptions and promotional copy?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we can write professional book descriptions, author bios, sales copy, social media captions, and promotional text. Strong copy helps readers understand what your book is about and why they should be interested in reading it."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you help get reviews for my book?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We help you build a compliant plan for requesting reviews from early readers and ARC (advance reader copy) recipients — we never buy or fabricate reviews, which can get a book removed from Amazon."
+          }
+        }
+      ]
+    }
+    </script>
 </head>
 
 <body>
@@ -86,7 +143,7 @@ require_once __DIR__ . '/../config.php';
                             </div>
                             <div class="col-lg-6">
                                 <div class="td-about-main-thumb mb-40 fix td-rounded-10 wow fadeInLeft" data-wow-delay=".5s" data-wow-duration="1s">
-                                    <img data-speed=".9" class="w-100 td-rounded-10" src="<?= $BASE_URL ?>assets/img/about/main/bm-img.jpg" alt="Book marketing services from ISB Publishers">
+                                    <img data-speed=".9" class="w-100 td-rounded-10" src="<?= $BASE_URL ?>assets/img/about/main/bm-img.jpg" alt="Book marketing services from ISB Ghostwriters">
                                 </div>
                             </div>
                             <div class="col-lg-6">
@@ -95,11 +152,11 @@ require_once __DIR__ . '/../config.php';
                                     <div class="td-about-main-text mt-30">
                                         <p class="mb-40">We are passionate about supporting authors and the incredible stories they have to tell. With years of publishing expertise, our team provides personalized, end-to-end solutions to help writers at every stage of their journey — from the first spark of an idea to the moment their book reaches readers around the world. We believe every story deserves to be told with care, creativity, and authenticity.</p>
                                         <div class="td-btn-group">
-                                            <a class="td-btn-circle" href="<?= $BASE_URL ?>contact.php">
+                                            <a class="td-btn-circle" href="<?= $BASE_URL ?>contact">
                                                 <i class="fa-solid fa-arrow-right"></i>
                                             </a>
-                                            <a class="td-btn-2 td-btn-primary" href="<?= $BASE_URL ?>contact.php">Contact Us</a>
-                                            <a class="td-btn-circle" href="<?= $BASE_URL ?>contact.php">
+                                            <a class="td-btn-2 td-btn-primary" href="<?= $BASE_URL ?>contact">Contact Us</a>
+                                            <a class="td-btn-circle" href="<?= $BASE_URL ?>contact">
                                                 <i class="fa-solid fa-arrow-right"></i>
                                             </a>
                                         </div>
@@ -115,7 +172,7 @@ require_once __DIR__ . '/../config.php';
                 <div class="td-contact-area td-contact-2-wrap pt-85 fix pb-50" style="padding-top: 0px;">
                     <div class="td-contact-7-text-slider">
                         <div class="td-contact-7-text-btn text-center pt-30">
-                            <a href="<?= $BASE_URL ?>contact.php">
+                            <a href="<?= $BASE_URL ?>contact">
                                 <img class="td-live-anim-spin" src="<?= $BASE_URL ?>assets/img/contact/text.png" alt="" loading="lazy">
                                 <span class="icon">
                                     <svg width="29" height="30" viewBox="0 0 29 30" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -198,7 +255,7 @@ require_once __DIR__ . '/../config.php';
                                 <div class="td-about-left mb-30">
                                     <span>Empowering Your Words to Be Heard</span>
                                     <div class="td-about-left-thumb ml-60 fix td-rounded-10">
-                                        <img data-speed=".9" src="<?= $BASE_URL ?>assets/img/about/main/bm-abt.jpg" alt="Author's book being promoted through ISB Publishers' marketing strategy" loading="lazy">
+                                        <img data-speed=".9" src="<?= $BASE_URL ?>assets/img/about/main/bm-abt.jpg" alt="Author's book being promoted through ISB Ghostwriters' marketing strategy" loading="lazy">
                                     </div>
                                 </div>
                             </div>
@@ -207,11 +264,11 @@ require_once __DIR__ . '/../config.php';
                                     <h2 class="td-about-title mb-30 td-text-invert" style="font-size: 40px">Your story is meant to be read, shared, and celebrated. With our expert book marketing, we make sure your voice echoes across readers’ hearts and minds.</h2>
                                     <p class="mb-45">Turning your written book into a captivating audiobook takes more than simply reading it aloud. It requires expert narration, meticulous editing, and top-tier production to truly capture the heart and soul of your story. Let us handle every detail for you. We’ll transform your book into an immersive audiobook experience — one that brings every emotion to life and makes your story impossible to ignore.</p>
                                     <div class="td-btn-group mb-35">
-                                        <a class="td-btn-circle" href="<?= $BASE_URL ?>about.php">
+                                        <a class="td-btn-circle" href="<?= $BASE_URL ?>about">
                                             <i class="fa-solid fa-arrow-right"></i>
                                         </a>
                                         <a class="td-btn-2 td-btn-primary" href="tel:(786) 949-4620">Free Consultation</a>
-                                        <a class="td-btn-circle" href="<?= $BASE_URL ?>about.php">
+                                        <a class="td-btn-circle" href="<?= $BASE_URL ?>about">
                                             <i class="fa-solid fa-arrow-right"></i>
                                         </a>
                                     </div>
@@ -220,7 +277,7 @@ require_once __DIR__ . '/../config.php';
                                             <img class="td-live-anim-spin" src="<?= $BASE_URL ?>assets/img/about/shape.png" alt="" loading="lazy">
                                         </div>
                                         <div class="td-about-thumb fix td-rounded-10">
-                                            <img data-speed=".9" src="<?= $BASE_URL ?>assets/img/about/main/bm-abt-2.jpg" alt="Book marketing campaign visual by ISB Publishers" loading="lazy">
+                                            <img data-speed=".9" src="<?= $BASE_URL ?>assets/img/about/main/bm-abt-2.jpg" alt="Book marketing campaign visual by ISB Ghostwriters" loading="lazy">
                                         </div>
                                     </div>
                                 </div>
@@ -287,6 +344,22 @@ require_once __DIR__ . '/../config.php';
                     </div>
                 </div>
                 <!-- td-service-process-area-end -->
+
+                <!-- td-service-highlight-area-start -->
+                <div class="td-about-area pt-80 pb-40">
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-8">
+                                <div class="td-service-process-title-wrap text-center mb-30">
+                                    <h2 class="td-testimonial-title td-text-invert" style="font-size: 40px; line-height: 1.3;">Launching on Amazon:
+                                        <span>What Actually Moves the Needle</span></h2>
+                                </div>
+                                <p class="text-center">Amazon ranks books largely on early sales velocity and reviews — which means your launch week matters more than almost anything after it. We build a launch plan around that reality: pre-launch buzz, a coordinated release day, and a review-generation plan that stays within Amazon's guidelines.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- td-service-highlight-area-end -->
 
                  <!-- td-faq-2-area-start -->
                 <div class="td-faq-2-area pt-160">
@@ -374,6 +447,21 @@ require_once __DIR__ . '/../config.php';
                                                  data-bs-parent="#accordionExample">
                                                  <div class="accordion-body">
                                                     <p>Yes, we can write professional book descriptions, author bios, sales copy, social media captions, and promotional text. Strong copy helps readers understand what your book is about and why they should be interested in reading it.</p>
+                                                 </div>
+                                              </div>
+                                           </div>
+                                           <div class="accordion-items">
+                                              <h2 class="accordion-header">
+                                                 <button class="accordion-buttons collapsed" type="button" data-bs-toggle="collapse"
+                                                    data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                                                    Do you help get reviews for my book?
+                                                    <span class="plus-icon"></span>
+                                                 </button>
+                                              </h2>
+                                              <div id="collapseSix" class="accordion-collapse collapse"
+                                                 data-bs-parent="#accordionExample">
+                                                 <div class="accordion-body">
+                                                    <p>We help you build a compliant plan for requesting reviews from early readers and ARC (advance reader copy) recipients — we never buy or fabricate reviews, which can get a book removed from Amazon.</p>
                                                  </div>
                                               </div>
                                            </div>

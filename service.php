@@ -8,17 +8,17 @@ require_once __DIR__ . '/config.php';
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Services - ISB Ghostwriters</title>
-    <meta name="description" content="Showcasing the services offered by ISB Ghostwriters.">
-    <link rel="canonical" href="https://isbghostwriters.com/service.php">
+    <title>Ebook Ghostwriting, Publishing & Design Services | ISB Ghostwriters</title>
+    <meta name="description" content="From ghostwriting to Amazon KDP publishing, cover design, formatting, illustration, marketing, and audiobooks — explore ISB Ghostwriters' full range of ebook services.">
+    <link rel="canonical" href="https://isbghostwriters.com/service">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Services - ISB Ghostwriters">
-    <meta property="og:description" content="Showcasing the services offered by ISB Ghostwriters.">
-    <meta property="og:url" content="https://isbghostwriters.com/service.php">
+    <meta property="og:title" content="Ebook Ghostwriting, Publishing & Design Services | ISB Ghostwriters">
+    <meta property="og:description" content="From ghostwriting to Amazon KDP publishing, cover design, formatting, illustration, marketing, and audiobooks — explore ISB Ghostwriters' full range of ebook services.">
+    <meta property="og:url" content="https://isbghostwriters.com/service">
     <meta property="og:image" content="https://isbghostwriters.com/assets/img/about/main/thumb.jpg">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Services - ISB Ghostwriters">
-    <meta name="twitter:description" content="Showcasing the services offered by ISB Ghostwriters.">
+    <meta name="twitter:title" content="Ebook Ghostwriting, Publishing & Design Services | ISB Ghostwriters">
+    <meta name="twitter:description" content="From ghostwriting to Amazon KDP publishing, cover design, formatting, illustration, marketing, and audiobooks — explore ISB Ghostwriters' full range of ebook services.">
     <meta name="twitter:image" content="https://isbghostwriters.com/assets/img/about/main/thumb.jpg">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -78,7 +78,8 @@ require_once __DIR__ . '/config.php';
                             <div class="col-lg-9">
                                 <div class="td-breadcrumb-wrap">
                                     <span class="subtitle d-inline-block mb-15  wow fadeInLeft" data-wow-delay=".4s" data-wow-duration="1s">BEST SERVICE PROVIDE</span>
-                                    <h1 class="td-section-page-title mb-35  wow fadeInLeft" data-wow-delay=".7s" data-wow-duration="1s">Experience <br> The <span>Best Service </span></h1>
+                                    <h1 class="td-section-page-title mb-35  wow fadeInLeft" data-wow-delay=".7s" data-wow-duration="1s">Everything Your Book Needs, <span>In One Place</span></h1>
+                                    <p class="mb-0 wow fadeInLeft" data-wow-delay=".9s" data-wow-duration="1s">Publishing a book takes more than a great idea — it takes a writer, an editor, a designer, and someone who knows how Amazon KDP actually works. ISB Ghostwriters brings all of it together under one roof, so you're never juggling five freelancers to finish one book. Explore each service below, or book a free call and we'll build a plan around exactly what your project needs.</p>
                                 </div>
                             </div>
                         </div>
@@ -102,9 +103,9 @@ require_once __DIR__ . '/config.php';
                                             <span class="number">01</span>
 
                                         </div>
-                                        <h2 class="td-service-pin-title mb-30">Audiobook</h2>
+                                        <h2 class="td-service-pin-title mb-30">Audiobook Production</h2>
                                         <div class="td-service-pin-content  ml-50">
-                                            <p class="mb-40">We transform your book into a professional audiobook that captures your story, tone, and emotion. Reach more readers by giving your audience a powerful listening experience.</p>
+                                            <p class="mb-40">Audiobooks are the fastest-growing format in self-publishing. We handle narration, editing, and mastering so your book reaches readers who listen instead of (or in addition to) reading.</p>
                                             <ul>
                                                 <li>Voice narration</li>
                                                 <li>Sound mastering</li>
@@ -112,11 +113,11 @@ require_once __DIR__ . '/config.php';
                                                 <li>Audiobook production</li>
                                             </ul>
                                             <div class="td-btn-group td-btn-group-border pt-50">
-                                                <a class="td-btn-circle" href="<?= $BASE_URL ?>services-pages/audio-book.php">
+                                                <a class="td-btn-circle" href="<?= $BASE_URL ?>services-pages/audio-book">
                                                     <i class="fa-solid fa-arrow-right"></i>
                                                 </a>
-                                                <a class="td-btn-2 td-btn-primary" href="<?= $BASE_URL ?>services-pages/audio-book.php">VIEW DETAILS</a>
-                                                <a class="td-btn-circle" href="<?= $BASE_URL ?>services-pages/audio-book.php">
+                                                <a class="td-btn-2 td-btn-primary" href="<?= $BASE_URL ?>services-pages/audio-book">VIEW DETAILS</a>
+                                                <a class="td-btn-circle" href="<?= $BASE_URL ?>services-pages/audio-book">
                                                     <i class="fa-solid fa-arrow-right"></i>
                                                 </a>
                                             </div>
@@ -139,7 +140,7 @@ require_once __DIR__ . '/config.php';
                                         </div>
                                         <h2 class="td-service-pin-title mb-30">Author Website</h2>
                                         <div class="td-service-pin-content  ml-50">
-                                            <p class="mb-40">We create professional author websites that showcase your books, build your personal brand, and help readers connect with your work online.</p>
+                                            <p class="mb-40">A dedicated author website gives readers one place to find your books, your story, and a way to buy directly — and it's often the first thing a literary agent or reviewer checks.</p>
                                             <ul>
                                                 <li>Author profile</li>
                                                 <li>Book showcase</li>
@@ -147,11 +148,11 @@ require_once __DIR__ . '/config.php';
                                                 <li>Reader engagement</li>
                                             </ul>
                                             <div class="td-btn-group td-btn-group-border pt-50">
-                                                <a class="td-btn-circle" href="<?= $BASE_URL ?>services-pages/author-website.php">
+                                                <a class="td-btn-circle" href="<?= $BASE_URL ?>services-pages/author-website">
                                                     <i class="fa-solid fa-arrow-right"></i>
                                                 </a>
-                                                <a class="td-btn-2 td-btn-primary" href="<?= $BASE_URL ?>services-pages/author-website.php">VIEW DETAILS</a>
-                                                <a class="td-btn-circle" href="<?= $BASE_URL ?>services-pages/author-website.php">
+                                                <a class="td-btn-2 td-btn-primary" href="<?= $BASE_URL ?>services-pages/author-website">VIEW DETAILS</a>
+                                                <a class="td-btn-circle" href="<?= $BASE_URL ?>services-pages/author-website">
                                                     <i class="fa-solid fa-arrow-right"></i>
                                                 </a>
                                             </div>
@@ -172,21 +173,20 @@ require_once __DIR__ . '/config.php';
                                         <div class="td-service-pin-subtitle mb-15">
                                             <span class="number">03</span>
                                         </div>
-                                        <h2 class="td-service-pin-title mb-30">Proofreading</h2>
+                                        <h2 class="td-service-pin-title mb-30">Proofreading & Editing</h2>
                                         <div class="td-service-pin-content  ml-50">
-                                            <p class="mb-40">We carefully review your manuscript to correct grammar, spelling, punctuation, and final errors, helping your book look polished and ready for publishing.</p>
+                                            <p class="mb-40">A final, professional proofread catches the errors self-editing misses — grammar, punctuation, and formatting consistency — without changing your voice.</p>
                                             <ul>
                                                 <li>Grammar check</li>
                                                 <li>Spelling correction</li>
                                                 <li>Punctuation review</li>
-                                                <li>Final manuscript polish</li>
                                             </ul>
                                             <div class="td-btn-group td-btn-group-border pt-50">
-                                                <a class="td-btn-circle" href="<?= $BASE_URL ?>services-pages/proofreading.php">
+                                                <a class="td-btn-circle" href="<?= $BASE_URL ?>services-pages/proofreading">
                                                     <i class="fa-solid fa-arrow-right"></i>
                                                 </a>
-                                                <a class="td-btn-2 td-btn-primary" href="<?= $BASE_URL ?>services-pages/proofreading.php">VIEW DETAILS</a>
-                                                <a class="td-btn-circle" href="<?= $BASE_URL ?>services-pages/proofreading.php">
+                                                <a class="td-btn-2 td-btn-primary" href="<?= $BASE_URL ?>services-pages/proofreading">VIEW DETAILS</a>
+                                                <a class="td-btn-circle" href="<?= $BASE_URL ?>services-pages/proofreading">
                                                     <i class="fa-solid fa-arrow-right"></i>
                                                 </a>
                                             </div>
@@ -209,19 +209,18 @@ require_once __DIR__ . '/config.php';
                                         </div>
                                         <h2 class="td-service-pin-title mb-30">Book Publishing</h2>
                                         <div class="td-service-pin-content  ml-50">
-                                            <p class="mb-40">We guide authors through the complete publishing process, helping turn manuscripts into professionally prepared books ready for print and digital platforms.</p>
+                                            <p class="mb-40">Once your manuscript is ready, we handle Amazon KDP setup, formatting compliance, and distribution to print and ebook platforms — so your book actually goes live, correctly, the first time.</p>
                                             <ul>
                                                 <li>Amazon publishing</li>
                                                 <li>Print publishing</li>
                                                 <li>eBook publishing</li>
-                                                <li>Publishing support</li>
                                             </ul>
                                             <div class="td-btn-group td-btn-group-border pt-50">
-                                                <a class="td-btn-circle" href="<?= $BASE_URL ?>services-pages/book-publishing.php">
+                                                <a class="td-btn-circle" href="<?= $BASE_URL ?>services-pages/book-publishing">
                                                     <i class="fa-solid fa-arrow-right"></i>
                                                 </a>
-                                                <a class="td-btn-2 td-btn-primary" href="<?= $BASE_URL ?>services-pages/book-publishing.php">VIEW DETAILS</a>
-                                                <a class="td-btn-circle" href="<?= $BASE_URL ?>services-pages/book-publishing.php">
+                                                <a class="td-btn-2 td-btn-primary" href="<?= $BASE_URL ?>services-pages/book-publishing">VIEW DETAILS</a>
+                                                <a class="td-btn-circle" href="<?= $BASE_URL ?>services-pages/book-publishing">
                                                     <i class="fa-solid fa-arrow-right"></i>
                                                 </a>
                                             </div>
@@ -242,9 +241,9 @@ require_once __DIR__ . '/config.php';
                                         <div class="td-service-pin-subtitle mb-15">
                                             <span class="number">05</span>
                                         </div>
-                                        <h2 class="td-service-pin-title mb-30">Ghostwriting</h2>
+                                        <h2 class="td-service-pin-title mb-30">Book Ghostwriting</h2>
                                         <div class="td-service-pin-content  ml-50">
-                                            <p class="mb-40">We turn your ideas, notes, and experiences into a professionally written book that reflects your voice, message, and vision.</p>
+                                            <p class="mb-40">Have an idea but not the time (or writing background) to turn it into a manuscript? Our ghostwriters write full-length fiction and nonfiction ebooks in your voice, from a single conversation or a folder of notes.</p>
                                             <ul>
                                                 <li>Book writing</li>
                                                 <li>Story development</li>
@@ -252,11 +251,11 @@ require_once __DIR__ . '/config.php';
                                                 <li>Manuscript creation</li>
                                             </ul>
                                             <div class="td-btn-group td-btn-group-border pt-50">
-                                                <a class="td-btn-circle" href="<?= $BASE_URL ?>services-pages/book-ghostwriting.php">
+                                                <a class="td-btn-circle" href="<?= $BASE_URL ?>services-pages/book-ghostwriting">
                                                     <i class="fa-solid fa-arrow-right"></i>
                                                 </a>
-                                                <a class="td-btn-2 td-btn-primary" href="<?= $BASE_URL ?>services-pages/book-ghostwriting.php">VIEW DETAILS</a>
-                                                <a class="td-btn-circle" href="<?= $BASE_URL ?>services-pages/book-ghostwriting.php">
+                                                <a class="td-btn-2 td-btn-primary" href="<?= $BASE_URL ?>services-pages/book-ghostwriting">VIEW DETAILS</a>
+                                                <a class="td-btn-circle" href="<?= $BASE_URL ?>services-pages/book-ghostwriting">
                                                     <i class="fa-solid fa-arrow-right"></i>
                                                 </a>
                                             </div>
@@ -280,19 +279,18 @@ require_once __DIR__ . '/config.php';
                                         </div>
                                         <h2 class="td-service-pin-title mb-30">Book Marketing</h2>
                                         <div class="td-service-pin-content  ml-50">
-                                            <p class="mb-40">We help promote your book with creative marketing strategies designed to increase visibility, attract readers, and support your author brand.</p>
+                                            <p class="mb-40">Publishing is only half the job — readers still have to find your book. We build launch strategies, write promotional content, and support your book's visibility on and off Amazon.</p>
                                             <ul>
                                                 <li>Marketing strategy</li>
                                                 <li>Launch planning</li>
                                                 <li>Social promotion</li>
-                                                <li>Reader outreach</li>
                                             </ul>
                                             <div class="td-btn-group td-btn-group-border pt-50">
-                                                <a class="td-btn-circle" href="<?= $BASE_URL ?>services-pages/book-marketing.php">
+                                                <a class="td-btn-circle" href="<?= $BASE_URL ?>services-pages/book-marketing">
                                                     <i class="fa-solid fa-arrow-right"></i>
                                                 </a>
-                                                <a class="td-btn-2 td-btn-primary" href="<?= $BASE_URL ?>services-pages/book-marketing.php">VIEW DETAILS</a>
-                                                <a class="td-btn-circle" href="<?= $BASE_URL ?>services-pages/book-marketing.php">
+                                                <a class="td-btn-2 td-btn-primary" href="<?= $BASE_URL ?>services-pages/book-marketing">VIEW DETAILS</a>
+                                                <a class="td-btn-circle" href="<?= $BASE_URL ?>services-pages/book-marketing">
                                                     <i class="fa-solid fa-arrow-right"></i>
                                                 </a>
                                             </div>
@@ -316,19 +314,18 @@ require_once __DIR__ . '/config.php';
                                         </div>
                                         <h2 class="td-service-pin-title mb-30">Book Illustration</h2>
                                         <div class="td-service-pin-content  ml-50">
-                                            <p class="mb-40">We create custom illustrations that bring your characters, scenes, and story to life with visuals designed to engage readers.</p>
+                                            <p class="mb-40">From picture books to chapter-book scenes, our illustrators design custom characters and artwork that match your story's tone — no stock art, no generic clip-art characters.</p>
                                             <ul>
                                                 <li>Character design</li>
                                                 <li>Story illustrations</li>
-                                                <li>Childrenâ€™s books</li>
-                                                <li>Creative artwork</li>
+                                                <li>Children's books</li>
                                             </ul>
                                             <div class="td-btn-group td-btn-group-border pt-50">
-                                                <a class="td-btn-circle" href="<?= $BASE_URL ?>services-pages/book-illustration.php">
+                                                <a class="td-btn-circle" href="<?= $BASE_URL ?>services-pages/book-illustration">
                                                     <i class="fa-solid fa-arrow-right"></i>
                                                 </a>
-                                                <a class="td-btn-2 td-btn-primary" href="<?= $BASE_URL ?>services-pages/book-illustration.php">VIEW DETAILS</a>
-                                                <a class="td-btn-circle" href="<?= $BASE_URL ?>services-pages/book-illustration.php">
+                                                <a class="td-btn-2 td-btn-primary" href="<?= $BASE_URL ?>services-pages/book-illustration">VIEW DETAILS</a>
+                                                <a class="td-btn-circle" href="<?= $BASE_URL ?>services-pages/book-illustration">
                                                     <i class="fa-solid fa-arrow-right"></i>
                                                 </a>
                                             </div>
@@ -352,7 +349,7 @@ require_once __DIR__ . '/config.php';
                                         </div>
                                         <h2 class="td-service-pin-title mb-30">Book Cover Design</h2>
                                         <div class="td-service-pin-content  ml-50">
-                                            <p class="mb-40">We design professional book covers that capture attention, match your genre, and give your book a strong first impression.</p>
+                                            <p class="mb-40">Readers judge a book by its cover in the first three seconds of scrolling Amazon. We design genre-matched covers for eBook, paperback, and hardcover that are built to make browsers stop and click.</p>
                                             <ul>
                                                 <li>Front cover design</li>
                                                 <li>Back cover design</li>
@@ -360,11 +357,11 @@ require_once __DIR__ . '/config.php';
                                                 <li>eBook cover</li>
                                             </ul>
                                             <div class="td-btn-group td-btn-group-border pt-50">
-                                                <a class="td-btn-circle" href="<?= $BASE_URL ?>services-pages/book-cover-design.php">
+                                                <a class="td-btn-circle" href="<?= $BASE_URL ?>services-pages/book-cover-design">
                                                     <i class="fa-solid fa-arrow-right"></i>
                                                 </a>
-                                                <a class="td-btn-2 td-btn-primary" href="<?= $BASE_URL ?>services-pages/book-cover-design.php">VIEW DETAILS</a>
-                                                <a class="td-btn-circle" href="<?= $BASE_URL ?>services-pages/book-cover-design.php">
+                                                <a class="td-btn-2 td-btn-primary" href="<?= $BASE_URL ?>services-pages/book-cover-design">VIEW DETAILS</a>
+                                                <a class="td-btn-circle" href="<?= $BASE_URL ?>services-pages/book-cover-design">
                                                     <i class="fa-solid fa-arrow-right"></i>
                                                 </a>
                                             </div>
@@ -388,7 +385,7 @@ require_once __DIR__ . '/config.php';
                                         </div>
                                         <h2 class="td-service-pin-title mb-30">Book Formatting</h2>
                                         <div class="td-service-pin-content  ml-50">
-                                            <p class="mb-40">We format your manuscript into a clean, professional layout ready for paperback, hardcover, Kindle, and digital publishing.</p>
+                                            <p class="mb-40">Formatting errors are one of the fastest ways to get a book rejected or returned on Amazon KDP. We format every manuscript to spec for Kindle, print, and eBook so it's approved and looks professional on any device.</p>
                                             <ul>
                                                 <li>Print formatting</li>
                                                 <li>eBook formatting</li>
@@ -396,11 +393,11 @@ require_once __DIR__ . '/config.php';
                                                 <li>KDP formatting</li>
                                             </ul>
                                             <div class="td-btn-group td-btn-group-border pt-50">
-                                                <a class="td-btn-circle" href="<?= $BASE_URL ?>services-pages/book-formatting.php">
+                                                <a class="td-btn-circle" href="<?= $BASE_URL ?>services-pages/book-formatting">
                                                     <i class="fa-solid fa-arrow-right"></i>
                                                 </a>
-                                                <a class="td-btn-2 td-btn-primary" href="<?= $BASE_URL ?>services-pages/book-formatting.php">VIEW DETAILS</a>
-                                                <a class="td-btn-circle" href="<?= $BASE_URL ?>services-pages/book-formatting.php">
+                                                <a class="td-btn-2 td-btn-primary" href="<?= $BASE_URL ?>services-pages/book-formatting">VIEW DETAILS</a>
+                                                <a class="td-btn-circle" href="<?= $BASE_URL ?>services-pages/book-formatting">
                                                     <i class="fa-solid fa-arrow-right"></i>
                                                 </a>
                                             </div>
@@ -419,7 +416,7 @@ require_once __DIR__ . '/config.php';
                         <div class="row">
                             <div class="col-xl-9">
                                 <div class="td-about-main-feature-wrap">
-                                    <h2 class="td-about-main-feature-title mb-70 td-text-invert" style="line-height: 60px;">We are a ghostwriting studio dedicated to crafting books that reflect your voice and captivate readers worldwide.</h2>
+                                    <h2 class="td-about-main-feature-title mb-70 td-text-invert" style="line-height: 60px; text-wrap: balance;">We are a ghostwriting studio dedicated to crafting books that reflect your voice and captivate readers worldwide.</h2>
                                     <div class="row">
                                         <div class="col-lg-5 d-none d-md-block">
                                             <div class="td-about-main-feature-shape text-center ml-70 mb-40">
@@ -452,16 +449,20 @@ require_once __DIR__ . '/config.php';
                 <div class="td-cta-area">
                     <div class="container">
                         <div class="col-lg-12">
-                            <div class="td-cta-wrap p-relative z-index-1 text-center pt-135 pb-135 include-bg" data-background="assets/img/cta/bg.jpg">
+                            <div class="td-cta-wrap p-relative z-index-1 text-center pt-100 pb-100 include-bg" data-background="assets/img/cta/bg.jpg">
                                 <img class="td-cta-shape d-none d-xl-block" src="assets/img/cta/cta.png" alt="" loading="lazy">
-                                <h2 class="title p-relative d-inline-block">
-                                    <img class="td-cta-shape-2 d-none d-md-block" src="assets/img/cta/cta-2.png" alt="" loading="lazy">
-                                    <a class="td-text-invert" href="contact.php">
-                                        HAVE A<br>
-                                        PROJECTS<br>
-                                        IN MINDS
+                                <img class="td-cta-shape-2 d-none d-md-block" src="assets/img/cta/cta-2.png" alt="" loading="lazy">
+                                <h2 class="td-testimonial-title td-text-invert mb-20" style="font-size: 60px; line-height: 1.2;">Not Sure Which <span style="font-size: 90px;">Services You Need?</span></h2>
+                                <p class="mb-35" style="max-width: 560px; margin-left: auto; margin-right: auto; color: rgba(10, 17, 25, 0.7);">Most authors don't need all nine — tell us where you are in the process and we'll recommend exactly what your book needs next.</p>
+                                <div class="td-btn-group d-inline-flex">
+                                    <a class="td-btn-circle" href="contact">
+                                        <i class="fa-solid fa-arrow-right"></i>
                                     </a>
-                                </h2>
+                                    <a class="td-btn-2 td-btn-primary" href="contact">Get a Free Recommendation</a>
+                                    <a class="td-btn-circle" href="contact">
+                                        <i class="fa-solid fa-arrow-right"></i>
+                                    </a>
+                                </div>
                             </div>
                         </div>
                     </div>

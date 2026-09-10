@@ -756,24 +756,29 @@
 		=       Masonary Js	      =
 	=============================================*/
 
-	$('.grid').imagesLoaded(function () {
-		// init Isotope
-		var $grid = $('.grid').isotope({
-			itemSelector: '.grid-item',
-			percentPosition: true,
-			masonry: {
-				columnWidth: '.grid-item',
-			}
+	$('.grid').each(function () {
+		var $thisGrid = $(this);
+		$thisGrid.imagesLoaded(function () {
+			// init Isotope — each .grid container gets its own instance so
+			// multiple grids on one page (e.g. separate filtered sections)
+			// don't measure column widths off each other.
+			$thisGrid.isotope({
+				itemSelector: '.grid-item',
+				percentPosition: true,
+				masonry: {
+					columnWidth: '.grid-item',
+				}
+			});
 		});
-		$('.masonary-menu').on('click', 'button', function () {
-			var filterValue = $(this).attr('data-filter');
-			$grid.isotope({ filter: filterValue });
-		});
-		$('.masonary-menu button').on('click', function (event) {
-			$(this).siblings('.active').removeClass('active');
-			$(this).addClass('active');
-			event.preventDefault();
-		});
+	});
+	$('.masonary-menu').on('click', 'button', function () {
+		var filterValue = $(this).attr('data-filter');
+		$('.grid').isotope({ filter: filterValue });
+	});
+	$('.masonary-menu button').on('click', function (event) {
+		$(this).siblings('.active').removeClass('active');
+		$(this).addClass('active');
+		event.preventDefault();
 	});
 
 

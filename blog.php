@@ -7,17 +7,17 @@ require_once __DIR__ . '/config.php';
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Blogs - ISB Ghostwriters</title>
-    <meta name="description" content="Explore the latest insights and stories from ISB Ghostwriters.">
-    <link rel="canonical" href="https://isbghostwriters.com/blog.php">
+    <title>Ebook Ghostwriting & Self-Publishing Blog | ISB Ghostwriters</title>
+    <meta name="description" content="Real advice on ghostwriting costs, Amazon KDP publishing, book marketing, and self-publishing trends — from the team at ISB Ghostwriters.">
+    <link rel="canonical" href="https://isbghostwriters.com/blog">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Blogs - ISB Ghostwriters">
-    <meta property="og:description" content="Explore the latest insights and stories from ISB Ghostwriters.">
-    <meta property="og:url" content="https://isbghostwriters.com/blog.php">
+    <meta property="og:title" content="Ebook Ghostwriting & Self-Publishing Blog | ISB Ghostwriters">
+    <meta property="og:description" content="Real advice on ghostwriting costs, Amazon KDP publishing, book marketing, and self-publishing trends — from the team at ISB Ghostwriters.">
+    <meta property="og:url" content="https://isbghostwriters.com/blog">
     <meta property="og:image" content="https://isbghostwriters.com/assets/img/about/main/thumb.jpg">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Blogs - ISB Ghostwriters">
-    <meta name="twitter:description" content="Explore the latest insights and stories from ISB Ghostwriters.">
+    <meta name="twitter:title" content="Ebook Ghostwriting & Self-Publishing Blog | ISB Ghostwriters">
+    <meta name="twitter:description" content="Real advice on ghostwriting costs, Amazon KDP publishing, book marketing, and self-publishing trends — from the team at ISB Ghostwriters.">
     <meta name="twitter:image" content="https://isbghostwriters.com/assets/img/about/main/thumb.jpg">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -76,10 +76,10 @@ require_once __DIR__ . '/config.php';
                             <div class="row">
                                 <div class="col-12">
                                     <div class="td-blog-bigthumb-wrap">
-                                        <span class="td-blog-bigthumb-dates  wow fadeInLeft" data-wow-delay=".5s" data-wow-duration="1s">NOV<br> 14</span>
+                                        <span class="td-blog-bigthumb-dates  wow fadeInLeft" data-wow-delay=".5s" data-wow-duration="1s">SEP<br> 26</span>
                                         <div class="td-blog-bigthumb-content  wow fadeInLeft" data-wow-delay=".7s" data-wow-duration="1s">
-                                            <h1 class="td-blog-bigthumb-title">We are a creative studio that
-                                                specializes in providing</h1>
+                                            <h1 class="td-blog-bigthumb-title">Ghostwriting & Self-Publishing
+                                                Insights</h1>
                                         </div>
                                     </div>
                                 </div>
@@ -96,16 +96,16 @@ require_once __DIR__ . '/config.php';
                             <div class="col-xl-4 col-lg-6 col-md-6  wow fadeInUp" data-wow-delay=".5s" data-wow-duration="1s">
                                 <div class="td-blog-wrap mb-60">
                                     <div class="td-blog-thumb fix mb-25">
-                                        <img class="w-100" src="assets/img/blog/thumb.jpg" alt="Our strategic planning ensures your brand's vision aligns with market opportunities" loading="lazy">
+                                        <img class="w-100" src="assets/img/blog/thumb.jpg" alt="How much does it cost to hire an ebook ghostwriter in 2026" loading="lazy">
                                     </div>
                                     <div class="td-blog-content">
-                                        <h3 class="td-blog-title mb-30"><a href="blog-details.html">Our strategic planning ensures
-                                            your brand's vision aligns with
-                                            market opportunities</a></h3>
+                                        <h3 class="td-blog-title mb-30"><a href="blog/ebook-ghostwriter-cost-2026">How Much Does It Cost to
+                                            Hire an Ebook Ghostwriter in
+                                            2026?</a></h3>
                                         <div class="td-blog-cetagory d-flex align-items-center">
-                                            <span class="cetagory">Development</span>
+                                            <span class="cetagory">Ghostwriting</span>
                                             <span class="td-border ml-20 mr-15 d-inline-block"></span>
-                                            <span class="dates">August 12, 2024</span>
+                                            <span class="dates">September 2, 2026</span>
                                         </div>
                                     </div>
                                 </div>
@@ -113,16 +113,16 @@ require_once __DIR__ . '/config.php';
                             <div class="col-xl-4 col-lg-6 col-md-6  wow fadeInUp" data-wow-delay=".7s" data-wow-duration="1s">
                                 <div class="td-blog-wrap mb-60">
                                     <div class="td-blog-thumb fix mb-25">
-                                        <img class="w-100" src="assets/img/blog/thumb-2.jpg" alt="The complex but awesome CSS border-image property for web design companies" loading="lazy">
+                                        <img class="w-100" src="assets/img/blog/thumb-2.jpg" alt="AI and ghostwriting: what authors need to know before publishing on Amazon KDP" loading="lazy">
                                     </div>
                                     <div class="td-blog-content">
-                                        <h3 class="td-blog-title mb-30"><a href="blog-details.html">The complex but awesome CSS
-                                            border-image proper for web
-                                            design company</a></h3>
+                                        <h3 class="td-blog-title mb-30"><a href="blog/ai-and-ghostwriting-amazon-kdp">AI and Ghostwriting: What
+                                            Authors Need to Know Before
+                                            Publishing on Amazon KDP</a></h3>
                                         <div class="td-blog-cetagory d-flex align-items-center">
-                                            <span class="cetagory">Development</span>
+                                            <span class="cetagory">AI & Publishing</span>
                                             <span class="td-border ml-20 mr-15 d-inline-block"></span>
-                                            <span class="dates">August 12, 2024</span>
+                                            <span class="dates">September 5, 2026</span>
                                         </div>
                                     </div>
                                 </div>
@@ -130,67 +130,16 @@ require_once __DIR__ . '/config.php';
                             <div class="col-xl-4 col-lg-6 col-md-6  wow fadeInUp" data-wow-delay=".9s" data-wow-duration="1s">
                                 <div class="td-blog-wrap mb-60">
                                     <div class="td-blog-thumb fix mb-25">
-                                        <img class="w-100" src="assets/img/blog/thumb-3.jpg" alt="The complex but awesome CSS border-image property for web design companies" loading="lazy">
+                                        <img class="w-100" src="assets/img/blog/thumb-3.jpg" alt="How to hire an ebook ghostwriter: the complete step-by-step guide" loading="lazy">
                                     </div>
                                     <div class="td-blog-content">
-                                        <h3 class="td-blog-title mb-30"><a href="blog-details.html">The complex but awesome CSS
-                                            border-image proper for web
-                                            design company</a></h3>
+                                        <h3 class="td-blog-title mb-30"><a href="blog/how-to-hire-an-ebook-ghostwriter">How to Hire an Ebook
+                                            Ghostwriter: The Complete
+                                            Step-by-Step Guide</a></h3>
                                         <div class="td-blog-cetagory d-flex align-items-center">
-                                            <span class="cetagory">Development</span>
+                                            <span class="cetagory">Publishing</span>
                                             <span class="td-border ml-20 mr-15 d-inline-block"></span>
-                                            <span class="dates">August 12, 2024</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".5s" data-wow-duration="1s">
-                                <div class="td-blog-wrap mb-60">
-                                    <div class="td-blog-thumb fix mb-25">
-                                        <img class="w-100" src="assets/img/blog/thumb-4.jpg" alt="Developing advertising campaigns across digital, print, TV, or other media platforms" loading="lazy">
-                                    </div>
-                                    <div class="td-blog-content">
-                                        <h3 class="td-blog-title mb-30"><a href="blog-details.html">Developing advertising campaign
-                                            across digital, print, TV, or other
-                                            media platforms.</a></h3>
-                                        <div class="td-blog-cetagory d-flex align-items-center">
-                                            <span class="cetagory">Development</span>
-                                            <span class="td-border ml-20 mr-15 d-inline-block"></span>
-                                            <span class="dates">August 12, 2024</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-xl-4 col-lg-6 col-md-6  wow fadeInUp" data-wow-delay=".7s" data-wow-duration="1s">
-                                <div class="td-blog-wrap mb-60">
-                                    <div class="td-blog-thumb fix mb-25">
-                                        <img class="w-100" src="assets/img/blog/thumb-5.jpg" alt="Designing and building websites and applications to ensure businesses succeed online" loading="lazy">
-                                    </div>
-                                    <div class="td-blog-content">
-                                        <h3 class="td-blog-title mb-30"><a href="blog-details.html">Designing and building websites
-                                            and applications to ensure
-                                            businesses</a></h3>
-                                        <div class="td-blog-cetagory d-flex align-items-center">
-                                            <span class="cetagory">Development</span>
-                                            <span class="td-border ml-20 mr-15 d-inline-block"></span>
-                                            <span class="dates">August 12, 2024</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".9s" data-wow-duration="1s">
-                                <div class="td-blog-wrap mb-60">
-                                    <div class="td-blog-thumb fix mb-25">
-                                        <img class="w-100" src="assets/img/blog/thumb-6.jpg" alt="Focus on promoting products or services through traditional and digital media" loading="lazy">
-                                    </div>
-                                    <div class="td-blog-content">
-                                        <h3 class="td-blog-title mb-30"><a href="blog-details.html">Focus on promoting products or
-                                            services through traditional and
-                                            digital media.</a></h3>
-                                        <div class="td-blog-cetagory d-flex align-items-center">
-                                            <span class="cetagory">Development</span>
-                                            <span class="td-border ml-20 mr-15 d-inline-block"></span>
-                                            <span class="dates">August 12, 2024</span>
+                                            <span class="dates">September 8, 2026</span>
                                         </div>
                                     </div>
                                 </div>

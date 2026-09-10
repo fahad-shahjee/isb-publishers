@@ -8,17 +8,17 @@ $formStatus = $_GET['status'] ?? '';
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Contact Us - ISB Ghostwriters</title>
-    <meta name="description" content="Get in touch with ISB Ghostwriters for inquiries and support.">
-    <link rel="canonical" href="https://isbghostwriters.com/contact.php">
+    <title>Contact ISB Ghostwriters | Book a Free Ghostwriting Consultation</title>
+    <meta name="description" content="Get a free quote for your book. Call (786) 949-4620 or send your project details to ISB Ghostwriters — Albany, NY, serving authors nationwide.">
+    <link rel="canonical" href="https://isbghostwriters.com/contact">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Contact Us - ISB Ghostwriters">
-    <meta property="og:description" content="Get in touch with ISB Ghostwriters for inquiries and support.">
-    <meta property="og:url" content="https://isbghostwriters.com/contact.php">
+    <meta property="og:title" content="Contact ISB Ghostwriters | Book a Free Ghostwriting Consultation">
+    <meta property="og:description" content="Get a free quote for your book. Call (786) 949-4620 or send your project details to ISB Ghostwriters — Albany, NY, serving authors nationwide.">
+    <meta property="og:url" content="https://isbghostwriters.com/contact">
     <meta property="og:image" content="https://isbghostwriters.com/assets/img/about/main/thumb.jpg">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Contact Us - ISB Ghostwriters">
-    <meta name="twitter:description" content="Get in touch with ISB Ghostwriters for inquiries and support.">
+    <meta name="twitter:title" content="Contact ISB Ghostwriters | Book a Free Ghostwriting Consultation">
+    <meta name="twitter:description" content="Get a free quote for your book. Call (786) 949-4620 or send your project details to ISB Ghostwriters — Albany, NY, serving authors nationwide.">
     <meta name="twitter:image" content="https://isbghostwriters.com/assets/img/about/main/thumb.jpg">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -27,7 +27,7 @@ $formStatus = $_GET['status'] ?? '';
         "@context": "https://schema.org",
         "@type": "ProfessionalService",
         "name": "ISB Ghostwriters",
-        "alternateName": "ISB Publishers",
+        "alternateName": "ISB Ghostwriters",
         "url": "https://isbghostwriters.com/",
         "logo": "https://isbghostwriters.com/assets/img/logo/logo-black.png",
         "image": "https://isbghostwriters.com/assets/img/about/main/thumb.jpg",
@@ -104,8 +104,8 @@ $formStatus = $_GET['status'] ?? '';
                         <div class="row">
                             <div class="col-xxl-9">
                                 <div class="td-breadcrumb-wrap">
-                                    <h1 class="td-section-page-title  wow fadeInUp" data-wow-delay=".7s" data-wow-duration="1s">Would you like more<br> information? we are<br>
-                                        happy <span>to help you!</span></h1>
+                                    <h1 class="td-section-page-title  wow fadeInUp" data-wow-delay=".7s" data-wow-duration="1s">Let's Talk<br> About <span>Your Book</span></h1>
+                                    <p class="wow fadeInUp" data-wow-delay=".8s" data-wow-duration="1s">Whether you have a finished outline or just an idea you can't stop thinking about, the fastest way to find out what it would take to publish it is a short conversation. Fill out the form below or call us directly — most inquiries get a response within one business day, along with a clear, no-obligation quote.</p>
                                 </div>
                             </div>
                         </div>
@@ -114,7 +114,7 @@ $formStatus = $_GET['status'] ?? '';
                 <!-- td-breadcrumb-area-end -->
 
                 <!-- td-contact-main-area -->
-                <div class="td-contact-main pt-155 pb-120">
+                <div class="td-contact-main pt-60 pb-120">
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-5">
@@ -176,6 +176,85 @@ $formStatus = $_GET['status'] ?? '';
                 </div>
                 <!-- td-contact-main-emd -->
 
+                <!-- td-contact-process-area-start -->
+                <div class="td-service-process-area pt-40 pb-40">
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-8">
+                                <div class="td-service-process-title-wrap text-center mb-50">
+                                    <h2 class="td-testimonial-title td-text-invert">What Happens <span>After You Reach Out</span></h2>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row g-4 align-items-stretch">
+                            <div class="col-lg-4 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay=".3s" data-wow-duration="1s">
+                                <div class="td-service-process-item td-contact-process-item">
+                                    <span class="icons mb-20 d-flex align-items-start justify-content-between">
+                                        <img src="assets/img/service/servicesico/finalrev.png" alt="We review your project details" width="64" height="64" loading="lazy">
+                                        <span class="number">01</span>
+                                    </span>
+                                    <h3 class="title mb-15">We Review Your Details</h3>
+                                    <p class="para">We review your project details and reply within one business day.</p>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay=".5s" data-wow-duration="1s">
+                                <div class="td-service-process-item td-contact-process-item">
+                                    <span class="icons mb-20 d-flex align-items-start justify-content-between">
+                                        <img src="assets/img/service/servicesico/initialcons.png" alt="We schedule a short call" width="64" height="64" loading="lazy">
+                                        <span class="number">02</span>
+                                    </span>
+                                    <h3 class="title mb-15">We Schedule a Call</h3>
+                                    <p class="para">We schedule a short call to discuss your genre, goals, and timeline.</p>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay=".7s" data-wow-duration="1s">
+                                <div class="td-service-process-item td-contact-process-item">
+                                    <span class="icons mb-20 d-flex align-items-start justify-content-between">
+                                        <img src="assets/img/service/servicesico/manu.png" alt="You receive a written quote" width="64" height="64" loading="lazy">
+                                        <span class="number">03</span>
+                                    </span>
+                                    <h3 class="title mb-15">You Receive a Quote</h3>
+                                    <p class="para">You receive a written quote — no pressure to commit on the call.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <style>
+                    .td-contact-process-item {
+                        height: 100%;
+                        display: flex;
+                        flex-direction: column;
+                        transition: background 0.3s ease, border-color 0.3s ease;
+                    }
+                    .td-contact-process-item .para {
+                        flex: 1;
+                        transition: color 0.3s ease;
+                    }
+                    .td-contact-process-item .title,
+                    .td-contact-process-item .number {
+                        transition: color 0.3s ease;
+                    }
+                    .td-contact-process-item:hover {
+                        background: var(--td-theme-secondary);
+                        border-color: var(--td-theme-secondary);
+                    }
+                    .td-contact-process-item:hover .title,
+                    .td-contact-process-item:hover .number {
+                        color: #ffffff;
+                    }
+                    .td-contact-process-item:hover .para {
+                        color: rgba(255, 255, 255, 0.85);
+                    }
+                    .td-contact-process-item .icons img {
+                        transition: filter 0.3s ease;
+                    }
+                    .td-contact-process-item:hover .icons img {
+                        filter: brightness(0) invert(1);
+                    }
+                </style>
+                <!-- td-contact-process-area-end -->
+
                 <!-- td-contact-branch-area-start -->
                 <div class="td-contact-branch-area pb-140">
                     <div class="container">
@@ -210,7 +289,7 @@ $formStatus = $_GET['status'] ?? '';
                                         </div>
                                     </div>
                                 </div>
-                                <div class="td-contact-branch-item wow fadeInUp" data-wow-delay=".7s" data-wow-duration="1s">
+                                <div class="td-contact-branch-item td-contact-branch-border wow fadeInUp" data-wow-delay=".7s" data-wow-duration="1s">
                                     <div class="row">
                                         <div class="col-lg-3 col-md-6 col-sm-6">
                                             <h3 class="td-contact-branch-name mb-20">California</h3>
@@ -224,6 +303,30 @@ $formStatus = $_GET['status'] ?? '';
                                             <div class="td-contact-branch-lucation ml-40 mb-20">
                                                 <h5 class="td-contact-branch-lucation-title">Office Address</h5>
                                                 <a class="lucation mb-110" href="#">2108 N St #10893, Sacramento, CA 95816, United States</a>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-3 col-md-6 col-sm-6">
+                                            <div class="td-contact-branch-number ml-40 mb-20">
+                                                <a class="mb-30" href="tel:+17869494620">+1 786-949-4620</a>
+                                                <a class="link" href="mailto:info@isbghostwriters.com">info@isbghostwriters.com</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="td-contact-branch-item wow fadeInUp" data-wow-delay=".9s" data-wow-duration="1s">
+                                    <div class="row">
+                                        <div class="col-lg-3 col-md-6 col-sm-6">
+                                            <h3 class="td-contact-branch-name mb-20">New York</h3>
+                                        </div>
+                                        <div class="col-lg-3 col-md-6 col-sm-6">
+                                            <div class="td-contact-branch-thumb mb-20">
+                                                <img class="w-100 td-rounded-10" src="assets/img/contact/thumb.jpg" alt="ISB Ghostwriters Albany, NY branch office" loading="lazy">
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-3 col-md-6 col-sm-6">
+                                            <div class="td-contact-branch-lucation ml-40 mb-20">
+                                                <h5 class="td-contact-branch-lucation-title">Office Address</h5>
+                                                <a class="lucation mb-110" href="#">418 Broadway, Albany, NY 12207</a>
                                             </div>
                                         </div>
                                         <div class="col-lg-3 col-md-6 col-sm-6">

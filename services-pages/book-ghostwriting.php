@@ -11,11 +11,11 @@ require_once __DIR__ . '/../config.php';
     <title>Book Ghostwriting Services | ISB Ghostwriters</title>
     <meta name="description" content="Expert book ghostwriting services turning your ideas into captivating fiction or well-researched non-fiction, with a dedicated professional writer and full confidentiality.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="canonical" href="https://isbghostwriters.com/services-pages/book-ghostwriting.php">
+    <link rel="canonical" href="https://isbghostwriters.com/services-pages/book-ghostwriting">
     <meta property="og:type" content="website">
     <meta property="og:title" content="Book Ghostwriting Services | ISB Ghostwriters">
     <meta property="og:description" content="Expert book ghostwriting services turning your ideas into captivating fiction or well-researched non-fiction, with a dedicated professional writer and full confidentiality.">
-    <meta property="og:url" content="https://isbghostwriters.com/services-pages/book-ghostwriting.php">
+    <meta property="og:url" content="https://isbghostwriters.com/services-pages/book-ghostwriting">
     <meta property="og:image" content="https://isbghostwriters.com/assets/img/about/main/bg-abt2.jpg">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Book Ghostwriting Services | ISB Ghostwriters">
@@ -46,6 +46,71 @@ require_once __DIR__ . '/../config.php';
     <link rel="stylesheet" href="<?= $BASE_URL ?>assets/css/defauls-spacing.min.css">
     <!--<< main.css >>-->
     <link rel="stylesheet" href="<?= $BASE_URL ?>assets/css/main.min.css">
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How much do ghostwriting services cost?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ghostwriting rates usually range from $10 to $50 per page, or $70 to $200 per hour. For a full-length book of 100–200 pages, costs typically fall between $15,000 and $40,000, depending on factors like genre, writing style, and project complexity."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is ghostwriting legal?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, hiring a ghostwriter is completely legal — it's just like hiring any other professional service. You can work with a ghostwriter to create your book without any legal issues, though some publications may request a disclosure."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Who owns the rights to a ghostwritten book?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Clients who pay for ghostwriting services receive full ownership and rights to the work. You can publish it under your name, credit the ghostwriter, or keep their contribution confidential — the choice is entirely yours."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Will ISB Ghostwriters sign a Non-Disclosure Agreement (NDA)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Absolutely. Every project at ISB Ghostwriters includes a non-disclosure clause to ensure your ideas and content remain completely confidential."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you have writers who specialize in business books?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we do. If your project requires expertise in a specific field, ISB Ghostwriters will assign a professional writer experienced in that subject to deliver high-quality, industry-relevant content."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can you ghostwrite a book based only on voice recordings or interviews?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Many of our nonfiction and memoir clients never type a word — we conduct structured interviews and build the manuscript entirely from those conversations."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you ghostwrite children's books?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, and we pair the manuscript with our in-house illustration team so the story and artwork are developed together."
+          }
+        }
+      ]
+    }
+    </script>
 </head>
 
 <body>
@@ -95,11 +160,11 @@ require_once __DIR__ . '/../config.php';
                                     <div class="td-about-main-text mt-30">
                                         <p class="mb-40">At ISB Ghostwriters, we believe every story deserves to be shared. Many people have amazing ideas but don’t always have the time or energy to develop rich characters, craft compelling dialogue, or complete a full manuscript. That doesn’t mean their stories should remain untold. Our goal is to make the writing journey effortless for you — transforming your ideas into captivating books that resonate with readers. Simply share your concept and target audience, and we’ll pair you with a professional ghostwriter to bring your vision to life.</p>
                                         <div class="td-btn-group">
-                                            <a class="td-btn-circle" href="<?= $BASE_URL ?>contact.php">
+                                            <a class="td-btn-circle" href="<?= $BASE_URL ?>contact">
                                                 <i class="fa-solid fa-arrow-right"></i>
                                             </a>
-                                            <a class="td-btn-2 td-btn-primary" href="<?= $BASE_URL ?>contact.php">Contact Us</a>
-                                            <a class="td-btn-circle" href="<?= $BASE_URL ?>contact.php">
+                                            <a class="td-btn-2 td-btn-primary" href="<?= $BASE_URL ?>contact">Contact Us</a>
+                                            <a class="td-btn-circle" href="<?= $BASE_URL ?>contact">
                                                 <i class="fa-solid fa-arrow-right"></i>
                                             </a>
                                         </div>
@@ -115,7 +180,7 @@ require_once __DIR__ . '/../config.php';
                 <div class="td-contact-area td-contact-2-wrap pt-85 fix pb-50" style="padding-top: 0px;">
                     <div class="td-contact-7-text-slider">
                         <div class="td-contact-7-text-btn text-center pt-30">
-                            <a href="<?= $BASE_URL ?>contact.php">
+                            <a href="<?= $BASE_URL ?>contact">
                                 <img class="td-live-anim-spin" src="<?= $BASE_URL ?>assets/img/contact/text.png" alt="" loading="lazy">
                                 <span class="icon">
                                     <svg width="29" height="30" viewBox="0 0 29 30" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -207,11 +272,11 @@ require_once __DIR__ . '/../config.php';
                                     <h2 class="td-about-title mb-30 td-text-invert" style="font-size: 40px">Turn Your Ideas into Powerful Stories with Expert Ghostwriting Services that Inspire Readers</h2>
                                     <p class="mb-45">Writing captivating fiction requires true creative brilliance — and that’s exactly what our team at ISB Ghostwriters delivers. Our skilled writers use their imagination and storytelling expertise to craft gripping tales across genres like horror, romance, mystery, and children’s fantasy. Each story is designed to capture readers’ attention from the very first line.<br><br>When it comes to non-fiction, credibility and accuracy are essential. That’s where our writers’ advanced research skills come in. We create well-researched, industry-specific books, biographies, historical accounts, and self-help guides — all backed by authentic sources and thoughtful insights. The result is a book that not only informs but also earns readers’ trust.</p>
                                     <div class="td-btn-group mb-35">
-                                        <a class="td-btn-circle" href="<?= $BASE_URL ?>about.php">
+                                        <a class="td-btn-circle" href="<?= $BASE_URL ?>about">
                                             <i class="fa-solid fa-arrow-right"></i>
                                         </a>
                                         <a class="td-btn-2 td-btn-primary" href="tel:(786) 949-4620">Free Consultation</a>
-                                        <a class="td-btn-circle" href="<?= $BASE_URL ?>about.php">
+                                        <a class="td-btn-circle" href="<?= $BASE_URL ?>about">
                                             <i class="fa-solid fa-arrow-right"></i>
                                         </a>
                                     </div>
@@ -229,6 +294,22 @@ require_once __DIR__ . '/../config.php';
                     </div>
                 </div>
                 <!-- td-about-area-end -->
+
+                <!-- td-service-highlight-area-start -->
+                <div class="td-about-area pt-80 pb-40">
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-8">
+                                <div class="td-service-process-title-wrap text-center mb-30">
+                                    <h2 class="td-testimonial-title td-text-invert" style="font-size: 40px; line-height: 1.3;">Fiction vs. Nonfiction Ghostwriting
+                                        <span>What's the Difference?</span></h2>
+                                </div>
+                                <p class="text-center">Fiction ghostwriting starts with your characters, world, and story arc — our writers build a full outline before drafting a single chapter, so the plot holds together start to finish. Nonfiction ghostwriting starts with your expertise or experience — through structured interviews, we extract what you know (or what happened to you) and shape it into chapters a reader can follow, whether it's a memoir, a self-help guide, or an industry book.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- td-service-highlight-area-end -->
 
                 <!-- td-service-process-area-start -->
                 <div class="td-service-process-area pt-80">
@@ -374,6 +455,36 @@ require_once __DIR__ . '/../config.php';
                                                  data-bs-parent="#accordionExample">
                                                  <div class="accordion-body">
                                                     <p>Yes, we do. If your project requires expertise in a specific field, ISB Ghostwriters will assign a professional writer experienced in that subject to deliver high-quality, industry-relevant content.</p>
+                                                 </div>
+                                              </div>
+                                           </div>
+                                           <div class="accordion-items">
+                                              <h2 class="accordion-header">
+                                                 <button class="accordion-buttons collapsed" type="button" data-bs-toggle="collapse"
+                                                    data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                                                    Can you ghostwrite a book based only on voice recordings or interviews?
+                                                    <span class="plus-icon"></span>
+                                                 </button>
+                                              </h2>
+                                              <div id="collapseSix" class="accordion-collapse collapse"
+                                                 data-bs-parent="#accordionExample">
+                                                 <div class="accordion-body">
+                                                    <p>Yes. Many of our nonfiction and memoir clients never type a word — we conduct structured interviews and build the manuscript entirely from those conversations.</p>
+                                                 </div>
+                                              </div>
+                                           </div>
+                                           <div class="accordion-items">
+                                              <h2 class="accordion-header">
+                                                 <button class="accordion-buttons collapsed" type="button" data-bs-toggle="collapse"
+                                                    data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+                                                    Do you ghostwrite children's books?
+                                                    <span class="plus-icon"></span>
+                                                 </button>
+                                              </h2>
+                                              <div id="collapseSeven" class="accordion-collapse collapse"
+                                                 data-bs-parent="#accordionExample">
+                                                 <div class="accordion-body">
+                                                    <p>Yes, and we pair the manuscript with our in-house illustration team so the story and artwork are developed together.</p>
                                                  </div>
                                               </div>
                                            </div>

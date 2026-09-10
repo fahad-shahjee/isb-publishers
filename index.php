@@ -10,11 +10,11 @@ require_once __DIR__ . '/config.php';
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Ebook Ghostwriting & Self-Publishing Services | ISB Ghostwriters</title>
     <meta name="description" content="ISB Ghostwriters turns your idea into a published ebook. Expert ghostwriting, editing, cover design, formatting & Amazon KDP publishing — one team, start to finish.">
-    <link rel="canonical" href="https://isbghostwriters.com/index.php">
+    <link rel="canonical" href="https://isbghostwriters.com/index">
     <meta property="og:type" content="website">
     <meta property="og:title" content="ISB Ghostwriters">
     <meta property="og:description" content="From First Draft to Global Bookshelf">
-    <meta property="og:url" content="https://isbghostwriters.com/index.php">
+    <meta property="og:url" content="https://isbghostwriters.com/index">
     <meta property="og:image" content="https://isbghostwriters.com/assets/img/about/main/thumb.jpg">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="ISB Ghostwriters">
@@ -27,7 +27,7 @@ require_once __DIR__ . '/config.php';
         "@context": "https://schema.org",
         "@type": "ProfessionalService",
         "name": "ISB Ghostwriters",
-        "alternateName": "ISB Publishers",
+        "alternateName": "ISB Ghostwriters",
         "url": "https://isbghostwriters.com/",
         "logo": "https://isbghostwriters.com/assets/img/logo/logo-black.png",
         "image": "https://isbghostwriters.com/assets/img/about/main/thumb.jpg",
@@ -82,6 +82,45 @@ require_once __DIR__ . '/config.php';
                 align-self: flex-start;
             }
         }
+        .td-service-2-item a {
+            display: flex;
+            flex-direction: column;
+            align-items: stretch;
+        }
+        .td-service-2-item .td-service-2-row {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        .td-service-2-item .desc {
+            max-height: 0;
+            opacity: 0;
+            overflow: hidden;
+            margin: 0 0 0 85px;
+            color: rgba(10, 17, 25, 0.6);
+            font-size: 15px;
+            line-height: 1.6;
+            transition: max-height 0.35s ease, opacity 0.25s ease, margin-top 0.35s ease;
+        }
+        .td-service-2-item:hover .desc {
+            max-height: 80px;
+            opacity: 1;
+            margin-top: 12px;
+        }
+        .td-process-list ul li {
+            padding-left: 0;
+        }
+        .td-process-list ul li::before {
+            display: none;
+        }
+        .td-process-thumb {
+            height: 100%;
+        }
+        .td-process-thumb img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
     </style>
 
 </head>
@@ -135,6 +174,17 @@ require_once __DIR__ . '/config.php';
 
                                             <div class="col-xxl-6 col-xl-5 col-lg-4">
                                                 <div class="td-hero-3-border mb-30 d-block"></div>
+                                                <div class="td-hero-3-btn-wrap wow fadeInUp" data-wow-delay=".5s" data-wow-duration="1s">
+                                                    <div class="td-btn-group d-inline-flex mb-15">
+                                                        <a class="td-btn-circle" href="contact">
+                                                            <i class="fa-solid fa-arrow-right"></i>
+                                                        </a>
+                                                        <a class="td-btn-2 td-btn-primary" href="contact">Book a Free Consultation</a>
+                                                        <a class="td-btn-circle" href="contact">
+                                                            <i class="fa-solid fa-arrow-right"></i>
+                                                        </a>
+                                                    </div>
+                                                </div>
                                             </div>
                                             <div class="col-xxl-4 col-xl-5 col-lg-5">
                                                 <div class="td-hero-3-content-para mb-30">
@@ -165,7 +215,7 @@ require_once __DIR__ . '/config.php';
                             <div class="col-lg-8">
                                 <div class="td-about-content mb-30">
                                     <h2 class="td-about-title mb-30 td-text-invert" style="font-size: 40px">Start your journey with ISB Ghostwriters where expert guidance and creative support lead to publishing success.</h2>
-                                    <p class="mb-45">Whether youâ're starting fresh, polishing a draft, illustrating a childrenâ€™s book, self-publishing on Amazon, or building a marketing plan â€” ISB Ghostwriters provides expert book writing and publishing services to support you at every step. Turn your vision into a bestseller with our dedicated team.</p>
+                                    <p class="mb-45">Whether you're starting fresh, polishing a draft, illustrating a children's book, self-publishing on Amazon, or building a marketing plan — ISB Ghostwriters provides expert book writing and publishing services to support you at every step. Turn your vision into a bestseller with our dedicated team.</p>
                                     <div class="td-btn-group mb-35">
                                         <a class="td-btn-circle" href="about">
                                             <i class="fa-solid fa-arrow-right"></i>
@@ -235,11 +285,105 @@ require_once __DIR__ . '/config.php';
                 </div>
                 <!-- td-counter-area-end -->
 
+                <!-- td-why-choose-area-start -->
+                <div class="td-service-process-area pt-80 pb-40">
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-8">
+                                <div class="td-service-process-title-wrap text-center mb-50">
+                                    <h2 class="td-testimonial-title td-text-invert">Why Authors Choose <span>ISB Ghostwriters</span></h2>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row g-4 align-items-stretch">
+                            <div class="col-lg-3 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay=".3s" data-wow-duration="1s">
+                                <div class="td-service-process-item td-why-choose-item">
+                                    <span class="icons mb-60 d-flex align-items-start justify-content-between">
+                                        <img src="assets/img/service/servicesico/bkpub1.png" alt="A Real Writer, Not a Template" width="64" height="64" loading="lazy">
+                                        <span class="number">01</span>
+                                    </span>
+                                    <h3 class="title mb-15">A Real Writer, Not a Template</h3>
+                                    <p class="para">Every manuscript is matched with a ghostwriter experienced in your genre — fiction, memoir, children's books, or nonfiction. Nothing is auto-generated; every page is human-written and edited to Amazon's content standards.</p>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay=".5s" data-wow-duration="1s">
+                                <div class="td-service-process-item td-why-choose-item">
+                                    <span class="icons mb-60 d-flex align-items-start justify-content-between">
+                                        <img src="assets/img/service/servicesico/bkpub2.png" alt="One Team, Every Step" width="64" height="64" loading="lazy">
+                                        <span class="number">02</span>
+                                    </span>
+                                    <h3 class="title mb-15">One Team, Every Step</h3>
+                                    <p class="para">Most authors need more than a writer — they need an editor, a cover designer, a formatter, and someone who understands Amazon KDP. We keep every step under one roof, so nothing gets lost between freelancers.</p>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay=".7s" data-wow-duration="1s">
+                                <div class="td-service-process-item td-why-choose-item">
+                                    <span class="icons mb-60 d-flex align-items-start justify-content-between">
+                                        <img src="assets/img/service/servicesico/bkpub3.png" alt="Clear, Upfront Pricing" width="64" height="64" loading="lazy">
+                                        <span class="number">03</span>
+                                    </span>
+                                    <h3 class="title mb-15">Clear, Upfront Pricing</h3>
+                                    <p class="para">Ghostwriting rates are quoted per page or per project before you commit — no vague quotes, no scope creep. You'll know your investment on the first call, not after the first invoice.</p>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay=".9s" data-wow-duration="1s">
+                                <div class="td-service-process-item td-why-choose-item">
+                                    <span class="icons mb-60 d-flex align-items-start justify-content-between">
+                                        <img src="assets/img/service/servicesico/bkpub4.png" alt="You Own Every Word" width="64" height="64" loading="lazy">
+                                        <span class="number">04</span>
+                                    </span>
+                                    <h3 class="title mb-15">You Own Every Word</h3>
+                                    <p class="para">Once your project is paid for, the manuscript, the rights, and the credit are 100% yours. ISB Ghostwriters never claims authorship or resells your work.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <style>
+                    .td-why-choose-item {
+                        height: 100%;
+                        display: flex;
+                        flex-direction: column;
+                        margin-left: 0;
+                        transition: background 0.3s ease, border-color 0.3s ease;
+                    }
+                    .td-why-choose-item .icons {
+                        margin-bottom: 20px;
+                    }
+                    .td-why-choose-item .para {
+                        flex: 1;
+                        font-size: 15px;
+                        transition: color 0.3s ease;
+                    }
+                    .td-why-choose-item .title,
+                    .td-why-choose-item .number {
+                        transition: color 0.3s ease;
+                    }
+                    .td-why-choose-item:hover {
+                        background: var(--td-theme-secondary);
+                        border-color: var(--td-theme-secondary);
+                    }
+                    .td-why-choose-item:hover .title,
+                    .td-why-choose-item:hover .number {
+                        color: #ffffff;
+                    }
+                    .td-why-choose-item:hover .para {
+                        color: rgba(255, 255, 255, 0.85);
+                    }
+                    .td-why-choose-item .icons img {
+                        transition: filter 0.3s ease;
+                    }
+                    .td-why-choose-item:hover .icons img {
+                        filter: brightness(0) invert(1);
+                    }
+                </style>
+                <!-- td-why-choose-area-end -->
+
                 <!-- td-contact-area-start -->
                 <div class="td-contact-area td-contact-2-wrap pt-85 fix pb-50">
                     <div class="td-contact-7-text-slider">
                         <div class="td-contact-7-text-btn text-center pt-30">
-                            <a href="contact.php">
+                            <a href="contact">
                                 <img class="td-live-anim-spin" src="assets/img/contact/text.png" alt="" loading="lazy">
                                 <span class="icon">
                                     <svg width="29" height="30" viewBox="0 0 29 30" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -320,8 +464,9 @@ require_once __DIR__ . '/config.php';
                         <div class="row align-items-center">
                             <div class="col-lg-9 col-md-9">
                                 <div class="td-service-2-title-wrap mb-40  wow fadeInLeft" data-wow-delay=".5s" data-wow-duration="1s">
-                                    <span class="td-section-2-subtitle mb-25 d-inline-block">Our services</span>
-                                    <h2 class="td-section-2-title">Ebook Publishing <br>Services <span>We Provide</span></h2>
+                                    <span class="td-section-2-subtitle mb-25 d-inline-block"></span>
+                                    <h2 class="td-testimonial-title td-text-invert">Our <span>Services</span></h2>
+                                    <p class="mb-0 mt-25">Whether you need a full manuscript written from scratch or help polishing, designing, and publishing a book you've already started, ISB Ghostwriters covers every stage of the self-publishing journey:</p>
                                 </div>
                             </div>
                             <div class="col-lg-3 col-md-3 d-none d-md-block">
@@ -371,147 +516,176 @@ require_once __DIR__ . '/config.php';
                             <div class="col-lg-7">
                                 <div class="td-service-2-wrap mb-40">
                                     <div class="td-service-2-item service-item active" data-img="assets/img/service/service-2/audiobook.jpg">
-                                        <a href="<?= $BASE_URL ?>services-pages/author-website">
-                                            <div class="title d-flex align-items-center mb-10">
-                                                <span class="mr-65">01</span>
-                                                Audio Book
+                                        <a href="<?= $BASE_URL ?>services-pages/audio-book">
+                                            <div class="td-service-2-row">
+                                                <div class="title d-flex align-items-center mb-10">
+                                                    <span class="mr-65">01</span>
+                                                    Audiobook Production
+                                                </div>
+                                                <div class="icon mb-10">
+                                                    <span>
+                                                        <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                            <path d="M1 12.965L13 0.959717" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                                                            <path d="M1 0.959717H13V12.965" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                                                        </svg>
+                                                    </span>
+                                                </div>
                                             </div>
-                                            <div class="icon mb-10">
-                                                <span>
-                                                    <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                        <path d="M1 12.965L13 0.959717" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                                                        <path d="M1 0.959717H13V12.965" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                                                    </svg>
-                                                </span>
-                                            </div>
+                                            <p class="desc">Narration, editing, and mastering for every genre</p>
                                         </a>
                                     </div>
                                     <div class="td-service-2-item service-item" data-img="assets/img/service/service-2/thumb-2.jpg">
                                         <a href="<?= $BASE_URL ?>services-pages/author-website">
-                                            <div class="title d-flex align-items-center mb-10">
-                                                <span class="mr-65">02</span>
-                                                Author Website
+                                            <div class="td-service-2-row">
+                                                <div class="title d-flex align-items-center mb-10">
+                                                    <span class="mr-65">02</span>
+                                                    Author Website
+                                                </div>
+                                                <div class="icon mb-10">
+                                                    <span>
+                                                        <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                            <path d="M1 12.965L13 0.959717" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                                                            <path d="M1 0.959717H13V12.965" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                                                        </svg>
+                                                    </span>
+                                                </div>
                                             </div>
-                                            <div class="icon mb-10">
-                                                <span>
-                                                    <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                        <path d="M1 12.965L13 0.959717" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                                                        <path d="M1 0.959717H13V12.965" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                                                    </svg>
-                                                </span>
-                                            </div>
+                                            <p class="desc"> A professional home base to sell books and grow your reader base.</p>
                                         </a>
                                     </div>
                                     <div class="td-service-2-item service-item" data-img="assets/img/service/service-2/thumb-3.jpg">
                                         <a href="<?= $BASE_URL ?>services-pages/proofreading">
-                                            <div class="title d-flex align-items-center mb-10">
-                                                <span class="mr-65">03</span>
-                                                Proofreading
+                                            <div class="td-service-2-row">
+                                                <div class="title d-flex align-items-center mb-10">
+                                                    <span class="mr-65">03</span>
+                                                    Proofreading & Editing
+                                                </div>
+                                                <div class="icon mb-10">
+                                                    <span>
+                                                        <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                            <path d="M1 12.965L13 0.959717" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                                                            <path d="M1 0.959717H13V12.965" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                                                        </svg>
+                                                    </span>
+                                                </div>
                                             </div>
-                                            <div class="icon mb-10">
-                                                <span>
-                                                    <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                        <path d="M1 12.965L13 0.959717" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                                                        <path d="M1 0.959717H13V12.965" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                                                    </svg>
-                                                </span>
-                                            </div>
+                                            <p class="desc">Line editing and proofreading that keeps your voice intact.</p>
                                         </a>
                                     </div>
                                     <div class="td-service-2-item service-item" data-img="assets/img/service/service-2/thumb-4.jpg">
                                         <a href="<?= $BASE_URL ?>services-pages/book-publishing">
-                                            <div class="title d-flex align-items-center mb-10">
-                                                <span class="mr-65">04</span>
-                                                Book Publishing
+                                            <div class="td-service-2-row">
+                                                <div class="title d-flex align-items-center mb-10">
+                                                    <span class="mr-65">04</span>
+                                                    Book Publishing
+                                                </div>
+                                                <div class="icon mb-10">
+                                                    <span>
+                                                        <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                            <path d="M1 12.965L13 0.959717" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                                                            <path d="M1 0.959717H13V12.965" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                                                        </svg>
+                                                    </span>
+                                                </div>
                                             </div>
-                                            <div class="icon mb-10">
-                                                <span>
-                                                    <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                        <path d="M1 12.965L13 0.959717" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                                                        <path d="M1 0.959717H13V12.965" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                                                    </svg>
-                                                </span>
-                                            </div>
+                                            <p class="desc"> Full-service Amazon KDP, print, and multi-platform ebook publishing.</p>
                                         </a>
                                     </div>
                                     <div class="td-service-2-item service-item" data-img="assets/img/service/service-2/thumb-5.jpg">
                                         <a href="<?= $BASE_URL ?>services-pages/book-ghostwriting">
-                                            <div class="title d-flex align-items-center mb-10">
-                                                <span class="mr-65">05</span>
-                                                Book Ghostwriting
+                                            <div class="td-service-2-row">
+                                                <div class="title d-flex align-items-center mb-10">
+                                                    <span class="mr-65">05</span>
+                                                    Book Ghostwriting
+                                                </div>
+                                                <div class="icon mb-10">
+                                                    <span>
+                                                        <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                            <path d="M1 12.965L13 0.959717" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                                                            <path d="M1 0.959717H13V12.965" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                                                        </svg>
+                                                    </span>
+                                                </div>
                                             </div>
-                                            <div class="icon mb-10">
-                                                <span>
-                                                    <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                        <path d="M1 12.965L13 0.959717" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                                                        <path d="M1 0.959717H13V12.965" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                                                    </svg>
-                                                </span>
-                                            </div>
+                                            <p class="desc">Fiction and nonfiction manuscripts written from your idea, outline, or voice notes.</p>
                                         </a>
                                     </div>
                                     <div class="td-service-2-item service-item" data-img="assets/img/service/service-2/thumb.png">
                                         <a href="<?= $BASE_URL ?>services-pages/book-marketing">
-                                            <div class="title d-flex align-items-center mb-10">
-                                                <span class="mr-65">06</span>
-                                                Book Marketing
+                                            <div class="td-service-2-row">
+                                                <div class="title d-flex align-items-center mb-10">
+                                                    <span class="mr-65">06</span>
+                                                    Book Marketing
+                                                </div>
+                                                <div class="icon mb-10">
+                                                    <span>
+                                                        <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                            <path d="M1 12.965L13 0.959717" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                                                            <path d="M1 0.959717H13V12.965" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                                                        </svg>
+                                                    </span>
+                                                </div>
                                             </div>
-                                            <div class="icon mb-10">
-                                                <span>
-                                                    <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                        <path d="M1 12.965L13 0.959717" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                                                        <path d="M1 0.959717H13V12.965" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                                                    </svg>
-                                                </span>
-                                            </div>
+                                            <p class="desc"> Launch strategy, promotional content, and visibility support.
+</p>
                                         </a>
                                     </div>
                                     <div class="td-service-2-item service-item" data-img="assets/img/service/service-2/thumb-2.jpg">
                                         <a href="<?= $BASE_URL ?>services-pages/book-illustration">
-                                            <div class="title d-flex align-items-center mb-10">
-                                                <span class="mr-65">07</span>
-                                                Book Illustration
+                                            <div class="td-service-2-row">
+                                                <div class="title d-flex align-items-center mb-10">
+                                                    <span class="mr-65">07</span>
+                                                    Book Illustration
+                                                </div>
+                                                <div class="icon mb-10">
+                                                    <span>
+                                                        <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                            <path d="M1 12.965L13 0.959717" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                                                            <path d="M1 0.959717H13V12.965" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                                                        </svg>
+                                                    </span>
+                                                </div>
                                             </div>
-                                            <div class="icon mb-10">
-                                                <span>
-                                                    <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                        <path d="M1 12.965L13 0.959717" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                                                        <path d="M1 0.959717H13V12.965" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                                                    </svg>
-                                                </span>
-                                            </div>
+                                            <p class="desc">Custom character and scene art for children’s books and storybooks.
+</p>
                                         </a>
                                     </div>
                                     <div class="td-service-2-item service-item" data-img="assets/img/service/service-2/thumb-3.jpg">
                                         <a href="<?= $BASE_URL ?>services-pages/book-cover-design">
-                                            <div class="title d-flex align-items-center mb-10">
-                                                <span class="mr-65">08</span>
-                                                Book Cover Design
+                                            <div class="td-service-2-row">
+                                                <div class="title d-flex align-items-center mb-10">
+                                                    <span class="mr-65">08</span>
+                                                    Book Cover Design
+                                                </div>
+                                                <div class="icon mb-10">
+                                                    <span>
+                                                        <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                            <path d="M1 12.965L13 0.959717" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                                                            <path d="M1 0.959717H13V12.965" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                                                        </svg>
+                                                    </span>
+                                                </div>
                                             </div>
-                                            <div class="icon mb-10">
-                                                <span>
-                                                    <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                        <path d="M1 12.965L13 0.959717" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                                                        <path d="M1 0.959717H13V12.965" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                                                    </svg>
-                                                </span>
-                                            </div>
+                                            <p class="desc">Genrematched covers built to convert browsers into buyers.</p>
                                         </a>
                                     </div>
                                     <div class="td-service-2-item service-item" data-img="assets/img/service/service-2/thumb-4.jpg">
                                         <a href="<?= $BASE_URL ?>services-pages/book-formatting">
-                                            <div class="title d-flex align-items-center mb-10">
-                                                <span class="mr-65">09</span>
-                                                Book Formatting
+                                            <div class="td-service-2-row">
+                                                <div class="title d-flex align-items-center mb-10">
+                                                    <span class="mr-65">09</span>
+                                                    Book Formatting
+                                                </div>
+                                                <div class="icon mb-10">
+                                                    <span>
+                                                        <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                            <path d="M1 12.965L13 0.959717" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                                                            <path d="M1 0.959717H13V12.965" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                                                        </svg>
+                                                    </span>
+                                                </div>
                                             </div>
-                                            <div class="icon mb-10">
-                                                <span>
-                                                    <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                        <path d="M1 12.965L13 0.959717" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                                                        <path d="M1 0.959717H13V12.965" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                                                    </svg>
-                                                </span>
-                                            </div>
+                                            <p class="desc">Kindle, eBook, and print formatting to KDP spec.</p>
                                         </a>
                                     </div>
                                 </div>
@@ -868,8 +1042,8 @@ require_once __DIR__ . '/config.php';
                                                     <a class="td-btn-circle" href="contact.html">
                                                         <i class="fa-solid fa-arrow-right"></i>
                                                     </a>
-                                                    <a class="td-btn-2 td-btn-primary" href="contact.php">Contact Us</a>
-                                                    <a class="td-btn-circle" href="contact.php">
+                                                    <a class="td-btn-2 td-btn-primary" href="contact">Contact Us</a>
+                                                    <a class="td-btn-circle" href="contact">
                                                         <i class="fa-solid fa-arrow-right"></i>
                                                     </a>
                                                 </div>
@@ -889,17 +1063,17 @@ require_once __DIR__ . '/config.php';
                         <div class="row">
                             <div class="col-12">
                                 <div class="td-service-title-wrap pb-10">
-                                    <h2 class="td-section-title mb-0 td-text-invert">Working</h2>
-                                    <h3 class="td-section-title-capi td-text-invert">Process</h3>
+                                    <h2 class="td-section-title mb-0 td-text-invert">How It</h2>
+                                    <h3 class="td-section-title-capi td-text-invert">Works</h3>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="container">
-                        <div class="td-process-border td-fixed-thumb-wrap">
+                        <div class="td-process-border">
                             <div class="row">
                                 <div class="col-lg-3">
-                                    <div class="td-process-thumb pt-80 pb-80 td-fixed-thumb">
+                                    <div class="td-process-thumb pt-80 pb-80">
                                         <img src="assets/img/process/thumb.jpg" alt="ISB Ghostwriters writing and editing process in action">
                                     </div>
                                 </div>
@@ -912,15 +1086,13 @@ require_once __DIR__ . '/config.php';
                                         </div>
                                         <div class="col-lg-6 col-md-4 col-9">
                                             <div class="td-process-title">
-                                                <h3 class="mb-0">Research & <br> <span>Planning</span></h3>
+                                                <h3 class="mb-0">Share Your <br> <span>Idea</span></h3>
                                             </div>
                                         </div>
                                         <div class="col-lg-4 col-md-5">
                                             <div class="td-process-list">
                                                 <ul>
-                                                    <li>Audience Analysis</li>
-                                                    <li>Content Strategy</li>
-                                                    <li>Project Timeline</li>
+                                                    <li>Tell us your concept, outline, or existing draft on a free call.</li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -933,15 +1105,13 @@ require_once __DIR__ . '/config.php';
                                         </div>
                                         <div class="col-lg-6 col-md-4 col-9">
                                             <div class="td-process-title">
-                                                <h3 class="mb-0">Creative<br> <span>Writing Stage</span></h3>
+                                                <h3 class="mb-0">Get<br> <span>Matched</span></h3>
                                             </div>
                                         </div>
                                         <div class="col-lg-4 col-md-5">
                                             <div class="td-process-list">
                                                 <ul>
-                                                    <li>Draft Creation</li>
-                                                    <li>Collaborative Review</li>
-                                                    <li>Manuscript Completion</li>
+                                                    <li>We pair you with a ghostwriter and specialists suited to your genre and goals.</li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -954,15 +1124,13 @@ require_once __DIR__ . '/config.php';
                                         </div>
                                         <div class="col-lg-6 col-md-4 col-9">
                                             <div class="td-process-title">
-                                                <h3 class="mb-0">Editing &<br> <span>Design</span></h3>
+                                                <h3 class="mb-0">We Write &<br> <span>Refine</span></h3>
                                             </div>
                                         </div>
                                         <div class="col-lg-4 col-md-5">
                                             <div class="td-process-list">
                                                 <ul>
-                                                    <li>Proofreading</li>
-                                                    <li>Cover Design</li>
-                                                    <li>Book Formatting</li>
+                                                    <li>Your team drafts, edits, designs, and formats your book, with you reviewing every stage.</li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -975,15 +1143,13 @@ require_once __DIR__ . '/config.php';
                                         </div>
                                         <div class="col-lg-6 col-md-4 col-9">
                                             <div class="td-process-title no-border">
-                                                <h3 class="mb-0">Publishing &<br> <span>Marketing</span></h3>
+                                                <h3 class="mb-0">Publish &<br> <span>Launch</span></h3>
                                             </div>
                                         </div>
                                         <div class="col-lg-4 col-md-5">
                                             <div class="td-process-list no-border">
                                                 <ul>
-                                                    <li>Platform Publishing</li>
-                                                    <li>Marketing Strategy</li>
-                                                    <li>Launch Support</li>
+                                                    <li>We help you publish on Amazon KDP (or the platform of your choice) and launch to readers.</li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -995,6 +1161,37 @@ require_once __DIR__ . '/config.php';
                 </div>
                 <!-- td-process-area-end -->
 
+                <!-- td-trending-area-start -->
+                <div class="td-about-area td-about-main-spacing pt-80 pb-40">
+                    <div class="container">
+                        <div class="row align-items-center">
+                            <div class="col-lg-5">
+                                <div class="td-about-main-thumb mb-40 fix td-rounded-10 wow fadeInLeft" data-wow-delay=".5s" data-wow-duration="1s">
+                                    <img data-speed=".9" class="w-100 td-rounded-10" src="assets/img/about/self-publish.jpg" alt="Self-publishing trends independent authors should know in 2026" loading="lazy">
+                                </div>
+                            </div>
+                            <div class="col-lg-7">
+                                <div class="td-about-main-content ml-110 mb-40 wow fadeInRight" data-wow-delay=".5s" data-wow-duration="1s">
+                                    <h2 class="td-testimonial-title td-text-invert mb-20" style="line-height: 1.2;">What's Trending in <span>Self-Publishing</span></h2>
+                                    <div class="td-about-main-text">
+                                        <p class="mb-30">Self-publishing keeps changing fast — from Amazon's AI-content disclosure rules to the rise of audiobooks as the fastest-growing format for independent authors. Our <a href="blog">blog</a> covers what actually matters for authors publishing in 2026, from real ghostwriting costs to how AI fits (and doesn't fit) into a professionally ghostwritten book.</p>
+                                        <div class="td-btn-group">
+                                            <a class="td-btn-circle" href="blog">
+                                                <i class="fa-solid fa-arrow-right"></i>
+                                            </a>
+                                            <a class="td-btn-2 td-btn-primary" href="service">See All Services</a>
+                                            <a class="td-btn-circle" href="service">
+                                                <i class="fa-solid fa-arrow-right"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- td-trending-area-end -->
+
                 <!-- td-testimonial-area-start -->
                 <div class="td-testimonial-area grey-bg-2 pt-155 pb-120" style="padding-bottom: 50px; margin-top: -7px;">
                     <div class="container">
@@ -1003,7 +1200,7 @@ require_once __DIR__ . '/config.php';
                                 <div class="td-testimonial-left mb-40 wow fadeInLeft" data-wow-delay=".3s" data-wow-duration="1s">
                                     <span class="td-section-subtitle mb-185 d-inline-block">CLIENTS FEEDBACK</span>
                                     <img class="mb-20" src="assets/img/testimonial/user.png" alt="" loading="lazy">
-                                    <p>More than 25k clients all<br>
+                                    <p>More than 1,000 authors all<br>
                                         over the world</p>
                                 </div>
                             </div>
@@ -1013,7 +1210,7 @@ require_once __DIR__ . '/config.php';
                                     <div class="row">
                                         <div class="col-lg-4">
                                             <div class="td-testimonial-thumb mb-40">
-                                                <img class="w-100 td-rounded-10" src="assets/img/testimonial/thumb.jpg" alt="Satisfied client sharing a testimonial about ISB Publishers" loading="lazy">
+                                                <img class="w-100 td-rounded-10" src="assets/img/testimonial/thumb.jpg" alt="Satisfied client sharing a testimonial about ISB Ghostwriters" loading="lazy">
                                             </div>
                                         </div>
                                         <div class="col-lg-8">
@@ -1151,16 +1348,20 @@ require_once __DIR__ . '/config.php';
                 <div class="td-cta-area">
                     <div class="container">
                         <div class="col-lg-12">
-                            <div class="td-cta-wrap p-relative z-index-1 text-center pt-135 pb-135 include-bg" data-background="assets/img/cta/bg.jpg">
+                            <div class="td-cta-wrap p-relative z-index-1 text-center pt-100 pb-100 include-bg" data-background="assets/img/cta/bg.jpg">
                                 <img class="td-cta-shape d-none d-xl-block" src="assets/img/cta/cta.png" alt="" loading="lazy">
-                                <h2 class="title p-relative d-inline-block">
-                                    <img class="td-cta-shape-2 d-none d-md-block" src="assets/img/cta/cta-2.png" alt="" loading="lazy">
-                                    <a class="td-text-invert" href="contact.php">
-                                        HAVE A<br>
-                                        PROJECTS<br>
-                                        IN MINDS
+                                <img class="td-cta-shape-2 d-none d-md-block" src="assets/img/cta/cta-2.png" alt="" loading="lazy">
+                                <h2 class="td-testimonial-title td-text-invert mb-20" style="font-size: 60px; line-height: 1.2;">Ready to See Your <span style="font-size: 90px;">Book in Print?</span></h2>
+                                <p class="mb-35" style="max-width: 560px; margin-left: auto; margin-right: auto; color: rgba(10, 17, 25, 0.7);">Book a free, no-pressure consultation and get a clear quote for your project — most authors hear back within one business day.</p>
+                                <div class="td-btn-group d-inline-flex">
+                                    <a class="td-btn-circle" href="contact">
+                                        <i class="fa-solid fa-arrow-right"></i>
                                     </a>
-                                </h2>
+                                    <a class="td-btn-2 td-btn-primary" href="contact">Book a Quick Call</a>
+                                    <a class="td-btn-circle" href="contact">
+                                        <i class="fa-solid fa-arrow-right"></i>
+                                    </a>
+                                </div>
                             </div>
                         </div>
                     </div>

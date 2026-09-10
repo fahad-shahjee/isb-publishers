@@ -11,11 +11,11 @@ require_once __DIR__ . '/../config.php';
     <title>Book Cover Design Services | ISB Ghostwriters</title>
     <meta name="description" content="Professional book cover design for eBooks, paperbacks, and hardcovers, including full print layouts with spine and back cover, tailored to your genre and audience.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="canonical" href="https://isbghostwriters.com/services-pages/book-cover-design.php">
+    <link rel="canonical" href="https://isbghostwriters.com/services-pages/book-cover-design">
     <meta property="og:type" content="website">
     <meta property="og:title" content="Book Cover Design Services | ISB Ghostwriters">
     <meta property="og:description" content="Professional book cover design for eBooks, paperbacks, and hardcovers, including full print layouts with spine and back cover, tailored to your genre and audience.">
-    <meta property="og:url" content="https://isbghostwriters.com/services-pages/book-cover-design.php">
+    <meta property="og:url" content="https://isbghostwriters.com/services-pages/book-cover-design">
     <meta property="og:image" content="https://isbghostwriters.com/assets/img/about/main/edit-abt.jpg">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Book Cover Design Services | ISB Ghostwriters">
@@ -46,6 +46,55 @@ require_once __DIR__ . '/../config.php';
     <link rel="stylesheet" href="<?= $BASE_URL ?>assets/css/defauls-spacing.min.css">
     <!--<< main.css >>-->
     <link rel="stylesheet" href="<?= $BASE_URL ?>assets/css/main.min.css">
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Can you design a cover for Amazon KDP?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we can design book covers suitable for Amazon KDP requirements. This includes eBook covers as well as full paperback or hardcover covers with front, back, and spine layout prepared according to the correct trim size and page count."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you design both front and back covers?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we can create a complete print cover, including the front cover, spine, and back cover. The back cover can include your book description, author bio, barcode space, reviews, or any other details needed for publishing."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can you redesign my existing book cover?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we can improve or fully redesign an existing cover if it does not look professional, does not match your genre, or is not attracting readers. We can keep the same idea or create a completely new visual direction."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Will the cover match my book genre?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we design with your genre and target audience in mind. A romance book, business book, children's book, memoir, or thriller all need a different visual approach, and we make sure your cover feels suitable for the market."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Will my cover be tested at thumbnail size before it's finalized?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — every cover concept is reviewed at actual Amazon thumbnail size, since that's how most readers will first see it."
+          }
+        }
+      ]
+    }
+    </script>
 </head>
 
 <body>
@@ -95,11 +144,11 @@ require_once __DIR__ . '/../config.php';
                                     <div class="td-about-main-text mt-30">
                                         <p class="mb-40">ISB Ghostwriters creates professional book covers that help authors make a powerful first impression. Our design team focuses on style, genre, audience, and market appeal to create covers that feel polished, creative, and publishing-ready. Whether you need an eBook cover, paperback cover, hardcover design, or full print layout with spine and back cover, we help your book stand out with confidence.</p>
                                         <div class="td-btn-group">
-                                            <a class="td-btn-circle" href="<?= $BASE_URL ?>contact.php">
+                                            <a class="td-btn-circle" href="<?= $BASE_URL ?>contact">
                                                 <i class="fa-solid fa-arrow-right"></i>
                                             </a>
-                                            <a class="td-btn-2 td-btn-primary" href="<?= $BASE_URL ?>contact.php">Contact Us</a>
-                                            <a class="td-btn-circle" href="<?= $BASE_URL ?>contact.php">
+                                            <a class="td-btn-2 td-btn-primary" href="<?= $BASE_URL ?>contact">Contact Us</a>
+                                            <a class="td-btn-circle" href="<?= $BASE_URL ?>contact">
                                                 <i class="fa-solid fa-arrow-right"></i>
                                             </a>
                                         </div>
@@ -115,7 +164,7 @@ require_once __DIR__ . '/../config.php';
                 <div class="td-contact-area td-contact-2-wrap pt-85 fix pb-50" style="padding-top: 0px;">
                     <div class="td-contact-7-text-slider">
                         <div class="td-contact-7-text-btn text-center pt-30">
-                            <a href="<?= $BASE_URL ?>contact.php">
+                            <a href="<?= $BASE_URL ?>contact">
                                 <img class="td-live-anim-spin" src="<?= $BASE_URL ?>assets/img/contact/text.png" alt="" loading="lazy">
                                 <span class="icon">
                                     <svg width="29" height="30" viewBox="0 0 29 30" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -205,13 +254,13 @@ require_once __DIR__ . '/../config.php';
                             <div class="col-lg-8">
                                 <div class="td-about-content mb-30">
                                     <h2 class="td-about-title mb-30 td-text-invert" style="font-size: 40px">Create a professional book cover that reflects your story, attracts attention, and gives your book the strong visual identity it deserves.</h2>
-                                    <p class="mb-45">A book cover is often the first thing a reader notices, so it needs to communicate quality, emotion, and purpose immediately. At ISB Publishers, we design covers that match your genre, speak to your audience, and represent the heart of your book. From typography and colour selection to layout, imagery, and final publishing files, we handle every detail with care and creativity.</p>
+                                    <p class="mb-45">A book cover is often the first thing a reader notices, so it needs to communicate quality, emotion, and purpose immediately. At ISB Ghostwriters, we design covers that match your genre, speak to your audience, and represent the heart of your book. From typography and colour selection to layout, imagery, and final publishing files, we handle every detail with care and creativity.</p>
                                     <div class="td-btn-group mb-35">
-                                        <a class="td-btn-circle" href="<?= $BASE_URL ?>about.php">
+                                        <a class="td-btn-circle" href="<?= $BASE_URL ?>about">
                                             <i class="fa-solid fa-arrow-right"></i>
                                         </a>
                                         <a class="td-btn-2 td-btn-primary" href="tel:(786) 949-4620">Free Consultation</a>
-                                        <a class="td-btn-circle" href="<?= $BASE_URL ?>about.php">
+                                        <a class="td-btn-circle" href="<?= $BASE_URL ?>about">
                                             <i class="fa-solid fa-arrow-right"></i>
                                         </a>
                                     </div>
@@ -288,6 +337,22 @@ require_once __DIR__ . '/../config.php';
                 </div>
                 <!-- td-service-process-area-end -->
 
+                <!-- td-service-highlight-area-start -->
+                <div class="td-about-area pt-80 pb-40">
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-8">
+                                <div class="td-service-process-title-wrap text-center mb-30">
+                                    <h2 class="td-testimonial-title td-text-invert" style="font-size: 40px; line-height: 1.3;">Cover Design Trends Readers Are
+                                        <span>Responding To in 2026</span></h2>
+                                </div>
+                                <p class="text-center">Amazon thumbnails are small, and most readers now scroll on mobile — which is why bold typography, high-contrast color, and a single clear focal image are outperforming busy, detail-heavy covers across most genres right now. Our designers build your cover to read clearly at thumbnail size first, then scale up for the full paperback and print layout.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- td-service-highlight-area-end -->
+
                  <!-- td-faq-2-area-start -->
                 <div class="td-faq-2-area pt-160">
                     <div class="container">
@@ -359,6 +424,21 @@ require_once __DIR__ . '/../config.php';
                                                  data-bs-parent="#accordionExample">
                                                  <div class="accordion-body">
                                                     <p>Yes, we design with your genre and target audience in mind. A romance book, business book, children’s book, memoir, or thriller all need a different visual approach, and we make sure your cover feels suitable for the market.</p>
+                                                 </div>
+                                              </div>
+                                           </div>
+                                           <div class="accordion-items">
+                                              <h2 class="accordion-header">
+                                                 <button class="accordion-buttons collapsed" type="button" data-bs-toggle="collapse"
+                                                    data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                                    Will my cover be tested at thumbnail size before it's finalized?
+                                                    <span class="plus-icon"></span>
+                                                 </button>
+                                              </h2>
+                                              <div id="collapseFive" class="accordion-collapse collapse"
+                                                 data-bs-parent="#accordionExample">
+                                                 <div class="accordion-body">
+                                                    <p>Yes — every cover concept is reviewed at actual Amazon thumbnail size, since that's how most readers will first see it.</p>
                                                  </div>
                                               </div>
                                            </div>

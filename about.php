@@ -7,17 +7,17 @@ require_once __DIR__ . '/config.php';
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>About Us - ISB Ghostwriters</title>
-    <meta name="description" content="Learn more about ISB Ghostwriters, our mission, and how we empower authors.">
-    <link rel="canonical" href="https://isbghostwriters.com/about.php">
+    <title>About ISB Ghostwriters | Ebook Ghostwriting & Publishing Team</title>
+    <meta name="description" content="Meet ISB Ghostwriters: a team of professional writers, editors, and publishing specialists who've helped 1,000+ independent authors turn ideas into published ebooks.">
+    <link rel="canonical" href="https://isbghostwriters.com/about">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="About Us - ISB Ghostwriters">
-    <meta property="og:description" content="Learn more about ISB Ghostwriters, our mission, and how we empower authors.">
-    <meta property="og:url" content="https://isbghostwriters.com/about.php">
+    <meta property="og:title" content="About ISB Ghostwriters | Ebook Ghostwriting & Publishing Team">
+    <meta property="og:description" content="Meet ISB Ghostwriters: a team of professional writers, editors, and publishing specialists who've helped 1,000+ independent authors turn ideas into published ebooks.">
+    <meta property="og:url" content="https://isbghostwriters.com/about">
     <meta property="og:image" content="https://isbghostwriters.com/assets/img/about/main/thumb.jpg">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="About Us - ISB Ghostwriters">
-    <meta name="twitter:description" content="Learn more about ISB Ghostwriters, our mission, and how we empower authors.">
+    <meta name="twitter:title" content="About ISB Ghostwriters | Ebook Ghostwriting & Publishing Team">
+    <meta name="twitter:description" content="Meet ISB Ghostwriters: a team of professional writers, editors, and publishing specialists who've helped 1,000+ independent authors turn ideas into published ebooks.">
     <meta name="twitter:image" content="https://isbghostwriters.com/assets/img/about/main/thumb.jpg">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -26,7 +26,7 @@ require_once __DIR__ . '/config.php';
         "@context": "https://schema.org",
         "@type": "ProfessionalService",
         "name": "ISB Ghostwriters",
-        "alternateName": "ISB Publishers",
+        "alternateName": "ISB Ghostwriters",
         "url": "https://isbghostwriters.com/",
         "logo": "https://isbghostwriters.com/assets/img/logo/logo-black.png",
         "image": "https://isbghostwriters.com/assets/img/about/main/thumb.jpg",
@@ -133,8 +133,8 @@ require_once __DIR__ . '/config.php';
                                                     <a class="td-btn-circle" href="contact.html">
                                                         <i class="fa-solid fa-arrow-right"></i>
                                                     </a>
-                                                    <a class="td-btn-2 td-btn-primary" href="contact.php">Contact Us</a>
-                                                    <a class="td-btn-circle" href="contact.php">
+                                                    <a class="td-btn-2 td-btn-primary" href="contact">Contact Us</a>
+                                                    <a class="td-btn-circle" href="contact">
                                                         <i class="fa-solid fa-arrow-right"></i>
                                                     </a>
                                                 </div>
@@ -147,6 +147,104 @@ require_once __DIR__ . '/config.php';
                     </div>
                 </div>
                 <!-- td-about-area-end -->
+
+                <!-- td-our-story-area-start -->
+                <div class="td-about-area pt-40 pb-40">
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-9 text-center">
+                                <div class="td-about-content mb-30 wow fadeInUp" data-wow-delay=".3s" data-wow-duration="1s">
+                                    <h2 class="td-testimonial-title mb-30 td-text-invert">Our <span>Story</span></h2>
+                                    <p class="mb-0">ISB Ghostwriters started with a simple observation: most people with a book in them will never write it — not because the idea isn't good, but because writing, editing, designing, and publishing a book is a full-time job most authors don't have time for. For more than 12 years, we've closed that gap for first-time and independent authors, pairing them with professional ghostwriters and publishing specialists who turn a rough idea, a stack of notes, or a half-finished manuscript into a finished, professionally published ebook.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- td-our-story-area-end -->
+
+                <!-- td-what-we-believe-area-start -->
+                <div class="td-service-process-area pt-40 pb-40">
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-8">
+                                <div class="td-service-process-title-wrap text-center mb-50">
+                                    <h2 class="td-testimonial-title td-text-invert">What We <span>Believe</span></h2>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row g-4 justify-content-center align-items-stretch">
+                            <div class="col-lg-4 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay=".3s" data-wow-duration="1s">
+                                <div class="td-service-process-item td-believe-item">
+                                    <span class="icons mb-60 d-flex align-items-start justify-content-between">
+                                        <img src="assets/img/service/servicesico/voiceselct.png" alt="Your Voice, Not Ours" width="64" height="64" loading="lazy">
+                                        <span class="number">01</span>
+                                    </span>
+                                    <h3 class="title mb-15">Your Voice, Not Ours</h3>
+                                    <p class="para">A ghostwriter's job is to disappear into your voice, not replace it. Every manuscript goes through rounds of review so the finished book sounds like you, because it will carry your name.</p>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay=".5s" data-wow-duration="1s">
+                                <div class="td-service-process-item td-believe-item">
+                                    <span class="icons mb-60 d-flex align-items-start justify-content-between">
+                                        <img src="assets/img/service/servicesico/finalrev.png" alt="Confidentiality Is Non-Negotiable" width="64" height="64" loading="lazy">
+                                        <span class="number">02</span>
+                                    </span>
+                                    <h3 class="title mb-15">Confidentiality Is Non-Negotiable</h3>
+                                    <p class="para">Every project starts with a signed NDA. Your ghostwriter, your topic, and your drafts stay private, always.</p>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay=".7s" data-wow-duration="1s">
+                                <div class="td-service-process-item td-believe-item">
+                                    <span class="icons mb-60 d-flex align-items-start justify-content-between">
+                                        <img src="assets/img/service/servicesico/editorial.png" alt="Real Writers, Real Accountability" width="64" height="64" loading="lazy">
+                                        <span class="number">03</span>
+                                    </span>
+                                    <h3 class="title mb-15">Real Writers, Real Accountability</h3>
+                                    <p class="para">No manuscript at ISB Ghostwriters is auto-generated. Every book is written and edited by a person, reviewed by a second editor, and checked against Amazon's content and originality guidelines before it ever reaches your inbox.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <style>
+                    .td-believe-item {
+                        height: 100%;
+                        display: flex;
+                        flex-direction: column;
+                        justify-content: center;
+                        margin-left: 0;
+                        transition: background 0.3s ease, border-color 0.3s ease;
+                    }
+                    .td-believe-item .icons {
+                        margin-bottom: 20px;
+                    }
+                    .td-believe-item .para {
+                        transition: color 0.3s ease;
+                    }
+                    .td-believe-item .title,
+                    .td-believe-item .number {
+                        transition: color 0.3s ease;
+                    }
+                    .td-believe-item:hover {
+                        background: var(--td-theme-secondary);
+                        border-color: var(--td-theme-secondary);
+                    }
+                    .td-believe-item:hover .title,
+                    .td-believe-item:hover .number {
+                        color: #ffffff;
+                    }
+                    .td-believe-item:hover .para {
+                        color: rgba(255, 255, 255, 0.85);
+                    }
+                    .td-believe-item .icons img {
+                        transition: filter 0.3s ease;
+                    }
+                    .td-believe-item:hover .icons img {
+                        filter: brightness(0) invert(1);
+                    }
+                </style>
+                <!-- td-what-we-believe-area-end -->
 
                 <!-- td-portfolio-area-start -->
                 <div class="td-portfolio-area pt-125">
@@ -417,6 +515,57 @@ require_once __DIR__ . '/config.php';
                 </div>
                 <!-- td-feature-area-end -->
 
+                <!-- td-counter-area-start -->
+                <div class="td-counter-area td-counter-2-wrap pt-80 pb-160" style="padding-bottom: 40px;">
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-12 text-center mb-30">
+                                <h2 class="td-testimonial-title td-text-invert">Our <span>Numbers</span></h2>
+                            </div>
+                        </div>
+                        <div class="row gx-0">
+                            <div class="col-xl-3 col-lg-6 col-md-6">
+                                <div class="td-counter-4-item p-relative">
+                                    <h2 class="title mb-135"><span class="odometer" data-count="1000">0</span>+</h2>
+                                    <div class="d-flex align-items-center justify-content-between">
+                                        <h5 class="position">01</h5>
+                                        <span class="para">Authors<br> Served</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-3 col-lg-6 col-md-6">
+                                <div class="td-counter-4-item p-relative">
+                                    <h2 class="title mb-135"><span class="odometer" data-count="12">0</span>+</h2>
+                                    <div class="d-flex align-items-center justify-content-between">
+                                        <h5 class="position">02</h5>
+                                        <span class="para">Years of<br> Publishing Experience</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-3 col-lg-6 col-md-6">
+                                <div class="td-counter-4-item p-relative">
+                                    <h2 class="title mb-135"><span class="odometer" data-count="9">0</span></h2>
+                                    <div class="d-flex align-items-center justify-content-between">
+                                        <h5 class="position">03</h5>
+                                        <span class="para">In-House<br> Service Lines</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-3 col-lg-6 col-md-6">
+                                <div class="td-counter-4-item p-relative">
+                                    <h2 class="title mb-135"><span class="odometer" data-count="100">0</span>%</h2>
+                                    <div class="d-flex align-items-center justify-content-between">
+                                        <h5 class="position">04</h5>
+                                        <span class="para">NDA-Protected <br> on Every Project</span>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                <!-- td-counter-area-end -->
+
                                 <!-- td-testimonial-area-start -->
                 <div class="td-testimonial-area grey-bg-2 pt-155 pb-120">
                     <div class="container">
@@ -425,7 +574,7 @@ require_once __DIR__ . '/config.php';
                                 <div class="td-testimonial-left mb-40  wow fadeInLeft" data-wow-delay=".5s" data-wow-duration="1s">
                                     <span class="td-section-subtitle mb-185 d-inline-block">CLIENTS FEEDBACK</span>
                                     <img class="mb-20" src="assets/img/testimonial/user.png" alt="" loading="lazy">
-                                    <p>More than 25k clients all<br>
+                                    <p>More than 1,000 authors all<br>
                                         over the world</p>
                                 </div>
                             </div>
@@ -434,8 +583,8 @@ require_once __DIR__ . '/config.php';
                                     <h2 class="td-testimonial-title mb-65 td-text-invert">What Our Clients<br> <span>Say About Us</span></h2>
                                     <div class="row  wow fadeInRight" data-wow-delay=".5s" data-wow-duration="1s">
                                         <div class="col-lg-4">
-                                            <div class="td-testimonial-thumb fix td-rounded-10 mb-40">
-                                                <img data-speed=".9" class="w-100 td-rounded-10" src="assets/img/testimonial/thumb.jpg" alt="Satisfied client sharing a testimonial about ISB Publishers" loading="lazy">
+                                            <div class="td-testimonial-thumb mb-40">
+                                                <img class="w-100 td-rounded-10" src="assets/img/testimonial/thumb.jpg" alt="Satisfied client sharing a testimonial about ISB Ghostwriters" loading="lazy">
                                             </div>
                                         </div>
                                         <div class="col-lg-8">
@@ -444,32 +593,32 @@ require_once __DIR__ . '/config.php';
                                                     <div class="swiper-wrapper">
                                                         <div class="swiper-slide">
                                                             <div class="td-testimonial-slide-content">
-                                                                <p class="mb-40">We are excited for our work and how it positively impacts clients.
-                                                                    With over 12 years of experience we have been constantly
-                                                                    providing solutions. We are committed to deliver unique
-                                                                    digital media solutions from web design</p>
-                                                                <h6>David Backhum</h6>
-                                                                <span>Designer</span>
+                                                                <p class="mb-40">I'd tried outlining my business book on my own for two years and
+                                                                    never got past chapter three. ISB Ghostwriters turned my notes and
+                                                                    interviews into a finished manuscript I'm genuinely proud to put my
+                                                                    name on.</p>
+                                                                <h6>Marcus Thompson</h6>
+                                                                <span>Business Book Author</span>
                                                             </div>
                                                         </div>
                                                         <div class="swiper-slide">
                                                             <div class="td-testimonial-slide-content">
-                                                                <p class="mb-40">We are excited for our work and how it positively impacts clients.
-                                                                    With over 12 years of experience we have been constantly
-                                                                    providing solutions. We are committed to deliver unique
-                                                                    digital media solutions from web design</p>
-                                                                <h6>David Backhum</h6>
-                                                                <span>Designer</span>
+                                                                <p class="mb-40">Writing about my own life was harder than I expected, but my
+                                                                    ghostwriter handled the difficult chapters with real care and never
+                                                                    lost my voice along the way. The finished memoir reads exactly like
+                                                                    me, just clearer.</p>
+                                                                <h6>Elena Ruiz</h6>
+                                                                <span>Memoirist</span>
                                                             </div>
                                                         </div>
                                                         <div class="swiper-slide">
                                                             <div class="td-testimonial-slide-content">
-                                                                <p class="mb-40">We are excited for our work and how it positively impacts clients.
-                                                                    With over 12 years of experience we have been constantly
-                                                                    providing solutions. We are committed to deliver unique
-                                                                    digital media solutions from web design</p>
-                                                                <h6>David Backhum</h6>
-                                                                <span>Designer</span>
+                                                                <p class="mb-40">The illustrator ISB Ghostwriters matched me with brought my
+                                                                    characters to life exactly the way I pictured them. My kids' book
+                                                                    went from a napkin sketch to a fully illustrated, published story
+                                                                    in a few months.</p>
+                                                                <h6>Priya Nair</h6>
+                                                                <span>Children's Book Author</span>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -544,7 +693,8 @@ require_once __DIR__ . '/config.php';
                         <div class="row">
                             <div class="col-xl-9">
                                 <div class="td-about-main-feature-wrap">
-                                    <h2 class="td-about-main-feature-title mb-70 td-text-invert" style="line-height: 60px;">We are a ghostwriting studio dedicated to crafting books that reflect your voice and captivate readers worldwide.</h2>
+                                    <h2 class="td-about-main-feature-title mb-30 td-text-invert" style="line-height: 60px;">What <span>We Do</span></h2>
+                                    <p class="mb-40" style="max-width: 700px;">From first draft to launch day, our team covers every stage of publishing an ebook: ghostwriting and manuscript development, proofreading and line editing, book formatting for Kindle and print, cover design and custom illustration, Amazon KDP and multi-platform publishing, launch marketing, author website design, and audiobook production.</p>
                                     <div class="row">
                                         <div class="col-lg-5 d-none d-md-block">
                                             <div class="td-about-main-feature-shape text-center ml-70 mb-40">
@@ -577,16 +727,20 @@ require_once __DIR__ . '/config.php';
                 <div class="td-cta-area">
                     <div class="container">
                         <div class="col-lg-12">
-                            <div class="td-cta-wrap p-relative z-index-1 text-center pt-135 pb-135 include-bg" data-background="assets/img/cta/bg.jpg">
+                            <div class="td-cta-wrap p-relative z-index-1 text-center pt-100 pb-100 include-bg" data-background="assets/img/cta/bg.jpg">
                                 <img class="td-cta-shape d-none d-xl-block" src="assets/img/cta/cta.png" alt="" loading="lazy">
-                                <h2 class="title p-relative d-inline-block">
-                                    <img class="td-cta-shape-2 d-none d-md-block" src="assets/img/cta/cta-2.png" alt="" loading="lazy">
-                                    <a class="td-text-invert" href="contact.php">
-                                        HAVE A<br>
-                                        PROJECTS<br>
-                                        IN MINDS
+                                <img class="td-cta-shape-2 d-none d-md-block" src="assets/img/cta/cta-2.png" alt="" loading="lazy">
+                                <h2 class="td-testimonial-title td-text-invert mb-20" style="font-size: 60px; line-height: 1.2;">Have a <span style="font-size: 90px;">Book in Mind?</span></h2>
+                                <p class="mb-35" style="max-width: 560px; margin-left: auto; margin-right: auto; color: rgba(10, 17, 25, 0.7);">Tell us about your idea and we'll walk you through exactly how we'd bring it to life — no obligation, no pressure.</p>
+                                <div class="td-btn-group d-inline-flex">
+                                    <a class="td-btn-circle" href="contact">
+                                        <i class="fa-solid fa-arrow-right"></i>
                                     </a>
-                                </h2>
+                                    <a class="td-btn-2 td-btn-primary" href="contact">Book a Free Consultation</a>
+                                    <a class="td-btn-circle" href="contact">
+                                        <i class="fa-solid fa-arrow-right"></i>
+                                    </a>
+                                </div>
                             </div>
                         </div>
                     </div>
