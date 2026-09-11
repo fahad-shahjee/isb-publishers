@@ -75,6 +75,11 @@ require_once __DIR__ . '/config.php';
     <link rel="stylesheet" href="assets/css/main.min.css">
 
     <style>
+        @media (max-width: 991.98px) {
+            .td-service-2-img-wrapper {
+                display: none !important;
+            }
+        }
         @media (min-width: 992px) {
             .td-service-2-img-wrapper {
                 position: sticky;
@@ -163,7 +168,7 @@ require_once __DIR__ . '/config.php';
                                         <!-- <img class="td-hero-3-shape" src="assets/img/hero/hero-3/icon.png" alt=""> -->
                                         <div class="row align-items-center">
                                             <!-- HTML: wrap the main column content with the tel: anchor -->
-                                            <div class="col-xxl-2 col-xl-2 col-lg-3">
+                                            <div class="col-xxl-2 col-xl-2 col-lg-3 td-hero-3-col-icon">
                                                 <a class="call-link" href="tel:+17869494620" aria-label="Call (786) 949-4620" onclick="window.location.href='tel:+17869494620'">
                                                     <div class="p-relative mb-30 d-inline-block">
                                                         <img class="likes" src="assets/img/hero/hero-3/like.png" alt="Call (786) 949-4620" loading="lazy">
@@ -172,7 +177,7 @@ require_once __DIR__ . '/config.php';
                                                 </a>
                                             </div>
 
-                                            <div class="col-xxl-6 col-xl-5 col-lg-4">
+                                            <div class="col-xxl-6 col-xl-5 col-lg-4 td-hero-3-col-btn">
                                                 <div class="td-hero-3-border mb-30 d-block"></div>
                                                 <div class="td-hero-3-btn-wrap wow fadeInUp" data-wow-delay=".5s" data-wow-duration="1s">
                                                     <div class="td-btn-group d-inline-flex mb-15">
@@ -186,12 +191,54 @@ require_once __DIR__ . '/config.php';
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="col-xxl-4 col-xl-5 col-lg-5">
+                                            <div class="col-xxl-4 col-xl-5 col-lg-5 td-hero-3-col-para">
                                                 <div class="td-hero-3-content-para mb-30">
                                                     <p style="color:white;">ISB Ghostwriters helps first-time and independent authors turn an idea, a voice memo, or a half-finished manuscript into a professionally ghostwritten ebook — ready for Amazon KDP, Kindle, and print, with your name on the cover and full rights in your hands.</p>
                                                 </div>
                                             </div>
                                         </div>
+                                        <style>
+                                            @media (max-width: 991.98px) {
+                                                .td-hero-3-content .row.align-items-center {
+                                                    display: flex;
+                                                    flex-wrap: wrap;
+                                                }
+                                                .td-hero-3-col-para,
+                                                .td-hero-3-col-icon,
+                                                .td-hero-3-col-btn {
+                                                    flex: 0 0 100%;
+                                                    max-width: 100%;
+                                                    width: 100%;
+                                                }
+                                                .td-hero-3-col-para {
+                                                    order: 1;
+                                                }
+                                                .td-hero-3-col-icon {
+                                                    order: 2;
+                                                    text-align: center;
+                                                }
+                                                .td-hero-3-col-btn {
+                                                    order: 3;
+                                                }
+                                                .td-hero-3-border {
+                                                    display: none !important;
+                                                }
+                                                .td-hero-3-btn-wrap {
+                                                    display: none !important;
+                                                }
+                                                .td-hero-3-content-para p {
+                                                    font-size: 15px !important;
+                                                    line-height: 22px !important;
+                                                    text-align: center;
+                                                }
+                                                .td-hero-3-title-wrap {
+                                                    padding: 0;
+                                                }
+                                                .td-hero-3-content.pt-100 {
+                                                    padding-top: 20px !important;
+                                                }
+                                            }
+                                        </style>
                                     </div>
                                 </div>
                             </div>
@@ -214,9 +261,9 @@ require_once __DIR__ . '/config.php';
                             </div>
                             <div class="col-lg-8">
                                 <div class="td-about-content mb-30">
-                                    <h2 class="td-about-title mb-30 td-text-invert" style="font-size: 40px">Start your journey with ISB Ghostwriters where expert guidance and creative support lead to publishing success.</h2>
-                                    <p class="mb-45">Whether you're starting fresh, polishing a draft, illustrating a children's book, self-publishing on Amazon, or building a marketing plan — ISB Ghostwriters provides expert book writing and publishing services to support you at every step. Turn your vision into a bestseller with our dedicated team.</p>
-                                    <div class="td-btn-group mb-35">
+                                    <h2 class="td-about-title mb-30 td-text-invert td-about-journey-title" style="font-size: 40px">Start your journey with ISB Ghostwriters where expert guidance and creative support lead to publishing success.</h2>
+                                    <p class="mb-45 td-about-journey-para">Whether you're starting fresh, polishing a draft, illustrating a children's book, self-publishing on Amazon, or building a marketing plan — ISB Ghostwriters provides expert book writing and publishing services to support you at every step. Turn your vision into a bestseller with our dedicated team.</p>
+                                    <div class="td-btn-group mb-35 td-journey-btn-group">
                                         <a class="td-btn-circle" href="about">
                                             <i class="fa-solid fa-arrow-right"></i>
                                         </a>
@@ -239,6 +286,37 @@ require_once __DIR__ . '/config.php';
                     </div>
                 </div>
                 <!-- td-about-area-end -->
+                <style>
+                    @media (max-width: 991.98px) {
+                        .td-about-left-thumb {
+                            height: 260px;
+                            overflow: hidden;
+                        }
+                        .td-about-left-thumb img {
+                            width: 100%;
+                            height: 100%;
+                            object-fit: cover;
+                            object-position: center 30%;
+                        }
+                        .td-about-journey-title {
+                            font-size: 25px !important;
+                            line-height: 1.4 !important;
+                        }
+                        .td-about-journey-para {
+                            font-size: 15px !important;
+                            line-height: 22px !important;
+                        }
+                        .td-journey-btn-group .td-btn-2 {
+                            padding: 14px 24px;
+                            font-size: 13px;
+                        }
+                        .td-journey-btn-group .td-btn-circle {
+                            width: 40px;
+                            height: 40px;
+                            font-size: 13px;
+                        }
+                    }
+                </style>
 
                 <!-- td-counter-area-start -->
                 <div class="td-counter-area td-counter-2-wrap pt-10 pb-160" style="padding-bottom: 40px;">
@@ -284,6 +362,14 @@ require_once __DIR__ . '/config.php';
                     </div>
                 </div>
                 <!-- td-counter-area-end -->
+                <style>
+                    @media (max-width: 991.98px) {
+                        .td-counter-2-wrap .td-counter-4-item .title {
+                            font-size: 32px !important;
+                            margin-bottom: 50px !important;
+                        }
+                    }
+                </style>
 
                 <!-- td-why-choose-area-start -->
                 <div class="td-service-process-area pt-80 pb-40">
@@ -1017,7 +1103,7 @@ require_once __DIR__ . '/config.php';
                 <!-- td-brands-area-end -->
 
                 <!-- td-about-area-start -->
-                <div class="td-about-area td-about-main-spacing pb-140">
+                <div class="td-about-area td-about-main-spacing pb-140 td-journey-section">
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-5">
@@ -1030,16 +1116,16 @@ require_once __DIR__ . '/config.php';
                                     <h3 class="td-about-main-title mb-20">We turn your story ideas into published success.</h3>
                                     <div class="row">
                                         <div class="col-lg-5 col-md-5">
-                                            <div class="td-about-main-bigtext">
-                                                <h2>1k<span style="font-size: 80px;">+</span></h2>
-                                                <span>Authors Trust Us</span>
+                                            <div class="td-about-main-bigtext td-journey-bigtext">
+                                                <h2>1,000<span style="font-size: 80px;">+</span></h2>
+                                                <span>Authors Served</span>
                                             </div>
                                         </div>
                                         <div class="col-lg-7 col-md-7">
                                             <div class="td-about-main-text mt-30">
                                                 <p class="mb-30">Unlock your writing potential with ISB Ghostwriters. Our expert team transforms your ideas into captivating books through powerful storytelling, creativity, and originality that bring your vision to life.</p>
                                                 <div class="td-btn-group">
-                                                    <a class="td-btn-circle" href="contact.html">
+                                                    <a class="td-btn-circle" href="contact">
                                                         <i class="fa-solid fa-arrow-right"></i>
                                                     </a>
                                                     <a class="td-btn-2 td-btn-primary" href="contact">Contact Us</a>
@@ -1063,8 +1149,7 @@ require_once __DIR__ . '/config.php';
                         <div class="row">
                             <div class="col-12">
                                 <div class="td-service-title-wrap pb-10">
-                                    <h2 class="td-section-title mb-0 td-text-invert">How It</h2>
-                                    <h3 class="td-section-title-capi td-text-invert">Works</h3>
+                                    <h2 class="td-testimonial-title td-text-invert mb-0">How It <span>Works</span></h2>
                                 </div>
                             </div>
                         </div>
@@ -1160,9 +1245,101 @@ require_once __DIR__ . '/config.php';
                     </div>
                 </div>
                 <!-- td-process-area-end -->
+                <style>
+                    @media (max-width: 991.98px) {
+                        .td-journey-bigtext h2 {
+                            font-size: 70px;
+                        }
+                        .td-journey-section.pb-140 {
+                            padding-bottom: 40px !important;
+                        }
+                        .td-testimonial-mobile.pt-155 {
+                            padding-top: 40px !important;
+                        }
+                        .td-testimonial-mobile {
+                            padding-bottom: 20px !important;
+                        }
+                        .td-what-we-do-section {
+                            padding-top: 20px !important;
+                        }
+                        .td-what-we-do-title {
+                            font-size: 25px !important;
+                            line-height: 40px !important;
+                        }
+                        .td-closing-cta.pt-100 {
+                            padding-top: 50px !important;
+                        }
+                        .td-closing-cta.pb-100 {
+                            padding-bottom: 50px !important;
+                        }
+                        .td-closing-cta-title {
+                            font-size: 26px !important;
+                            line-height: 1.3 !important;
+                        }
+                        .td-closing-cta-title span {
+                            font-size: 32px !important;
+                        }
+                        .td-closing-cta-para {
+                            font-size: 15px !important;
+                            line-height: 22px !important;
+                            padding-left: 20px;
+                            padding-right: 20px;
+                        }
+                        .td-closing-cta-btn .td-btn-2 {
+                            padding: 14px 24px;
+                            font-size: 13px;
+                        }
+                        .td-closing-cta-btn .td-btn-circle {
+                            width: 40px;
+                            height: 40px;
+                            font-size: 13px;
+                        }
+                        .td-process-thumb {
+                            height: 220px;
+                            overflow: hidden;
+                            padding-top: 0 !important;
+                            padding-bottom: 0 !important;
+                            margin-bottom: 30px;
+                        }
+                        .td-process-area.pb-160 {
+                            padding-bottom: 40px !important;
+                        }
+                        .td-trending-area.pt-80 {
+                            padding-top: 20px !important;
+                        }
+                        .td-process-thumb img {
+                            width: 100%;
+                            height: 100%;
+                            object-fit: cover;
+                        }
+                        .td-process-count span {
+                            font-size: 24px !important;
+                        }
+                        .td-process-title h3 {
+                            font-size: 34px !important;
+                        }
+                        .td-process-title h3 br {
+                            display: none;
+                        }
+                        .td-process-border .row {
+                            align-items: flex-start;
+                        }
+                        .td-process-border .row > div {
+                            flex: 0 0 100%;
+                            max-width: 100%;
+                            width: 100%;
+                        }
+                        .td-process-count {
+                            padding-bottom: 4px;
+                        }
+                        .td-process-title {
+                            padding-bottom: 10px;
+                        }
+                    }
+                </style>
 
                 <!-- td-trending-area-start -->
-                <div class="td-about-area td-about-main-spacing pt-80 pb-40">
+                <div class="td-about-area td-about-main-spacing pt-80 pb-40 td-trending-area">
                     <div class="container">
                         <div class="row align-items-center">
                             <div class="col-lg-5">
@@ -1193,7 +1370,7 @@ require_once __DIR__ . '/config.php';
                 <!-- td-trending-area-end -->
 
                 <!-- td-testimonial-area-start -->
-                <div class="td-testimonial-area grey-bg-2 pt-155 pb-120" style="padding-bottom: 50px; margin-top: -7px;">
+                <div class="td-testimonial-area grey-bg-2 pt-155 pb-120 td-testimonial-mobile" style="padding-bottom: 50px; margin-top: -7px;">
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-3 col-md-4">
@@ -1310,12 +1487,12 @@ require_once __DIR__ . '/config.php';
                 <!-- td-testimonial-area-end -->
 
                 <!-- td-about-main-feature-area-start -->
-                <div class="td-about-main-feature-area pt-150 pb-165" style="padding-bottom: 50px; padding-top:100px;">
+                <div class="td-about-main-feature-area pt-150 pb-165 td-what-we-do-section" style="padding-bottom: 50px; padding-top:100px;">
                     <div class="container">
                         <div class="row">
                             <div class="col-xl-9">
                                 <div class="td-about-main-feature-wrap">
-                                    <h2 class="td-about-main-feature-title mb-70 td-text-invert" style="line-height: 60px;">We are a ghostwriting studio dedicated to crafting books that reflect your voice and captivate readers worldwide.</h2>
+                                    <h2 class="td-about-main-feature-title mb-70 td-text-invert td-what-we-do-title" style="line-height: 60px;">We are a ghostwriting studio dedicated to crafting books that reflect your voice and captivate readers worldwide.</h2>
                                     <div class="row">
                                         <div class="col-lg-5 d-none d-md-block">
                                             <div class="td-about-main-feature-shape text-center ml-70 mb-40">
@@ -1348,12 +1525,12 @@ require_once __DIR__ . '/config.php';
                 <div class="td-cta-area">
                     <div class="container">
                         <div class="col-lg-12">
-                            <div class="td-cta-wrap p-relative z-index-1 text-center pt-100 pb-100 include-bg" data-background="assets/img/cta/bg.jpg">
+                            <div class="td-cta-wrap p-relative z-index-1 text-center pt-100 pb-100 include-bg td-closing-cta" data-background="assets/img/cta/bg.jpg">
                                 <img class="td-cta-shape d-none d-xl-block" src="assets/img/cta/cta.png" alt="" loading="lazy">
                                 <img class="td-cta-shape-2 d-none d-md-block" src="assets/img/cta/cta-2.png" alt="" loading="lazy">
-                                <h2 class="td-testimonial-title td-text-invert mb-20" style="font-size: 60px; line-height: 1.2;">Ready to See Your <span style="font-size: 90px;">Book in Print?</span></h2>
-                                <p class="mb-35" style="max-width: 560px; margin-left: auto; margin-right: auto; color: rgba(10, 17, 25, 0.7);">Book a free, no-pressure consultation and get a clear quote for your project — most authors hear back within one business day.</p>
-                                <div class="td-btn-group d-inline-flex">
+                                <h2 class="td-testimonial-title td-text-invert mb-20 td-closing-cta-title" style="font-size: 60px; line-height: 1.2;">Ready to See Your <span style="font-size: 90px;">Book in Print?</span></h2>
+                                <p class="mb-35 td-closing-cta-para" style="max-width: 560px; margin-left: auto; margin-right: auto; color: rgba(10, 17, 25, 0.7);">Book a free, no-pressure consultation and get a clear quote for your project — most authors hear back within one business day.</p>
+                                <div class="td-btn-group d-inline-flex td-closing-cta-btn">
                                     <a class="td-btn-circle" href="contact">
                                         <i class="fa-solid fa-arrow-right"></i>
                                     </a>

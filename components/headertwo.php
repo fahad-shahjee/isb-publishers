@@ -9,7 +9,7 @@ require_once __DIR__ . '/../config.php';
     <div id="header-sticky" class="td-header__area td-header-sticky-white td-header-spacing td-header-2-wrapper td-header-3-wrapper p-relative z-index-1">
         <div class="container">
             <div class="row align-items-center">
-                <div class="col-xl-2 col-4">
+                <div class="col-xl-2 col-7">
                     <div class="logo">
                         <a class="logo-1" href="<?= $BASE_URL ?>">
                             <img data-width="220" src="<?= $BASE_URL ?>assets/img/logo/ghost-logo.png" alt="Logo">
@@ -48,7 +48,7 @@ require_once __DIR__ . '/../config.php';
                         </nav>
                     </div>
                 </div>
-                <div class="col-xl-3 col-8">
+                <div class="col-xl-3 col-5">
                     <div class="td-header-right text-end">
                         <div class="d-none d-xl-inline-block">
                             <a href="javascript:void(0);"
@@ -78,13 +78,30 @@ require_once __DIR__ . '/../config.php';
         </div>
     </div>
 
+    <style>
+        @media (max-width: 1199.98px) {
+            .logo img {
+                width: 185px !important;
+            }
+            .td-header-sticky-white:not(.header-sticky) .tdmenu-offcanvas-open-btn {
+                border-color: rgba(255, 255, 255, 0.35);
+            }
+            .td-header-sticky-white:not(.header-sticky) .tdmenu-offcanvas-open-btn .text {
+                color: var(--td-common-white);
+            }
+            .td-header-sticky-white:not(.header-sticky) .tdmenu-offcanvas-open-bar span {
+                background-color: var(--td-common-white);
+            }
+        }
+    </style>
+
     <!-- Mobile Menu -->
     <div class="tdmobile__menu td-menu-large">
         <nav class="tdmobile__menu-box">
             <div class="close-btn"><i class="fa-solid fa-xmark"></i></div>
             <div class="nav-logo">
                 <a href="<?= $BASE_URL ?>">
-                    <img data-width="96" src="<?= $BASE_URL ?>assets/img/logo/ghost-logo1.png" alt="logo">
+                    <img data-width="150" src="<?= $BASE_URL ?>assets/img/logo/ghost-logo1.png" alt="logo">
                 </a>
             </div>
             <div class="tdmobile__menu-outer">
